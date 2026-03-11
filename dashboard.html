@@ -54,8 +54,6 @@ th{background:#f0f5fb;padding:7px 10px;text-align:left;color:#555;font-weight:70
 td{padding:6px 10px;border-bottom:1px solid #f2f2f2;vertical-align:top;}
 tr:last-child td{border-bottom:none;}
 tr:hover td{background:#f8fbff;}
-td.risk-高{color:#c0392b;font-weight:700;}
-td.risk-中{color:#856404;font-weight:700;}
 .nodata{text-align:center;color:#bbb;padding:20px;}
 
 /* ── map ── */
@@ -78,9 +76,6 @@ td.risk-中{color:#856404;font-weight:700;}
 .pitem{border:1px solid #ddeeff;border-radius:6px;padding:10px;margin-bottom:9px;background:#fafcff;}
 .pitem-hd{display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;}
 .pdate{font-size:11px;color:#999;}
-.rbadge{font-size:11px;padding:2px 9px;border-radius:12px;font-weight:700;white-space:nowrap;}
-.r高{background:#fde8e8;color:#c0392b;}
-.r中{background:#fef3cd;color:#856404;}
 .porg{font-size:11px;color:#555;margin-bottom:5px;}
 .psum{font-size:12px;color:#333;line-height:1.6;}
 .purl{margin-top:6px;font-size:11px;}
@@ -137,7 +132,7 @@ td.risk-中{color:#856404;font-weight:700;}
       <table id="tbl">
         <thead><tr>
           <th>発出日</th><th>発出機関</th>
-          <th style="min-width:200px">概要</th><th>渡航歴</th><th>リスク</th><th>元情報URL</th>
+          <th style="min-width:200px">概要</th><th>渡航歴</th><th>元情報URL</th>
         </tr></thead>
         <tbody id="tbody"></tbody>
       </table>
@@ -155,7 +150,6 @@ const ALL_DATA = [
     "発出日": "2015-03-27",
     "発出機関": "千葉市",
     "概要": "千葉市で患者に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.chiba.jp/hokenfukushi/iryoeisei/kenkokikikanri/mashin.html"
   },
   {
@@ -163,7 +157,6 @@ const ALL_DATA = [
     "発出日": "2021-12-10",
     "発出機関": "愛知県",
     "概要": "愛知県で患者に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/400871.pdf"
   },
   {
@@ -171,7 +164,6 @@ const ALL_DATA = [
     "発出日": "2023-06-22",
     "発出機関": "山形県",
     "概要": "山形県にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.yamagata.jp/090001/kenfuku/kansensyou/mashin.html"
   },
   {
@@ -179,7 +171,6 @@ const ALL_DATA = [
     "発出日": "2023-06-29",
     "発出機関": "愛知県",
     "概要": "愛知県で30代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/503505.pdf"
   },
   {
@@ -187,7 +178,6 @@ const ALL_DATA = [
     "発出日": "2023-07-21",
     "発出機関": "船橋市",
     "概要": "船橋市で患者に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.funabashi.lg.jp/kenkou/kansenshou/001/p019331.html"
   },
   {
@@ -195,7 +185,6 @@ const ALL_DATA = [
     "発出日": "2024-03-21",
     "発出機関": "岡山県",
     "概要": "岡山県にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.okayama.jp/page/555556.html"
   },
   {
@@ -203,7 +192,6 @@ const ALL_DATA = [
     "発出日": "2024-04-01",
     "発出機関": "大和高田市",
     "概要": "大和高田市で患者に麻しん発生。感染可能期間中に第1期：生後12か月～24か月未満第2期：小学校就学1年前の4月1日～就学年の3月31日(年長児)を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.yamatotakada.nara.jp/soshikikarasagasu/kenkozoshinka/iryo_kenko/4/kodomo/7750.html"
   },
   {
@@ -211,7 +199,6 @@ const ALL_DATA = [
     "発出日": "2024-09-20",
     "発出機関": "鳥取県",
     "概要": "鳥取県で患者に麻しん発生。感染可能期間中にーを利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.tottori.lg.jp/219718.htm"
   },
   {
@@ -219,7 +206,6 @@ const ALL_DATA = [
     "発出日": "2024-11-26",
     "発出機関": "船橋市",
     "概要": "船橋市で患者に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.funabashi.lg.jp/kenkou/kansenshou/001/mashin2024.html"
   },
   {
@@ -227,7 +213,6 @@ const ALL_DATA = [
     "発出日": "2025-01-24",
     "発出機関": "滋賀県",
     "概要": "滋賀県にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.shiga.lg.jp/kensei/koho/e-shinbun/oshirase/341778.html"
   },
   {
@@ -235,7 +220,6 @@ const ALL_DATA = [
     "発出日": "2025-02-23",
     "発出機関": "愛知県",
     "概要": "愛知県で20代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/550837.pdf"
   },
   {
@@ -243,7 +227,6 @@ const ALL_DATA = [
     "発出日": "2025-03-21",
     "発出機関": "愛知県",
     "概要": "愛知県で20代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/558928.pdf"
   },
   {
@@ -251,7 +234,6 @@ const ALL_DATA = [
     "発出日": "2025-03-29",
     "発出機関": "愛知県",
     "概要": "愛知県で患者に麻しん発生。感染可能期間中に西松屋アクロスプラザ扶桑店を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/562655.pdf"
   },
   {
@@ -259,7 +241,6 @@ const ALL_DATA = [
     "発出日": "2025-04-08",
     "発出機関": "愛知県",
     "概要": "愛知県で20代に麻しん発生。感染可能期間中にラウンドワンスタジアム半田店を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/564203.pdf"
   },
   {
@@ -267,7 +248,6 @@ const ALL_DATA = [
     "発出日": "2025-04-21",
     "発出機関": "新潟市",
     "概要": "新潟市にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.niigata.lg.jp/iryo/kenko/yobou_kansen/kansen/masinnzyouhou/hokenkanri20230531.html"
   },
   {
@@ -275,7 +255,6 @@ const ALL_DATA = [
     "発出日": "2025-05-26",
     "発出機関": "愛知県",
     "概要": "愛知県で40代に麻しん発生。感染可能期間中に医療機関Ｂ（日進市）を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/569609.pdf"
   },
   {
@@ -283,7 +262,6 @@ const ALL_DATA = [
     "発出日": "2025-06-11",
     "発出機関": "富山市",
     "概要": "富山市で10代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.toyama.lg.jp/health/kenshin/1010470/1004094.html"
   },
   {
@@ -291,7 +269,6 @@ const ALL_DATA = [
     "発出日": "2025-06-11",
     "発出機関": "富山市",
     "概要": "富山市で50代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.toyama.lg.jp/health/kenshin/1010470/1004095.html"
   },
   {
@@ -299,7 +276,6 @@ const ALL_DATA = [
     "発出日": "2025-06-12",
     "発出機関": "藤沢市",
     "概要": "藤沢市で20代に麻しん発生。感染可能期間中にマカロニ市場　藤沢店を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.fujisawa.kanagawa.jp/hokenyobo/press/2025mashin.html"
   },
   {
@@ -307,7 +283,6 @@ const ALL_DATA = [
     "発出日": "2025-06-17",
     "発出機関": "藤沢市",
     "概要": "藤沢市で患者に麻しん発生。感染可能期間中にウエルシア藤沢市民病院前店を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.fujisawa.kanagawa.jp/hokenyobo/press/2025-2mashin.html"
   },
   {
@@ -315,7 +290,6 @@ const ALL_DATA = [
     "発出日": "2025-06-19",
     "発出機関": "藤沢市",
     "概要": "藤沢市で30代に麻しん発生。感染可能期間中にスーパー三和藤沢橋店を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.fujisawa.kanagawa.jp/hokenyobo/press/2025-3mashin.html"
   },
   {
@@ -323,7 +297,6 @@ const ALL_DATA = [
     "発出日": "2025-06-23",
     "発出機関": "藤沢市",
     "概要": "藤沢市にて麻しんに関するプレスリリースが発出。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.fujisawa.kanagawa.jp/hokenyobo/press/2025-4mashin.html"
   },
   {
@@ -331,7 +304,6 @@ const ALL_DATA = [
     "発出日": "2025-07-01",
     "発出機関": "藤沢市",
     "概要": "藤沢市で30代に麻しん発生。感染可能期間中に6月26日（木曜日）を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.fujisawa.kanagawa.jp/hokenyobo/press/2025-5mashin.html"
   },
   {
@@ -339,7 +311,6 @@ const ALL_DATA = [
     "発出日": "2025-07-14",
     "発出機関": "秋田県",
     "概要": "秋田県で患者に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.akita.lg.jp/pages/archive/5297"
   },
   {
@@ -347,7 +318,6 @@ const ALL_DATA = [
     "発出日": "2025-08-06",
     "発出機関": "滋賀県",
     "概要": "滋賀県にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.shiga.lg.jp/kensei/koho/e-shinbun/oshirase/345612.html"
   },
   {
@@ -355,7 +325,6 @@ const ALL_DATA = [
     "発出日": "2025-09-25",
     "発出機関": "吹田市",
     "概要": "吹田市にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.suita.osaka.jp/kenko/1018600/1018623/1023375/1027966.html"
   },
   {
@@ -363,7 +332,6 @@ const ALL_DATA = [
     "発出日": "2025-11-13",
     "発出機関": "愛知県",
     "概要": "愛知県で患者に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/589829.pdf"
   },
   {
@@ -371,7 +339,6 @@ const ALL_DATA = [
     "発出日": "2025-12-08",
     "発出機関": "愛知県",
     "概要": "愛知県で20代に麻しん発生。感染可能期間中に商業施設Ｄ（名古屋市中区）を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/592060.pdf"
   },
   {
@@ -379,7 +346,6 @@ const ALL_DATA = [
     "発出日": "2026-01-05",
     "発出機関": "東京都保健医療局 感染症対策部防疫課",
     "概要": "2025年12月26日に都内で麻しん患者（検査診断例）が発生。感染可能期間中にリムジンバスおよびスーパービバホーム豊洲店を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.metro.tokyo.lg.jp/information/press/2026/01/2026010504"
   },
   {
@@ -387,7 +353,6 @@ const ALL_DATA = [
     "発出日": "2026-01-16",
     "発出機関": "埼玉県 保健医療部 感染症対策課",
     "概要": "埼玉県内で40代男性に麻しん発生（予防接種歴なし）。症状は咳嗽・悪寒・結膜充血・発熱。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.saitama.lg.jp/a0710/news/page/news20260120.html"
   },
   {
@@ -395,7 +360,6 @@ const ALL_DATA = [
     "発出日": "2026-01-16",
     "発出機関": "広島市",
     "概要": "広島市で30代に麻しん発生。感染可能期間中に広島電鉄の（6号線（広島駅方面行）又は8号線（横川駅方面行）～土橋乗換～2号線（広電宮島口方面行））を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.hiroshima.lg.jp/shisei/kouhou/1004010/1045546/1045551/1047320.html"
   },
   {
@@ -403,7 +367,6 @@ const ALL_DATA = [
     "発出日": "2026-01-17",
     "発出機関": "上越市",
     "概要": "上越市で40代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.joetsu.niigata.jp/soshiki/kenkou/hashika-kanja.html"
   },
   {
@@ -411,7 +374,6 @@ const ALL_DATA = [
     "発出日": "2026-01-19",
     "発出機関": "茨城県",
     "概要": "茨城県で40代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.ibaraki.jp/hokenfukushi/yobo/kiki/yobo/kansen/idwr/press/documents/260119_shiiryouteikyou.pdf"
   },
   {
@@ -419,7 +381,6 @@ const ALL_DATA = [
     "発出日": "2026-01-23",
     "発出機関": "千葉県 健康福祉部 疾病対策課",
     "概要": "千葉県内で麻しん患者が発生。感染可能期間（1月12日以降）に不特定多数が利用する施設等を利用しており、接触者の特定が困難なため広く情報提供。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.chiba.lg.jp/shippei/press/2025/documents/modify260123press.pdf"
   },
   {
@@ -427,7 +388,6 @@ const ALL_DATA = [
     "発出日": "2026-01-26",
     "発出機関": "東京都保健医療局 感染症対策部防疫課",
     "概要": "都内で30代男性に麻しん患者（検査診断例）が発生（海外渡航歴あり）。感染可能期間中の行動歴が確認され、不特定多数との接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.hokeniryo.metro.tokyo.lg.jp/information/press/2026/01/kansen202601261700"
   },
   {
@@ -435,7 +395,6 @@ const ALL_DATA = [
     "発出日": "2026-01-28",
     "発出機関": "長野県 健康福祉部 疾病・感染症対策課",
     "概要": "長野県内で麻しん患者の発生が確認され、注意喚起のプレスリリースを発出。詳細な行動歴については長野県公式サイトを参照。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.nagano.lg.jp/shippei-kansen/happyou/080128press.html"
   },
   {
@@ -443,7 +402,6 @@ const ALL_DATA = [
     "発出日": "2026-01-28",
     "発出機関": "相模原市 健康福祉局 保健衛生部 疾病対策課",
     "概要": "相模原市在住の20代男性に麻しんが発生。予防接種歴なし。症状は発熱・咳・発しん・結膜充血。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/034/483/1028/04.pdf"
   },
   {
@@ -451,7 +409,6 @@ const ALL_DATA = [
     "発出日": "2026-01-29",
     "発出機関": "上越市",
     "概要": "上越市にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.joetsu.niigata.jp/soshiki/kenkou/hashika.html"
   },
   {
@@ -459,7 +416,6 @@ const ALL_DATA = [
     "発出日": "2026-01-30",
     "発出機関": "千葉県 健康福祉部 疾病対策課",
     "概要": "千葉県内で麻しん患者が発生。感染可能期間（1月15日以降）に不特定多数が利用する交通機関等を利用しており、広く情報提供。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.chiba.lg.jp/shippei/press/2025/documents/260130measles.pdf"
   },
   {
@@ -467,7 +423,6 @@ const ALL_DATA = [
     "発出日": "2026-01-30",
     "発出機関": "東京都保健医療局 感染症対策部防疫課",
     "概要": "都内で30代男性に麻しん患者（検査診断例）が発生（海外渡航歴あり）。感染可能期間中の行動歴が確認され、不特定多数との接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.hokeniryo.metro.tokyo.lg.jp/information/press/2026/01/kansen202601301700"
   },
   {
@@ -475,7 +430,6 @@ const ALL_DATA = [
     "発出日": "2026-01-31",
     "発出機関": "栃木県",
     "概要": "栃木県で20代に麻しん発生。感染可能期間中に川口市内のコンビニエンスストアを利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.tochigi.lg.jp/e04/kansensaiyou/documents/20260131mashin.html"
   },
   {
@@ -483,7 +437,6 @@ const ALL_DATA = [
     "発出日": "2026-02-02",
     "発出機関": "東京都保健医療局 感染症対策部防疫課",
     "概要": "1月30日に都内で麻しん患者（検査診断例）が発生。感染可能期間の1月26日に杏林大学医学部付属杉並病院（皮膚科・耳鼻科外来等）を利用し、多数の受診者と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.hokeniryo.metro.tokyo.lg.jp/information/press/2026/02/kansen202602021700"
   },
   {
@@ -491,7 +444,6 @@ const ALL_DATA = [
     "発出日": "2026-02-03",
     "発出機関": "東京都保健医療局 感染症対策部防疫課",
     "概要": "他県で発生した麻しん患者が感染可能期間中に都内の複数施設（イトーヨーカドー国領店、資さんうどん足立鹿浜店、防衛省B棟、ローソン防衛省店）を利用し、不特定多数と接触の可能性。第2報（2/6）で防衛省関連施設を追加公表。",
-    "リスク": "高",
     "元情報のURL": "https://h-crisis.niph.go.jp/archives/469450/"
   },
   {
@@ -499,7 +451,6 @@ const ALL_DATA = [
     "発出日": "2026-02-05",
     "発出機関": "埼玉県 保健医療部 感染症対策課",
     "概要": "埼玉県内で20代男性に麻しん発生（予防接種歴あり）。症状は発熱・咳嗽・鼻汁・発疹。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.saitama.lg.jp/a0710/news/page/news2026020601.html"
   },
   {
@@ -507,7 +458,6 @@ const ALL_DATA = [
     "発出日": "2026-02-06",
     "発出機関": "千葉県 健康福祉部 疾病対策課",
     "概要": "千葉県内で麻しん患者が発生。感染可能期間（1月30日以降）に患者が利用した施設等について情報提供。不特定多数との接触可能性あり。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.chiba.lg.jp/shippei/press/2025/documents/260206measle.pdf"
   },
   {
@@ -515,7 +465,6 @@ const ALL_DATA = [
     "発出日": "2026-02-06",
     "発出機関": "岩手県",
     "概要": "岩手県で20代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/003/219/080206_hodoshiryo.pdf"
   },
   {
@@ -523,7 +472,6 @@ const ALL_DATA = [
     "発出日": "2026-02-08",
     "発出機関": "埼玉県 保健医療部 感染症対策課",
     "概要": "埼玉県内で30代男性に麻しん発生（予防接種歴不明）。症状は発熱・発疹・コプリック斑・下痢。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.saitama.lg.jp/a0710/news/page/news2026020901.html"
   },
   {
@@ -531,7 +479,6 @@ const ALL_DATA = [
     "発出日": "2026-02-09",
     "発出機関": "東京都保健医療局 感染症対策部防疫課",
     "概要": "2月5日に都内で麻しん患者2名の発生を確認。（1）20代女性（海外渡航歴あり）、（2）30代男性（海外渡航歴あり）、感染可能期間中にスカイマーク965便（羽田→新千歳）およびANA064便（新千歳→羽田）を利用し、東京都・北海道にまたがる行動歴が確認。",
-    "リスク": "高",
     "元情報のURL": "https://www.hokeniryo.metro.tokyo.lg.jp/information/press/2026/02/kansen202602091700/02"
   },
   {
@@ -539,7 +486,6 @@ const ALL_DATA = [
     "発出日": "2026-02-09",
     "発出機関": "岩手県",
     "概要": "岩手県で20代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/003/219/080209_hodoshiryo2.pdf"
   },
   {
@@ -547,7 +493,6 @@ const ALL_DATA = [
     "発出日": "2026-02-10",
     "発出機関": "奈良県",
     "概要": "奈良県で３０代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.nara.jp/secure/332852/houdousiryou.pdf"
   },
   {
@@ -555,7 +500,6 @@ const ALL_DATA = [
     "発出日": "2026-02-10",
     "発出機関": "岩手県",
     "概要": "岩手県で20代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/003/219/080210_hodoshiryo3.pdf"
   },
   {
@@ -563,7 +507,6 @@ const ALL_DATA = [
     "発出日": "2026-02-10",
     "発出機関": "札幌市",
     "概要": "札幌市で30代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.sapporo.jp/hokenjo/f1kansen/documents/20260210press.pdf"
   },
   {
@@ -571,7 +514,6 @@ const ALL_DATA = [
     "発出日": "2026-02-12",
     "発出機関": "岩手県",
     "概要": "岩手県で20代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/003/219/080212_hodoshiryo.pdf"
   },
   {
@@ -579,7 +521,6 @@ const ALL_DATA = [
     "発出日": "2026-02-13",
     "発出機関": "千葉県 健康福祉部 疾病対策課",
     "概要": "千葉県内で麻しん患者が発生。感染可能期間（2月4日以降）に不特定多数が利用する施設・交通機関等を利用。接触者特定が困難なため広く情報提供。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.chiba.lg.jp/shippei/press/2025/documents/260213measles.pdf"
   },
   {
@@ -587,7 +528,6 @@ const ALL_DATA = [
     "発出日": "2026-02-13",
     "発出機関": "埼玉県 保健医療部 感染症対策課",
     "概要": "埼玉県内で20代男性に麻しん発生（予防接種歴あり）。感染可能期間中に吉川中央総合病院・さいたま市立病院・ウエルシア薬局吉川栄店を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.saitama.lg.jp/a0710/news/page/news2026021401.html"
   },
   {
@@ -595,7 +535,6 @@ const ALL_DATA = [
     "発出日": "2026-02-13",
     "発出機関": "新潟市",
     "概要": "新潟市で患者に麻しん発生。感染可能期間中に7～14日（最大21日間）を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.niigata.lg.jp/iryo/kenko/yobou_kansen/kansen/masinnzyouhou/masinnzyouhou.html"
   },
   {
@@ -603,7 +542,6 @@ const ALL_DATA = [
     "発出日": "2026-02-16",
     "発出機関": "愛知県 健康・医療局 感染症対策課（豊川保健所）",
     "概要": "豊川市内の医療機関から豊川保健所に麻しん（臨床診断例）の発生届が提出。10代男性、予防接種歴なし。接触者の特定および健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.aichi.jp/press-release/measles0216.html"
   },
   {
@@ -611,7 +549,6 @@ const ALL_DATA = [
     "発出日": "2026-02-16",
     "発出機関": "愛知県",
     "概要": "愛知県で10代に麻しん発生。感染可能期間中に学校(東三河の県立学校)を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/599909.pdf"
   },
   {
@@ -619,7 +556,6 @@ const ALL_DATA = [
     "発出日": "2026-02-16",
     "発出機関": "吹田市",
     "概要": "吹田市で10代に麻しん発生。感染可能期間中に10歳代・男性を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.suita.osaka.jp/kenko/1018600/1018623/1023375/1041906.html"
   },
   {
@@ -627,7 +563,6 @@ const ALL_DATA = [
     "発出日": "2026-02-17",
     "発出機関": "豊橋市保健所 保健医療企画課",
     "概要": "豊橋市内で麻しん患者が発生。2月以降、東三河地域（豊川市・豊橋市等）で患者が多数発生しており、同一学校の生徒・教員を含む集団事例も確認。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.toyohashi.lg.jp/secure/122295/20260217%E3%80%80%E3%80%90%E5%A0%B1%E9%81%93%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99%E3%80%91%E9%BA%BB%E3%81%97%E3%82%93%E3%80%80.pdf"
   },
   {
@@ -635,7 +570,6 @@ const ALL_DATA = [
     "発出日": "2026-02-17",
     "発出機関": "東京都保健医療局 感染症対策部防疫課",
     "概要": "新潟市の麻しん患者（30代男性、2/1発症）が感染可能期間中の1/31にTHE BEAT DINER（東京駅グランスタ内）を利用し、不特定多数と接触の可能性。症状は発熱・発しん・咳・のどの痛み・コプリック斑。",
-    "リスク": "高",
     "元情報のURL": "https://h-crisis.niph.go.jp/archives/470084/"
   },
   {
@@ -643,7 +577,6 @@ const ALL_DATA = [
     "発出日": "2026-02-17",
     "発出機関": "愛知県 健康・医療局 感染症対策課（豊川保健所）",
     "概要": "豊川市在住の10代男性に麻しん発生（予防接種歴2回）。感染可能期間中に東三河の県立高校を利用。東三河地域での学校関連集団事例が継続。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/600271.pdf"
   },
   {
@@ -651,7 +584,6 @@ const ALL_DATA = [
     "発出日": "2026-02-17",
     "発出機関": "豊橋市",
     "概要": "豊橋市で10代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.toyohashi.lg.jp/secure/122295/20260217　【報道発表資料】麻しん　.pdf"
   },
   {
@@ -659,7 +591,6 @@ const ALL_DATA = [
     "発出日": "2026-02-17",
     "発出機関": "船橋市",
     "概要": "船橋市で患者に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.funabashi.lg.jp/kenkou/kansenshou/001/p004578.html"
   },
   {
@@ -667,7 +598,6 @@ const ALL_DATA = [
     "発出日": "2026-02-17",
     "発出機関": "川口市",
     "概要": "川口市で４０代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.kawaguchi.lg.jp/material/files/group/86/mashin0218.pdf"
   },
   {
@@ -675,7 +605,6 @@ const ALL_DATA = [
     "発出日": "2026-02-18",
     "発出機関": "横浜市 医療局 健康安全課",
     "概要": "横浜市内で20代男性に麻しん発生（2/11発症、2/18陽性判定）。感染可能期間中に東急東横線・JR京浜東北線・JR横浜線・市営バスおよび大口東総合病院・けいゆう病院を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/iryo/2025/0218meals.html"
   },
   {
@@ -683,7 +612,6 @@ const ALL_DATA = [
     "発出日": "2026-02-18",
     "発出機関": "愛知県 健康・医療局 感染症対策課（豊川保健所）",
     "概要": "田原市在住の10代男性に麻しん発生。感染可能期間中に田原市内の医療機関を受診。東三河地域での学校関連集団事例の一環。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/600744.pdf"
   },
   {
@@ -691,7 +619,6 @@ const ALL_DATA = [
     "発出日": "2026-02-18",
     "発出機関": "豊橋市",
     "概要": "豊橋市で10代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.toyohashi.lg.jp/secure/122295/20260218　【報道発表資料】麻しん　.pdf"
   },
   {
@@ -699,7 +626,6 @@ const ALL_DATA = [
     "発出日": "2026-02-18",
     "発出機関": "横浜市",
     "概要": "横浜市で20代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/hokenjo/oshirase/Measles.files/0010_20260218.pdf"
   },
   {
@@ -707,7 +633,6 @@ const ALL_DATA = [
     "発出日": "2026-02-18",
     "発出機関": "横浜市",
     "概要": "横浜市にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/hokenjo/oshirase/Measles.html"
   },
   {
@@ -715,7 +640,6 @@ const ALL_DATA = [
     "発出日": "2026-02-18",
     "発出機関": "札幌市",
     "概要": "札幌市で患者に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.sapporo.jp/hokenjo/f1kansen/f24mashinfushin.html"
   },
   {
@@ -723,7 +647,6 @@ const ALL_DATA = [
     "発出日": "2026-02-19",
     "発出機関": "愛知県 健康・医療局 感染症対策課（豊川保健所）",
     "概要": "豊川市在住・新城市在住の10代男性2名に麻しん発生。感染可能期間中に東三河の県立高校を利用。学校関連集団事例の一環。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/601239.pdf"
   },
   {
@@ -731,7 +654,6 @@ const ALL_DATA = [
     "発出日": "2026-02-19",
     "発出機関": "滋賀県",
     "概要": "滋賀県で10代に麻しん発生。感染可能期間中に麻しんワクチンを接種していない可能性が高いです。感染歴がある人以外は、2回のワクチン接種を推奨します。を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.shiga.lg.jp/kensei/koho/e-shinbun/oshirase/348879.html"
   },
   {
@@ -739,7 +661,6 @@ const ALL_DATA = [
     "発出日": "2026-02-20",
     "発出機関": "東京都保健医療局 感染症対策部防疫課",
     "概要": "横浜市の麻しん患者が感染可能期間中の2/10に大森地域庁舎2階（9:00〜17:00）およびマチノマ大森2階フードコート（12:10〜12:40）を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.hokeniryo.metro.tokyo.lg.jp/information/press/2026/02/kansen202602201700"
   },
   {
@@ -747,7 +668,6 @@ const ALL_DATA = [
     "発出日": "2026-02-20",
     "発出機関": "千葉県 健康福祉部 疾病対策課",
     "概要": "千葉県内で麻しん患者が発生。県内で患者が増加傾向にあり広く注意喚起。感染可能期間中に不特定多数が利用する交通機関・施設等を利用していた可能性あり。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.chiba.lg.jp/shippei/press/2025/260220measle.html"
   },
   {
@@ -755,7 +675,6 @@ const ALL_DATA = [
     "発出日": "2026-02-20",
     "発出機関": "愛知県 健康・医療局 感染症対策課（豊川保健所）",
     "概要": "蒲郡市在住の10代男性に麻しん発生。症状は発熱・咳・発疹。東三河地域での集団事例の一環と推定。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/601808.pdf"
   },
   {
@@ -763,7 +682,6 @@ const ALL_DATA = [
     "発出日": "2026-02-20",
     "発出機関": "岩手県",
     "概要": "岩手県で30代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/003/219/080220_hodoshiryo.pdf"
   },
   {
@@ -771,7 +689,6 @@ const ALL_DATA = [
     "発出日": "2026-02-21",
     "発出機関": "千葉県 健康福祉部 疾病対策課",
     "概要": "千葉県内で麻しん患者が発生。感染可能期間（2月14日以降）に患者が利用した施設・交通機関等について情報提供。接触者が特定できない施設・交通機関について広く公表。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.chiba.lg.jp/shippei/press/2025/documents/260221measle.pdf"
   },
   {
@@ -779,7 +696,6 @@ const ALL_DATA = [
     "発出日": "2026-02-21",
     "発出機関": "愛知県 健康・医療局 感染症対策課（豊川保健所）",
     "概要": "東三河地域で新たに麻しん患者2名（豊橋市在住）の発生届が提出。同一学校関連の集団事例が継続しており、地域内での感染連鎖が確認されている。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/press-release/measles0221.html"
   },
   {
@@ -787,7 +703,6 @@ const ALL_DATA = [
     "発出日": "2026-02-21",
     "発出機関": "愛知県",
     "概要": "愛知県で10代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/601813.pdf"
   },
   {
@@ -795,7 +710,6 @@ const ALL_DATA = [
     "発出日": "2026-02-22",
     "発出機関": "豊橋市",
     "概要": "豊橋市で10代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.toyohashi.lg.jp/secure/122295/20260222　【報道発表資料】麻しん　.pdf"
   },
   {
@@ -803,7 +717,6 @@ const ALL_DATA = [
     "発出日": "2026-02-24",
     "発出機関": "横浜市 医療局 健康安全課",
     "概要": "横浜市内で20代男性に麻しん発生（2/13発症、2/24陽性判定、渡航歴なし）。感染可能期間中にJR鶴見線およびサイゼリヤ・おふろの国・平和病院を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/iryo/2025/0224measles.html"
   },
   {
@@ -811,7 +724,6 @@ const ALL_DATA = [
     "発出日": "2026-02-24",
     "発出機関": "豊橋市保健所 保健医療企画課",
     "概要": "豊橋市在住の2名について麻しん発生届が提出。2月以降、東三河地域（豊川市・豊橋市等）で患者が多数発生しており、地域内での感染連鎖が継続している。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.toyohashi.lg.jp/secure/122295/20260224%E3%80%80%E3%80%90%E5%A0%B1%E9%81%93%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99%E3%80%91%E9%BA%BB%E3%81%97%E3%82%93%E3%80%80.pdf"
   },
   {
@@ -819,7 +731,6 @@ const ALL_DATA = [
     "発出日": "2026-02-24",
     "発出機関": "大阪府 健康医療部 保健医療室 医療・感染症対策課",
     "概要": "大阪市内で40代女性に麻しん発生（予防接種歴なし、渡航歴なし）。感染可能期間中にOsakaMetro千日前線・御堂筋線、阪神電気鉄道、阪急電鉄を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.osaka.lg.jp/hodo/fumin/o100030/prs_51164.html"
   },
   {
@@ -827,7 +738,6 @@ const ALL_DATA = [
     "発出日": "2026-02-24",
     "発出機関": "豊橋市",
     "概要": "豊橋市で10代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.toyohashi.lg.jp/secure/122295/20260224　【報道発表資料】麻しん　.pdf"
   },
   {
@@ -835,7 +745,6 @@ const ALL_DATA = [
     "発出日": "2026-02-24",
     "発出機関": "宇都宮市",
     "概要": "宇都宮市で患者に麻しん発生。感染可能期間中に4を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.utsunomiya.lg.jp/kenko/iryo/kansensho/etc2/1004539.html"
   },
   {
@@ -843,7 +752,6 @@ const ALL_DATA = [
     "発出日": "2026-02-24",
     "発出機関": "横浜市",
     "概要": "横浜市で20代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/hokenjo/oshirase/0224_measles.files/0011_20260224.pdf"
   },
   {
@@ -851,7 +759,6 @@ const ALL_DATA = [
     "発出日": "2026-02-24",
     "発出機関": "横浜市",
     "概要": "横浜市にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/hokenjo/oshirase/0224_measles.html"
   },
   {
@@ -859,7 +766,6 @@ const ALL_DATA = [
     "発出日": "2026-02-26",
     "発出機関": "東京都保健医療局 感染症対策部防疫課",
     "概要": "令和8年2月24日に都内で麻しん患者（検査診断例）が発生。感染可能期間中にJAL313便（羽田→福岡、2/20）およびJAL322便（福岡→羽田、2/21）を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.metro.tokyo.lg.jp/information/press/2026/02/2026022613"
   },
   {
@@ -867,7 +773,6 @@ const ALL_DATA = [
     "発出日": "2026-02-26",
     "発出機関": "香川県 健康福祉部 健康増進課",
     "概要": "東京都で2/24に確認された麻しん患者が、感染可能期間中に香川県内施設を利用。東京都・香川県にまたがる行動歴が確認され、不特定多数との接触可能性あり。健康観察期間：令和8年3月5日まで。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.kagawa.lg.jp/kansensyo/kansensyoujouhou/kanen/mashin20260226.html"
   },
   {
@@ -875,7 +780,6 @@ const ALL_DATA = [
     "発出日": "2026-02-27",
     "発出機関": "千葉県 健康福祉部 疾病対策課",
     "概要": "感染可能期間（2月19日以降）に患者が公共交通機関を利用し、不特定多数の方と接触した可能性が判明。県内で麻しん患者が増加傾向にあり注意喚起。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.chiba.lg.jp/shippei/press/2025/documents/260227measles.pdf"
   },
   {
@@ -883,7 +787,6 @@ const ALL_DATA = [
     "発出日": "2026-02-27",
     "発出機関": "愛知県 健康・医療局 感染症対策課（豊川保健所）",
     "概要": "田原市・豊川市で2/26に複数の麻しん患者が届出。同一学校関連の集団事例（生徒12名・教員1名）を含み、感染可能期間中に不特定多数が利用する施設を利用していた可能性あり。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/press-release/measles0227.html"
   },
   {
@@ -891,7 +794,6 @@ const ALL_DATA = [
     "発出日": "2026-02-27",
     "発出機関": "さいたま市 保健医療局 地域医療課",
     "概要": "さいたま市在住の20代男性に修飾麻しんが発生（発症2/13、診断2/26）。感染可能期間（2/12以降）に不特定多数が利用する施設等を利用しており、接触者への注意喚起。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.saitama.lg.jp/006/014/008/003/014/011/p122079.html"
   },
   {
@@ -899,7 +801,6 @@ const ALL_DATA = [
     "発出日": "2026-02-27",
     "発出機関": "福岡市 保健医療局 保健所 感染症対策課",
     "概要": "東京都内（2/24確認）の麻しん患者（40代男性）が感染可能期間中（2/20〜21）に福岡市を来訪。JAL313便（羽田→福岡）・JAL322便（福岡→羽田）および福岡市地下鉄空港線を複数回利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.fukuoka.lg.jp/hofuku/hokensho/kansensho/sonota/documents/20260227mashin.pdf"
   },
   {
@@ -907,7 +808,6 @@ const ALL_DATA = [
     "発出日": "2026-02-27",
     "発出機関": "愛知県",
     "概要": "愛知県で10代に麻しん発生。感染可能期間中にすき家 259 号田原店を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/602740.pdf"
   },
   {
@@ -915,7 +815,6 @@ const ALL_DATA = [
     "発出日": "2026-03-02",
     "発出機関": "愛知県 健康・医療局 感染症対策課（豊川保健所）",
     "概要": "豊川市在住の40代男性に麻しん発生。感染可能期間中にすき家151号新城店を利用し、不特定多数と接触の可能性。東三河地域での集団事例が継続。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/602933.pdf"
   },
   {
@@ -923,7 +822,6 @@ const ALL_DATA = [
     "発出日": "2026-03-02",
     "発出機関": "豊橋市",
     "概要": "豊橋市で患者に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.toyohashi.lg.jp/secure/122295/20260302　【報道発表資料】麻しん　.pdf"
   },
   {
@@ -931,7 +829,6 @@ const ALL_DATA = [
     "発出日": "2026-03-02",
     "発出機関": "さいたま市",
     "概要": "さいたま市で20代に麻しん発生。感染可能期間中に東武野田線　　　七里駅～大宮駅湘南新宿ライン　大宮駅～池袋駅丸の内線　　　　池袋駅～後楽園駅を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.saitama.lg.jp/006/014/008/003/014/012/p128705.html"
   },
   {
@@ -939,7 +836,6 @@ const ALL_DATA = [
     "発出日": "2026-03-03",
     "発出機関": "豊橋市",
     "概要": "豊橋市で10代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.toyohashi.lg.jp/secure/122295/20260303　【報道発表資料】麻しん.pdf"
   },
   {
@@ -947,7 +843,6 @@ const ALL_DATA = [
     "発出日": "2026-03-03",
     "発出機関": "川崎市",
     "概要": "川崎市で５０代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.kawasaki.jp/templates/prs/cmsfiles/contents/0000185/185154/20260303.pdf"
   },
   {
@@ -955,7 +850,6 @@ const ALL_DATA = [
     "発出日": "2026-03-03",
     "発出機関": "横浜市",
     "概要": "横浜市で30代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/hokenjo/oshirase/masin.files/0013_20260303.pdf"
   },
   {
@@ -963,7 +857,6 @@ const ALL_DATA = [
     "発出日": "2026-03-03",
     "発出機関": "東京都",
     "概要": "東京都で20代に麻しん発生。感染可能期間中に２月１６日を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.hokeniryo.metro.tokyo.lg.jp/information/press/2026/03/kansen202603031700"
   },
   {
@@ -971,7 +864,6 @@ const ALL_DATA = [
     "発出日": "2026-03-03",
     "発出機関": "川崎市",
     "概要": "川崎市にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.kawasaki.jp/templates/prs/350/0000185154.html"
   },
   {
@@ -979,7 +871,6 @@ const ALL_DATA = [
     "発出日": "2026-03-03",
     "発出機関": "横浜市",
     "概要": "横浜市にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/hokenjo/oshirase/masin.html"
   },
   {
@@ -987,7 +878,6 @@ const ALL_DATA = [
     "発出日": "2026-03-04",
     "発出機関": "千葉県",
     "概要": "千葉県で10代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "中",
     "元情報のURL": "https://www.pref.chiba.lg.jp/shippei/press/2025/260304measle.html"
   },
   {
@@ -995,7 +885,6 @@ const ALL_DATA = [
     "発出日": "2026-03-04",
     "発出機関": "川口市保健所 疾病対策課",
     "概要": "20代男性に麻しん発生（予防接種歴なし・海外渡航歴なし）。感染可能期間中の3/2に川口市立医療センターを利用し不特定多数と接触の可能性。健康観察期間3/23まで。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.kawaguchi.lg.jp/soshiki/01090/018/50548.html"
   },
   {
@@ -1003,7 +892,6 @@ const ALL_DATA = [
     "発出日": "2026-03-05",
     "発出機関": "愛知県",
     "概要": "愛知県で10代に麻しん発生。感染可能期間中にＶ・drug 豊川千歳店を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.aichi.jp/uploaded/attachment/603865.pdf"
   },
   {
@@ -1011,7 +899,6 @@ const ALL_DATA = [
     "発出日": "2026-03-05",
     "発出機関": "川口市",
     "概要": "川口市にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.kawaguchi.lg.jp/soshiki/01090/018/50552.html"
   },
   {
@@ -1019,7 +906,6 @@ const ALL_DATA = [
     "発出日": "2026-03-06",
     "発出機関": "広島市",
     "概要": "広島市で30代に麻しん発生。感染可能期間中に造幣局 広島支局（自家用車して訪問・見学）を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.hiroshima.lg.jp/shisei/kouhou/1004010/1045546/1047662/1048781.html"
   },
   {
@@ -1027,7 +913,6 @@ const ALL_DATA = [
     "発出日": "2026-03-06",
     "発出機関": "横浜市",
     "概要": "横浜市にて麻しんに関するプレスリリースが発出。",
-    "リスク": "中",
     "元情報のURL": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/hokenjo/oshirase/20260306masin.html"
   },
   {
@@ -1035,7 +920,6 @@ const ALL_DATA = [
     "発出日": "2026-03-06",
     "発出機関": "東京都",
     "概要": "東京都で50代に麻しん発生。感染可能期間中に２月２６日を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.hokeniryo.metro.tokyo.lg.jp/information/press/2026/03/kansen202603061700"
   },
   {
@@ -1043,7 +927,6 @@ const ALL_DATA = [
     "発出日": "2026-03-08",
     "発出機関": "長野県",
     "概要": "長野県で患者に麻しん発生。感染可能期間中に1を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.nagano.lg.jp/shippei-kansen/happyou/0308press.html"
   },
   {
@@ -1059,15 +942,20 @@ const ALL_DATA = [
     "発出日": "2026-03-10",
     "発出機関": "長野県",
     "概要": "長野県で患者に麻しん発生。感染可能期間中に特急電車　塩尻駅－名古屋駅特急しなの６号（グリーン席）を利用し、不特定多数と接触の可能性。",
-    "リスク": "高",
     "元情報のURL": "https://www.pref.nagano.lg.jp/shippei-kansen/happyou/0310press.html"
+  },
+  {
+    "ファイル名": "260309_鹿児島市.pdf",
+    "発出日": "2026-03-09",
+    "発出機関": "鹿児島市保健所 保健予防課",
+    "概要": "鹿児島市保健所管内で麻しん患者（本年2例目）が発生。感染可能期間中に南国交通バス、市電、鹿児島大学教育学部附属中学校、ジョイフル西鹿児島店、センテラス天文館、ネネチキン鹿児島天文館店、直球カルビ甲南店を利用。",
+    "元情報のURL": "https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/hoyobo-kan/kenko/kenko/ryuko/yobo/mashin.html"
   },
   {
     "ファイル名": "260311_川口市.pdf",
     "発出日": "2026-03-11",
     "発出機関": "川口市",
     "概要": "川口市で３０代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "リスク": "高",
     "元情報のURL": "https://www.city.kawaguchi.lg.jp/material/files/group/86/mashin20260311.pdf"
   }
 ];
@@ -1142,11 +1030,9 @@ function countByPref(data) {
 
 // ── Stats ─────────────────────────────────────────────────────────────────────
 function renderStats(data) {
-  const hi = data.filter(d => d['リスク']==='高').length;
   const prefs = new Set(data.map(d => prefFromFile(d['ファイル名']))).size;
   document.getElementById('stats').innerHTML = `
     <div class="scard"><div class="sval">${data.length}</div><div class="slbl">プレスリリース件数</div></div>
-    <div class="scard"><div class="sval red">${hi}</div><div class="slbl">リスク「高」件数</div></div>
     <div class="scard"><div class="sval">${prefs}</div><div class="slbl">発生都道府県数</div></div>
     <div class="scard"><div class="sval">${period===3?'3日':period===7?'1週間':period===30?'1ヶ月':'2026年'}</div><div class="slbl">表示期間</div></div>
   `;
@@ -1164,7 +1050,7 @@ function travelHistory(d) {
 function renderTable(data) {
   const tb = document.getElementById('tbody');
   if (!data.length) {
-    tb.innerHTML = '<tr><td colspan="6" class="nodata">該当するデータはありません</td></tr>';
+    tb.innerHTML = '<tr><td colspan="5" class="nodata">該当するデータはありません</td></tr>';
     return;
   }
   tb.innerHTML = data.map(d => {
@@ -1176,7 +1062,6 @@ function renderTable(data) {
       <td style="min-width:130px">${d['発出機関']}</td>
       <td>${d['概要']}</td>
       <td style="${tvStyle};white-space:nowrap">${tv}</td>
-      <td class="risk-${d['リスク']}">${d['リスク']}</td>
       <td><a href="${d['元情報のURL']}" target="_blank" style="color:#2980b9">🔗 開く</a></td>
     </tr>`;
   }).join('');
@@ -1201,7 +1086,6 @@ function renderDetail(pref, data) {
     <div class="pitem">
       <div class="pitem-hd">
         <span class="pdate">発出日：${d['発出日']}</span>
-        <span class="rbadge r${d['リスク']}">${d['リスク']}</span>
       </div>
       <div class="porg">🏛 ${d['発出機関']}</div>
       <div class="psum">${d['概要']}</div>
