@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-03-14T03:28:28.839435+00:00",
+  "generated_at": "2026-03-14T03:58:16.855660+00:00",
   "date_range": {
     "start": "2026-02-12",
     "end": "2026-03-14"
   },
-  "total_articles": 131,
+  "total_articles": 132,
   "prefecture_summary": {
-    "千葉県": 4,
+    "千葉県": 5,
+    "静岡県": 1,
     "全国（都道府県不明）": 14,
-    "神奈川県": 7,
     "東京都": 64,
     "佐賀県": 1,
+    "神奈川県": 7,
     "鹿児島県": 19,
-    "愛知県": 22,
+    "愛知県": 21,
     "広島県": 6,
     "山梨県": 4,
     "京都府": 3,
@@ -22,8 +23,8 @@
     "福岡県": 9,
     "岐阜県": 2,
     "岩手県": 2,
-    "香川県": 1,
     "大阪府": 4,
+    "香川県": 1,
     "新潟県": 2,
     "鳥取県": 1,
     "岡山県": 1
@@ -44,6 +45,44 @@
       "locations": [],
       "prefectures": [
         "千葉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_06b0d52eef152792",
+      "headline": "船橋の10代、はしか感染　ららぽーとでゲームセンターや飲食店利用 | チバテレ＋プラス - 千葉テレビ放送株式会社",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-14T03:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45WmhoNHB2aFVueTlrUEtQQm5vQ2tKLTU3aUxJZGhuYXlIWWNrLTVDb0NSdHZOWlBoMDNUNVF4eEJDZnhVN3J2dzJZYm53ODljWHk2WVllcWJkWHMzdXZB0gFkQVVfeXFMTjNxNTNmM3pqRXdwdTRYeUtxQ0pWUGNSMWREakZDSUo4ZmpJWHVnZjlXV1RXR3ZHcDg3VWJsWEdtX2Jua2JYYnFZRDNkNXU4U2t5U0lKWW4wdURCbGY0NlZuNVRXUw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "千葉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "千葉テレビ放送株式会社"
+    },
+    {
+      "articleId": "gnews_e214ea22825c97aa",
+      "headline": "静岡≫「患者の口に陰部を…」少女へのわいせつ行為もスマホ撮影し3度目の逮捕の変態歯科医（49）は歯科医師会の理事「ゲレンデ乗ったマジメなお父さん」（集英社オンライン） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-14T02:00:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yWkhVOG9aeUJtNmxBSjkzNXZ6OWw5d1JwSEFMcUVYVmtoSGp0ZENsYTRYVXRUMWNsUE92RTZiMTRGSG1LeWJqdFpGU2Vwdm1YMUdOMms4TWtTdG81LUlYVVBxQi1vdGprMTdfZHpsZ1dnaXJMaUszR0F4eW5iLVk?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "静岡県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -102,9 +141,9 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
         "東京都",
-        "佐賀県"
+        "佐賀県",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -477,8 +516,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1018,9 +1057,9 @@
       ],
       "locations": [],
       "prefectures": [
+        "鹿児島県",
         "愛知県",
-        "長野県",
-        "鹿児島県"
+        "長野県"
       ],
       "dataSource": "Google News",
       "sourceName": "nbs-tv.co.jp"
@@ -1173,9 +1212,9 @@
         }
       ],
       "prefectures": [
-        "福岡県",
+        "鹿児島県",
         "東京都",
-        "鹿児島県"
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1213,9 +1252,9 @@
       ],
       "locations": [],
       "prefectures": [
+        "鹿児島県",
         "愛知県",
-        "長野県",
-        "鹿児島県"
+        "長野県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1234,9 +1273,9 @@
       ],
       "locations": [],
       "prefectures": [
+        "鹿児島県",
         "愛知県",
-        "長野県",
-        "鹿児島県"
+        "長野県"
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
@@ -1640,8 +1679,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1719,8 +1758,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "千葉県"
+        "千葉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2170,9 +2209,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "岐阜県",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2310,30 +2349,11 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "岐阜県"
+        "岐阜県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_6a74943cf7421758",
-      "headline": "はしか発症 内装業者も 感染相次ぐ愛知県立高校に出入り（メ〜テレ（名古屋テレビ）） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-02T08:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CSHJpMGs0ZHhld1haUTBPZmlrT3lnbXlmMEJLZ0lseTM3aHk3dDA0VGl5SFhjWWxnOWRna19oTTdVR19xUnpIRzZmWDlzZjVOWWI5TzVyYk1HcHBqVUhhZGp2eTRjNTFTZnE0SXpKVTloYTNtUDV3RkxEb1VOaEU?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "愛知県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuaXdhdGUtbnAuY28uanAvYXJ0aWNsZS8yMDI2LzMvMi8xOTEwMDk=",
@@ -2446,8 +2466,8 @@
       ],
       "prefectures": [
         "東京都",
-        "香川県",
-        "大阪府"
+        "大阪府",
+        "香川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2466,8 +2486,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -2517,8 +2537,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2548,8 +2568,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2580,8 +2600,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2631,8 +2651,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3248,8 +3268,8 @@
       "prefectures": [
         "東京都",
         "鳥取県",
-        "新潟県",
-        "岡山県"
+        "岡山県",
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
