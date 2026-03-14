@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-14T13:58:25.696174+00:00",
+  "generated_at": "2026-03-14T15:00:34.349961+00:00",
   "date_range": {
     "start": "2026-02-12",
     "end": "2026-03-14"
   },
-  "total_articles": 107,
+  "total_articles": 103,
   "prefecture_summary": {
-    "佐賀県": 1,
-    "東京都": 59,
     "神奈川県": 3,
-    "全国（都道府県不明）": 18,
-    "広島県": 8,
-    "鹿児島県": 11,
+    "東京都": 59,
+    "佐賀県": 1,
+    "全国（都道府県不明）": 16,
+    "広島県": 5,
+    "鹿児島県": 12,
     "京都府": 1,
-    "愛知県": 18,
+    "愛知県": 16,
     "埼玉県": 3,
-    "長野県": 8,
+    "長野県": 7,
     "大分県": 1,
     "福岡県": 9,
     "千葉県": 1,
@@ -25,8 +25,8 @@
     "香川県": 1,
     "大阪府": 4,
     "新潟県": 2,
-    "鳥取県": 1,
-    "岡山県": 1
+    "岡山県": 1,
+    "鳥取県": 1
   },
   "articles": [
     {
@@ -64,9 +64,9 @@
         }
       ],
       "prefectures": [
-        "佐賀県",
+        "神奈川県",
         "東京都",
-        "神奈川県"
+        "佐賀県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -206,26 +206,6 @@
       "sourceName": "TBS NEWS DIG"
     },
     {
-      "articleId": "gnews_a1d8698f9122fad2",
-      "headline": "鹿児島県内で確認の「麻しん（はしか）」患者 感染可能期間中に広島市内の公共交通を利用 新幹線や在来線 体調の変化など注意を呼びかけ | RCC NEWS | 広島ニュース | RCC中国放送 (2ページ) - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-13T02:33:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIOE5URGtLaURNNEstN0ZEbl8wTjZuRUJkX1Q5ODRxYUhZTUYySGxJRWNEc0hlSF9lV0JpNENKRG1wQU1Ld2dJemhYVzFlNEQ2QzAtSG9TWl9KOS1Sd2RhcW90bw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "鹿児島県",
-        "広島県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
-    },
-    {
       "articleId": "gnews_bf0ca192cc3b4516",
       "headline": "【鎌倉市・藤沢市】鎌倉・藤沢で麻しん患者発生！ビックカメラ藤沢店や湘南鎌倉総合病院利用者は要注意 - 湘南人",
       "headlineTranslated": "",
@@ -283,25 +263,6 @@
       "sourceName": "47NEWS"
     },
     {
-      "articleId": "gnews_de77ca2f4344fa8a",
-      "headline": "麻しん「はしか」流行の兆し…うちは大丈夫？ 母子手帳でチェックすべき“2回接種”の落とし穴 - スマートニュース（SmartNews）",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-12T11:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxPRnhrVmJLejg1TnZXV1BlSVB2LVRiVXF6UThRYlE5cUdJWGZHZmFHd0pvMlA2MjRtVGlCX2lVclpRWjY1WFZ6SVBEYnRfcFlfV2ZrVVF1b3ExTlVHVnJUZFRvQmp6SkhwMkI2S2sxYXV2Q1dncFBGTEw3UUZQMzZCbVdrR2NWZlZYQlZUY1c0dlNZZVRIam93SGt0SVRlUkhXTlEzSEozMjhzZktQRHQxbzV6NVpPUmdpbXphZTFPVUFJN1FMczJOVUJOcUlGbERPVW4tbzVaQ0ZIdzRrUG5HbGNrM0FqNm0wUUtEMzd2TUxiNjE3QW1hWmJWZXotSk1ZcXFZdVlQM0o3b3VDbFExRmVUeV9MTVFFSmdqejdybVRFVHN6RGVKN2ppYnRwQ0pZRDNrcEZLVkp2TmhWMm0xQUh2UDFBMU42YWtKV18zSWg0RlVDOUZHYWwtM213QXFzd1VwOU9zVzBMNVhJSngwVFRQY2ZMdEpvdWtmY1NpcEVOWnQzSU1yWkRrLWdxOWNqTC1NRnhHSTZKeDNGTWxTbnNIblB2V3I4SVd0SEtKdXlIUUhWNkVZcXdaZ1hfWE1FdUtRRTZrSFZXLUtuTklPRjFXQjFUd2RDVWlRSGRkcENXTTdMazZSYXV6aXBLUnVDbTZlUk5NQkNIdzhCQW5uSU9NdUtEU2xadjd6b05tTVFKazczOFdVbnoxTlNYSndGcVNTQTA4VzA3bUNQeHRfcnY3Q0RyYldMWl9JeFJoTFVmSTliMzZvRXR6emJWMGlib0dqOXF3U2gyVE5GN0xJNHdZWGsxRXNnVFZhSUxLYTdWVlpP?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "スマートニュース（SmartNews）"
-    },
-    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2t5dC9jYXRlZ29yeS9zb2NpZXR5L2t5ODViZWFiMzQxZjc4NGEzYmEzYWQzYTM1MjlmMzU0NmU=",
       "headline": "県内で2026年4例目のはしか感染者　鹿児島市内の30代男性の陽性確認　市が注意呼びかけ（2026年3月12日掲載）｜KYT NEWS NNN",
       "headlineTranslated": "Fourth measles case in the prefecture in 2026; a man in his 30s in Kagoshima City has tested positive; the city calls for caution (Published March 12, 2026)｜KYT NEWS NNN.",
@@ -326,8 +287,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -657,8 +618,8 @@
       "locations": [],
       "prefectures": [
         "愛知県",
-        "鹿児島県",
-        "長野県"
+        "長野県",
+        "鹿児島県"
       ],
       "dataSource": "Google News",
       "sourceName": "nbs-tv.co.jp"
@@ -791,9 +752,9 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
+        "東京都",
         "福岡県",
-        "東京都"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -813,30 +774,30 @@
       "locations": [],
       "prefectures": [
         "愛知県",
-        "鹿児島県",
-        "長野県"
+        "長野県",
+        "鹿児島県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_36b6aad50805c9ad",
-      "headline": "はしかに感染した都内在住の５０代男性、４日に都立墨東病院で不特定多数と接触か（読売新聞オンライン） - Yahoo!ニュース",
+      "articleId": "gnews_daa442e183bc69ff",
+      "headline": "「はしか」患者を確認 県内でことし２例目 鹿児島県が注意呼びかけ【はしかの注意点と予防方法】 - TBS NEWS DIG",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-10T09:02:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3dTlpdGY0WjUxY1Z0TzBJd1Z1THhlb0gzNzcyakxlZl9jdjFNX01wd1gyYU11TVd6dVYwa19lb2trcE43NERBZkhLSTd4S09tWWlpWENvQ2VJdFFid0ItaEF1Tk5UM0wtcDFaN05fTHB6eE91SE8tYlFzd19LN0U?oc=5",
+      "publishedTimestamp": "2026-03-10T06:51:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBodUdNOEZmQVJNX081Q09iVnZxUE9LMTNESDNMQ2pjd19VREozZzBqWEpmOHlqZVFuMkRTeU14Z0xuenR0MDZwelhkLVoxc2pGLVdmQ1ZjYWhDTXNkLTFldDVaNkk?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "東京都"
+        "鹿児島県"
       ],
       "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
+      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_24eb77bf7cdb223c",
@@ -915,25 +876,6 @@
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-08T08:56:13+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYzBYUXZUcnd6Q0EtV2EtZGV3TXBFMXZKS1pORTZXUEE2MS1JeHRNYUdJQkdJQW56dmtScXFidy1OMnR2X1MtVURpTHFtQkVkWUs3Yk5RT2c2eHRURjQ1bUp0eExhTWl3UnhzNThsUV9SM093OXBkQUdENFJoMkU?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "長野県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_943a356b69f81c82",
-      "headline": "長野市内の10歳未満の女の子が「麻しん（はしか）」に感染 発症前後に市内の飲食店を利用 感染力が強く市が注意呼びかけ - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-08T08:56:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWlkUU95dF9janRhRWRWcU5fSHptY0txWXNteTBtRjN2THRqdElaMmp5OGlJOEE2STkwYUhtdXZJYVp0TEpnbkZobTRqVXpWVVNTQ0J6S040MjVuaVNoMGlGMkdzOGZCUlBnVFhPSmU5YkJiZlhTQjdiLTRyWU1HSERKRDBsSWFRdHJjb0J3?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -1038,6 +980,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_c307c9a7ddfd97fe",
+      "headline": "鹿児島市ではしか確認、50代女性 市「予防接種など対策を」 - 南日本新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-06T12:37:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xZUJzR2NUY2J1N2x1ZV9QVy00WnVBQ0ZGTmZWcU5fejE0blFlc2ZrekdJRm9kOV91TGtyUEtJSWJsQ19fSG9sS3FsM2tVaTJOdXpWMnNWOA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "鹿児島県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "南日本新聞"
+    },
+    {
       "articleId": "gnews_12498ab0055460b0",
       "headline": "はしかに感染…20代男性が発熱、感染確定前に“医療センター”に行く 口の中に白い斑点ができる“コプリック斑”などの症状も - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -1111,33 +1072,32 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_16cd2eef4372afa3",
-      "headline": "愛知県内で確認の「麻しん（はしか）」患者 感染可能期間に広島市内の施設を利用 広島市「同じ時間帯に利用した人は体調に注意を」と呼びかけ - TBS NEWS DIG",
+      "articleId": "gnews_cb4f90f5e2f1acf3",
+      "headline": "はしかに感染した都内在住の５０代男性、４日に都立墨東病院で不特定多数と接触か - 読売新聞オンライン",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-06T05:58:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03OVVYcERWRjBpVExPeklNWGhyMDNnS3luMkswVEktX1pIb2hLaGFvd2ZvYk9wSGJac3Nzd1FCZGhfdFpMQXJnQnNjTjY1eF91TlU1dWxORkppQWF2WFZrNw?oc=5",
+      "publishedTimestamp": "2026-03-06T06:59:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrSW10WUFpZkx2QWVJZTE3azZ1RjdHbEVpaGtMN1NmWUMtVmw2Qng1ZXpIR1hmbDFvS0JlWDlUaDQtYURDcjVMZGc5bWtrQUhldmhzRjJaVUtLcTItOVEzWkpDdDU?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "愛知県",
-        "広島県"
+        "東京都"
       ],
       "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
+      "sourceName": "読売新聞オンライン"
     },
     {
-      "articleId": "gnews_224a21248aee2182",
-      "headline": "愛知県内で確認の「麻しん（はしか）」患者 感染可能期間に広島市内の施設を利用 広島市「同じ時間帯に利用した人は体調に注意を」と呼びかけ | RCC NEWS | 広島ニュース | RCC中国放送 (2ページ) - TBS NEWS DIG",
+      "articleId": "gnews_6fbd0ef00eaad42f",
+      "headline": "愛知県内で確認の「麻しん（はしか）」患者 感染可能期間に広島市内の施設を利用 広島市「同じ時間帯に利用した人は体調に注意を」と呼びかけ （RCC中国放送） - Yahoo!ニュース",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-06T05:58:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZLUk4M0tZenlVMFpieVBfSlJaaENxVVFfeE95Q0UzMnppUEtQcGNFVW9OYm45cUt4cGltOVN4d3pXQS1QVS1ROVZRZUZFT0JOUHhDVHg1S3o2a2dlR2tmTDl6Yw?oc=5",
+      "publishedTimestamp": "2026-03-06T05:59:11+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CWm9RT2hBenE5YVBJOWNrT2FMYnViY0wxZlliY0lzTGZ1ZnpGRk5lUVdOODRDUmxVMmM2dEkwX1hrRWNlNTc2SHpHUWJrUjctY3hYNlo2SmRzM2ZabERHOTlORmRSaXRrYW9xR2lwUVpVZFp5UkdNd2lLWUUtOEU?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -1148,27 +1108,7 @@
         "広島県"
       ],
       "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
-    },
-    {
-      "articleId": "gnews_d1c80149e9d0c456",
-      "headline": "愛知県内で確認の「麻しん（はしか）」患者 感染可能期間に広島市内の施設を利用 広島市「同じ時間帯に利用した人は体調に注意を」と呼びかけ | RCC NEWS | 広島ニュース | RCC中国放送 (1ページ) - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-06T05:58:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PV2x2Tk9fWG9DeFlqR1dodzRfNWFNaVBnMTl0cUpXZGxzWEhYcGpFS2tHSFppNXM0cVl1LXBhOUVRVnRwX2FiZHI2TmxnMXRqWk9kdk9nc0gxMFZqYVd6TkZNeE9uS1U?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "愛知県",
-        "広島県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2N0di9jYXRlZ29yeS9zb2NpZXR5L2N0MTE3Mzk1YjUyZTIzNDI5ZGJlNGEyMzRmNmFmOTFmYjM=",
@@ -1335,9 +1275,9 @@
         }
       ],
       "prefectures": [
-        "山梨県",
+        "長野県",
         "東京都",
-        "長野県"
+        "山梨県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1498,25 +1438,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_6b21be0b7c126ff3",
-      "headline": "麻疹・おたふく・風疹の３種混合ワクチン承認へ…かつて報告された無菌性髄膜炎の発生頻度、極めて少なく - 読売新聞オンライン",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-03T08:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eWlvT2c0eEJMbWYtdVdNRlFSM0JqRkY3T18xaDc1d1psRFgxWl81ekJBY0pVZGZrY3ZseHhsRW1CYkNNZ3pRRkg1Vi1ZczRTZXREMGQ0U09zTUE5YU5sU05mSzY?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "読売新聞オンライン"
     },
     {
       "articleId": "gnews_6fe7223452438bc3",
@@ -1988,8 +1909,8 @@
       ],
       "prefectures": [
         "香川県",
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2179,6 +2100,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_6f01fa8430ae5b7c",
+      "headline": "NEWS 新型コロナ、3週ぶり減少／麻しんについて［感染症発生動向調査2026年第6週（2月2日～2月8日）］ - 日本医事新報社",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-02-25T02:45:25+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YQldybXEwLUdsT0FfYm9nVXJrcGdoSWFBdzA1NXhneV9IanNLV2VUaVBTRFlQenNFWlVsQmFOSUxKODQ3ckhjcUVBQzZqSUptQzAxSVc5SXdOYW5DbXBzcw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日本医事新報社"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9sb2NhbC9jaHVidS9uZXdzLzIwMjYwMjI1LUdZVE5UMDAwNDUv",
       "headline": "はしか感染　愛知県東三河地域の同じ高校で１２人に拡大",
       "headlineTranslated": "Measles infection spreads to 12 people at the same high school in the Higashi-Mikawa region of Aichi Prefecture.",
@@ -2263,30 +2203,11 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_739e98738c8746f3",
-      "headline": "「損得」より「心」を選んだ丸亀製麺の決断。麻疹集団感染で見せた「心的資本経営」の真価 #エキスパートトピ - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-02-22T08:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWtmU1owYXhfN05tRVBOVW9JMjFVUzItbXBXZ2ZCNUJlNzR2cmRNZXVtV2NpZ25vR21FYm9mN3dQOVZHbGRGa1RLdENPQzJkbVZjWmxLNXRwOXRRbzFhWjhTMmxtYnFpaGVyUFoxWlJKaHFodnVjNVZ1d2NEaWJ4Um1RemtMYzFC?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_32291cc0e93948cc",
@@ -2411,8 +2332,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2735,8 +2656,8 @@
         }
       ],
       "prefectures": [
-        "新潟県",
-        "東京都"
+        "東京都",
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2787,10 +2708,10 @@
         }
       ],
       "prefectures": [
-        "鳥取県",
-        "新潟県",
         "岡山県",
-        "東京都"
+        "東京都",
+        "新潟県",
+        "鳥取県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2879,8 +2800,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
