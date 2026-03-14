@@ -3,20 +3,20 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>麻しん患者発生 ダッシュボード</title>
+<title>麻しん（はしか）に関するプレスリリース一覧</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0;}
 html,body{height:100%;overflow:hidden;}
 body{font-family:'Hiragino Kaku Gothic ProN','Meiryo',sans-serif;background:#eef2f7;color:#222;font-size:13px;display:flex;flex-direction:column;}
 
 /* ── header ── */
-header{background:linear-gradient(135deg,#1a3a5c 0%,#2c5f8a 100%);color:#fff;padding:12px 24px;display:flex;align-items:center;justify-content:space-between;box-shadow:0 2px 6px rgba(0,0,0,.25);flex-shrink:0;}
+header{background:linear-gradient(135deg,#1a3a5c 0%,#2c5f8a 100%);color:#fff;padding:12px 24px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;box-shadow:0 2px 6px rgba(0,0,0,.25);flex-shrink:0;}
 header h1{font-size:16px;font-weight:700;letter-spacing:.02em;}
 header .sub{font-size:11px;opacity:.75;margin-top:3px;}
 .period-bar{display:flex;align-items:center;gap:8px;}
 .period-bar label{font-size:12px;opacity:.85;}
-.pbtn{padding:6px 16px;border:1.5px solid rgba(255,255,255,.45);border-radius:20px;background:transparent;color:#fff;cursor:pointer;font-size:12px;font-family:inherit;transition:all .2s;}
-.pbtn.active,.pbtn:hover{background:#e74c3c;border-color:#e74c3c;}
+.pbtn{padding:6px 16px;border:1.5px solid #2c5f8a;border-radius:20px;background:transparent;color:#2c5f8a;cursor:pointer;font-size:12px;font-family:inherit;transition:all .2s;}
+.pbtn.active,.pbtn:hover{background:#e74c3c;border-color:#e74c3c;color:#fff;}
 
 /* ── top section (stats + map/detail) ── */
 #top-section{display:flex;flex-direction:column;flex:1 1 0;min-height:200px;overflow:hidden;}
@@ -87,17 +87,19 @@ tr:hover td{background:#f8fbff;}
 
 <header>
   <div>
-    <h1>🦠 麻しん（はしか）患者発生 ダッシュボード</h1>
-    <div class="sub">都道府県別プレスリリース収集状況 / 基準日：2026-03-13</div>
+    <h1>🦠 麻しん（はしか）に関するプレスリリース一覧</h1>
+    <div class="sub" id="sub-date">都道府県別プレスリリース収集状況</div>
   </div>
-  <div class="period-bar">
-    <label>表示期間：</label>
-    <button class="pbtn active" id="btn3" onclick="setPeriod(3)">発出後3日以内</button>
-    <button class="pbtn" id="btn7" onclick="setPeriod(7)">発出後1週間以内</button>
-    <button class="pbtn" id="btn30" onclick="setPeriod(30)">発出後1ヶ月以内</button>
-    <button class="pbtn" id="btnAll" onclick="setPeriod(0)">2026年</button>
-  </div>
+  <a href="https://ts-biosecurity.github.io/measlespr/measlesnewsjp.html" style="padding:6px 16px;border-radius:20px;background:#f39c12;color:#fff;font-size:12px;font-family:inherit;text-decoration:none;border:1.5px solid #e67e22;transition:all .2s;">ニュース記事一覧はこちら</a>
 </header>
+
+<div class="period-bar" style="padding:6px 18px;background:#f0f5fb;flex-shrink:0;">
+  <label>表示期間：</label>
+  <button class="pbtn active" id="btn3" onclick="setPeriod(3)">発出後3日以内</button>
+  <button class="pbtn" id="btn7" onclick="setPeriod(7)">発出後1週間以内</button>
+  <button class="pbtn" id="btn30" onclick="setPeriod(30)">発出後1ヶ月以内</button>
+  <button class="pbtn" id="btnAll" onclick="setPeriod(0)">2026年</button>
+</div>
 
 <div id="top-section">
   <div class="stats" id="stats"></div>
@@ -1022,29 +1024,29 @@ const ALL_DATA = [
     "元情報のURL": "https://www.pref.kanagawa.jp/docs/ga4/prs/r4162769.html"
   },
   {
-    "ファイル名": "260313_千葉県.pdf",
-    "発出日": "2026-03-13",
-    "発出機関": "千葉県",
-    "概要": "千葉県で20代に麻しん発生。接触者の特定・健康観察を実施中。",
-    "元情報のURL": "https://www.pref.chiba.lg.jp/shippei/press/2025/260313measle.html"
+    "ファイル名": "260312_東京都.pdf",
+    "発出日": "2026-03-12",
+    "発出機関": "東京都",
+    "概要": "東京都で30代に麻しん発生。感染可能期間中に３月６日を利用し、不特定多数と接触の可能性。",
+    "元情報のURL": "https://www.hokeniryo.metro.tokyo.lg.jp/information/press/2026/03/kansen202603121700"
   },
   {
-    "ファイル名": "260313_広島市.pdf",
+    "ファイル名": "260313_東京都.pdf",
     "発出日": "2026-03-13",
-    "発出機関": "広島市",
-    "概要": "広島市で40代に麻しん発生。感染可能期間中に12時10分～14時27分を利用し、不特定多数と接触の可能性。",
-    "元情報のURL": "https://www.city.hiroshima.lg.jp/shisei/kouhou/1004010/1045546/1047662/1048929.html"
-  },
-  {
-    "ファイル名": "260313_川崎市.pdf",
-    "発出日": "2026-03-13",
-    "発出機関": "川崎市",
-    "概要": "川崎市にて麻しんに関するプレスリリースが発出。",
-    "元情報のURL": "https://www.city.kawasaki.jp/templates/prs/350/0000185609.html"
+    "発出機関": "東京都",
+    "概要": "東京都で50代に麻しん発生。感染可能期間中に２月２８日を利用し、不特定多数と接触の可能性。",
+    "元情報のURL": "https://www.hokeniryo.metro.tokyo.lg.jp/information/press/2026/03/kansen202603131700"
   }
 ];
 
-const TODAY = new Date('2026-03-13');
+const TODAY = new Date();
+// 最終更新日時をヘッダーに表示
+{
+  const now = new Date();
+  const pad = n => String(n).padStart(2, '0');
+  const ts = `${now.getFullYear()}-${pad(now.getMonth()+1)}-${pad(now.getDate())} ${pad(now.getHours())}:${pad(now.getMinutes())}`;
+  document.getElementById('sub-date').textContent = `都道府県別プレスリリース収集状況 / 最終更新：${ts}`;
+}
 
 // ── State ─────────────────────────────────────────────────────────────────────
 let period = 3;
@@ -1160,7 +1162,8 @@ function renderDetail(pref, data) {
     panel.innerHTML = '<div class="empty-msg">地図上の都道府県をクリックすると<br>プレスリリースの詳細が表示されます</div>';
     return;
   }
-  const items = data.filter(d => prefFromFile(d['ファイル名']) === pref);
+  const items = data.filter(d => prefFromFile(d['ファイル名']) === pref)
+    .sort((a, b) => b['発出日'].localeCompare(a['発出日']));
   if (!items.length) {
     panel.innerHTML = '<div class="empty-msg">選択期間内に発出された<br>プレスリリースはありません</div>';
     return;
@@ -1395,5 +1398,6 @@ function update() {
 initMap();
 update();
 </script>
+<footer style="flex-shrink:0;padding:4px 18px;background:#e8ecf1;text-align:center;font-size:10px;color:#888;">厚生労働行政推進調査事業費補助金「感染症危機管理オペレーションの高度化に関する研究（研究代表：齋藤智也）」により開発し、試行運用しています</footer>
 </body>
 </html>
