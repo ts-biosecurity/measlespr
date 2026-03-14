@@ -47,19 +47,25 @@
       opacity: 0.8;
     }
     .btn-dashboard {
-      display: inline-block;
-      padding: 8px 18px;
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 22px;
       background: white;
       color: #1a237e;
-      border-radius: 6px;
+      border-radius: 8px;
       text-decoration: none;
       font-size: 13px;
       font-weight: 600;
-      transition: background 0.2s, transform 0.15s;
+      line-height: 1.4;
+      text-align: center;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+      transition: background 0.2s, transform 0.15s, box-shadow 0.15s;
     }
     .btn-dashboard:hover {
       background: #c5cae9;
-      transform: translateY(-1px);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
     }
 
     /* メインレイアウト */
@@ -322,7 +328,7 @@
       <div class="stat-num" id="totalPrefs">-</div>
       <div class="stat-label">都道府県</div>
     </div>
-    <a href="https://ts-biosecurity.github.io/measlespr/dashboard.html" class="btn-dashboard">プレスリリースダッシュボード</a>
+    <a href="https://ts-biosecurity.github.io/measlespr/dashboard.html" class="btn-dashboard"><span>プレスリリースは</span><span>こちら</span></a>
   </div>
 </div>
 
