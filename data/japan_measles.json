@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-14T09:27:39.753328+00:00",
+  "generated_at": "2026-03-14T09:39:21.713354+00:00",
   "date_range": {
     "start": "2026-02-12",
     "end": "2026-03-14"
   },
-  "total_articles": 107,
+  "total_articles": 104,
   "prefecture_summary": {
-    "東京都": 59,
     "佐賀県": 1,
     "神奈川県": 3,
-    "全国（都道府県不明）": 21,
+    "東京都": 59,
+    "全国（都道府県不明）": 18,
     "広島県": 5,
     "鹿児島県": 11,
     "京都府": 1,
@@ -22,11 +22,11 @@
     "山梨県": 1,
     "岐阜県": 2,
     "岩手県": 3,
-    "大阪府": 4,
     "香川県": 1,
+    "大阪府": 4,
     "新潟県": 2,
-    "岡山県": 1,
-    "鳥取県": 1
+    "鳥取県": 1,
+    "岡山県": 1
   },
   "articles": [
     {
@@ -64,9 +64,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "佐賀県",
-        "神奈川県"
+        "神奈川県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -146,25 +146,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.kanagawa.jp"
-    },
-    {
-      "articleId": "gnews_396b127da7cee6d8",
-      "headline": "【 がん闘病 】古村比呂さん「蕁麻疹がポツポツと発生」「処方された抗生剤の薬アレルギーでした」 - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-13T09:09:17+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44anctTnlBU29GeGVac01nRk5SSW1BNHRIQzlBN1hVOGM2WjZYdWs5NU1fX21Dc3JrLVppMmo5TG5LRHV0SE1LOWN4bUJFRHJmVVFFbnU3TWJDUkFwMl9DYm5JZzFLblB6dktvODFrQ2JuUGpGMDB3QWlLYTFqdVE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_f0b82b3f867f0bf4",
@@ -423,8 +404,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -655,9 +636,9 @@
       ],
       "locations": [],
       "prefectures": [
-        "鹿児島県",
         "愛知県",
-        "長野県"
+        "長野県",
+        "鹿児島県"
       ],
       "dataSource": "Google News",
       "sourceName": "nbs-tv.co.jp"
@@ -790,9 +771,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
+        "福岡県",
         "鹿児島県",
-        "福岡県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -811,9 +792,9 @@
       ],
       "locations": [],
       "prefectures": [
-        "鹿児島県",
         "愛知県",
-        "長野県"
+        "長野県",
+        "鹿児島県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -874,25 +855,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Vietnam.vn"
-    },
-    {
-      "articleId": "gnews_0842518019eedcbe",
-      "headline": "セカオワSaori、2年間蕁麻疹に悩まされる「病院では原因わからず」（テレビ朝日系（ANN）） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-10T06:00:36+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6N3dncUp0dGdCc0ZJMXlJY1gxVFp5VjdMMDBfcW9tUzI4cmhCa2ZyVVZYZXRSbkZWRHlmS3gyRWxsZU92Zl96UC03N2Z3d0hSRVBIeGE0Z0JaNWtDWmIya2wwM1VnalNFMEptbUYteTh4SVhOY1kwMVAzSlRhS2s?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuc2hpbm1haS5jby5qcC9uZXdzL2FydGljbGUvZ2YwMWQ2bWxrb21uMzI3YzMwbmo0djkw",
@@ -1123,30 +1085,11 @@
       ],
       "locations": [],
       "prefectures": [
-        "広島県",
-        "愛知県"
+        "愛知県",
+        "広島県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_639170a20e2ef300",
-      "headline": "知らなかった事実…繰り返すかゆみ｢大人の蕁麻疹｣8割がこのタイプだった――最新の治療法と対策について専門医を徹底取材 - 東洋経済オンライン",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-05T22:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wYWdVVnhVdjE0NEZyNnNJcHd2Z2puUjdJU3NpMEZWeFdhUFVURElCZHhfcFlMUTZYYTY4MVY3U0lFX1R3SUtvMVFQUlhHYmNwZGpQMlh0MDVVTkJGNmxz?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "東洋経済オンライン"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2N0di9jYXRlZ29yeS9zb2NpZXR5L2N0MTE3Mzk1YjUyZTIzNDI5ZGJlNGEyMzRmNmFmOTFmYjM=",
@@ -1199,8 +1142,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1351,9 +1294,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "山梨県",
-        "長野県"
+        "長野県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1710,8 +1653,8 @@
       ],
       "prefectures": [
         "愛知県",
-        "東京都",
-        "岐阜県"
+        "岐阜県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1849,8 +1792,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "岐阜県"
+        "岐阜県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1984,9 +1927,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
+        "香川県",
         "大阪府",
-        "香川県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2086,8 +2029,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2118,8 +2061,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2279,8 +2222,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2408,8 +2351,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2732,8 +2675,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "新潟県"
+        "新潟県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2784,10 +2727,10 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "岡山県",
+        "鳥取県",
         "新潟県",
-        "鳥取県"
+        "東京都",
+        "岡山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2876,8 +2819,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
