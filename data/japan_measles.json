@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-03-14T19:17:47.820864+00:00",
+  "generated_at": "2026-03-14T20:57:22.192440+00:00",
   "date_range": {
     "start": "2026-02-12",
     "end": "2026-03-14"
   },
-  "total_articles": 108,
+  "total_articles": 107,
   "prefecture_summary": {
-    "東京都": 59,
     "神奈川県": 3,
     "佐賀県": 1,
+    "東京都": 59,
     "全国（都道府県不明）": 18,
     "広島県": 8,
     "鹿児島県": 12,
@@ -16,17 +16,16 @@
     "愛知県": 18,
     "埼玉県": 3,
     "長野県": 8,
-    "大分県": 1,
     "福岡県": 9,
     "千葉県": 1,
     "山梨県": 1,
     "岐阜県": 2,
     "岩手県": 3,
-    "大阪府": 4,
     "香川県": 1,
+    "大阪府": 4,
     "新潟県": 2,
-    "鳥取県": 1,
-    "岡山県": 1
+    "岡山県": 1,
+    "鳥取県": 1
   },
   "articles": [
     {
@@ -64,9 +63,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "神奈川県",
-        "佐賀県"
+        "佐賀県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -199,8 +198,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "鹿児島県",
-        "広島県"
+        "広島県",
+        "鹿児島県"
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
@@ -219,8 +218,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "鹿児島県",
-        "広島県"
+        "広島県",
+        "鹿児島県"
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
@@ -424,8 +423,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -520,25 +519,6 @@
       "sourceName": "wam.go.jp"
     },
     {
-      "articleId": "gnews_ac79cec64c888591",
-      "headline": "春季休暇中の感染症対策にご協力ください - 大分県ホームページ",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-11T06:56:58+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORWJsNWZMVEZwUDUwbllPOEZ2aVp3elBFekFoNjJKNHhKQmJxLVVwVlJLY3lpZjZ3VGd1ZkxRaVdTd1E5TEU1UFAwZk9RS3RCV2tZWEZlYXQyelRsMXRTOFBvbXB3bmV4MUNfa0VELTFRSm5aVFR0STRZclc0MWRQeA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "大分県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "大分県ホームページ"
-    },
-    {
       "articleId": "gnews_4ed8616a54abe088",
       "headline": "「はしか」患者 県内で3人感染確認 鹿児島県が注意呼びかけ【はしかの注意点と予防方法】（MBC南日本放送） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -592,8 +572,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -656,8 +636,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "鹿児島県",
         "長野県",
+        "鹿児島県",
         "愛知県"
       ],
       "dataSource": "Google News",
@@ -791,9 +771,9 @@
         }
       ],
       "prefectures": [
+        "福岡県",
         "鹿児島県",
-        "東京都",
-        "福岡県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -812,8 +792,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "鹿児島県",
         "長野県",
+        "鹿児島県",
         "愛知県"
       ],
       "dataSource": "Google News",
@@ -1038,6 +1018,25 @@
       "sourceName": "南日本新聞"
     },
     {
+      "articleId": "gnews_3dbf59d638a660a5",
+      "headline": "麻しん（はしか）患者 感染期間内に広島市内の施設を利用 感染力が強く高熱が続くと重症化の恐れ（テレビ新広島） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-06T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iOGp5VEowbUFIZ0luZVZPb3QzU1k0SzQyZHg0S1F4Vzk2WnAtLUF6VjRTNmNyRk1Mc1pLZElsSE1XQlhNVUZqaHg1LUM3bDdWQ19XR25rX2I4TGRSd25fQWNQdTVuWlBTVFhITm92S3psNWR6RmRiY1V3WUJaTG8?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "広島県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
       "articleId": "gnews_12498ab0055460b0",
       "headline": "はしかに感染…20代男性が発熱、感染確定前に“医療センター”に行く 口の中に白い斑点ができる“コプリック斑”などの症状も - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -1052,25 +1051,6 @@
       "locations": [],
       "prefectures": [
         "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_3dbf59d638a660a5",
-      "headline": "麻しん（はしか）患者 感染期間内に広島市内の施設を利用 感染力が強く高熱が続くと重症化の恐れ（テレビ新広島） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-06T07:34:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iOGp5VEowbUFIZ0luZVZPb3QzU1k0SzQyZHg0S1F4Vzk2WnAtLUF6VjRTNmNyRk1Mc1pLZElsSE1XQlhNVUZqaHg1LUM3bDdWQ19XR25rX2I4TGRSd25fQWNQdTVuWlBTVFhITm92S3psNWR6RmRiY1V3WUJaTG8?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "広島県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1240,8 +1220,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1300,8 +1280,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "千葉県"
+        "千葉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1354,8 +1334,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "長野県",
+        "東京都",
         "山梨県"
       ],
       "dataSource": "BlueDot",
@@ -1732,8 +1712,8 @@
       ],
       "prefectures": [
         "東京都",
-        "岐阜県",
-        "愛知県"
+        "愛知県",
+        "岐阜県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2006,9 +1986,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
+        "香川県",
         "大阪府",
-        "香川県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2077,8 +2057,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2108,8 +2088,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2140,8 +2120,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2191,8 +2171,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2282,8 +2262,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2321,8 +2301,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -2430,8 +2410,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2754,8 +2734,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "新潟県"
+        "新潟県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2806,10 +2786,10 @@
         }
       ],
       "prefectures": [
-        "鳥取県",
-        "新潟県",
         "岡山県",
-        "東京都"
+        "新潟県",
+        "東京都",
+        "鳥取県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2898,8 +2878,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
