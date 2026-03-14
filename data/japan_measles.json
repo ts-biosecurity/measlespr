@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-14T09:39:21.713354+00:00",
+  "generated_at": "2026-03-14T10:58:59.904618+00:00",
   "date_range": {
     "start": "2026-02-12",
     "end": "2026-03-14"
   },
-  "total_articles": 104,
+  "total_articles": 106,
   "prefecture_summary": {
     "佐賀県": 1,
     "神奈川県": 3,
     "東京都": 59,
-    "全国（都道府県不明）": 18,
-    "広島県": 5,
-    "鹿児島県": 11,
+    "全国（都道府県不明）": 19,
+    "広島県": 6,
+    "鹿児島県": 12,
     "京都府": 1,
     "愛知県": 16,
     "埼玉県": 3,
@@ -22,8 +22,8 @@
     "山梨県": 1,
     "岐阜県": 2,
     "岩手県": 3,
-    "香川県": 1,
     "大阪府": 4,
+    "香川県": 1,
     "新潟県": 2,
     "鳥取県": 1,
     "岡山県": 1
@@ -218,8 +218,28 @@
       ],
       "locations": [],
       "prefectures": [
-        "広島県",
-        "鹿児島県"
+        "鹿児島県",
+        "広島県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
+    },
+    {
+      "articleId": "gnews_a1d8698f9122fad2",
+      "headline": "鹿児島県内で確認の「麻しん（はしか）」患者 感染可能期間中に広島市内の公共交通を利用 新幹線や在来線 体調の変化など注意を呼びかけ | RCC NEWS | 広島ニュース | RCC中国放送 (2ページ) - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-13T02:33:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIOE5URGtLaURNNEstN0ZEbl8wTjZuRUJkX1Q5ODRxYUhZTUYySGxJRWNEc0hlSF9lV0JpNENKRG1wQU1Ld2dJemhYVzFlNEQ2QzAtSG9TWl9KOS1Sd2RhcW90bw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "鹿児島県",
+        "広島県"
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
@@ -306,8 +326,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -404,8 +424,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -636,9 +656,9 @@
       ],
       "locations": [],
       "prefectures": [
-        "愛知県",
+        "鹿児島県",
         "長野県",
-        "鹿児島県"
+        "愛知県"
       ],
       "dataSource": "Google News",
       "sourceName": "nbs-tv.co.jp"
@@ -792,9 +812,9 @@
       ],
       "locations": [],
       "prefectures": [
-        "愛知県",
+        "鹿児島県",
         "長野県",
-        "鹿児島県"
+        "愛知県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1085,8 +1105,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "愛知県",
-        "広島県"
+        "広島県",
+        "愛知県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1240,8 +1260,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "千葉県"
+        "千葉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1294,8 +1314,8 @@
         }
       ],
       "prefectures": [
-        "山梨県",
         "長野県",
+        "山梨県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -1457,6 +1477,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_6b21be0b7c126ff3",
+      "headline": "麻疹・おたふく・風疹の３種混合ワクチン承認へ…かつて報告された無菌性髄膜炎の発生頻度、極めて少なく - 読売新聞オンライン",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-03T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82eWlvT2c0eEJMbWYtdVdNRlFSM0JqRkY3T18xaDc1d1psRFgxWl81ekJBY0pVZGZrY3ZseHhsRW1CYkNNZ3pRRkg1Vi1ZczRTZXREMGQ0U09zTUE5YU5sU05mSzY?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞オンライン"
     },
     {
       "articleId": "gnews_6fe7223452438bc3",
@@ -1652,8 +1691,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "岐阜県",
+        "愛知県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -1843,8 +1882,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "岩手県"
+        "岩手県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1927,8 +1966,8 @@
         }
       ],
       "prefectures": [
-        "香川県",
         "大阪府",
+        "香川県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -1998,8 +2037,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2112,8 +2151,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2727,10 +2766,10 @@
         }
       ],
       "prefectures": [
-        "鳥取県",
-        "新潟県",
         "東京都",
-        "岡山県"
+        "鳥取県",
+        "岡山県",
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2761,8 +2800,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "岩手県"
+        "岩手県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
