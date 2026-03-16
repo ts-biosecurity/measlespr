@@ -1,34 +1,88 @@
 {
-  "generated_at": "2026-03-15T23:00:23.790963+00:00",
+  "generated_at": "2026-03-16T06:05:31.427682+00:00",
   "date_range": {
-    "start": "2026-02-13",
-    "end": "2026-03-15"
+    "start": "2026-02-14",
+    "end": "2026-03-16"
   },
-  "total_articles": 99,
+  "total_articles": 101,
   "prefecture_summary": {
-    "全国（都道府県不明）": 15,
+    "千葉県": 3,
+    "全国（都道府県不明）": 18,
     "佐賀県": 1,
+    "東京都": 56,
     "神奈川県": 2,
-    "東京都": 58,
     "広島県": 7,
     "鹿児島県": 10,
     "京都府": 2,
     "愛知県": 17,
     "埼玉県": 3,
     "長野県": 7,
-    "大分県": 1,
     "福岡県": 9,
-    "千葉県": 1,
     "山梨県": 1,
     "岐阜県": 2,
-    "岩手県": 3,
-    "香川県": 1,
+    "岩手県": 2,
     "大阪府": 3,
-    "新潟県": 2,
-    "岡山県": 1,
-    "鳥取県": 1
+    "香川県": 1,
+    "新潟県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_43bed44c5b17d9ec",
+      "headline": "亀田総合病院内コンビニの利用歴も 千葉・鴨川で20代男性の麻しん感染確認（チバテレ） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-16T04:35:48+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04SUprZ21qUlpTdjhhc24waVloT3ZXeDFLT1oyTXNpZHE0N3JzMXJQREYySWFSdFVlWXBVaDNCRkplZzhydlkxQUhRTkhrRFVYQmdlVU9PbVFfVkFlamNXdER3emJzUGNtXzZSTXVPeXdUSVd6MkhQWF9GS2p4a2M?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "千葉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_39e0eb08fbe41ac5",
+      "headline": "はしかの流行は深刻な健康被害をもたらすだけでなく国家に大きな経済的損失も与えるとの指摘 - GIGAZINE",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-16T03:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUm05NjRiek8wM0ppLVNuWFFnUjN1ekdRRWhReEV4Ylk3dkNKTFpfUWNkUi1ycG01NjUwd3lSQndKSzJxZXhhNGdfZE5ZTVJsYVNmMzd2c19xV1NmVFFwQWpBR01aMUxvNUhfQ0tDcnRBWWFoX01jTDlDMkw0QVdQcHRaVQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "GIGAZINE"
+    },
+    {
+      "articleId": "gnews_371d047bdec09265",
+      "headline": "亀田総合病院内コンビニの利用歴も　千葉・鴨川で２０代男性の麻しん感染確認 | チバテレ＋プラス - 千葉テレビ放送株式会社",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-16T01:20:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45RXlES3NaSmxCMXRMemVnWEMtcUl4MjlVYU4yNkRldkNFZk4wVWRJNHVpcE5aeklid2lOeE1WbC1XcDA2YjRlYXpRZ3RPLWhaXzVhdFNOa1NGaTNxS0530gFkQVVfeXFMTU5BTXBVM0ZFR1pyT3kyOHRjeTlZTXdBLVVxOGwxMnFIeVdhMDAxRy05YmFTeHRoY0hlbU96am03QjNfa29ISy1ZSUFYc0hXRjZ0OVVpZGc2RXFtTjdJN3dNUFJ5ZA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "千葉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "千葉テレビ放送株式会社"
+    },
     {
       "articleId": "gnews_abd84723e30cc164",
       "headline": "「花粉症かと思ったら…」 まさかのはしか 初期症状酷似、危険な自己診断 医師が注意喚起（ENCOUNT） - Yahoo!ニュース",
@@ -84,8 +138,8 @@
       ],
       "prefectures": [
         "佐賀県",
-        "神奈川県",
-        "東京都"
+        "東京都",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -180,8 +234,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "広島県",
-        "鹿児島県"
+        "鹿児島県",
+        "広島県"
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
@@ -200,8 +254,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "広島県",
-        "鹿児島県"
+        "鹿児島県",
+        "広島県"
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
@@ -269,8 +323,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -348,8 +402,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -374,6 +428,25 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
+      "articleId": "gnews_9c5fc48ed58982e6",
+      "headline": "MC Plus Material - 感染症週報 2026年第6週（2月2日－2月8日） 10 ページ - 厚生政策情報センター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-12T05:31:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zRVpVZkIwMWQ5VjRseWRNV01oNlc2d3E3MzJILXlSM243aVVZdTJlUy1WV0t6NDBHTW1XSVJhR2JFQU1tc0ZudE0xeENweGRZWkdYYmlKbzhoSEZpdUhR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "厚生政策情報センター"
+    },
+    {
       "articleId": "gnews_e629cc2b4b1b26b2",
       "headline": "今年に入って12人…はしか感染者の大幅増に東京都医師会が注意喚起「非常に高い感染力」 - TOKYO HEADLINE",
       "headlineTranslated": "",
@@ -387,8 +460,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "TOKYO HEADLINE"
@@ -462,25 +535,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "東信ジャーナル"
-    },
-    {
-      "articleId": "gnews_ac79cec64c888591",
-      "headline": "春季休暇中の感染症対策にご協力ください - 大分県ホームページ",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-11T06:56:58+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORWJsNWZMVEZwUDUwbllPOEZ2aVp3elBFekFoNjJKNHhKQmJxLVVwVlJLY3lpZjZ3VGd1ZkxRaVdTd1E5TEU1UFAwZk9RS3RCV2tZWEZlYXQyelRsMXRTOFBvbXB3bmV4MUNfa0VELTFRSm5aVFR0STRZclc0MWRQeA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "大分県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "大分県ホームページ"
     },
     {
       "articleId": "gnews_4ed8616a54abe088",
@@ -601,8 +655,8 @@
       "locations": [],
       "prefectures": [
         "愛知県",
-        "長野県",
-        "鹿児島県"
+        "鹿児島県",
+        "長野県"
       ],
       "dataSource": "Google News",
       "sourceName": "nbs-tv.co.jp"
@@ -736,8 +790,8 @@
       ],
       "prefectures": [
         "東京都",
-        "福岡県",
-        "鹿児島県"
+        "鹿児島県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -757,8 +811,8 @@
       "locations": [],
       "prefectures": [
         "愛知県",
-        "長野県",
-        "鹿児島県"
+        "鹿児島県",
+        "長野県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1002,6 +1056,26 @@
       "sourceName": "TBS NEWS DIG"
     },
     {
+      "articleId": "gnews_224a21248aee2182",
+      "headline": "愛知県内で確認の「麻しん（はしか）」患者 感染可能期間に広島市内の施設を利用 広島市「同じ時間帯に利用した人は体調に注意を」と呼びかけ | RCC NEWS | 広島ニュース | RCC中国放送 (2ページ) - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-06T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZLUk4M0tZenlVMFpieVBfSlJaaENxVVFfeE95Q0UzMnppUEtQcGNFVW9OYm45cUt4cGltOVN4d3pXQS1QVS1ROVZRZUZFT0JOUHhDVHg1S3o2a2dlR2tmTDl6Yw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "愛知県",
+        "広島県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
+    },
+    {
       "articleId": "gnews_12498ab0055460b0",
       "headline": "はしかに感染…20代男性が発熱、感染確定前に“医療センター”に行く 口の中に白い斑点ができる“コプリック斑”などの症状も - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -1054,26 +1128,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_224a21248aee2182",
-      "headline": "愛知県内で確認の「麻しん（はしか）」患者 感染可能期間に広島市内の施設を利用 広島市「同じ時間帯に利用した人は体調に注意を」と呼びかけ | RCC NEWS | 広島ニュース | RCC中国放送 (2ページ) - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-06T05:58:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZLUk4M0tZenlVMFpieVBfSlJaaENxVVFfeE95Q0UzMnppUEtQcGNFVW9OYm45cUt4cGltOVN4d3pXQS1QVS1ROVZRZUZFT0JOUHhDVHg1S3o2a2dlR2tmTDl6Yw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "愛知県",
-        "広島県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2N0di9jYXRlZ29yeS9zb2NpZXR5L2N0MTE3Mzk1YjUyZTIzNDI5ZGJlNGEyMzRmNmFmOTFmYjM=",
@@ -1221,9 +1275,9 @@
         }
       ],
       "prefectures": [
+        "山梨県",
         "東京都",
-        "長野県",
-        "山梨県"
+        "長野県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1437,8 +1491,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "埼玉県",
-        "東京都"
+        "東京都",
+        "埼玉県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1598,8 +1652,8 @@
         }
       ],
       "prefectures": [
-        "岐阜県",
         "愛知県",
+        "岐阜県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -1873,9 +1927,9 @@
         }
       ],
       "prefectures": [
-        "香川県",
         "大阪府",
-        "東京都"
+        "東京都",
+        "香川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2231,6 +2285,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.moka.lg.jp"
+    },
+    {
+      "articleId": "gnews_ec0becd85c6c2579",
+      "headline": "第301回 麻疹の流行が止まらない！見落としていたもう一つのセキュリティーホール｜連載企画｜CareNet.com - CareNet.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-02-20T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CS0t0OEtRMDhybU1SaG5POUJwUnRSd1VIN0YtNFFrNVpSbk5Nb3RSMUplTXlVbjlpWWhLdWI0T0tPMV9NTF93aEFaV0xQWFVvaGIw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CareNet.com"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9uYXRpb25hbC8yMDI2MDIyMC1HWVQxVDAwMzU2Lw==",
@@ -2640,94 +2713,8 @@
         }
       ],
       "prefectures": [
-        "新潟県",
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL3RlbnkvY2F0ZWdvcnkvc29jaWV0eS90ZTg4OGFlNDc0ZmMyOTQzZWVhMDZhYWZkMTcxZjI2M2Zm",
-      "headline": "麻しん（はしか）患者の発生　周囲へ感染させる可能性がある期間に上越新幹線など公共交通利用が判明《新潟》（2026年2月13日掲載）｜TeNY NEWS NNN",
-      "headlineTranslated": "Measles (rubeola) patients identified; use of public transportation such as the Joetsu Shinkansen during the period when they could have infected others confirmed [Niigata] (published February 13, 2026) | TeNY NEWS NNN",
-      "summary": "Measles (rubeola) confirmed in Niigata City: a man in his 30s tested positive at the Niigata City Public Health Center after fever, sore throat, cough and rash on February 1. He has recovered and was discharged, but investigators identified potential exposure on public transport during the contagious period: January 31, 18:12, Joetsu Shinkansen Toki 337 bound for Niigata, car 10; and around 20:10 January 31, a Niigata Kotsu bus from Niigata Station to Furumachi. People without measles immunity who rode these services during the same window could be infected. The three‑week monitoring window extends to February 21, 2026; seek medical advice if fever or rash develops. Measles incubation is about 10 days, with initial fever and cough followed by high fever and rash. In 2025, 265 nationwide cases; Niigata Prefecture reported 4 cases this year. Hotline: Niigata City Public Health Center Infectious Disease Countermeasures Office, 025‑212‑8123 (Feb 14–15, 9:00–17:00).",
-      "summaryOriginal": "Measles (rubeola) confirmed in Niigata City: a man in his 30s tested positive at the Niigata City Public Health Center after fever, sore throat, cough and rash on February 1. He has recovered and was discharged, but investigators identified potential exposure on public transport during the contagious period: January 31, 18:12, Joetsu Shinkansen Toki 337 bound for Niigata, car 10; and around 20:10 January 31, a Niigata Kotsu bus from Niigata Station to Furumachi. People without measles immunity who rode these services during the same window could be infected. The three‑week monitoring window extends to February 21, 2026; seek medical advice if fever or rash develops. Measles incubation is about 10 days, with initial fever and cough followed by high fever and rash. In 2025, 265 nationwide cases; Niigata Prefecture reported 4 cases this year. Hotline: Niigata City Public Health Center Infectious Disease Countermeasures Office, 025‑212‑8123 (Feb 14–15, 9:00–17:00).",
-      "publishedTimestamp": "2026-02-13T10:31:01+00:00",
-      "sourceUrl": "https://news.ntv.co.jp/n/teny/category/society/te888ae474fc2943eea06aafd171f263ff",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Rubella",
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Niigata Shi",
-          "lat": 37.82738,
-          "lon": 139.03303
-        },
-        {
-          "name": "Niigata-ken",
-          "lat": 37.52343,
-          "lon": 138.91748
-        },
-        {
-          "name": "Niigata",
-          "lat": 37.88637,
-          "lon": 139.00589
-        },
-        {
-          "name": "Furumachi",
-          "lat": 35.11667,
-          "lon": 134.33333
-        },
-        {
-          "name": "Okayama-ken",
-          "lat": 34.90204,
-          "lon": 133.81018
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "新潟県",
-        "岡山県",
         "東京都",
-        "鳥取県"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL3R2aS9jYXRlZ29yeS9zb2NpZXR5L3R2ZjA2ODRjMzJlM2I3NDVhNjg1ODYzNDY1YjQ3ZTI3ZDU=",
-      "headline": "県内で7年ぶり感染確認「はしか」どんな病気？（2026年2月13日掲載）｜TVI NEWS NNN",
-      "headlineTranslated": "Measles: Infection Confirmed in the Prefecture for the First Time in Seven Years — What Kind of Disease Is It? (Posted February 13, 2026) | TVI NEWS NNN",
-      "summary": "Measles infection confirmed in Iwate Prefecture for the first time in seven years (since 2019). Nationally, measles outbreaks continue with 265 cases reported last year, about six times higher than the previous year; as of February 1, 2026, 23 cases have been confirmed domestically this year. The Japanese Ministry of Health, Labour and Welfare (MHLW) notes measles is caused by the measles virus and spreads via airborne, droplet, and contact transmission; one case in a susceptible population can lead to 10–20 infections. Initial symptoms resemble a cold with fever and cough for 2–3 days, followed by a fever above 39°C and rash. Complications include pneumonia and otitis media; encephalitis occurs in about 0.1%. In pregnancy, infection may cause miscarriage or preterm birth. Vaccination is effective; those never infected or vaccinated should consult their physician. Overseas measles outbreaks since 2023 have increased domestic cases.",
-      "summaryOriginal": "Measles infection confirmed in Iwate Prefecture for the first time in seven years (since 2019). Nationally, measles outbreaks continue with 265 cases reported last year, about six times higher than the previous year; as of February 1, 2026, 23 cases have been confirmed domestically this year. The Japanese Ministry of Health, Labour and Welfare (MHLW) notes measles is caused by the measles virus and spreads via airborne, droplet, and contact transmission; one case in a susceptible population can lead to 10–20 infections. Initial symptoms resemble a cold with fever and cough for 2–3 days, followed by a fever above 39°C and rash. Complications include pneumonia and otitis media; encephalitis occurs in about 0.1%. In pregnancy, infection may cause miscarriage or preterm birth. Vaccination is effective; those never infected or vaccinated should consult their physician. Overseas measles outbreaks since 2023 have increased domestic cases.",
-      "publishedTimestamp": "2026-02-13T09:49:00+00:00",
-      "sourceUrl": "https://news.ntv.co.jp/n/tvi/category/society/tvf0684c32e3b745a685863465b47e27d5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles",
-        "Unknown Encephalitis"
-      ],
-      "locations": [
-        {
-          "name": "Iwate",
-          "lat": 39.6,
-          "lon": 141.35
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "岩手県",
-        "東京都"
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
