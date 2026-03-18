@@ -1031,6 +1031,20 @@ const ALL_DATA = [
     "元情報のURL": "https://www.hokeniryo.metro.tokyo.lg.jp/information/press/2026/03/kansen202603121700"
   },
   {
+    "ファイル名": "260312_鹿児島市.pdf",
+    "発出日": "2026-03-12",
+    "発出機関": "鹿児島市",
+    "概要": "鹿児島市で患者に麻しん発生。感染可能期間中に3件を利用し、不特定多数と接触の可能性。",
+    "元情報のURL": "https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/hoyobo-kan/kenko/kenko/ryuko/yobo/sanreime.html"
+  },
+  {
+    "ファイル名": "260312_鹿児島市_2.pdf",
+    "発出日": "2026-03-12",
+    "発出機関": "鹿児島市",
+    "概要": "鹿児島市で患者に麻しん発生。感染可能期間中に1件を利用し、不特定多数と接触の可能性。",
+    "元情報のURL": "https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/hoyobo-kan/kenko/kenko/ryuko/yobo/masin1.html"
+  },
+  {
     "ファイル名": "260313_東京都.pdf",
     "発出日": "2026-03-13",
     "発出機関": "東京都",
@@ -1085,17 +1099,41 @@ const ALL_DATA = [
     "発出機関": "東京都",
     "概要": "東京都で20代に麻しん発生。感染可能期間中に２月２７日を利用し、不特定多数と接触の可能性。",
     "元情報のURL": "https://www.hokeniryo.metro.tokyo.lg.jp/information/press/2026/03/kansen202603171700"
+  },
+  {
+    "ファイル名": "260317_鹿児島市.pdf",
+    "発出日": "2026-03-17",
+    "発出機関": "鹿児島市",
+    "概要": "鹿児島市にて麻しんに関するプレスリリースが発出。",
+    "元情報のURL": "https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/hoyobo-kan/kenko/kenko/ryuko/yobo/mashintyuui.html"
+  },
+  {
+    "ファイル名": "260317_鹿児島市_2.pdf",
+    "発出日": "2026-03-17",
+    "発出機関": "鹿児島市",
+    "概要": "鹿児島市で患者に麻しん発生。感染可能期間中に4件を利用し、不特定多数と接触の可能性。",
+    "元情報のURL": "https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/hoyobo-kan/kenko/kenko/ryuko/yobo/yonreime.html"
+  },
+  {
+    "ファイル名": "260317_鹿児島市_3.pdf",
+    "発出日": "2026-03-17",
+    "発出機関": "鹿児島市",
+    "概要": "鹿児島市で患者に麻しん発生。感染可能期間中に5件を利用し、不特定多数と接触の可能性。",
+    "元情報のURL": "https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/hoyobo-kan/kenko/kenko/ryuko/yobo/goreime.html"
+  },
+  {
+    "ファイル名": "260317_鹿児島市_4.pdf",
+    "発出日": "2026-03-17",
+    "発出機関": "鹿児島市",
+    "概要": "鹿児島市で患者に麻しん発生。感染可能期間中に6件を利用し、不特定多数と接触の可能性。",
+    "元情報のURL": "https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/hoyobo-kan/kenko/kenko/ryuko/yobo/rokureime.html"
   }
 ];
 
 const TODAY = new Date();
-// 最終更新日時をヘッダーに表示
-{
-  const now = new Date();
-  const pad = n => String(n).padStart(2, '0');
-  const ts = `${now.getFullYear()}-${pad(now.getMonth()+1)}-${pad(now.getDate())} ${pad(now.getHours())}:${pad(now.getMinutes())}`;
-  document.getElementById('sub-date').textContent = `都道府県別プレスリリース収集状況 / 最終更新：${ts}`;
-}
+// 最終更新日時をヘッダーに表示（dashboard_sync.py が LAST_UPDATED を更新）
+const LAST_UPDATED = "2026-03-18 18:27 JST";
+document.getElementById('sub-date').textContent = `都道府県別プレスリリース収集状況 / 最終更新：${LAST_UPDATED}`;
 
 // ── State ─────────────────────────────────────────────────────────────────────
 let period = 3;
