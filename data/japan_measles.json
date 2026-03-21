@@ -1,33 +1,75 @@
 {
-  "generated_at": "2026-03-21T20:54:39.826896+00:00",
+  "generated_at": "2026-03-21T22:55:14.080295+00:00",
   "date_range": {
     "start": "2026-02-19",
     "end": "2026-03-21"
   },
   "total_articles": 134,
   "prefecture_summary": {
+    "東京都": 79,
     "全国（都道府県不明）": 22,
-    "福岡県": 37,
-    "東京都": 78,
-    "大阪府": 9,
+    "福岡県": 36,
+    "大阪府": 10,
     "京都府": 6,
     "鹿児島県": 17,
     "福井県": 1,
     "愛知県": 10,
-    "新潟県": 5,
     "神奈川県": 7,
-    "埼玉県": 2,
+    "新潟県": 5,
     "千葉県": 2,
     "佐賀県": 1,
     "広島県": 3,
     "長野県": 2,
     "山梨県": 1,
+    "埼玉県": 1,
     "岐阜県": 2,
     "岩手県": 1,
     "香川県": 1,
     "北海道": 1
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly93d3cuc2Fua2VpLmNvbS9hcnRpY2xlLzIwMjYwMzIyLVA1SUdSQkwyTEZORlBCWUlPSUE0VlI1RTdZLw==",
+      "headline": "＜主張＞はしかの増加　ワクチン2回接種徹底を　社説",
+      "headlineTranslated": "Editorial: Measles on the Rise; Ensure Thorough Two-Dose Vaccination",
+      "summary": "Measles cases in Japan totalled 100 from January 1 to March 8, 2026, far exceeding 22 in the same period last year and the decade-high since 2019. Measles is airborne with about a 10-day incubation; symptoms include fever, cough, conjunctivitis, and rash, with pneumonia or encephalitis possible and rare post-infectious encephalitis years later. Control hinges on the MR vaccine (measles-rubella) given twice: at age 1 and before elementary school. About 70% of current patients are aged 10–30, many have not completed two doses. Latest vaccination rates: first dose 92.7%, second dose 91.0%, below the 95% target. Declines in vaccination also appear in the US, UK, and Canada, linked to hesitancy; UK/Canada recently lost WHO elimination status. Japan remains an elimination country, but domestic transmission could jeopardize that status. Cases are imported via travel.",
+      "summaryOriginal": "Measles cases in Japan totalled 100 from January 1 to March 8, 2026, far exceeding 22 in the same period last year and the decade-high since 2019. Measles is airborne with about a 10-day incubation; symptoms include fever, cough, conjunctivitis, and rash, with pneumonia or encephalitis possible and rare post-infectious encephalitis years later. Control hinges on the MR vaccine (measles-rubella) given twice: at age 1 and before elementary school. About 70% of current patients are aged 10–30, many have not completed two doses. Latest vaccination rates: first dose 92.7%, second dose 91.0%, below the 95% target. Declines in vaccination also appear in the US, UK, and Canada, linked to hesitancy; UK/Canada recently lost WHO elimination status. Japan remains an elimination country, but domestic transmission could jeopardize that status. Cases are imported via travel.",
+      "publishedTimestamp": "2026-03-21T21:14:38+00:00",
+      "sourceUrl": "https://www.sankei.com/article/20260322-P5IGRBL2LFNFPBYIOIA4VR5E7Y/",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Rubella",
+        "Measles",
+        "Unknown Encephalitis"
+      ],
+      "locations": [
+        {
+          "name": "United Kingdom of Great Britain and Northern Ireland",
+          "lat": 54.75844,
+          "lon": -2.69531
+        },
+        {
+          "name": "United States",
+          "lat": 39.76,
+          "lon": -98.5
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        },
+        {
+          "name": "Canada",
+          "lat": 60.10867,
+          "lon": -113.64258
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
     {
       "articleId": "gnews_4614050cfcffd610",
       "headline": "ライブ減弱麻疹ワクチン市場の収益動向：2026年から2033年までの11.2%のCAGR - pando.life",
@@ -83,25 +125,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_7bd73440945b8122",
-      "headline": "【はしか】患者が福岡市のイベント会場や商業施設に 専門家に聞く 感染リスクは？ （FBS福岡放送） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-20T09:57:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSSWRES25XZ1ZjaWxBOTN2c25NMGlFN3otb1BnTy1CeGFDV29vY1I1N0JxTlJ3X1VteWFOZ1A0VndRR2pvdTlCSG41cmg5QTZCTW1hRGdaQW1LX1lrcFVPZmYzWE9pWVJVMVlQSlhvOURWaGgyMFAyaUxJU1VSWU0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_21fcb7977bd55dd2",
@@ -613,9 +636,9 @@
         }
       ],
       "prefectures": [
-        "福岡県",
         "福井県",
         "東京都",
+        "福岡県",
         "京都府"
       ],
       "dataSource": "BlueDot",
@@ -710,8 +733,8 @@
       ],
       "prefectures": [
         "福岡県",
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1070,13 +1093,13 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_a2d022e46558b478",
+      "articleId": "gnews_23e274e63e1ae51d",
       "headline": "米国で麻しん症例増加「ワクチンは打たないよ」と言われて考えた医療情報の伝わり方 山本佳奈医師（AERA DIGITAL） - Yahoo!ニュース",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-17T22:00:37+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXBVMWoybVZfblJNcTBtYTlKUjBFV05tVnJYVHFVWV84bzNIMDJCMzhMb0t4YkstRWR3b3BWWGRvNW9LUG5jNjh4a1ZFaF9GZDJKZ2EwTHZkUEswUnE5RUxyUm9DZzZmQUZ0bl8xTk9EV280ejczOWRPZWFPRENVN2NQb29WejQ0?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XaDA3STVSenEyUFBwTDZpTU5SU2N5RFdNUXVBRG5feWxEbmZ5VHk3MkhfcnozWVBhR3J4dkdwTDY2UXg2V2l5ZDlIU2d2b3RqbG1lbEJHWC1udm05X0pZOFViTHJ2WFZZUFpfUHBLZkJCNkpWekZRZE1tV2dSbm8?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -1151,8 +1174,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1182,8 +1205,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1285,9 +1308,9 @@
       ],
       "prefectures": [
         "愛知県",
-        "新潟県",
+        "神奈川県",
         "東京都",
-        "神奈川県"
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1352,9 +1375,9 @@
         }
       ],
       "prefectures": [
+        "大阪府",
         "福岡県",
-        "東京都",
-        "大阪府"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1744,9 +1767,9 @@
       ],
       "prefectures": [
         "愛知県",
-        "新潟県",
+        "神奈川県",
         "東京都",
-        "神奈川県"
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1803,9 +1826,9 @@
       ],
       "prefectures": [
         "愛知県",
-        "新潟県",
+        "神奈川県",
         "東京都",
-        "神奈川県"
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1862,9 +1885,9 @@
       ],
       "prefectures": [
         "愛知県",
-        "新潟県",
+        "神奈川県",
         "東京都",
-        "神奈川県"
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1921,9 +1944,9 @@
       ],
       "prefectures": [
         "愛知県",
-        "新潟県",
+        "神奈川県",
         "東京都",
-        "神奈川県"
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1946,25 +1969,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_dc3fba84d72d7eeb",
-      "headline": "はしか、今年計１００人に - 埼玉新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-17T03:53:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qNFRDNG9wdXpNUU5xNzgzZExkWm85V0txN0xxVWZEaGMxUGdrOEJvVTJBYzZjQXV1Ym8yYjBnY1QtX2JyMGJ4Yi1VUlVScnREUjV5S1Jiaw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "埼玉県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "埼玉新聞"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL3l0di9jYXRlZ29yeS9zb2NpZXR5L3l0YzU5OTU4ODFlMTE5NDg5ZGI1YjVlYzgzYWRjYjhiYzM=",
@@ -2001,8 +2005,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2025,6 +2029,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_cea3cf17a8f075cf",
+      "headline": "【速報】麻しん（はしか）患者が発症前日にスーパー利用 大阪市が注意喚起 大阪・平野区 - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-16T10:26:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11SGZnUVNsQllQRlpqcnd0STZ1SHlQaUxhZTVtQ2JheHF5QkI1MGZsOW92V3ZDcW5ZV2o4UlY4alRsUkdHTWVBeGREM2lQME5vMWtTMlAzNA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "大阪府"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_9b6bbf549c6eba4d",
@@ -2118,9 +2141,9 @@
         }
       ],
       "prefectures": [
+        "神奈川県",
         "東京都",
-        "佐賀県",
-        "神奈川県"
+        "佐賀県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2196,8 +2219,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "鹿児島県",
-        "広島県"
+        "広島県",
+        "鹿児島県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -2227,8 +2250,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2814,8 +2837,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "千葉県"
+        "千葉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3418,8 +3441,8 @@
         }
       ],
       "prefectures": [
-        "岩手県",
-        "東京都"
+        "東京都",
+        "岩手県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3464,9 +3487,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "大阪府",
-        "香川県"
+        "香川県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3656,25 +3679,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_6f01fa8430ae5b7c",
-      "headline": "NEWS 新型コロナ、3週ぶり減少／麻しんについて［感染症発生動向調査2026年第6週（2月2日～2月8日）］ - 日本医事新報社",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-02-25T02:45:25+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YQldybXEwLUdsT0FfYm9nVXJrcGdoSWFBdzA1NXhneV9IanNLV2VUaVBTRFlQenNFWlVsQmFOSUxKODQ3ckhjcUVBQzZqSUptQzAxSVc5SXdOYW5DbXBzcw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日本医事新報社"
-    },
-    {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9sb2NhbC9jaHVidS9uZXdzLzIwMjYwMjI1LUdZVE5UMDAwNDUv",
       "headline": "はしか感染　愛知県東三河地域の同じ高校で１２人に拡大",
       "headlineTranslated": "Measles infection spreads to 12 people at the same high school in the Higashi-Mikawa region of Aichi Prefecture.",
@@ -3759,11 +3763,30 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_d7e901c1052a76cd",
+      "headline": "国内において麻しんの感染者が増加しています - city.yamagata-yamagata.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-02-20T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbzhKd3ozclk5OURGa3pnRE1TZEVwYlotc1RTZ2owYmxiQ3FCWi1uX2ZzZEJoNzFLbldadlRKb3p2azlTd2Q1bDFWSm0tcGZwQTJUY2lJYjVTVl85a01ORERGdTZ5STJlV1dlQXh6UkM3QllBRVF1dkZwLXZwVlA5U0NhYkZtWkxrWk05UjQ0b0llUQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.yamagata-yamagata.lg.jp"
     },
     {
       "articleId": "gnews_98cded547db22567",
@@ -3849,8 +3872,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
