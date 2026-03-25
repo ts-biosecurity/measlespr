@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-25T05:24:40.247028+00:00",
+  "generated_at": "2026-03-25T07:07:27.569555+00:00",
   "date_range": {
     "start": "2026-02-23",
     "end": "2026-03-25"
   },
-  "total_articles": 157,
+  "total_articles": 158,
   "prefecture_summary": {
-    "全国（都道府県不明）": 30,
-    "東京都": 89,
+    "東京都": 90,
+    "福島県": 1,
+    "全国（都道府県不明）": 29,
     "神奈川県": 10,
     "福岡県": 34,
     "山梨県": 2,
     "鹿児島県": 17,
     "大阪府": 10,
     "栃木県": 2,
-    "千葉県": 3,
     "愛知県": 12,
-    "埼玉県": 5,
+    "千葉県": 3,
+    "埼玉県": 6,
     "北海道": 2,
     "京都府": 3,
     "福井県": 1,
@@ -29,6 +30,38 @@
     "香川県": 1
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2ZjdC9jYXRlZ29yeS9zb2NpZXR5L2ZjZjJlY2JmNDFmMDUwNDAxYzhhODI2MjUzMzFmODkzNGY=",
+      "headline": "インフルエンザの流行は依然続く　「はしか」の感染者は確認されず・福島（2026年3月25日掲載）｜中テレNEWS NNN",
+      "headlineTranslated": "Influenza outbreak continues; no confirmed measles cases in Fukushima (published March 25, 2026) | ChūTele NEWS NNN",
+      "summary": "Influenza activity persists in Fukushima Prefecture, with 545 reported cases across 81 medical facilities in the week ending March 22, a decrease of 105 from the prior week; warnings remain and basic infection-control measures are urged. Nationally, as of March 18, measles cases stood at 139, up by more than 100 from the same period last year, but Fukushima reports no confirmed measles cases. Given measles’ high contagion, those eligible for routine immunizations and individuals planning international travel are advised to get vaccinated. The report highlights continued influenza transmission with easing numbers and reiterates ongoing public health guidance from the prefecture.",
+      "summaryOriginal": "Influenza activity persists in Fukushima Prefecture, with 545 reported cases across 81 medical facilities in the week ending March 22, a decrease of 105 from the prior week; warnings remain and basic infection-control measures are urged. Nationally, as of March 18, measles cases stood at 139, up by more than 100 from the same period last year, but Fukushima reports no confirmed measles cases. Given measles’ high contagion, those eligible for routine immunizations and individuals planning international travel are advised to get vaccinated. The report highlights continued influenza transmission with easing numbers and reiterates ongoing public health guidance from the prefecture.",
+      "publishedTimestamp": "2026-03-25T06:45:00+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/n/fct/category/society/fcf2ecbf41f050401c8a82625331f8934f",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles",
+        "Influenza"
+      ],
+      "locations": [
+        {
+          "name": "Fukushima-ken",
+          "lat": 37.38158,
+          "lon": 140.22199
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都",
+        "福島県"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
     {
       "articleId": "gnews_209108cf2a4d1234",
       "headline": "NEWS 麻しんの累計報告数が100例を超える―過去5年で最も多い［感染症発生動向調査2026年第10週（3月2日～3月8日）］ - 日本医事新報社",
@@ -119,8 +152,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "神奈川県",
-        "東京都"
+        "東京都",
+        "神奈川県"
       ],
       "dataSource": "Google News",
       "sourceName": "タウンニュース"
@@ -283,8 +316,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -469,8 +502,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -515,9 +548,9 @@
         }
       ],
       "prefectures": [
-        "千葉県",
         "愛知県",
-        "東京都"
+        "東京都",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -604,8 +637,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -684,8 +717,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "神奈川県",
-        "東京都"
+        "東京都",
+        "神奈川県"
       ],
       "dataSource": "Google News",
       "sourceName": "47NEWS"
@@ -935,8 +968,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1107,8 +1140,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "鹿児島県",
-        "福岡県"
+        "福岡県",
+        "鹿児島県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1290,8 +1323,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -1355,10 +1388,10 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "福岡県",
         "京都府",
-        "福井県",
-        "東京都"
+        "福井県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1432,9 +1465,9 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
+        "東京都",
         "福岡県",
-        "東京都"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1493,9 +1526,9 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
+        "東京都",
         "福岡県",
-        "東京都"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1656,8 +1689,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "鹿児島県",
-        "福岡県"
+        "福岡県",
+        "鹿児島県"
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
@@ -1854,8 +1887,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1885,8 +1918,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1987,32 +2020,13 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
         "愛知県",
+        "東京都",
         "新潟県",
-        "東京都"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_69442d1bc2d25308",
-      "headline": "「Aぇ! group」14日の福岡公演にはしか陽性の来場者「注意喚起のためお知らせ」（テレビ朝日系（ANN）） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-17T10:03:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iQktxcFRYUDZEdkxiaU8wamRwQnhVaXU0WXRkUmdibUdWaWFNalduYXNnWXk3YmZ3SE9GamZya1FkajJkRlotVmUyUFNhRGNKS0hOaENickdxN1NEZE4wUng5bk15ZWpEZzRtVGpIcExvQ0RVZ2ZNVlZzeEFwNGM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYWdhcmEuY28uanAvYXJ0aWNsZS82MTI2Mjg=",
@@ -2354,6 +2368,25 @@
       "sourceName": "オリコンニュース"
     },
     {
+      "articleId": "gnews_69442d1bc2d25308",
+      "headline": "「Aぇ! group」14日の福岡公演にはしか陽性の来場者「注意喚起のためお知らせ」（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-17T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iQktxcFRYUDZEdkxiaU8wamRwQnhVaXU0WXRkUmdibUdWaWFNalduYXNnWXk3YmZ3SE9GamZya1FkajJkRlotVmUyUFNhRGNKS0hOaENickdxN1NEZE4wUng5bk15ZWpEZzRtVGpIcExvQ0RVZ2ZNVlZzeEFwNGM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
       "articleId": "gnews_0eadc5421ad58a3c",
       "headline": "はしか患者が今年計100人に、昨年同時期22人から大幅増 最多は東京19人 - 産経ニュース",
       "headlineTranslated": "",
@@ -2424,10 +2457,10 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
         "愛知県",
+        "東京都",
         "新潟県",
-        "東京都"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2483,10 +2516,10 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
         "愛知県",
+        "東京都",
         "新潟県",
-        "東京都"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2542,10 +2575,10 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
         "愛知県",
+        "東京都",
         "新潟県",
-        "東京都"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2601,10 +2634,10 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
         "愛知県",
+        "東京都",
         "新潟県",
-        "東京都"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2663,8 +2696,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2799,9 +2832,9 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
+        "東京都",
         "佐賀県",
-        "東京都"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2839,8 +2872,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "広島県",
-        "鹿児島県"
+        "鹿児島県",
+        "広島県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -2908,8 +2941,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3161,31 +3194,12 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
+        "東京都",
         "福岡県",
-        "東京都"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_24eb77bf7cdb223c",
-      "headline": "麻疹流行の危険は依然として残っています。 - Vietnam.vn",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-10T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Tc3kwYWZaT194Rnh2SVd1S3ZXLWNQMlhzRllaV1NLTW1USWsyTEJqWVh6U3hLaXhzZ2gwMkY4YnhCcjMtZmREeng3dmdFcS10M1lJNTVEOTlHMF9aYkt6N01JYjZfdw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Vietnam.vn"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuc2hpbm1haS5jby5qcC9uZXdzL2FydGljbGUvZ2YwMWQ2bWxrb21uMzI3YzMwbmo0djkw",
@@ -3437,8 +3451,8 @@
         }
       ],
       "prefectures": [
-        "千葉県",
-        "東京都"
+        "東京都",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3491,8 +3505,8 @@
         }
       ],
       "prefectures": [
-        "長野県",
         "東京都",
+        "長野県",
         "山梨県"
       ],
       "dataSource": "BlueDot",
@@ -3669,8 +3683,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "埼玉県",
-        "東京都"
+        "東京都",
+        "埼玉県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -3850,8 +3864,8 @@
       ],
       "prefectures": [
         "愛知県",
-        "岐阜県",
-        "東京都"
+        "東京都",
+        "岐阜県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3989,8 +4003,8 @@
         }
       ],
       "prefectures": [
-        "岐阜県",
-        "東京都"
+        "東京都",
+        "岐阜県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4026,6 +4040,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_15303c20989a7c0e",
+      "headline": "はしかに感染…20代男性 医療機関を受診し陽性が判明 発症前にJRを利用 市は医療機関を受診する際は事前に連絡し、マスクの着用を徹底するように呼びかけ（埼玉新聞） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-02-28T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xd2FGbWZwa21tZ0FEMUVTVG9Nc3VES3ROd2JiNU1aOXhhVXJ1N29Ed0FZVWF0VWdwbmdtREMwcE9xUWFLdVdnLVhOOTNtTlVyQUR2WFJtcWEteXFreE5KdDRqSndfTEZZRVp1S2prTmZwalZUQ09fQ3M0c2lmR0k?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "埼玉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9sb2NhbC9rYW5zYWkvbmV3cy8yMDI2MDIyOC1HWU8xVDAwMDE3Lw==",
@@ -4067,9 +4100,9 @@
         }
       ],
       "prefectures": [
-        "香川県",
+        "東京都",
         "大阪府",
-        "東京都"
+        "香川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4138,8 +4171,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4271,8 +4304,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4401,8 +4434,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
