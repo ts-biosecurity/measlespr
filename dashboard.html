@@ -1009,6 +1009,13 @@ const ALL_DATA = [
     "元情報のURL": "https://www.city.kofu.yamanashi.jp/kenkoese/kenko/yobo/masin.html"
   },
   {
+    "ファイル名": "260303_横浜市_3.pdf",
+    "発出日": "2026-03-03",
+    "発出機関": "横浜市",
+    "概要": "横浜市で20代に麻しん発生。接触者の特定・健康観察を実施中。",
+    "元情報のURL": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/hokenjo/oshirase/202603030masin.files/0015_20260330.pdf"
+  },
+  {
     "ファイル名": "260304_千葉県.pdf",
     "発出日": "2026-03-04",
     "発出機関": "千葉県",
@@ -1476,6 +1483,7 @@ const CITY_TO_PREF = {
   '福井市': '福井県',
   '高岡市': '富山県',
   '長崎市': '長崎県',
+  '宮崎市': '宮崎県',
 };
 function prefFromFile(fname) {
   const m = fname.match(/^\d{6}_(.+)\.pdf$/);
