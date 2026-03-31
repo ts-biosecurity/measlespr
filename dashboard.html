@@ -90,7 +90,11 @@ tr:hover td{background:#f8fbff;}
     <h1>🦠 麻しん（はしか）に関するプレスリリース一覧</h1>
     <div class="sub" id="sub-date">都道府県別プレスリリース収集状況</div>
   </div>
-  <a href="https://ts-biosecurity.github.io/measlespr/measlesnewsjp.html" style="padding:6px 16px;border-radius:20px;background:#f39c12;color:#fff;font-size:12px;font-family:inherit;text-decoration:none;border:1.5px solid #e67e22;transition:all .2s;">ニュース記事一覧はこちら</a>
+  <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+    <a href="https://ts-biosecurity.github.io/measlespr/measlesnewsjp.html" style="padding:6px 16px;border-radius:20px;background:#f39c12;color:#fff;font-size:12px;font-family:inherit;text-decoration:none;border:1.5px solid #e67e22;transition:all .2s;">ニュース記事一覧はこちら</a>
+    <a href="https://id-info.jihs.go.jp/surveillance/idwr/diseases/measles/graph/index.html" target="_blank" rel="noopener" style="padding:6px 16px;border-radius:20px;background:#2980b9;color:#fff;font-size:12px;font-family:inherit;text-decoration:none;border:1.5px solid #2471a3;transition:all .2s;">麻しんIDWR速報グラフ</a>
+    <a href="https://kansen-levelmap.mhlw.go.jp/Byogentai/Pdf/data112j.pdf" target="_blank" rel="noopener" style="padding:6px 16px;border-radius:20px;background:#27ae60;color:#fff;font-size:12px;font-family:inherit;text-decoration:none;border:1.5px solid #1e8449;transition:all .2s;">麻しんウイルス検出状況</a>
+  </div>
 </header>
 
 <div class="period-bar" style="padding:6px 18px;background:#f0f5fb;flex-shrink:0;">
@@ -1433,7 +1437,7 @@ const ALL_DATA = [
 
 const TODAY = new Date();
 // 最終更新日時をヘッダーに表示（dashboard_sync.py が LAST_UPDATED を更新）
-const LAST_UPDATED = "2026-03-31 11:11 JST";
+const LAST_UPDATED = "2026-03-31 11:33 JST";
 document.getElementById('sub-date').textContent = `都道府県別プレスリリース収集状況 / 最終更新：${LAST_UPDATED}`;
 
 // ── State ─────────────────────────────────────────────────────────────────────
