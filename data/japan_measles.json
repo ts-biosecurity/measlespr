@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-04-02T07:18:37.571050+00:00",
+  "generated_at": "2026-04-02T09:02:47.752783+00:00",
   "date_range": {
     "start": "2026-03-03",
     "end": "2026-04-02"
   },
-  "total_articles": 152,
+  "total_articles": 154,
   "prefecture_summary": {
-    "全国（都道府県不明）": 28,
-    "東京都": 89,
-    "神奈川県": 11,
+    "東京都": 90,
+    "沖縄県": 10,
+    "全国（都道府県不明）": 27,
+    "福岡県": 20,
     "愛知県": 10,
-    "福岡県": 19,
+    "神奈川県": 11,
     "千葉県": 3,
     "宮崎県": 6,
     "長崎県": 12,
     "大分県": 3,
     "鹿児島県": 17,
+    "埼玉県": 1,
     "大阪府": 4,
-    "埼玉県": 2,
-    "沖縄県": 8,
     "三重県": 1,
     "佐賀県": 2,
     "北海道": 2,
@@ -32,6 +32,69 @@
     "長野県": 1
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly93d3cub2tpbmF3YXRpbWVzLmNvLmpwL2FydGljbGVzLy0vMTgwOTA0Nw==",
+      "headline": "【速報】沖縄で今年初のはしか感染　20代男性、県が行動歴調査 | 沖縄タイムス＋プラス",
+      "headlineTranslated": "Breaking: This year's first measles infection in Okinawa — a man in his 20s; prefecture investigates his movement history.",
+      "summary": "Measles in Okinawa: Okinawa Prefecture reports the year’s first measles case, an imported case in a man in his 20s in the Central Public Health Center area. He returned from outside Okinawa on March 28, developed fever, and tested positive. He visited two medical facilities under the Southern Public Health Center on March 29 and 31, and again on April 1. The onset date is under investigation. Measles is highly contagious and spreads via droplets, contact, and airborne routes; the virus can survive in air for up to two hours. No onward transmission from the facilities he used has been confirmed; risk is currently considered low. Health authorities are tracing his movements. Individuals with suspected measles should contact ahead and seek prompt care, and avoid public transport to prevent spread. Vaccination reduces risk.",
+      "summaryOriginal": "Measles in Okinawa: Okinawa Prefecture reports the year’s first measles case, an imported case in a man in his 20s in the Central Public Health Center area. He returned from outside Okinawa on March 28, developed fever, and tested positive. He visited two medical facilities under the Southern Public Health Center on March 29 and 31, and again on April 1. The onset date is under investigation. Measles is highly contagious and spreads via droplets, contact, and airborne routes; the virus can survive in air for up to two hours. No onward transmission from the facilities he used has been confirmed; risk is currently considered low. Health authorities are tracing his movements. Individuals with suspected measles should contact ahead and seek prompt care, and avoid public transport to prevent spread. Vaccination reduces risk.",
+      "publishedTimestamp": "2026-04-02T08:24:08+00:00",
+      "sourceUrl": "https://www.okinawatimes.co.jp/articles/-/1809047",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
+      "articleId": "gnews_c45fd776721487e3",
+      "headline": "【速報】沖縄で今年初のはしか感染 20代男性、県が行動歴調査（沖縄タイムス） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-02T08:01:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lQkNOYXJkUUpDYUpnWGJJNXY4RFZhdEhvMTMya1F6SkxNM3BYcFVFUGM2aHVjT1A4XzdCUjFUMElSYnJ1TWpzYlktbFpsVjRmQ0lvWlhwclk1TUtBY1dYNnF1ZWswVDgzVEV6QmRGX216Rl9FX0hLcnRpT2tlN28?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "沖縄県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_10eef40cb764b376",
+      "headline": "【速報】沖縄県で今年初のはしか患者を確認 20代男性、県外から帰沖後に発症 - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-02T07:28:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iajQxZUhJblh0cnNYU3VzUzV6eXEza3hKYVpObExVWDF3Q1FyTldOeWFZU1pSelRCMDlvbnVfcnpoQTlnbkhITkRzMzk0OURPbzVsNXRRRFRwMTRHRkNaaGw1LTc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "沖縄県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
+    },
     {
       "articleId": "gnews_95847eb3faa73e77",
       "headline": "感染拡大「はしか」症状と予防法とは 39〜40℃の高熱と全身に拡がる発疹 乳幼児は重症化リスク高【医師解説】 - Yahoo!ニュース",
@@ -69,6 +132,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "VOI.id"
+    },
+    {
+      "articleId": "gnews_b2c8abe4f39539e3",
+      "headline": "30代女性がはしか感染 今年県内で2人目 全国的に2025年より早いペースで増加 不特定多数との接触について調べる 福岡 - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-02T00:58:01+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tZ2pqakdrRlQ0bGdnMVE2TVVsT3Zma1doZ19TWm16eUlHaVBBS21OU3NlUktNMllJQ1VVYV8zUVR1OXpTYmpoZ0ZzMFdpTGd2djEtSHZKdzVfWjB2RzRlN0h1QXBubTNfZDdpd08yYlBvZDFpTUJKeTVUR2FkMTA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_4f6cd652fae3310a",
@@ -131,8 +213,8 @@
       ],
       "prefectures": [
         "東京都",
-        "神奈川県",
-        "愛知県"
+        "愛知県",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -535,10 +617,10 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "鹿児島県",
-        "大阪府",
-        "埼玉県"
+        "埼玉県",
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -588,10 +670,10 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "沖縄県",
-        "三重県",
-        "神奈川県"
+        "東京都",
+        "神奈川県",
+        "三重県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -758,8 +840,8 @@
         }
       ],
       "prefectures": [
-        "宮崎県",
-        "東京都"
+        "東京都",
+        "宮崎県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1020,25 +1102,6 @@
       "sourceName": "湘南人"
     },
     {
-      "articleId": "gnews_171927a284a3c69b",
-      "headline": "麻疹にかかった生後9ヶ月未満の乳幼児のほとんどは、人工呼吸器による補助が必要となる。 - vietnam.vn",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-29T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEtnLXNWM081bTlBREhVc2owWWZkWEtERmhrM2F0bTc4TWhuejhremdKbXRJU3ZJdFZ4bHQtTDZIdWloUFRKMmRkVXpsUmFyTjA3VFNBN0lqaEVFQl93cHVqYkFlREZQYkg4dDlnWjVpaloyN3BfV05NZE5TZjVZRmtmdEs4Smc?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "vietnam.vn"
-    },
-    {
       "articleId": "gnews_c7f6cadc558c4d75",
       "headline": "「はしか」長崎県内で２０１２年以来の確認…２０歳代女性が感染、ここ数日間は公共交通機関の利用などせず - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -1149,8 +1212,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1338,8 +1401,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "大分県",
-        "鹿児島県"
+        "鹿児島県",
+        "大分県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1526,8 +1589,8 @@
         }
       ],
       "prefectures": [
-        "大分県",
-        "東京都"
+        "東京都",
+        "大分県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1588,25 +1651,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "yomiuri.co.jp"
-    },
-    {
-      "articleId": "gnews_20fb8c0584c01b5e",
-      "headline": "はしかに感染…40代男性が感染確定前、スーパーやコンビニを利用 他の感染者と接触し、健康観察の対象になっていた男性…その後、発熱など発症（埼玉新聞） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-27T01:37:53+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xX01CaThzMDFqUFNmaW5kV3hzY2E3UHpLTFFWSzA2V3RSWVh6dS1IRkR2VXhsTE5TLVZVS0R5NGtaX3RqclRHYktva3pEbHdadENjZnltMXJyZTZJVkU5WTVHZnhJSG8zVk1NVXRJOHNXc2tpdTUxcjhpSU9wQzg?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "埼玉県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_e5b30407ed2f9682",
@@ -1741,8 +1785,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2054,8 +2098,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2132,8 +2176,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2520,8 +2564,8 @@
       "prefectures": [
         "東京都",
         "福井県",
-        "京都府",
-        "福岡県"
+        "福岡県",
+        "京都府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2557,8 +2601,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "鹿児島県",
+        "東京都",
         "福岡県"
       ],
       "dataSource": "BlueDot",
@@ -2599,8 +2643,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "鹿児島県",
+        "東京都",
         "福岡県"
       ],
       "dataSource": "BlueDot",
@@ -2826,8 +2870,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2857,8 +2901,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2959,10 +3003,10 @@
         }
       ],
       "prefectures": [
-        "新潟県",
+        "愛知県",
         "東京都",
-        "神奈川県",
-        "愛知県"
+        "新潟県",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3009,8 +3053,8 @@
       ],
       "prefectures": [
         "東京都",
-        "大阪府",
-        "福岡県"
+        "福岡県",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3340,10 +3384,10 @@
         }
       ],
       "prefectures": [
-        "新潟県",
+        "愛知県",
         "東京都",
-        "神奈川県",
-        "愛知県"
+        "新潟県",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3399,10 +3443,10 @@
         }
       ],
       "prefectures": [
-        "新潟県",
+        "愛知県",
         "東京都",
-        "神奈川県",
-        "愛知県"
+        "新潟県",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3458,10 +3502,10 @@
         }
       ],
       "prefectures": [
-        "新潟県",
+        "愛知県",
         "東京都",
-        "神奈川県",
-        "愛知県"
+        "新潟県",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3517,10 +3561,10 @@
         }
       ],
       "prefectures": [
-        "新潟県",
+        "愛知県",
         "東京都",
-        "神奈川県",
-        "愛知県"
+        "新潟県",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3671,8 +3715,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3906,8 +3950,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "鹿児島県",
+        "東京都",
         "福岡県"
       ],
       "dataSource": "BlueDot",
@@ -4164,8 +4208,8 @@
         }
       ],
       "prefectures": [
-        "千葉県",
-        "東京都"
+        "東京都",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
