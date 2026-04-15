@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-04-15T15:08:24.470785+00:00",
+  "generated_at": "2026-04-15T17:08:47.379906+00:00",
   "date_range": {
     "start": "2026-03-16",
     "end": "2026-04-15"
   },
-  "total_articles": 157,
+  "total_articles": 154,
   "prefecture_summary": {
-    "全国（都道府県不明）": 31,
+    "全国（都道府県不明）": 29,
+    "山梨県": 9,
     "長崎県": 10,
-    "東京都": 98,
+    "東京都": 97,
     "茨城県": 1,
     "埼玉県": 5,
-    "鹿児島県": 13,
-    "神奈川県": 12,
-    "愛知県": 14,
     "千葉県": 4,
+    "愛知県": 14,
+    "鹿児島県": 14,
+    "神奈川県": 12,
     "静岡県": 5,
     "沖縄県": 9,
     "長野県": 2,
     "宮崎県": 4,
-    "山梨県": 10,
     "栃木県": 3,
-    "京都府": 4,
+    "京都府": 3,
     "福岡県": 18,
     "大阪府": 5,
     "三重県": 1,
@@ -32,6 +32,44 @@
     "新潟県": 5
   },
   "articles": [
+    {
+      "articleId": "gnews_24267620c4a88fb6",
+      "headline": "麻疹200例突破：タタリ神かと思ったら、はしかでした - 日経メディカル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-15T14:45:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX3pYYUZZdm1JLWRhcWZJYzVyUFg0MWxoTVp0bWNLS1o1RllKWmNYYm92VmVnSExaVGlWRUpia09IS0NqSFdmcGVUOVJITVdmVlg0NktJNm84ckdlOGY0N2NhRVo4U1BHdl9qYndTRGVEU3FOMXlLYk9pQWZsYk02aXZxeWhkQQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日経メディカル"
+    },
+    {
+      "articleId": "gnews_1c7d3d0eac5df76b",
+      "headline": "20代女性が「はしか」感染 富士急行線とJR中央線を利用 感染確認は今月3人目 山梨（UTYテレビ山梨） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-15T11:43:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pTXdITFU1UW9mYmh5RlVLNWxyNG1hWGd2NWZfUFdEc2pKbEpidGNyZGtXOFViX3k3QzFOTlBsQmROVzc0Ml9aakkzWHpoY1RTaHN1OUt1TTZPTWlaS1lPc0hWQVJ3bjdIS2xGS2hGMnFsT3VYMzRUcUpKTktIOTA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "山梨県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
     {
       "articleId": "gnews_24cfc15cded0c386",
       "headline": "【松戸市議会議員】令和8年4月10日、麻しん（はしか）患者が発生しました！！ - 選挙ドットコム",
@@ -107,25 +145,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "朝日新聞"
-    },
-    {
-      "articleId": "gnews_17b3a66540514eb5",
-      "headline": "日本の麻疹症例は3.6倍に急増 - VOI.id",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-14T17:26:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBuZ3lrMEo0M0ZhQ2gzQlFUOFptbnpFT1BaZGw2Z2tySndzeUpOQ2x2YTM5ajhyV0VpeS1HQ0pUY0toZFXSAUJBVV95cUxQbUk0Y3gyMzZpWWk4YVJQWDVmMUZLa0NpLVRURlZ5QUxRZkZ6WDh4c1hJNGRhOV9ZUkIzQW05b2VtcWc?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "VOI.id"
     },
     {
       "articleId": "gnews_64e7dd52cadf9bed",
@@ -287,11 +306,11 @@
       ],
       "prefectures": [
         "埼玉県",
-        "鹿児島県",
-        "神奈川県",
+        "千葉県",
         "愛知県",
         "東京都",
-        "千葉県"
+        "鹿児島県",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -381,8 +400,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "東京都",
+        "鹿児島県",
         "愛知県"
       ],
       "dataSource": "BlueDot",
@@ -798,6 +817,25 @@
       "sourceName": "静岡新聞DIGITAL"
     },
     {
+      "articleId": "gnews_5d1c7eb472577386",
+      "headline": "医療従事者の摂取歴「平時から確認を」　　麻疹予防でJIHS - MEDIFAX web",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T09:37:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uWW1aTWU3TjBjSXRORDdwWTB3UUk3UnU2TEhpUG1NODhrNEN3bWsyOUpYRFA3QVZlYXpSX0F0aUhhMjFIb204cNIBTkFVX3lxTE5MdGFTOTJaUXA5Q1VWRUFaR1cxRUdBSGRUTi1mWnBxZmV5Qy13ME0xeWFGRG1OSUJraFR4c1dOZWNCVVdGYmpKSGtxdHROUQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "MEDIFAX web"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cuYXQtcy5jb20vc25ld3MvYXJ0aWNsZS9hdHMvMTk0OTkxMC5odG1s",
       "headline": "【速報】静岡県内で2026年初の「はしか」患者を確認｜静岡新聞アットエス",
       "headlineTranslated": "Breaking: First measles patient of 2026 confirmed in Shizuoka Prefecture",
@@ -990,8 +1028,8 @@
         }
       ],
       "prefectures": [
-        "静岡県",
         "東京都",
+        "静岡県",
         "長野県"
       ],
       "dataSource": "BlueDot",
@@ -1096,8 +1134,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1153,8 +1191,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "宮崎県"
+        "宮崎県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1186,25 +1224,6 @@
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-09T11:55:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OUHVkOTVrSU1lV0x1WkxrdzR0QURSVHBrR2ZiLTdyOXplZXBqcC1qNFFsR0RBc3BISXVJV2hIR1ZfdnJmZksyZG8ya1FadktzcDhXWms0VEtvdnJWTGNuOEJNQQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "山梨県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
-    },
-    {
-      "articleId": "gnews_b7902e0b4f8ffd0b",
-      "headline": "30代女性が麻しん（はしか）感染 「特急かいじ」で７日（火）に甲府市へ 市が注意喚起 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-09T11:55:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUZ2VROTl6RXhYRTNseF9LbVhzYWdweHlUMGdWZHBEanBzOThVa3lqYi1jRzNFcE82RmFIN3ZieUpJalBDeTNDMDBvckFVNnhSMncwTTA3VXI5MEZhMWpnag?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -1291,11 +1310,11 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "神奈川県",
         "愛知県",
+        "東京都",
+        "鹿児島県",
         "栃木県",
-        "東京都"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1333,8 +1352,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -1397,25 +1416,6 @@
       "sourceName": "TBS NEWS DIG"
     },
     {
-      "articleId": "gnews_50faf9b566d5b19e",
-      "headline": "麻しん患者が発生 JR身延線や商業施設を利用 県内では2019年以来、7年ぶり 山梨県が注意喚起 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-07T11:44:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GQ3dkV1V5Ync5R1FZcWN6UXZGbkxvdUp2ckVWYlZrVnVOZ3c3T2phSWlJdTY0RUtqOWpoXy1wRlVmYmd3eGZCWUZUaWl2RVRiRWdLdHd5a1JoSXUwM243dg?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "山梨県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
-    },
-    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL3licy9jYXRlZ29yeS9zb2NpZXR5L3lzNzY3NDE4MTMxNTc5NGIwZDhiZmI3YmRlYjNjYmMwNmY=",
       "headline": "峡南地域の20代男性が\"はしか\"感染 5日に身延線や中央市のスーパーを利用 山梨（2026年4月7日掲載）｜YBS NEWS NNN",
       "headlineTranslated": "Measles infection in a man in his 20s in the Konan region; on the 5th he used the Minobu Line and supermarkets in Chuo City, Yamanashi (posted April 7, 2026) | YBS NEWS NNN.",
@@ -1451,9 +1451,9 @@
         }
       ],
       "prefectures": [
+        "愛知県",
         "東京都",
-        "山梨県",
-        "愛知県"
+        "山梨県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1499,30 +1499,11 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_bff102819a338dc6",
-      "headline": "【図解】麻しん（はしか）について (Yahoo!ニュース オリジナル THE PAGE) - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-07T10:35:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMDF3bzNVZGs1cmdlSXBIY2tVd0R3N2h5S00yLV9rdEx5Sm1lOWRCWFdYWWR1VDhSUFJsdGxMZjd5TzZoQjhrQWpJSnk0QktsaUl2UGR5QlBtZVphTDltR3hWdDdmWjdsQVU2S1pGYjNhVHRzWUN0UkY3RF84MFIzZzJKMTY1Y19iWXJKZTFR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_e2461de873c12865",
@@ -1538,8 +1519,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1734,8 +1715,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1775,8 +1756,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
         "東京都",
+        "沖縄県",
         "千葉県"
       ],
       "dataSource": "BlueDot",
@@ -1807,8 +1788,8 @@
         }
       ],
       "prefectures": [
-        "栃木県",
-        "東京都"
+        "東京都",
+        "栃木県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1853,9 +1834,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
+        "福岡県",
         "愛知県",
-        "福岡県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1911,8 +1892,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2033,11 +2014,11 @@
       ],
       "prefectures": [
         "埼玉県",
-        "大阪府",
-        "神奈川県",
+        "千葉県",
         "愛知県",
+        "大阪府",
         "東京都",
-        "千葉県"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2187,8 +2168,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2211,25 +2192,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.maebashi.gunma.jp"
-    },
-    {
-      "articleId": "gnews_afcef2f787324d64",
-      "headline": "【医師が注意喚起】麻疹が感染拡大｢妊活前にワクチン｣の切実な理由…発症者が去っても感染力は持続､新生児は高リスク - 東洋経済オンライン",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-01T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YVkVja2doNG9KSUNFSklRWE9iWDVmSjFYZXVIaTNIQlpfMno3YzRKSE9feGdnU0trVkZibHY4UEdMX184UmJ5MHFlN3VfRzNwZklkLVo2a1hZTWFyWW53?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "東洋経済オンライン"
     },
     {
       "articleId": "aHR0cHM6Ly9qaXNpbi5qcC9kb21lc3RpYy8yNTc0NTA4Lw==",
@@ -2281,8 +2243,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2317,8 +2279,8 @@
         }
       ],
       "prefectures": [
-        "長崎県",
-        "東京都"
+        "東京都",
+        "長崎県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2347,25 +2309,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_c99c44553256c055",
-      "headline": "麻疹（はしか）が前年比4倍のペースで大流行中。今、警戒すべき理由を医師に聞く - メディカルドック",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-31T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZUnQ3Z3VTS1VySllpMFhreG1kVjd6VC1WYVI5ZFlKTllIN0ptdUFsMFhXTkp0WDh5TmM4cjljbmFjcE1vaVhQWi00MzZ1cnlXZFpHU2VGbw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "メディカルドック"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5LzZkZDdhNzNhNjk5ZjQwZGNhMDA4Mzc3Nzc0NjNjYjIy",
@@ -2427,9 +2370,9 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
         "鹿児島県",
         "東京都",
+        "埼玉県",
         "大阪府"
       ],
       "dataSource": "BlueDot",
@@ -2480,10 +2423,10 @@
         }
       ],
       "prefectures": [
-        "三重県",
-        "沖縄県",
         "東京都",
-        "神奈川県"
+        "沖縄県",
+        "神奈川県",
+        "三重県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2554,8 +2497,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "宮崎県"
+        "宮崎県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2693,8 +2636,8 @@
         }
       ],
       "prefectures": [
-        "長崎県",
-        "東京都"
+        "東京都",
+        "長崎県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2755,8 +2698,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2791,8 +2734,8 @@
         }
       ],
       "prefectures": [
-        "長崎県",
-        "東京都"
+        "東京都",
+        "長崎県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2979,11 +2922,30 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大分県"
+        "大分県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_4b42b4c82446e93c",
+      "headline": "「はしか」新たに1人感染 鹿児島県内今年24人に - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-27T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03allsSVpnUm8tUFNjaVY3TmFZNlhDdWZWcVdNZW9iYVRtVE9OcGJFRHBjUXg5clRHdjd5WENmN3RkUEFnQmd2QXZvVUNCU2J1TjNBN2dDcklIWkkyeWFXTkhZMWVyRjg?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "鹿児島県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_429492d3b9e8d252",
@@ -3067,8 +3029,8 @@
         }
       ],
       "prefectures": [
-        "栃木県",
-        "東京都"
+        "東京都",
+        "栃木県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3098,8 +3060,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3194,8 +3156,8 @@
         }
       ],
       "prefectures": [
-        "福島県",
-        "東京都"
+        "東京都",
+        "福島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3249,8 +3211,8 @@
         }
       ],
       "prefectures": [
-        "山梨県",
-        "東京都"
+        "東京都",
+        "山梨県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3392,8 +3354,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3438,9 +3400,9 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "東京都",
-        "千葉県"
+        "千葉県",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3470,8 +3432,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3590,8 +3552,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3622,8 +3584,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3683,8 +3645,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3719,8 +3681,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3755,8 +3717,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3791,8 +3753,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3837,10 +3799,10 @@
         }
       ],
       "prefectures": [
-        "福井県",
+        "福岡県",
         "京都府",
-        "東京都",
-        "福岡県"
+        "福井県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3876,9 +3838,9 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
+        "福岡県",
         "東京都",
-        "福岡県"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3918,9 +3880,9 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
+        "福岡県",
         "東京都",
-        "福岡県"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4059,8 +4021,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4126,8 +4088,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4157,8 +4119,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4308,9 +4270,9 @@
         }
       ],
       "prefectures": [
+        "福岡県",
         "東京都",
-        "大阪府",
-        "福岡県"
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4452,8 +4414,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4488,8 +4450,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4524,31 +4486,11 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_bea5ed3fe2c68d5c",
-      "headline": "都内ではしか患者が急増、飲食店で集団感染も 都が注意を呼びかけ [東京都] - 朝日新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-17T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50STJ3d3dRcnAzaGtNa3NsT25IRXVwNjl6TlB6aUFhT0hVSnBtb3VhZmZmeGFFSEsxZm5vcU5KczBET2pvZ3E1U1ZzTjNSVjdLc2lSSW9mNzNITzlVWGpCdVpVeDZOdk0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "京都府",
-        "東京都"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "朝日新聞"
     },
     {
       "articleId": "gnews_d33e924973748abe",
