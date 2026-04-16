@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-04-15T22:46:02.968675+00:00",
+  "generated_at": "2026-04-16T02:56:54.269294+00:00",
   "date_range": {
-    "start": "2026-03-16",
-    "end": "2026-04-15"
+    "start": "2026-03-17",
+    "end": "2026-04-16"
   },
-  "total_articles": 151,
+  "total_articles": 153,
   "prefecture_summary": {
-    "全国（都道府県不明）": 29,
-    "山梨県": 8,
-    "長崎県": 11,
-    "茨城県": 1,
+    "全国（都道府県不明）": 31,
+    "三重県": 2,
     "東京都": 97,
-    "愛知県": 14,
+    "山梨県": 8,
+    "長崎県": 10,
+    "茨城県": 1,
     "鹿児島県": 13,
     "千葉県": 4,
-    "埼玉県": 4,
     "神奈川県": 12,
+    "愛知県": 14,
+    "埼玉県": 4,
     "静岡県": 5,
     "沖縄県": 9,
-    "長野県": 2,
+    "長野県": 3,
     "宮崎県": 3,
     "栃木県": 3,
     "京都府": 3,
     "福岡県": 18,
-    "大阪府": 5,
-    "三重県": 1,
+    "大阪府": 4,
     "大分県": 1,
     "福島県": 1,
     "北海道": 1,
@@ -71,6 +71,47 @@
       "sourceName": "日経メディカル"
     },
     {
+      "articleId": "aHR0cHM6Ly93d3cuaXNlbnAuY28uanAvMjAyNi8wNC8xNi8xNDYyMTAv6Yi06bm-44Gu55S35oCn44Gv44GX44GL5oSf5p+T44CA44Kk44Oz44OJ44GL44KJ5biw5Zu944CA5LiJ6YeN55yMLw==",
+      "headline": "鈴鹿の男性はしか感染　インドから帰国　三重県内今年初確認 - 伊勢新聞",
+      "headlineTranslated": "Man from Suzuka contracted measles after returning from India; first measles case in Mie Prefecture this year - Ise Shimbun",
+      "summary": "Measles case confirmed in Suzuka, Mie Prefecture, Japan—the first in the prefecture this year. A man in his 20s, a company employee from Suzuka City, returned from India on April 3 and subsequently developed chills, fever, and rash. He sought medical care at facilities from April 6 to 15; genetic testing on April 15 confirmed measles infection. The transmission source remains unknown, but incubation period suggests infection in India; the Suzuka Public Health Center is tracing the patient’s movements and will publicly disclose any contact with large groups if applicable. Last year, Mie Prefecture reported two measles cases after a six-year gap. Residents with fever and rash are advised to contact a medical facility before visiting. No secondary cases identified in the prefecture as of April 15.",
+      "summaryOriginal": "Measles case confirmed in Suzuka, Mie Prefecture, Japan—the first in the prefecture this year. A man in his 20s, a company employee from Suzuka City, returned from India on April 3 and subsequently developed chills, fever, and rash. He sought medical care at facilities from April 6 to 15; genetic testing on April 15 confirmed measles infection. The transmission source remains unknown, but incubation period suggests infection in India; the Suzuka Public Health Center is tracing the patient’s movements and will publicly disclose any contact with large groups if applicable. Last year, Mie Prefecture reported two measles cases after a six-year gap. Residents with fever and rash are advised to contact a medical facility before visiting. No secondary cases identified in the prefecture as of April 15.",
+      "publishedTimestamp": "2026-04-15T12:41:51+00:00",
+      "sourceUrl": "https://www.isenp.co.jp/2026/04/16/146210/鈴鹿の男性はしか感染　インドから帰国　三重県/",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Suzuka",
+          "lat": 34.88333,
+          "lon": 136.58333
+        },
+        {
+          "name": "Mie-ken",
+          "lat": 34.52123,
+          "lon": 136.38296
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        },
+        {
+          "name": "Republic of India",
+          "lat": 22.0,
+          "lon": 79.0
+        }
+      ],
+      "prefectures": [
+        "三重県",
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
       "articleId": "gnews_1c7d3d0eac5df76b",
       "headline": "20代女性が「はしか」感染 富士急行線とJR中央線を利用 感染確認は今月3人目 山梨（UTYテレビ山梨） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -107,25 +148,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "選挙ドットコム"
-    },
-    {
-      "articleId": "gnews_125c6866477bf135",
-      "headline": "「はしか」２０歳代の女性が感染と長崎市が発表…長崎県外ではしか患者と接触（読売新聞オンライン） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-15T02:46:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00QnlQSTVLVlk1RUtOZEFKS0JYR3l3NEx4U1dMZDJSTFNVNEtjTFhGdE9vSEpWdGIxU2lrRnlkS1JHSEdXWHNDN1lXZ0MtMVZ5MzctOTJvTHc0WUxIUWVOS0lCY1pZTGFOTE5wVng4c2RMckxpeVljdVRTcE10RXM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "長崎県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_d38308e79f90611b",
@@ -209,20 +231,20 @@
         }
       ],
       "prefectures": [
-        "茨城県",
-        "東京都"
+        "東京都",
+        "茨城県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
     },
     {
-      "articleId": "gnews_e5d2573d1fb8698a",
-      "headline": "麻しん（はしか）の患者発生 全国的に感染者数が増加 頭痛や倦怠感などの症状 長崎市内2例目 - FNNプライムオンライン",
+      "articleId": "gnews_77990431e73f3c0c",
+      "headline": "麻しん（はしか）の患者発生 全国的に感染者数が増加 頭痛や倦怠感などの症状 長崎市内2例目｜ニュース - ktn.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-14T10:05:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PeFkySFV4TGQ1cjZlZ3o4RUJkSU1hQ0tiUFZCY0tGSTltTVl5UlNQUlh1Rk1ycllVcldCN1FyUG5ZaTVFbXltZUpBN3FrUQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzOHNBeHZmOEJEYk9xZVVRQWtXSVJKbl9VUEhFVlN0UndMYUpyR08xTHBCM3BCVXNOSmtlQ0I3aFQzdGtSZU1FNy1KMzVTQURmZmdpSkd3UGRNZklvTHptUGVB?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -232,7 +254,7 @@
         "長崎県"
       ],
       "dataSource": "Google News",
-      "sourceName": "FNNプライムオンライン"
+      "sourceName": "ktn.co.jp"
     },
     {
       "articleId": "gnews_c449c5a4e310f3c7",
@@ -324,12 +346,12 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "鹿児島県",
         "千葉県",
+        "神奈川県",
+        "愛知県",
         "埼玉県",
-        "東京都",
-        "神奈川県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1028,8 +1050,8 @@
         }
       ],
       "prefectures": [
-        "長野県",
         "静岡県",
+        "長野県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -1070,6 +1092,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_ca9490bd5ff9a7fd",
+      "headline": "はしか患者が北陸新幹線の大宮－長野駅間を往復乗車 コーヒーチェーン店、長野電鉄も利用 非常に強い感染力…不特定多数の人と接触している可能性 感染が疑われる場合は受診を 長野市保健所 - nbs-tv.co.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-10T07:06:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zRHQzVHppWExkNEVZMlp6SEd1cnBGUGo3bkRKUUUxbUhUcUFsYV9icVo0RlhYczg4c3l5a3A4M2FkNDhJbl9Hdk9TTmFHY2VsdTJYTVhKVTloWTlsS2c?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "長野県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "nbs-tv.co.jp"
     },
     {
       "articleId": "gnews_680d100ea2bc0137",
@@ -1272,11 +1313,11 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "鹿児島県",
-        "東京都",
+        "栃木県",
         "神奈川県",
-        "栃木県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1314,8 +1355,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -1532,8 +1573,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1628,6 +1669,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_4f4a8ad821481f22",
+      "headline": "麻しん（はしか）患者の発生について - 公明党",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-05T23:45:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNY2NZd1ZZWFliSzBjRXltQzNvRV91Wm82SFFSMWNLei1ZNlM5b190dlRjMzZ3QW5HMjJfRE9lZEs3WklOamZGdmpIWDBORkpaTHV6SVFhZXVxM3pOQ1daTVcwWTQ3dl9lV0xkVnNJcElhOGNnWFhhclJ1a002UkhIcFotRTJqcjhXanFVQXRETWpPNXlhSVotbXEwZXRteE1PT1JyNDNVS0pNVl9BSmkyNGg0UUNJU3UzX0RBS2VTblJTUHF6MF9zbjJZbXVOQWJaTmZwZ2xlVmh0Mklob0dHVFRGY0JVZU5OU2RoTXJYZmQtTlJHT3p3Y2Fmd1M3bHgzaU50eWtDSXJTb0pvY1owRkwzZDh5NUx6R1NEcWthLTdQLVIwSEo4?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "公明党"
+    },
+    {
       "articleId": "aHR0cHM6Ly9yeXVreXVzaGltcG8uanAvbmF0aW9uYWwvZW50cnktNTE3MTEyNS5odG1s",
       "headline": "はしか感染男性、沖縄県内の移動は自家用車　成田→那覇は航空機　県が行動経路発表",
       "headlineTranslated": "Measles-infected man: Movements within Okinawa Prefecture by private car; Narita to Naha by air; prefecture announces travel route.",
@@ -1719,8 +1779,8 @@
       ],
       "prefectures": [
         "沖縄県",
-        "千葉県",
-        "東京都"
+        "東京都",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1975,12 +2035,12 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "千葉県",
-        "埼玉県",
-        "東京都",
+        "神奈川県",
         "大阪府",
-        "神奈川県"
+        "愛知県",
+        "埼玉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2026,8 +2086,8 @@
         }
       ],
       "prefectures": [
-        "宮崎県",
-        "東京都"
+        "東京都",
+        "宮崎県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2098,8 +2158,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "神奈川県",
+        "愛知県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -2332,10 +2392,10 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "大阪府",
-        "埼玉県",
-        "東京都"
+        "鹿児島県",
+        "東京都",
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2385,10 +2445,10 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
         "神奈川県",
+        "三重県",
         "東京都",
-        "三重県"
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2485,13 +2545,13 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_814f9f8e89ae3918",
+      "articleId": "gnews_4183eae29e5bfa7f",
       "headline": "麻しん（はしか）患者の石垣島滞在を確認 沖縄県が注意喚起 - TBS NEWS DIG",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-30T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90MjM1LXlNaXlWMDBublRmT184bl91UE14U3Jpd1M3RUVuVWNIY2kwYTJCUk5Fc1V6WFdJRjl1OFpDanhVX3RlbFlDMUY3ZlhoTkVhVTBlVQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xb1ZQM1A4RHFsOENrNzBaLVRhb3VaTWJsN2JXdkJBNExNNUdib0lLbEtUVkxxQ2w5ZUdFRTNwbXo1ZUlRTk1Ta3BLWXlPNjdib0Z6WERwOXNjbjVnT1VINQ?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -2884,8 +2944,8 @@
         }
       ],
       "prefectures": [
-        "大分県",
-        "東京都"
+        "東京都",
+        "大分県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3099,8 +3159,8 @@
         }
       ],
       "prefectures": [
-        "福島県",
-        "東京都"
+        "東京都",
+        "福島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3344,8 +3404,8 @@
       ],
       "prefectures": [
         "愛知県",
-        "千葉県",
-        "東京都"
+        "東京都",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3762,9 +3822,9 @@
       ],
       "prefectures": [
         "福岡県",
-        "福井県",
+        "東京都",
         "京都府",
-        "東京都"
+        "福井県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4183,10 +4243,10 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "神奈川県",
-        "新潟県",
-        "東京都"
+        "愛知県",
+        "東京都",
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4232,9 +4292,9 @@
         }
       ],
       "prefectures": [
-        "福岡県",
         "大阪府",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4455,6 +4515,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_d33e924973748abe",
+      "headline": "Eastern Congo begins mass measles vaccination for 260,000 children - Reuters",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-17T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VVmpVa2owZ0dSZWJ1a0VheU9Bbm85VHA3NlphMXpUSkE2UG45YmRtRFdzUnJ2ZEJoeXdrR1NvMy1UOERrU1Y1THNrVTJ2T01IYldVdV9LVnNqWVJ3d0NpWU1GR0dyZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Reuters"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cubmlpZ2F0YS1uaXBwby5jby5qcC9hcnRpY2xlcy8tLzc5NzgxNw==",
       "headline": "【はしか】全国で感染拡大、新潟は全国で３番目に多く、10日ほどで発熱やせき・発疹 | 新潟日報",
       "headlineTranslated": "Measles: Nationwide spread; Niigata ranks third nationwide, with fever, cough and rash appearing in about 10 days.",
@@ -4506,10 +4585,10 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "神奈川県",
-        "新潟県",
-        "東京都"
+        "愛知県",
+        "東京都",
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4565,10 +4644,10 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "神奈川県",
-        "新潟県",
-        "東京都"
+        "愛知県",
+        "東京都",
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4624,10 +4703,10 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "神奈川県",
-        "新潟県",
-        "東京都"
+        "愛知県",
+        "東京都",
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4683,51 +4762,10 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "神奈川県",
-        "新潟県",
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL3l0di9jYXRlZ29yeS9zb2NpZXR5L3l0YzU5OTU4ODFlMTE5NDg5ZGI1YjVlYzgzYWRjYjhiYzM=",
-      "headline": "【速報】大阪府で30代男性の「はしか」感染確認　発症前後の利用施設を公表し注意喚起　ことし11例目（2026年3月16日掲載）｜YTV NEWS NNN",
-      "headlineTranslated": "Breaking: Measles infection confirmed in a man in his 30s in Osaka Prefecture; facilities used around onset disclosed and a warning issued; 11th case of the year (posted March 16, 2026) | YTV NEWS NNN",
-      "summary": "Measles infection confirmed in a man in his 30s in Osaka Prefecture. The patient tested positive on March 13, following a report from a medical facility in Osaka City. Osaka Prefecture and Osaka City Public Health Centers disclosed the venues he used, warning that he may have had contact with numerous people. They urged anyone who develops fever or rash by March 28 to first contact a healthcare provider, wear a mask, avoid public transport, and seek prompt evaluation. The patient’s movement includes March 7, 3:00-4:00 p.m., Gyomu Super Kire-nishi store, Hirano Ward, Osaka City. Officials note the measles virus survives in the air for less than two hours, and currently there is no infection risk tied to facilities the patient visited. As of March 15, Osaka Prefecture reported 11 measles cases this year.",
-      "summaryOriginal": "Measles infection confirmed in a man in his 30s in Osaka Prefecture. The patient tested positive on March 13, following a report from a medical facility in Osaka City. Osaka Prefecture and Osaka City Public Health Centers disclosed the venues he used, warning that he may have had contact with numerous people. They urged anyone who develops fever or rash by March 28 to first contact a healthcare provider, wear a mask, avoid public transport, and seek prompt evaluation. The patient’s movement includes March 7, 3:00-4:00 p.m., Gyomu Super Kire-nishi store, Hirano Ward, Osaka City. Officials note the measles virus survives in the air for less than two hours, and currently there is no infection risk tied to facilities the patient visited. As of March 15, Osaka Prefecture reported 11 measles cases this year.",
-      "publishedTimestamp": "2026-03-16T11:05:01+00:00",
-      "sourceUrl": "https://news.ntv.co.jp/n/ytv/category/society/ytc5995881e119489db5b5ec83adcb8bc3",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Ōsaka-fu",
-          "lat": 34.68631,
-          "lon": 135.51968
-        },
-        {
-          "name": "Osaka",
-          "lat": 34.69374,
-          "lon": 135.50218
-        },
-        {
-          "name": "Osaka-shi",
-          "lat": 34.69374,
-          "lon": 135.5022
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "大阪府",
-        "東京都"
+        "愛知県",
+        "東京都",
+        "新潟県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
