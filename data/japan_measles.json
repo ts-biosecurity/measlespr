@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-04-19T18:56:57.889224+00:00",
+  "generated_at": "2026-04-19T20:42:23.452648+00:00",
   "date_range": {
     "start": "2026-03-20",
     "end": "2026-04-19"
   },
-  "total_articles": 133,
+  "total_articles": 134,
   "prefecture_summary": {
+    "東京都": 77,
     "全国（都道府県不明）": 31,
     "鹿児島県": 14,
     "広島県": 1,
-    "東京都": 76,
     "愛知県": 12,
     "静岡県": 6,
     "埼玉県": 6,
     "福岡県": 6,
     "京都府": 1,
-    "岡山県": 1,
     "神奈川県": 8,
     "千葉県": 5,
+    "岡山県": 1,
     "三重県": 4,
     "山梨県": 7,
     "長崎県": 11,
@@ -33,13 +33,40 @@
   },
   "articles": [
     {
-      "articleId": "gnews_8cecdc0bf4f29131",
+      "articleId": "aHR0cHM6Ly9tYWluaWNoaS5qcC9hcnRpY2xlcy8yMDI2MDQyMC9kZG0vMDA1LzA3MC8wNzkwMDBj",
+      "headline": "社説：はしかの感染者増加　軽視せずに着実な対策を",
+      "headlineTranslated": "Editorial: Rising measles cases — do not underestimate them; implement steady measures.",
+      "summary": "Measles cases are rising globally, with 236 cases in Japan by April 5, 2026 (preliminary), nearing last year's total. Outbreaks are centered in developing countries; Japan, which eliminated measles in 2015 per the WHO, says current infections were likely imported. Measles is extremely contagious, with an R0 of 12–18, spreading via droplets, contact, and airborne routes, and can transmit before symptoms. Typical symptoms are high fever (>39°C) and rash; encephalitis occurs in about 1 in 1,000 cases. There is no specific antiviral; vaccination is the most effective prevention, reducing incidence and severe complications. The goal is two-dose vaccination before elementary school at 95% coverage; FY2024 rate was 91%. Since COVID-19, vaccine hesitancy on social media has hindered progress. Public health actions include tracing transmission and contacts while protecting privacy, and publishing venues visited by patients. Travelers should check local information and monitor health after return.",
+      "summaryOriginal": "Measles cases are rising globally, with 236 cases in Japan by April 5, 2026 (preliminary), nearing last year's total. Outbreaks are centered in developing countries; Japan, which eliminated measles in 2015 per the WHO, says current infections were likely imported. Measles is extremely contagious, with an R0 of 12–18, spreading via droplets, contact, and airborne routes, and can transmit before symptoms. Typical symptoms are high fever (>39°C) and rash; encephalitis occurs in about 1 in 1,000 cases. There is no specific antiviral; vaccination is the most effective prevention, reducing incidence and severe complications. The goal is two-dose vaccination before elementary school at 95% coverage; FY2024 rate was 91%. Since COVID-19, vaccine hesitancy on social media has hindered progress. Public health actions include tracing transmission and contacts while protecting privacy, and publishing venues visited by patients. Travelers should check local information and monitor health after return.",
+      "publishedTimestamp": "2026-04-19T19:41:10+00:00",
+      "sourceUrl": "https://mainichi.jp/articles/20260420/ddm/005/070/079000c",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "COVID-19",
+        "Measles",
+        "Unknown Encephalitis"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
+      "articleId": "gnews_bd7abc76cd04d198",
       "headline": "麻疹はワクチン接種率が毎年1％下がるだけで1兆円規模の経済損失を生む恐れ - ナゾロジー",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-19T13:01:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkozWDV0RmRjZmJPSWlXcUFxWXNqX3doejlYS3Y4bzVyN2d5S245SmpET2FpcUFCc1FTY21Lb1ExSGJfR2Z0ME9MTzZ1aXVjUjMw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iU2pCeUlFcmRRV3NYc2xiaU1Gb2FiVmJveHhmaFdYUTRpejNZaHc0b0dKXzJwbG9BRWRCVXdmZXd1b2J5UWVrQU1jV3pfN0xwWFBrVHl1c2dDYzQ?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -50,6 +77,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ナゾロジー"
+    },
+    {
+      "articleId": "gnews_2e31fa5b8dcc6d6f",
+      "headline": "「感染症でも宝塚が見たかった…」麻疹感染の男が不特定多数と接触の疑い [65ca8f] - Fathom Journal",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-18T23:59:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40bllNSmRtYlJkX2JLN0FOczVtV2p4cV9JVlVRV3gza0dEeFdlUzdfanNEMWVrNVh4SmZQV3F5MEozTk95RmQ0LWM1TnViRkstT2REeU1fYzlCLXBRQ1h5WWVkQ2NFZlJ6TXF4ZXRVVks?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Fathom Journal"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuY2h1Z29rdS1ucC5jby5qcC9hcnRpY2xlcy8tLzgxOTI3OQ==",
@@ -104,9 +150,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "鹿児島県",
-        "広島県",
-        "東京都"
+        "広島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -196,9 +242,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "愛知県",
-        "鹿児島県",
-        "東京都"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -283,8 +329,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -485,13 +531,13 @@
         }
       ],
       "prefectures": [
-        "岡山県",
-        "東京都",
-        "埼玉県",
-        "鹿児島県",
-        "神奈川県",
         "愛知県",
-        "千葉県"
+        "鹿児島県",
+        "東京都",
+        "神奈川県",
+        "埼玉県",
+        "千葉県",
+        "岡山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -551,9 +597,9 @@
         }
       ],
       "prefectures": [
-        "三重県",
+        "東京都",
         "愛知県",
-        "東京都"
+        "三重県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -929,8 +975,8 @@
         }
       ],
       "prefectures": [
-        "茨城県",
-        "東京都"
+        "東京都",
+        "茨城県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1025,11 +1071,11 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "埼玉県",
-        "鹿児島県",
-        "神奈川県",
         "愛知県",
+        "鹿児島県",
+        "東京都",
+        "神奈川県",
+        "埼玉県",
         "千葉県"
       ],
       "dataSource": "BlueDot",
@@ -1120,9 +1166,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "愛知県",
-        "鹿児島県",
-        "東京都"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1366,25 +1412,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_83cc7a6136cb5a61",
-      "headline": "麻疹確定症例8372件 接種率低下で感染拡大懸念 - じゃかるた新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-13T14:09:19+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DRWYxQjNBRExiVDIwQ1BNTnowX2FGMTU0b1dYMXZXTW40REhZTUlMOFd3Nm5KRnNLcVh3NzIzLWRoT21ENERwSDJlZGFVblhwem5kc3VVRGJiQTlRcERZNUQtMA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "じゃかるた新聞"
     },
     {
       "articleId": "gnews_39de6dfffbd17f5f",
@@ -1653,9 +1680,9 @@
         }
       ],
       "prefectures": [
-        "長野県",
         "静岡県",
-        "東京都"
+        "東京都",
+        "長野県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1840,11 +1867,11 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県",
-        "神奈川県",
         "愛知県",
-        "栃木県"
+        "鹿児島県",
+        "栃木県",
+        "東京都",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1942,9 +1969,9 @@
         }
       ],
       "prefectures": [
-        "山梨県",
         "愛知県",
-        "東京都"
+        "東京都",
+        "山梨県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1990,8 +2017,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2041,8 +2068,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2285,8 +2312,8 @@
       ],
       "prefectures": [
         "東京都",
-        "千葉県",
-        "沖縄県"
+        "沖縄県",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2362,9 +2389,9 @@
         }
       ],
       "prefectures": [
-        "福岡県",
         "愛知県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2541,12 +2568,12 @@
         }
       ],
       "prefectures": [
+        "愛知県",
+        "千葉県",
         "東京都",
-        "埼玉県",
         "神奈川県",
         "大阪府",
-        "愛知県",
-        "千葉県"
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2664,9 +2691,9 @@
         }
       ],
       "prefectures": [
-        "愛知県",
+        "東京都",
         "神奈川県",
-        "東京都"
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2696,8 +2723,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2809,8 +2836,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2936,10 +2963,10 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
-        "大阪府",
         "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "大阪府",
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2989,10 +3016,10 @@
         }
       ],
       "prefectures": [
-        "三重県",
-        "神奈川県",
         "東京都",
-        "沖縄県"
+        "神奈川県",
+        "沖縄県",
+        "三重県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3226,8 +3253,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3431,8 +3458,8 @@
         }
       ],
       "prefectures": [
-        "大分県",
-        "東京都"
+        "東京都",
+        "大分県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3550,8 +3577,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3595,8 +3622,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "神奈川県",
-        "東京都"
+        "東京都",
+        "神奈川県"
       ],
       "dataSource": "Google News",
       "sourceName": "タウンニュース"
@@ -3627,8 +3654,8 @@
         }
       ],
       "prefectures": [
-        "福島県",
-        "東京都"
+        "東京都",
+        "福島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3715,8 +3742,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3825,8 +3852,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3871,8 +3898,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "東京都",
+        "愛知県",
         "千葉県"
       ],
       "dataSource": "BlueDot",
@@ -3903,8 +3930,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3944,8 +3971,8 @@
         }
       ],
       "prefectures": [
-        "北海道",
-        "東京都"
+        "東京都",
+        "北海道"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4023,8 +4050,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
