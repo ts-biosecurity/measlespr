@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-04-19T06:00:02.246342+00:00",
+  "generated_at": "2026-04-19T07:43:00.021398+00:00",
   "date_range": {
     "start": "2026-03-20",
     "end": "2026-04-19"
   },
   "total_articles": 131,
   "prefecture_summary": {
-    "全国（都道府県不明）": 31,
+    "全国（都道府県不明）": 32,
     "広島県": 1,
-    "東京都": 74,
     "鹿児島県": 13,
+    "東京都": 75,
     "愛知県": 12,
     "埼玉県": 6,
     "福岡県": 6,
     "神奈川県": 9,
-    "千葉県": 5,
     "岡山県": 1,
+    "千葉県": 5,
     "三重県": 4,
     "静岡県": 5,
     "山梨県": 7,
-    "長崎県": 12,
+    "長崎県": 11,
     "茨城県": 1,
-    "長野県": 2,
+    "長野県": 1,
     "沖縄県": 7,
     "宮崎県": 3,
     "栃木県": 3,
@@ -104,8 +104,8 @@
       ],
       "prefectures": [
         "広島県",
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -195,9 +195,9 @@
         }
       ],
       "prefectures": [
-        "愛知県",
+        "鹿児島県",
         "東京都",
-        "鹿児島県"
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -263,8 +263,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -445,13 +445,13 @@
         }
       ],
       "prefectures": [
-        "千葉県",
-        "東京都",
-        "鹿児島県",
         "神奈川県",
+        "東京都",
         "愛知県",
         "埼玉県",
-        "岡山県"
+        "鹿児島県",
+        "岡山県",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -511,9 +511,9 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "三重県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -985,12 +985,12 @@
         }
       ],
       "prefectures": [
-        "千葉県",
-        "東京都",
-        "鹿児島県",
         "神奈川県",
+        "東京都",
+        "愛知県",
         "埼玉県",
-        "愛知県"
+        "鹿児島県",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1080,9 +1080,9 @@
         }
       ],
       "prefectures": [
-        "愛知県",
+        "鹿児島県",
         "東京都",
-        "鹿児島県"
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1632,9 +1632,9 @@
         }
       ],
       "prefectures": [
+        "長野県",
         "静岡県",
-        "東京都",
-        "長野県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1676,25 +1676,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_9f5e22c8bbffe44a",
-      "headline": "はしか患者が北陸新幹線の大宮－長野駅間を往復乗車 コーヒーチェーン店、長野電鉄も利用 非常に強い感染力…不特定多数の人と接触している可能性 感染が疑われる場合は受診を 長野市保健所（NBS長野放送） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T07:18:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNaHQzMFk1SVhFZTRqR3ZSclhqYWJmUkFLTnVzb3BpZF9Ubi1rRmRyRHFHX3d3Snk2S0U5WEtUME5QaUE0MDR4dm0yTURQUWVKS204enV6UUtVUkd2X2tvaVE1bklvUjNua0hQeFEtLXRwZE9uelR3dlhTWW1ENGM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "長野県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
       "articleId": "aHR0cHM6Ly93d3cub2tpbmF3YXRpbWVzLmNvLmpwL2FydGljbGVzLy0vMTgxNDM2Nw==",
       "headline": "沖縄で今年初のはしか確認　知事が注意喚起　全国で急増、ワクチン2回接種を | 沖縄タイムス＋プラス",
       "headlineTranslated": "First measles case of the year confirmed in Okinawa; governor warns; nationwide surge, two-dose vaccination urged.",
@@ -1719,8 +1700,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1819,14 +1800,33 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県",
         "栃木県",
         "神奈川県",
-        "愛知県"
+        "東京都",
+        "愛知県",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_f1db8c689344feee",
+      "headline": "空気感染するはしか、増加続く 厚労省が接種徹底と注意呼びかけ（Science Portal） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-09T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LQy1NRnJ6SHBkU3lDOF9tT1FvdFFoRzBjYjJyTmU5WmpJUy1QUzBxR3FFaE1lQy0yY3BtY0dFVlN3dVdpelFEYnA3VE1qMTVnQ2JheVdIU280cy0xZ1dwU0xyRTc0STlJc0gtS0oxbnQ5OFMwVmh2YXlsOEhqTG8?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_92dcaa5d354cb6bb",
@@ -1902,9 +1902,9 @@
         }
       ],
       "prefectures": [
+        "山梨県",
         "東京都",
-        "愛知県",
-        "山梨県"
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1950,8 +1950,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2001,8 +2001,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2203,8 +2203,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2244,9 +2244,9 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
+        "東京都",
         "千葉県",
-        "東京都"
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2276,8 +2276,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "栃木県"
+        "栃木県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2323,8 +2323,8 @@
       ],
       "prefectures": [
         "東京都",
-        "福岡県",
-        "愛知県"
+        "愛知県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2380,8 +2380,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2501,12 +2501,12 @@
         }
       ],
       "prefectures": [
-        "千葉県",
-        "東京都",
-        "神奈川県",
         "大阪府",
+        "神奈川県",
+        "東京都",
+        "愛知県",
         "埼玉県",
-        "愛知県"
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2624,9 +2624,9 @@
         }
       ],
       "prefectures": [
-        "愛知県",
+        "神奈川県",
         "東京都",
-        "神奈川県"
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2656,8 +2656,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2769,8 +2769,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2805,8 +2805,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "長崎県"
+        "長崎県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2896,10 +2896,10 @@
         }
       ],
       "prefectures": [
-        "大阪府",
         "埼玉県",
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2949,10 +2949,10 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
         "三重県",
+        "神奈川県",
         "東京都",
-        "神奈川県"
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3124,8 +3124,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "長崎県"
+        "長崎県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3186,8 +3186,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3222,8 +3222,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "長崎県"
+        "長崎県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3246,25 +3246,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ktn.co.jp"
-    },
-    {
-      "articleId": "gnews_5eebad73e16b023d",
-      "headline": "” 感染者がその場を離れても 約2時間は空気感染のおそれ \" 麻しん（はしか）長崎市の20代女性が感染 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-28T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53ODdjcW1ZQVVHd0hncmhGcmNkVDdGNlRMS296aGw4MFBMTXAydV90Z1V4ZklWMGR4NEl2QUFLdWZ1MndEV3JLRVI3Xy15VlVoaC1UMGJLTzRnOWZkTTlUazFhNDVxS0k?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "長崎県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_cef057e27138038d",
@@ -3455,6 +3436,25 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
+      "articleId": "gnews_6a7fb0e94bb0712f",
+      "headline": "｢麻しん患者数｣昨年に並ぶ 都内で増加 17日までに | 町田 - タウンニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-26T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KbE9TeXhmV1V2aFIwV05JR3Z2QnZreTQ2OEVMRkNKelRPajJ6bG56UURiTFlvWjMwZEI3WGpVLUhPbVlwWW9NYUJ6MDg2T1VHQW85MXlsQ0J3N1Zwalk1bGlXSU0?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "タウンニュース"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cuc2hpbW90c3VrZS5jby5qcC9hcnRpY2xlcy8tLzEzMTQzNDA=",
       "headline": "栃木県内はしか患者、今年だけで既に8人　14年ぶりの多さに「県内感染は否定できない」｜下野新聞デジタル",
       "headlineTranslated": "Measles patients in Tochigi Prefecture: eight already this year, the largest in 14 years, \"Local transmission cannot be ruled out\" | Shimotsuke Shimbun Digital",
@@ -3479,8 +3479,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "栃木県"
+        "栃木県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3510,8 +3510,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3555,8 +3555,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "神奈川県"
+        "神奈川県",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "タウンニュース"
@@ -3587,8 +3587,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福島県"
+        "福島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3642,8 +3642,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "山梨県"
+        "山梨県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3785,8 +3785,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3832,8 +3832,8 @@
       ],
       "prefectures": [
         "愛知県",
-        "千葉県",
-        "東京都"
+        "東京都",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3863,8 +3863,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3983,8 +3983,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
