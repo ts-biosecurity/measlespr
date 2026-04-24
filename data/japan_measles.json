@@ -1,19 +1,20 @@
 {
-  "generated_at": "2026-04-24T18:58:34.327884+00:00",
+  "generated_at": "2026-04-24T20:54:26.542128+00:00",
   "date_range": {
     "start": "2026-03-25",
     "end": "2026-04-24"
   },
-  "total_articles": 154,
+  "total_articles": 155,
   "prefecture_summary": {
     "東京都": 99,
-    "全国（都道府県不明）": 35,
+    "全国（都道府県不明）": 36,
     "新潟県": 2,
     "埼玉県": 7,
     "大阪府": 3,
     "長野県": 2,
     "長崎県": 9,
     "静岡県": 6,
+    "沖縄県": 8,
     "京都府": 1,
     "鹿児島県": 12,
     "広島県": 1,
@@ -24,10 +25,9 @@
     "岡山県": 1,
     "三重県": 3,
     "茨城県": 1,
-    "沖縄県": 7,
     "宮崎県": 3,
     "栃木県": 3,
-    "山梨県": 4,
+    "山梨県": 3,
     "大分県": 1,
     "福島県": 1
   },
@@ -798,8 +798,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "静岡県",
-        "東京都"
+        "東京都",
+        "静岡県"
       ],
       "dataSource": "Google News",
       "sourceName": "静岡ライフ"
@@ -822,6 +822,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "日本医事新報社"
+    },
+    {
+      "articleId": "gnews_49306a7909063310",
+      "headline": "麻しん（はしか）患者の石垣島滞在を確認 沖縄県が注意喚起 - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-21T21:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3MU56ZnJEVWhlRzRkZmtjdlc2SWp4TjN5aUI3UnI3NXNVWEJ5NkV2TnM4dkZZTmNkQWJrU2Y2OVYwVVkxRnpVUTFJUlEzLUozcnhTeVdudmpCTnFPb1NF?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "沖縄県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_c566a811751115dd",
@@ -1147,8 +1166,8 @@
         }
       ],
       "prefectures": [
-        "静岡県",
-        "東京都"
+        "東京都",
+        "静岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1668,9 +1687,9 @@
         }
       ],
       "prefectures": [
-        "広島県",
         "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "広島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1722,8 +1741,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "東京都",
+        "愛知県",
         "鹿児島県"
       ],
       "dataSource": "BlueDot",
@@ -1877,13 +1896,13 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "愛知県",
         "千葉県",
+        "埼玉県",
         "東京都",
+        "愛知県",
+        "鹿児島県",
         "神奈川県",
-        "岡山県",
-        "埼玉県"
+        "岡山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1943,9 +1962,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "愛知県",
-        "三重県",
-        "東京都"
+        "三重県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1977,8 +1996,8 @@
         }
       ],
       "prefectures": [
-        "静岡県",
-        "東京都"
+        "東京都",
+        "静岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2081,8 +2100,8 @@
         }
       ],
       "prefectures": [
-        "三重県",
-        "東京都"
+        "東京都",
+        "三重県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2169,8 +2188,8 @@
         }
       ],
       "prefectures": [
-        "茨城県",
-        "東京都"
+        "東京都",
+        "茨城県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2246,12 +2265,12 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "愛知県",
         "千葉県",
+        "埼玉県",
         "東京都",
-        "神奈川県",
-        "埼玉県"
+        "愛知県",
+        "鹿児島県",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2303,8 +2322,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "東京都",
+        "愛知県",
         "鹿児島県"
       ],
       "dataSource": "BlueDot",
@@ -2559,8 +2578,8 @@
         }
       ],
       "prefectures": [
-        "静岡県",
-        "東京都"
+        "東京都",
+        "静岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2871,9 +2890,9 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "愛知県",
         "東京都",
+        "愛知県",
+        "鹿児島県",
         "神奈川県",
         "栃木県"
       ],
@@ -2974,8 +2993,8 @@
       ],
       "prefectures": [
         "山梨県",
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3072,30 +3091,11 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_ca7d2fa2e5dacf5d",
-      "headline": "麻しん患者が発生 JR身延線や商業施設を利用 県内では2019年以来、7年ぶり 山梨県が注意喚起 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-07T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55VFVSSzFJOHJ3Y0ltemVVTXZLVVA5NUhGaXJHbHdBeUZCdkRVWTU3eGw5ZXVFWkpTTEJ0WXpkaFh4MTBrMHFYRVk1WU1vMkQ3c2Z0Mm9sYzlTZVAtanZDbm5Od0ZvcDQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "山梨県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_055e899550992267",
@@ -3277,8 +3277,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
         "東京都",
+        "沖縄県",
         "千葉県"
       ],
       "dataSource": "BlueDot",
@@ -3356,8 +3356,8 @@
       ],
       "prefectures": [
         "東京都",
-        "愛知県",
-        "福岡県"
+        "福岡県",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3534,12 +3534,12 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "愛知県",
         "千葉県",
+        "大阪府",
+        "埼玉県",
         "東京都",
-        "神奈川県",
-        "埼玉県"
+        "愛知県",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3676,9 +3676,9 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
+        "東京都",
         "愛知県",
-        "東京都"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3838,8 +3838,8 @@
         }
       ],
       "prefectures": [
-        "長崎県",
-        "東京都"
+        "東京都",
+        "長崎県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3929,10 +3929,10 @@
         }
       ],
       "prefectures": [
-        "大阪府",
         "東京都",
         "鹿児島県",
-        "埼玉県"
+        "埼玉県",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3982,9 +3982,9 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
-        "三重県",
         "東京都",
+        "三重県",
+        "神奈川県",
         "沖縄県"
       ],
       "dataSource": "BlueDot",
@@ -4157,8 +4157,8 @@
         }
       ],
       "prefectures": [
-        "長崎県",
-        "東京都"
+        "東京都",
+        "長崎県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4255,8 +4255,8 @@
         }
       ],
       "prefectures": [
-        "長崎県",
-        "東京都"
+        "東京都",
+        "長崎県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4386,11 +4386,30 @@
         }
       ],
       "prefectures": [
-        "大分県",
-        "東京都"
+        "東京都",
+        "大分県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_f9911f9d24b39b08",
+      "headline": "日本でも急増中 知っておきたいはしか対策 みみより！解説 吉川美恵子 - NHKニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-27T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42elZ0alhHRE15Tm1pSktiTm9VNDhPYU5HbkpRQVRtM0dpeGY4cW9NeTFmSHFrUmdUaXhkODdvdU0zUHZ6MmlicEhKZWU3NjhaZVMzWnBhMnFqb24zU1Vz?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "NHKニュース"
     },
     {
       "articleId": "gnews_6a7fb0e94bb0712f",
@@ -4543,8 +4562,8 @@
         }
       ],
       "prefectures": [
-        "福島県",
-        "東京都"
+        "東京都",
+        "福島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
