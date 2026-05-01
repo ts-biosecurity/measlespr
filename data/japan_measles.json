@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-01T17:00:15.645509+00:00",
+  "generated_at": "2026-05-01T19:17:00.771686+00:00",
   "date_range": {
     "start": "2026-04-01",
     "end": "2026-05-01"
   },
-  "total_articles": 152,
+  "total_articles": 153,
   "prefecture_summary": {
-    "全国（都道府県不明）": 51,
+    "全国（都道府県不明）": 52,
     "東京都": 88,
-    "山梨県": 2,
     "長野県": 3,
+    "山梨県": 2,
     "千葉県": 7,
     "沖縄県": 10,
     "愛知県": 12,
@@ -19,8 +19,8 @@
     "埼玉県": 4,
     "静岡県": 5,
     "新潟県": 1,
-    "広島県": 1,
     "鹿児島県": 7,
+    "広島県": 1,
     "福岡県": 3,
     "岡山県": 1,
     "三重県": 2,
@@ -397,8 +397,8 @@
       ],
       "prefectures": [
         "東京都",
-        "山梨県",
-        "長野県"
+        "長野県",
+        "山梨県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1130,6 +1130,25 @@
       "sourceName": "Reuters"
     },
     {
+      "articleId": "gnews_5850d5f6c23307b6",
+      "headline": "米サウスカロライナ州が麻疹流行の終息宣言 国内最大規模の拡大 - ニューズウィーク日本版",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-28T02:45:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XRFh6SUtLcG5hSmZqOFVOWXIxRUc4ZTRzM1NUSVd2M2JtZlJaSUJvZldkNHplNFVhLTJrTXVrcUpQdzN4NTFMekVqMUpBd3paNC1xQUVjenQxeXc3a2ZXaEFOeC1LaGc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ニューズウィーク日本版"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDQyOC1HWVQxVDAwMjY5Lw==",
       "headline": "首都圏で多いはしか患者、東京１５３人・神奈川３６人...全国３６２人の７割がワクチン「１回以下」「不明」 | ヨミドクター(読売新聞)",
       "headlineTranslated": "Measles cases most common in the Tokyo metropolitan area, Tokyo 153, Kanagawa 36... 70% of the nationwide total of 362 cases had received one vaccine dose or less, or vaccination status was unknown",
@@ -1273,8 +1292,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "埼玉県",
-        "東京都"
+        "東京都",
+        "埼玉県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -2510,9 +2529,9 @@
         }
       ],
       "prefectures": [
-        "広島県",
         "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "広島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2719,13 +2738,13 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "千葉県",
+        "鹿児島県",
         "埼玉県",
-        "東京都",
-        "愛知県",
+        "岡山県",
         "神奈川県",
-        "岡山県"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2786,8 +2805,8 @@
       ],
       "prefectures": [
         "東京都",
-        "愛知県",
-        "三重県"
+        "三重県",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2992,8 +3011,8 @@
         }
       ],
       "prefectures": [
-        "茨城県",
-        "東京都"
+        "東京都",
+        "茨城県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3069,12 +3088,12 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "千葉県",
+        "鹿児島県",
         "埼玉県",
+        "神奈川県",
         "東京都",
-        "愛知県",
-        "神奈川県"
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3696,9 +3715,9 @@
       "prefectures": [
         "鹿児島県",
         "栃木県",
+        "神奈川県",
         "東京都",
-        "愛知県",
-        "神奈川県"
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3778,8 +3797,8 @@
       ],
       "prefectures": [
         "東京都",
-        "山梨県",
-        "愛知県"
+        "愛知県",
+        "山梨県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4075,8 +4094,8 @@
         }
       ],
       "prefectures": [
-        "栃木県",
-        "東京都"
+        "東京都",
+        "栃木県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4302,10 +4321,10 @@
       "prefectures": [
         "千葉県",
         "埼玉県",
-        "東京都",
-        "愛知県",
+        "大阪府",
         "神奈川県",
-        "大阪府"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4443,8 +4462,8 @@
       ],
       "prefectures": [
         "東京都",
-        "愛知県",
-        "神奈川県"
+        "神奈川県",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
