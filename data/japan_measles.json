@@ -1,26 +1,25 @@
 {
-  "generated_at": "2026-05-01T22:53:21.609289+00:00",
+  "generated_at": "2026-05-02T02:58:13.678215+00:00",
   "date_range": {
-    "start": "2026-04-01",
-    "end": "2026-05-01"
+    "start": "2026-04-02",
+    "end": "2026-05-02"
   },
-  "total_articles": 154,
+  "total_articles": 156,
   "prefecture_summary": {
+    "埼玉県": 6,
+    "沖縄県": 12,
     "全国（都道府県不明）": 52,
-    "東京都": 90,
-    "神奈川県": 8,
-    "山梨県": 2,
+    "東京都": 89,
+    "神奈川県": 7,
     "長野県": 3,
+    "山梨県": 2,
     "千葉県": 7,
-    "沖縄県": 10,
-    "愛知県": 12,
+    "愛知県": 11,
     "大阪府": 2,
-    "埼玉県": 4,
     "静岡県": 5,
-    "新潟県": 1,
-    "鹿児島県": 7,
     "広島県": 1,
-    "福岡県": 3,
+    "鹿児島県": 7,
+    "福岡県": 2,
     "岡山県": 1,
     "三重県": 2,
     "茨城県": 1,
@@ -29,6 +28,44 @@
     "栃木県": 2
   },
   "articles": [
+    {
+      "articleId": "gnews_fa29ae2b52137523",
+      "headline": "はしか感染…20代男性、さいたまや蕨の飲食店を利用 医療機関を利用する前、発症日と前日に はしかの予防接種歴あり - 47NEWS",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-01T23:21:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nR2ZyTXhHZUpIYVU0eVBncUJxZFhoWndRZ01wNkg4WHVtN0Y4QmtCODVpRjZhTzNDMVZkM3hRSTlJcG9DQk9LM1V0RQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "埼玉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "47NEWS"
+    },
+    {
+      "articleId": "gnews_17dedfa9cc569aef",
+      "headline": "バングラデシュ、はしか急拡大 ３月以降２８０人死亡 - 沖縄タイムス社",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-01T22:48:20+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wLU9RSk1HczFjakVsWWVUdzBtYWdDSFQtbW5SZWNjS0tkV2JadTY1OW9fQ3ZVMnY2VEZqbjZDV3Jjc3hITWlsbUx0UVRiNHJCc2J0a0RSNU4xdFhMeXc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "沖縄県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "沖縄タイムス社"
+    },
     {
       "articleId": "gnews_f6d7e2d6e50c6070",
       "headline": "「麻疹（はしか）」にわざと感染して免疫を…それ、自殺行為です！感染症マニアに聞いた「感染とワクチン接種」の違いとは？ - ｄメニューニュース",
@@ -47,6 +84,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ｄメニューニュース"
+    },
+    {
+      "articleId": "gnews_b050c573f4ac6040",
+      "headline": "「麻疹（はしか）」にわざと感染して免疫を…それ、自殺行為です！感染症マニアに聞いた「感染とワクチン接種」の違いとは？ - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-01T22:00:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDd1RlN1RDhsQ2lqelZDRjdpMVpjVlUzekxlVU9OMndVeGRRVXlSb3pQZ2pEYy03MTFWUGloc3E4UzZVUk41UkVpdlp6Ni1uREhHVGFBOFpJRkxCT09YdG5vT3F5dm5nTVVZcFE4aXp0U1pVQUZzVXE1czFCTTJTLUZoRGR5Z2Z1?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cudG9reW8tbnAuY28uanAvYXJ0aWNsZS80ODU2OTc=",
@@ -168,25 +224,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_85407108a5caa6c0",
-      "headline": "はしかの感染が急拡大、感染力はインフルエンザの約10倍 予防にはワクチン接種が有効 - chunichi.co.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T09:15:06+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAweDI3UUdNcGRJODlsRFlZME5CbmQwTHpfRHlqRWFyS2RkdDRlamlzTFE5MW1MaW5BU0REOHFVWE5NSXQ0dXJBQ3Zkc2xUVEN5czBuSUFxbVhRUWlKQzNOUzlPSUM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "chunichi.co.jp"
-    },
-    {
       "articleId": "gnews_3b2162d0199278de",
       "headline": "過去最高ペースで感染拡大中のはしか（麻疹）は今や「大人の病気」。2026年、日本で何が起きている？ - Kindai Picks",
       "headlineTranslated": "",
@@ -244,25 +281,6 @@
       "sourceName": "YOUよっかいち"
     },
     {
-      "articleId": "gnews_fe649739aeedc8b4",
-      "headline": "麻疹（はしか）、「過去最速ペース」で感染拡大…厚労省が全国自治体に『緊急説明会』を開催 (2026年5月1日掲載) - ライブドアニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T03:07:33+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5neThNcklxQm1qUVk3SnV2OGNpMHNsVDg3R1g2Znc3NDRpODRESE1lOW9PalhINkxDMDA5UUxQaFROczZOai1DT1pLZ1V3bDBPM1B2X1huaHN5R2JENnc?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ライブドアニュース"
-    },
-    {
       "articleId": "aHR0cHM6Ly93d3cuc2Fua2VpLmNvbS9hcnRpY2xlLzIwMjYwNTAxLVlIR0QyNjJOMlJJTDVCUExLUEIyTDU0UDdZLw==",
       "headline": "埼玉のはしか患者今年すでに29人　昨年の約2倍に　ワクチン接種、換気の徹底を",
       "headlineTranslated": "Measles cases in Saitama reach 29 this year, about twice as many as last year; vaccination and thorough ventilation urged.",
@@ -297,6 +315,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_11aa4d28052ec415",
+      "headline": "埼玉のはしか患者今年すでに29人 昨年の約2倍に ワクチン接種、換気の徹底を（産経新聞） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-01T02:47:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uR2YtZEtyNnhsdkVjN2pTUGlQWXVHMWNZeFZyRm5ZR19sM2pUbjZ3MVhoRThVYzZmZTFwdW45cUZibjhmbGQyeE52cWdMTlV3alVFdHRLTE9tbFBtSTN4WWRJaUJvRlM2ci1ZM20wb3cwcEMxX1VZRDRtT0tNUEE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "埼玉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_f8e81f29b68b7053",
@@ -487,9 +524,9 @@
         }
       ],
       "prefectures": [
-        "山梨県",
         "長野県",
-        "東京都"
+        "東京都",
+        "山梨県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -628,6 +665,25 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
+      "articleId": "gnews_21c0bf6606c95186",
+      "headline": "沖縄で今年2例目のはしか患者 30代男性、海外で感染か 1例目との関連はなし（琉球新報） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-30T01:55:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ycVJsU3V6NGVoRXprNkI2REpFbHhDUDh4R1JCZDBJdmdNb3dFa0MxUV9RYWx2XzA5SjlSZFA1ZmJmS3BKelZ0dV9acXh0M0h1ZVhhbVE3WXI0MklmMGhuQ19GR01ITWt4MGYwLTg1eDJ3VjRLMk5aUXBPLUJlVEk?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "沖縄県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
       "articleId": "gnews_ca0f4f764bcb86f0",
       "headline": "千葉市の３０代男性 麻しん・はしかの感染を確認 - NEWSjp",
       "headlineTranslated": "",
@@ -705,8 +761,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -805,8 +861,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -870,8 +926,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -998,8 +1054,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1030,24 +1086,24 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_bf6f7e3322972f73",
-      "headline": "首都圏で多いはしか患者、東京１５３人・神奈川３６人…全国３６２人の７割がワクチン「１回以下」「不明」 - 読売新聞",
+      "articleId": "gnews_e0d4b1f0e4d3f55a",
+      "headline": "首都圏で多いはしか患者、東京１５３人・神奈川３６人…全国３６２人の７割がワクチン「１回以下」「不明」（読売新聞オンライン） - Yahoo!ニュース",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-28T10:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNaXN1LXRGOS1wMWNGQVJPSjhWTTZuTlhqQlIyRnhGOV85c2EzdHlwdEFRU2x1V29hc1d5Ni1ZMm1YUFZoT1E5X3BGYm9kYTNyN1Y3RzUyZXpIandkcGVFcUd6d3U?oc=5",
+      "publishedTimestamp": "2026-04-28T10:30:44+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIdExTWk5feWl0a1VHdVNOLTYwZXBzNDVaUHN2Yk13LXpWRVlBZUNleWdZSlJrRHV1WXFnY3JkakdrZUZBNHU3MEdQb3FvZjhkbUFfdUJac2gyZEpGaTJIbGJpN1NQZnN4V1dHWU1SU2QyTHVoUjNGc3dRNXN1ZXM?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "神奈川県",
-        "東京都"
+        "東京都",
+        "神奈川県"
       ],
       "dataSource": "Google News",
-      "sourceName": "読売新聞"
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_7c64edde8921eaf4",
@@ -1164,6 +1220,25 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
+      "articleId": "gnews_c1b073408e81087c",
+      "headline": "NEWS 麻しん累計報告数299例、昨年1年間の感染者数を上回る［感染症発生動向調査2026年第15週（4月6日～4月12日）］ - 日本医事新報社",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-28T05:26:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mYktBUGRuc2tjQ3luZktjeU9INE5FRUNlNTVfNzVrcEdXSi1ReDFnYVlqbmVSZGJWRmUwU1lhVzU2TG5udjdqRkdZQzBkNDZxSUtNN2I5MW91QjlfbXZaNw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日本医事新報社"
+    },
+    {
       "articleId": "gnews_6e7193c119d6248b",
       "headline": "2026神奈川県 麻しん情報（9）16週｜神奈川県衛生研究所 - pref.kanagawa.jp",
       "headlineTranslated": "",
@@ -1219,6 +1294,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Reuters"
+    },
+    {
+      "articleId": "gnews_579ea1709a0526d5",
+      "headline": "全国で患者急増のはしか、静岡県内でも感染者 浜松などで3人、過去10年で2番目の多さ - 中日新聞Web",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-28T02:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzTlR4WXhKTzNSODl1ejR6b01YdGFaNlkwc1dqeHlPbnZfZTJ2NUNVV2R1TlVMVXp3ZXVWM1paMmpCZW94Ui1FR2hPdzNsVVAyZW5ZRA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "静岡県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "中日新聞Web"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDQyOC1HWVQxVDAwMjY5Lw==",
@@ -1464,6 +1558,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "毎日新聞"
+    },
+    {
+      "articleId": "gnews_d66d4f44b867e2fc",
+      "headline": "肺炎、インフルエンザ、百日咳のリスクが増大！麻疹が抱える「免疫健忘」という恐ろしい”二次被害” (FRIDAY) - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-26T02:45:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUW90N09ub1VvYVhPaHBSM0g5dnNVWm9EWjMwSlo5UXhiMVBHRmU0aFBQYWJoRWJYV0VScWpwdzhHbjlsX3NCZEV5VXBMd3ZYUUM0ZDlUendWNHR4TGx4Y2xSYzhfeF9NcjZUdGpvZWktMnUyOHNwWEF5d2ZNaHg4Y0hhSldTVjVNa2RSN3Vn?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_0722095363338801",
@@ -2194,8 +2307,8 @@
         }
       ],
       "prefectures": [
-        "静岡県",
-        "東京都"
+        "東京都",
+        "静岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2446,44 +2559,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_2406652c205e0894",
-      "headline": "社説：はしかの感染者増加 軽視せずに着実な対策を - 毎日新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-20T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzTXpJMHpzbnVKNVVqZFA1djJPcDBTUUloWXhmZW5mbTUwSWs2b2s2alJOcEt5a0dGM3k2RVlveW5yTk1sdlJmcnFjSUw5QXljZUNwUW5VMXdjM0Z3UklQVnRmMFFsM0d0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "毎日新聞"
-    },
-    {
-      "articleId": "gnews_3b2776273467cabd",
-      "headline": "【保環研】感染症情報（患者発生情報：新潟県） - pref.niigata.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-20T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ETHJ3NF84Z0N2M2hWODRjVHhYUjNZVXdlZkFuSkFXYjAzcWlaTVFpVUlpYi10WEh2aG1URF9RTXJxeTV4SGtWUmdvQ1A5UzJFR2QwMlhtR3A1RGpPWlZQUWkwbzlEVEhlLWlqU3MwWQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "新潟県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.niigata.lg.jp"
-    },
-    {
       "articleId": "aHR0cHM6Ly9tYWluaWNoaS5qcC9hcnRpY2xlcy8yMDI2MDQyMC9kZG0vMDA1LzA3MC8wNzkwMDBj",
       "headline": "社説：はしかの感染者増加　軽視せずに着実な対策を",
       "headlineTranslated": "Editorial: Rising measles cases — do not underestimate them; implement steady measures.",
@@ -2582,31 +2657,12 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "東京都",
-        "広島県"
+        "広島県",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_471321e2dd1afa34",
-      "headline": "はしか感染防ぐには？ワクチン接種率に”危機感” 免疫ないと「ほぼ100％発症」 静岡県で今年1例目確認（静岡新聞DIGITAL） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-18T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFNndzeE5jeFhBclp2bXVYTEpzNElMZzV1WWZyT1dpSWFWRi1ucTRUQWM0bFlWNWdWM0ZJR3lZT3B1YllmNWx1WF9fVGVIREU1TlZSblU1QXdvdHc2M0R4ckctc01fWDdKdldPMmkyR3BtRC1ZVHhWMW1rRHdtZWc?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "静岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuamlqaS5jb20vamMvYXJ0aWNsZT9rPTIwMjYwNDE4MDAxMjYmZz1zb2M=",
@@ -2655,9 +2711,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "愛知県",
-        "鹿児島県",
-        "東京都"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2791,12 +2847,12 @@
         }
       ],
       "prefectures": [
+        "東京都",
+        "千葉県",
+        "鹿児島県",
+        "神奈川県",
         "岡山県",
         "愛知県",
-        "千葉県",
-        "神奈川県",
-        "東京都",
-        "鹿児島県",
         "埼玉県"
       ],
       "dataSource": "BlueDot",
@@ -2857,9 +2913,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "愛知県",
-        "三重県",
-        "東京都"
+        "三重県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2891,8 +2947,8 @@
         }
       ],
       "prefectures": [
-        "静岡県",
-        "東京都"
+        "東京都",
+        "静岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2995,8 +3051,8 @@
         }
       ],
       "prefectures": [
-        "三重県",
-        "東京都"
+        "東京都",
+        "三重県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3045,8 +3101,8 @@
         }
       ],
       "prefectures": [
-        "茨城県",
-        "東京都"
+        "東京都",
+        "茨城県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3122,11 +3178,11 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "千葉県",
-        "神奈川県",
         "東京都",
+        "千葉県",
         "鹿児島県",
+        "神奈川県",
+        "愛知県",
         "埼玉県"
       ],
       "dataSource": "BlueDot",
@@ -3179,9 +3235,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "愛知県",
-        "鹿児島県",
-        "東京都"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3454,8 +3510,8 @@
         }
       ],
       "prefectures": [
-        "静岡県",
-        "東京都"
+        "東京都",
+        "静岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3516,6 +3572,25 @@
       "sourceName": "GemMed"
     },
     {
+      "articleId": "gnews_1345beb2b8edcc68",
+      "headline": "はしか猛威、東京で今月５５人…大半が１０～３０歳代 - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qWWp2MVRDNWQxRERQUWhiUl9kZHBNeDVXMHRlUnhwQ3hBVUxCM1lVQTF1MGFHRkdHdGhlWmdNLXBnZmRuY1dEaUQ1aHNpTjlkX09pWFBQRUplNGNIRWR0dEFMeUk?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cuc2hpbm1haS5jby5qcC9uZXdzL2FydGljbGUvZ2YwMWQ3Y2R0ZWtnNDRzZDg5cm91cDFn",
       "headline": "長野県外で確認のはしか感染者、3月28～29日に長野市に滞在　｜信濃毎日新聞デジタル　信州・長野県のニュースサイト",
       "headlineTranslated": "Measles patient confirmed outside Nagano Prefecture stayed in Nagano City on March 28–29.",
@@ -3560,9 +3635,9 @@
         }
       ],
       "prefectures": [
-        "静岡県",
         "長野県",
-        "東京都"
+        "東京都",
+        "静岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3647,8 +3722,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3685,8 +3760,8 @@
         }
       ],
       "prefectures": [
-        "宮崎県",
-        "東京都"
+        "東京都",
+        "宮崎県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3747,10 +3822,10 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "神奈川県",
         "東京都",
         "鹿児島県",
+        "神奈川県",
+        "愛知県",
         "栃木県"
       ],
       "dataSource": "BlueDot",
@@ -3830,9 +3905,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "愛知県",
-        "山梨県",
-        "東京都"
+        "山梨県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3878,8 +3953,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3929,8 +4004,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4055,8 +4130,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4096,9 +4171,9 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
         "千葉県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4128,8 +4203,8 @@
         }
       ],
       "prefectures": [
-        "栃木県",
-        "東京都"
+        "東京都",
+        "栃木県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4174,8 +4249,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "東京都",
+        "愛知県",
         "福岡県"
       ],
       "dataSource": "BlueDot",
@@ -4232,8 +4307,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4353,10 +4428,10 @@
         }
       ],
       "prefectures": [
-        "愛知県",
+        "東京都",
         "千葉県",
         "神奈川県",
-        "東京都",
+        "愛知県",
         "大阪府",
         "埼玉県"
       ],
@@ -4404,8 +4479,8 @@
         }
       ],
       "prefectures": [
-        "宮崎県",
-        "東京都"
+        "東京都",
+        "宮崎県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4453,85 +4528,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.kitakyushu.lg.jp"
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cudG9reW8tbnAuY28uanAvYXJ0aWNsZS80NzkxODc=",
-      "headline": "＜社説＞はしかの感染　警戒して抑え込みたい：東京新聞デジタル",
-      "headlineTranslated": "Editorial: We want to be vigilant and contain measles infections",
-      "summary": "Measles cases in Japan are rising domestically, with January-to-date totals exceeding 150—the highest since the 2020 pandemic—concentrated in Tokyo, Kanagawa, and Aichi. Although WHO classified Japan as measles-eliminated in 2015, importations have increased post-COVID as travel resumes, with returnees and visitors introducing the virus. Past decade peaked at 744 cases in 2019; 2020–2022 stayed under 10; 2025 reached 265; early 2026 saw clusters, including a February high-school outbreak in Aichi and infections among Tokyo restaurant workers. Incubation is 10–12 days; fever, upper-respiratory symptoms and conjunctivitis precede rash by 2–4 days, with fever recurrence for 3–4 days. Measles is highly contagious; infectious from day before rash to 3 days after fever, with nearly 100% attack rate in susceptibles. Prevention is vaccination: two-dose routine schedule (1-year and before elementary school) since 2006; many remain unvaccinated or have only one dose. Vigilance and clear public health messaging are urged.",
-      "summaryOriginal": "Measles cases in Japan are rising domestically, with January-to-date totals exceeding 150—the highest since the 2020 pandemic—concentrated in Tokyo, Kanagawa, and Aichi. Although WHO classified Japan as measles-eliminated in 2015, importations have increased post-COVID as travel resumes, with returnees and visitors introducing the virus. Past decade peaked at 744 cases in 2019; 2020–2022 stayed under 10; 2025 reached 265; early 2026 saw clusters, including a February high-school outbreak in Aichi and infections among Tokyo restaurant workers. Incubation is 10–12 days; fever, upper-respiratory symptoms and conjunctivitis precede rash by 2–4 days, with fever recurrence for 3–4 days. Measles is highly contagious; infectious from day before rash to 3 days after fever, with nearly 100% attack rate in susceptibles. Prevention is vaccination: two-dose routine schedule (1-year and before elementary school) since 2006; many remain unvaccinated or have only one dose. Vigilance and clear public health messaging are urged.",
-      "publishedTimestamp": "2026-04-01T22:47:37+00:00",
-      "sourceUrl": "https://www.tokyo-np.co.jp/article/479187",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "COVID-19",
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Tokyo Prefecture",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Tokyo",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Kanagawa",
-          "lat": 35.41667,
-          "lon": 139.33333
-        },
-        {
-          "name": "Aichi-ken",
-          "lat": 35.18017,
-          "lon": 136.90656
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "愛知県",
-        "神奈川県",
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2Zicy9jYXRlZ29yeS9zb2NpZXR5L2ZzNGY5MzIyODQzMTVjNDkzZDlkZDIzNDZiYTVkOWI1Mzk=",
-      "headline": "福岡県で30代女性がはしか感染確認　ことし県内で２人目（2026年4月2日掲載）｜FBS NEWS NNN",
-      "headlineTranslated": "Measles infection confirmed in a woman in her 30s in Fukuoka Prefecture; second case in the prefecture this year (April 2, 2026) | FBS NEWS NNN",
-      "summary": "Measles confirmed in a woman in her 30s in Kasuya District, Fukuoka Prefecture, marking the second measles case in the prefecture this year. The patient developed fever and headache on March 30, with rash and sore throat on March 31, and sought care on April 1 at a medical facility within the Kasuya Health Center jurisdiction. Genetic testing at the Fukuoka Prefectural Institute of Public Health and Environment confirmed measles. Vaccination history is unknown; no overseas travel history reported. Nationwide, measles cases totaled 265 in the previous year, and by February 22 this year had reached 152, indicating a faster spread. The prefecture urges people with fever and rash consistent with measles to contact a medical facility in advance and inform staff of suspected measles.",
-      "summaryOriginal": "Measles confirmed in a woman in her 30s in Kasuya District, Fukuoka Prefecture, marking the second measles case in the prefecture this year. The patient developed fever and headache on March 30, with rash and sore throat on March 31, and sought care on April 1 at a medical facility within the Kasuya Health Center jurisdiction. Genetic testing at the Fukuoka Prefectural Institute of Public Health and Environment confirmed measles. Vaccination history is unknown; no overseas travel history reported. Nationwide, measles cases totaled 265 in the previous year, and by February 22 this year had reached 152, indicating a faster spread. The prefecture urges people with fever and rash consistent with measles to contact a medical facility in advance and inform staff of suspected measles.",
-      "publishedTimestamp": "2026-04-01T21:10:01+00:00",
-      "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/society/fs4f932284315c493d9dd2346ba5d9b539",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Fukuoka Prefecture",
-          "lat": 33.52813,
-          "lon": 130.66472
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都",
-        "福岡県"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
     }
   ]
 }
