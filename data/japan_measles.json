@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-04T14:09:32.632189+00:00",
+  "generated_at": "2026-05-04T17:43:53.101392+00:00",
   "date_range": {
     "start": "2026-04-04",
     "end": "2026-05-04"
   },
-  "total_articles": 148,
+  "total_articles": 149,
   "prefecture_summary": {
     "神奈川県": 7,
-    "全国（都道府県不明）": 49,
+    "全国（都道府県不明）": 50,
     "東京都": 85,
     "岩手県": 2,
     "埼玉県": 6,
@@ -19,8 +19,8 @@
     "沖縄県": 8,
     "愛知県": 9,
     "静岡県": 6,
-    "鹿児島県": 7,
     "広島県": 1,
+    "鹿児島県": 7,
     "福岡県": 1,
     "岡山県": 1,
     "三重県": 2,
@@ -208,7 +208,7 @@
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-03T10:28:48+00:00",
+      "publishedTimestamp": "2026-05-03T10:30:28+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2ZllxY2RWUFo2YTNmQjJyZTJ2aVRrQkdhMFpFY1QzNnRlNFRMSlhONUtTMzlQd3BuVy15T0RVWGlPeEtBOUhFaHgtYVpUb09E?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
@@ -372,8 +372,8 @@
         }
       ],
       "prefectures": [
-        "北海道",
-        "東京都"
+        "東京都",
+        "北海道"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -392,8 +392,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "長野県",
-        "埼玉県"
+        "埼玉県",
+        "長野県"
       ],
       "dataSource": "Google News",
       "sourceName": "日テレNEWS NNN"
@@ -690,8 +690,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -847,25 +847,6 @@
       "sourceName": "city.niimi.okayama.jp"
     },
     {
-      "articleId": "gnews_fe14f5372b57ddab",
-      "headline": "麻しん（はしか）にご注意ください - town.oiso.kanagawa.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-30T22:51:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXd2T3RnQThPMFlSYzBlYklXVWI2dUZtRnRDM19Ra0hLeFlYV0FZdWlqWGNLYXRYbjZPTjRHZDNTNWM0X3RLOTNaaTRmSXdYaE5JLW1taG5vT2ZheWRJNVAwSlE3ZFZ3RGw2czNqaVBXWlIwVF9YZHU2UzVlM2FsdkJ3X3VTaWhXQ1Q2cEVR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "town.oiso.kanagawa.jp"
-    },
-    {
       "articleId": "aHR0cHM6Ly93d3cubmlzaGluaXBwb24uY28uanAvaXRlbS8xNDg3ODUwLw==",
       "headline": "［佐賀県］インフル12人減",
       "headlineTranslated": "Saga Prefecture: 12 fewer influenza cases.",
@@ -959,8 +940,8 @@
         }
       ],
       "prefectures": [
-        "長野県",
         "山梨県",
+        "長野県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -1003,6 +984,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
+    },
+    {
+      "articleId": "gnews_fe14f5372b57ddab",
+      "headline": "麻しん（はしか）にご注意ください - town.oiso.kanagawa.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-30T08:44:56+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXd2T3RnQThPMFlSYzBlYklXVWI2dUZtRnRDM19Ra0hLeFlYV0FZdWlqWGNLYXRYbjZPTjRHZDNTNWM0X3RLOTNaaTRmSXdYaE5JLW1taG5vT2ZheWRJNVAwSlE3ZFZ3RGw2czNqaVBXWlIwVF9YZHU2UzVlM2FsdkJ3X3VTaWhXQ1Q2cEVR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "town.oiso.kanagawa.jp"
     },
     {
       "articleId": "gnews_9abeef0d3708d9ce",
@@ -1177,8 +1177,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1258,8 +1258,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1304,8 +1304,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1458,8 +1458,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "神奈川県",
-        "東京都"
+        "東京都",
+        "神奈川県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1650,6 +1650,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.kagoshima.jp"
+    },
+    {
+      "articleId": "gnews_2728f835d3f81114",
+      "headline": "麻しん（はしか）にご注意ください - town.hirokawa.fukuoka.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-27T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJaWdfZnZpS1BNUU1ZSkh4UERROV9QbmZhMTJaREJ2OVJKY25UUnI1ZmRzVkpGc3FiY1VGdnh2b0NqTlV2TGFsSXZ1amM5dHdHMS1VTmdKUm9qZFdfbS16RE4waEpZWVNVb0tRWnNXdjhUQQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "town.hirokawa.fukuoka.jp"
     },
     {
       "articleId": "gnews_3ebf2a11eb757743",
@@ -2242,6 +2261,25 @@
       "sourceName": "town.togitsu.nagasaki.jp"
     },
     {
+      "articleId": "gnews_a547fff0bb4d965f",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年4月21日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-22T07:12:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NOE9wcVFyRV85VjV5c0pYeldqbzBuY093MzBkY19IeEV2enhia3VSX2dacjFqWWRHVEVVWS15R3ZDSkZwemxtbmZDaWtNVzV5TlktbzZJOW1wRGdGdDkxRlFUY1FmNWVwMnZKUnVmeFJ3Q2c?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
+    },
+    {
       "articleId": "gnews_5faca47bfbcea962",
       "headline": "感染症の発生状況 - city.chiyoda.lg.jp",
       "headlineTranslated": "",
@@ -2528,23 +2566,23 @@
       "sourceName": "city.maebashi.gunma.jp"
     },
     {
-      "articleId": "gnews_7fad9666892e875f",
-      "headline": "麻疹の累積報告数が前年比3.6倍に、日本ワクチン学会が注意喚起 - 日経メディカル",
+      "articleId": "gnews_a5c0659cd62d8acc",
+      "headline": "新宿区の小学校ではしか集団発生、児童・教職員１８人感染…いずれも直近の海外渡航歴なし - 読売新聞",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-21T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFcDFwUG93NFM1SWs3d1VMUU9YUmY4aExYekxBcmxwcFQ1aF96dWd4YVNodFBOb29jd0JhX3BVS2tBZmY3UERwOXhMX1djSUxoRmhlTTFlYS1naURLbnQ3TW45ZjBLWkRPREU0eFNUbXFpZVpVTDNVNjh3ZVhrR3M?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzUVZqSGF0VUlkUjNZU296R2g3RGpDRVc5UE1PdC1EWE5GQ0d0OEV0UTFpblJacnF4aGFyQjE1eVF3eHZ4UHdMS25xZGFZSzJFc3ZKcmVJTHRvb1ZCMUdIU09YbFctZw?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "全国（都道府県不明）"
+        "東京都"
       ],
       "dataSource": "Google News",
-      "sourceName": "日経メディカル"
+      "sourceName": "読売新聞"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuc2Fua2VpLmNvbS9hcnRpY2xlLzIwMjYwNDIxLU43T001VTVOMk5NMjVOWkVSVFBXTEM0M0VBLw==",
@@ -2800,9 +2838,9 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
+        "広島県",
         "東京都",
-        "広島県"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2873,9 +2911,9 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "愛知県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3009,13 +3047,13 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "岡山県",
-        "愛知県",
         "埼玉県",
         "鹿児島県",
-        "千葉県",
-        "神奈川県"
+        "神奈川県",
+        "愛知県",
+        "東京都",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3075,8 +3113,8 @@
         }
       ],
       "prefectures": [
-        "三重県",
         "愛知県",
+        "三重県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -3340,12 +3378,12 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県",
         "埼玉県",
         "鹿児島県",
-        "千葉県",
-        "神奈川県"
+        "神奈川県",
+        "愛知県",
+        "東京都",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3397,9 +3435,9 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "愛知県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3734,25 +3772,6 @@
       "sourceName": "GemMed"
     },
     {
-      "articleId": "gnews_1345beb2b8edcc68",
-      "headline": "はしか猛威、東京で今月５５人…大半が１０～３０歳代 - 読売新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-13T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qWWp2MVRDNWQxRERQUWhiUl9kZHBNeDVXMHRlUnhwQ3hBVUxCM1lVQTF1MGFHRkdHdGhlWmdNLXBnZmRuY1dEaUQ1aHNpTjlkX09pWFBQRUplNGNIRWR0dEFMeUk?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "読売新聞"
-    },
-    {
       "articleId": "aHR0cHM6Ly93d3cuc2hpbm1haS5jby5qcC9uZXdzL2FydGljbGUvZ2YwMWQ3Y2R0ZWtnNDRzZDg5cm91cDFn",
       "headline": "長野県外で確認のはしか感染者、3月28～29日に長野市に滞在　｜信濃毎日新聞デジタル　信州・長野県のニュースサイト",
       "headlineTranslated": "Measles patient confirmed outside Nagano Prefecture stayed in Nagano City on March 28–29.",
@@ -3797,9 +3816,9 @@
         }
       ],
       "prefectures": [
+        "静岡県",
         "長野県",
-        "東京都",
-        "静岡県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3884,8 +3903,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3985,10 +4004,10 @@
       ],
       "prefectures": [
         "栃木県",
-        "東京都",
-        "愛知県",
         "鹿児島県",
-        "神奈川県"
+        "神奈川県",
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4067,8 +4086,8 @@
         }
       ],
       "prefectures": [
-        "山梨県",
         "愛知県",
+        "山梨県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -4115,8 +4134,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "東京都"
+        "東京都",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4292,8 +4311,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4333,9 +4352,9 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
         "千葉県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
