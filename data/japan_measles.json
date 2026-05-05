@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-05-05T19:26:15.637505+00:00",
+  "generated_at": "2026-05-05T21:06:09.501927+00:00",
   "date_range": {
     "start": "2026-04-05",
     "end": "2026-05-05"
   },
-  "total_articles": 145,
+  "total_articles": 144,
   "prefecture_summary": {
-    "東京都": 86,
+    "東京都": 85,
     "岩手県": 2,
     "埼玉県": 6,
-    "全国（都道府県不明）": 46,
+    "全国（都道府県不明）": 45,
+    "神奈川県": 5,
     "北海道": 2,
     "長野県": 4,
     "京都府": 1,
@@ -18,10 +19,9 @@
     "沖縄県": 7,
     "栃木県": 2,
     "愛知県": 9,
-    "神奈川県": 4,
     "静岡県": 5,
-    "広島県": 1,
     "鹿児島県": 7,
+    "広島県": 1,
     "福岡県": 1,
     "岡山県": 1,
     "三重県": 2,
@@ -141,8 +141,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "岩手県"
+        "岩手県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -180,8 +180,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "埼玉県"
+        "埼玉県",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -241,6 +241,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_02a6fde7a8f515d4",
+      "headline": "神奈川・平塚市在住の１０代男性がはしか感染 小田急小田原線やＪＲ山手線など利用 - 47NEWS",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-03T09:03:24+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kcEc3QTFMZWVWdlVFaGlCTVp2WXFaWlYydTlqcjNTd3pFVjNhTEJDYlk3VHlsaFp6RUF4bmN1ZVZqT1FpWTVmXzliSQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "神奈川県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "47NEWS"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuc2Fua2VpLmNvbS9hcnRpY2xlLzIwMjYwNTAzLUFSR0pNT0dSTVJQSlhDSjZPUkVWRElaN0pRLw==",
@@ -337,8 +356,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "北海道"
+        "北海道",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -674,8 +693,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -925,8 +944,8 @@
       ],
       "prefectures": [
         "山梨県",
-        "東京都",
-        "長野県"
+        "長野県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1104,8 +1123,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "沖縄県"
+        "沖縄県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1204,8 +1223,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "沖縄県"
+        "沖縄県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1250,8 +1269,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "沖縄県"
+        "沖縄県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1378,8 +1397,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1778,25 +1797,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_f20f4bbfe46ab011",
-      "headline": "はしか患者が増加 ～何が真の脅威なのか～【東京医科大客員教授・濱田篤郎】（時事通信） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-25T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFYXZPTll4V1JVYkFkaEhoMmZiNDVGSWd5Rmdfc016NnM4ZUE5eTZmMkt4R2NUR29fNUNvZklERHNjdE82R0R3SGpTc0NsQUtlVTlZWnl5TTBhN2QwX0lpQk1RMjNPWEszMkYtX0RKRHNsMVl4WC1mU0NrVlh1XzA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
       "articleId": "aHR0cHM6Ly9tYWluaWNoaS5qcC9hcnRpY2xlcy8yMDI2MDQyNC9rMDAvMDBtLzEwMC8zNzQwMDBj",
       "headline": "東京・新宿区の小学校、はしか患者47人に　学年閉鎖は延長せず",
       "headlineTranslated": "Measles cases reach 47 at an elementary school in Shinjuku Ward, Tokyo; grade-level closure not extended.",
@@ -2164,8 +2164,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "長野県"
+        "長野県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2242,25 +2242,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.nagasaki.lg.jp"
-    },
-    {
-      "articleId": "gnews_a547fff0bb4d965f",
-      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年4月21日更新） - wam.go.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-22T07:12:55+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NOE9wcVFyRV85VjV5c0pYeldqbzBuY093MzBkY19IeEV2enhia3VSX2dacjFqWWRHVEVVWS15R3ZDSkZwemxtbmZDaWtNVzV5TlktbzZJOW1wRGdGdDkxRlFUY1FmNWVwMnZKUnVmeFJ3Q2c?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "wam.go.jp"
     },
     {
       "articleId": "gnews_5faca47bfbcea962",
@@ -2452,8 +2433,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "静岡県"
+        "静岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2783,9 +2764,9 @@
         }
       ],
       "prefectures": [
+        "鹿児島県",
         "広島県",
-        "東京都",
-        "鹿児島県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2856,9 +2837,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "鹿児島県",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2905,8 +2886,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2993,11 +2974,11 @@
       ],
       "prefectures": [
         "千葉県",
-        "神奈川県",
+        "岡山県",
         "東京都",
         "鹿児島県",
+        "神奈川県",
         "愛知県",
-        "岡山県",
         "埼玉県"
       ],
       "dataSource": "BlueDot",
@@ -3058,9 +3039,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
+        "愛知県",
         "三重県",
-        "愛知県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3092,8 +3073,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "静岡県"
+        "静岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3215,8 +3196,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "三重県"
+        "三重県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3343,9 +3324,9 @@
       ],
       "prefectures": [
         "千葉県",
-        "神奈川県",
         "東京都",
         "鹿児島県",
+        "神奈川県",
         "愛知県",
         "埼玉県"
       ],
@@ -3399,9 +3380,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "鹿児島県",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3655,8 +3636,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "静岡県"
+        "静岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3780,9 +3761,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
+        "静岡県",
         "長野県",
-        "静岡県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3867,8 +3848,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "沖縄県"
+        "沖縄県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3905,8 +3886,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "宮崎県"
+        "宮崎県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3970,8 +3951,8 @@
         "栃木県",
         "東京都",
         "鹿児島県",
-        "愛知県",
-        "神奈川県"
+        "神奈川県",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4032,8 +4013,8 @@
       ],
       "prefectures": [
         "山梨県",
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4079,8 +4060,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4130,8 +4111,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4256,8 +4237,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "沖縄県"
+        "沖縄県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4297,9 +4278,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "沖縄県",
-        "千葉県"
+        "千葉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
