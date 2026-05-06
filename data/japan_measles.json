@@ -1,36 +1,55 @@
 {
-  "generated_at": "2026-05-05T22:58:20.757055+00:00",
+  "generated_at": "2026-05-06T03:30:35.685583+00:00",
   "date_range": {
-    "start": "2026-04-05",
-    "end": "2026-05-05"
+    "start": "2026-04-06",
+    "end": "2026-05-06"
   },
-  "total_articles": 145,
+  "total_articles": 143,
   "prefecture_summary": {
-    "東京都": 86,
+    "全国（都道府県不明）": 47,
+    "東京都": 84,
     "岩手県": 2,
     "埼玉県": 6,
-    "全国（都道府県不明）": 45,
-    "神奈川県": 5,
     "北海道": 1,
     "長野県": 4,
     "京都府": 1,
     "山梨県": 2,
-    "千葉県": 5,
-    "沖縄県": 7,
+    "千葉県": 4,
+    "沖縄県": 5,
     "栃木県": 2,
     "愛知県": 9,
+    "神奈川県": 4,
     "静岡県": 5,
     "新潟県": 1,
     "鹿児島県": 7,
     "広島県": 1,
     "福岡県": 1,
-    "茨城県": 2,
     "岡山県": 1,
     "三重県": 2,
+    "茨城県": 1,
     "長崎県": 1,
     "宮崎県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_cf3b6a6e5c879d47",
+      "headline": "子供だけでなく、合併症を防ぐために成人にも麻疹ワクチンが必要です - VOI.id",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-06T00:01:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16b204MTFYWEsyZnRtSS1hekwtX3F2ZDNwQkNsX2VNZGRYdDhDbi1RUEFjY3BZNmlRcFpPSjI4VHpHcUVHVGpyMHk2c9IBQkFVX3lxTE9EZl9vYURQT0hhSllGbUlxUmFvM2JiSDNUMWtwU3AzNzFfUzlkb3ZFb3pEb1cwU0pRMnZWWWNoZGF4QQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "VOI.id"
+    },
     {
       "articleId": "aHR0cHM6Ly9tZWRpY2FsLm1haW5pY2hpLmpwL2FydGljbGVzLzIwMjYwNDI5L21tZC8wMG0vNDExLzAxMjAwMGM=",
       "headline": "ワクチン2回世代にも感染拡大！　麻疹対策ですべきこととは",
@@ -180,8 +199,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "埼玉県"
+        "埼玉県",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -241,25 +260,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_02a6fde7a8f515d4",
-      "headline": "神奈川・平塚市在住の１０代男性がはしか感染 小田急小田原線やＪＲ山手線など利用 - 47NEWS",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-03T09:03:24+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kcEc3QTFMZWVWdlVFaGlCTVp2WXFaWlYydTlqcjNTd3pFVjNhTEJDYlk3VHlsaFp6RUF4bmN1ZVZqT1FpWTVmXzliSQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "神奈川県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "47NEWS"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuc2Fua2VpLmNvbS9hcnRpY2xlLzIwMjYwNTAzLUFSR0pNT0dSTVJQSlhDSjZPUkVWRElaN0pRLw==",
@@ -538,25 +538,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_6fae8ecf632aa24a",
-      "headline": "厚生労働省の方から、#麻しん と結核についてレクをいただきました。 - 選挙ドットコム",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T11:23:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oWDNrVXE5YVVGWDN3eGpaZFdJcFlOQzBoRi1HN3d4WEliazdIYjlIeXpNWHVxQktkNzVVREQtR1EzdTZ5ZkRwSktLZTVRMkZtdEZFRV9KV0htRFJSWUtN?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "選挙ドットコム"
     },
     {
       "articleId": "gnews_04e362223cf617e9",
@@ -882,7 +863,7 @@
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-30T11:25:33+00:00",
+      "publishedTimestamp": "2026-04-30T17:44:26+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX19HYVFGV2l1LVVrR19CWVJQb1dVeXNLcXdYOW5makI3VjBBcV9RTlJVZW5uZlh5ZE9xUUF1UWVPZU4ySGdqX0hqRGZqTlZoS2ctR2tjMnh2VnpNd0xKMjRRVlN3cVR3ZVBqZ0hPR0ktNzdudVVQMHBBenhULTV3eldjRktvNUpLV1RfTGZ4SHdPN3E2LVF3cVUxOGtGUlE?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
@@ -943,9 +924,9 @@
         }
       ],
       "prefectures": [
-        "山梨県",
         "東京都",
-        "長野県"
+        "長野県",
+        "山梨県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1025,6 +1006,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_2aafeda244d3669f",
+      "headline": "感染症の流行状況 2026年 第17週 - pref.saitama.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-30T05:49:11+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIbXJQZEFfSzg4enVJWjlMSG1WV3ZTUDA4V0laRnRjYnp6SVNKQTNNTVhvaDBWU1phTVg2TzhsbHYtM01hYzM5aGRYNTdNOXdzNUNyTEdGY3llN1Y3cW5Fb2JrendKendpMVE1OGZxazRoVlZGWEE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.saitama.lg.jp"
     },
     {
       "articleId": "gnews_d0da9ff13e98e8bc",
@@ -1397,8 +1397,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1503,25 +1503,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.kanagawa.jp"
-    },
-    {
-      "articleId": "gnews_005e71b8cc535011",
-      "headline": "米サウスカロライナ州が麻疹流行の終息宣言 国内最大規模の拡大 - Reuters",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-28T02:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04bUR1Wkc1U3h5eGt4bDdKend0X1dtZFF1eVIwOWJac3ZBQXNRU1JVbzl6MFM2Vm4xeDBJOThLNWdtRjhIbmZUXzR5Vmw1R2RMZFNKSVRGeEpCalJMQ0xDVk1EZXlhLWctenlPcy00MzBwbzFvNmdpQ2NR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Reuters"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDQyOC1HWVQxVDAwMjY5Lw==",
@@ -1633,6 +1614,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.koshigaya.saitama.jp"
+    },
+    {
+      "articleId": "gnews_005e71b8cc535011",
+      "headline": "米サウスカロライナ州が麻疹流行の終息宣言 国内最大規模の拡大 - Reuters",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-27T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04bUR1Wkc1U3h5eGt4bDdKend0X1dtZFF1eVIwOWJac3ZBQXNRU1JVbzl6MFM2Vm4xeDBJOThLNWdtRjhIbmZUXzR5Vmw1R2RMZFNKSVRGeEpCalJMQ0xDVk1EZXlhLWctenlPcy00MzBwbzFvNmdpQ2NR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Reuters"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVjRTM1QwTlY0U1VTUFQwMEhNLmh0bWw=",
@@ -2225,6 +2225,25 @@
       "sourceName": "town.togitsu.nagasaki.jp"
     },
     {
+      "articleId": "gnews_dac74af5d99bbd60",
+      "headline": "麻しん（はしか）について - city.nagasaki.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-22T08:41:10+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IcnNLZzhWeEdOSlhjNWhqbXhUcjAwMnFucGdqLXZYei1TdkJKamdaSG11RzRsYjlZOE9wTnQyc1c4WmFmU2xuY2s0S2o4U1dSRWNrVmJOMm9XQVE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.nagasaki.lg.jp"
+    },
+    {
       "articleId": "gnews_5faca47bfbcea962",
       "headline": "感染症の発生状況 - city.chiyoda.lg.jp",
       "headlineTranslated": "",
@@ -2764,8 +2783,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "鹿児島県",
+        "東京都",
         "広島県"
       ],
       "dataSource": "BlueDot",
@@ -2837,9 +2856,9 @@
         }
       ],
       "prefectures": [
-        "愛知県",
+        "鹿児島県",
         "東京都",
-        "鹿児島県"
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2891,25 +2910,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_cbe25fd54ae9c9c8",
-      "headline": "茨城県内の麻しん（はしか）患者の発生について（令和8年4月14日） - city.ibaraki-koga.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-17T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xdHBvSTZEWlltbGlqYVlBYkk1SFl4R19kbG1ZVFhqYkRCeUtUTEpSYjVWNGRJTmhpLWZKbWVjVnNvemxXRkdidXdXTjBqeEJyZmVxWmNtSE9HZmVaN2dlcS1sUzJsWjN4dnRJMW1pN2dLenNLYmc?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "茨城県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.ibaraki-koga.lg.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuc2FueW9uZXdzLmpwL2FydGljbGUvMTkwNjg0Nw==",
@@ -2992,13 +2992,13 @@
         }
       ],
       "prefectures": [
-        "千葉県",
         "愛知県",
+        "千葉県",
         "岡山県",
-        "東京都",
         "神奈川県",
         "鹿児島県",
-        "埼玉県"
+        "埼玉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3058,9 +3058,9 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "東京都",
-        "三重県"
+        "三重県",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3323,12 +3323,12 @@
         }
       ],
       "prefectures": [
-        "千葉県",
         "愛知県",
-        "東京都",
+        "千葉県",
         "神奈川県",
         "鹿児島県",
-        "埼玉県"
+        "埼玉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3380,9 +3380,9 @@
         }
       ],
       "prefectures": [
-        "愛知県",
+        "鹿児島県",
         "東京都",
-        "鹿児島県"
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3424,25 +3424,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_5040d55bda8bed56",
-      "headline": "はしか急増、前年比3.5倍200人 海外からのウイルスが拡大か - 朝日新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-14T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yRzRxZHBKTC0tX1FRN1ZwV01CVnZoMHczTlV3YUJNcFUwRkV1VDNEbEVfd2g2SFBaWVdkb2hNYVp1c25oY1dUdE9kQk5LTlE2QWdBZ2dCM1ROZXFNRktnVS15aGtkQnM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "朝日新聞"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9tZWRpY2FsLzIwMjYwNDE0LUdZVDFUMDAxNTMv",
@@ -3905,8 +3886,8 @@
         }
       ],
       "prefectures": [
-        "宮崎県",
-        "東京都"
+        "東京都",
+        "宮崎県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3968,13 +3949,32 @@
       ],
       "prefectures": [
         "愛知県",
-        "栃木県",
-        "東京都",
         "神奈川県",
-        "鹿児島県"
+        "栃木県",
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_7b9b3969abd8f186",
+      "headline": "空気感染するはしか、増加続く 厚労省が接種徹底と注意呼びかけ - Science Portal",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-09T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13UVFiNHpJOEU3aldKWDJSY2M5STlGdDRwY3g0MUhrbXpSN0pZMTRsVGw5QTBIT3B0YXpKXzI5VVhSSW5qcks0cDA5ekVKWWdpcE5PQXRmRmRqU21WRGw4ZUtuTFdTZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Science Portal"
     },
     {
       "articleId": "gnews_99ab6184ae19c7a2",
@@ -4031,9 +4031,9 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "山梨県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4079,8 +4079,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "鹿児島県"
+        "鹿児島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4130,8 +4130,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4202,104 +4202,6 @@
       ],
       "prefectures": [
         "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly9yeXVreXVzaGltcG8uanAvbmF0aW9uYWwvZW50cnktNTE3MTEyNS5odG1s",
-      "headline": "はしか感染男性、沖縄県内の移動は自家用車　成田→那覇は航空機　県が行動経路発表",
-      "headlineTranslated": "Measles-infected man: Movements within Okinawa Prefecture by private car; Narita to Naha by air; prefecture announces travel route.",
-      "summary": "Measles in Okinawa Prefecture: A man in his 20s, resident of the Central Public Health Center area, is the prefecture’s first locally confirmed measles case this year. He returned to Okinawa on March 28 and did not use public transport until April 1; infection confirmed on April 2. He departed Tokyo's Numabukuro Station on the morning of March 28, traveled via Takadanobaba and Nippori to Narita International Airport Terminal 2, then flew Narita–Naha on Jetstar GK331, arriving around 7:20 p.m. He visited medical facilities in the Southern Public Health Center district on March 29, 31 and April 1; intra-prefectural movements were by private car. He reportedly has fatigue and fever but is recovering as of April 2. Authorities caution that measles is highly contagious; if symptoms appear, contact clinics in advance and avoid public transport. Nationally, 197 infections were reported as of March 29.",
-      "summaryOriginal": "Measles in Okinawa Prefecture: A man in his 20s, resident of the Central Public Health Center area, is the prefecture’s first locally confirmed measles case this year. He returned to Okinawa on March 28 and did not use public transport until April 1; infection confirmed on April 2. He departed Tokyo's Numabukuro Station on the morning of March 28, traveled via Takadanobaba and Nippori to Narita International Airport Terminal 2, then flew Narita–Naha on Jetstar GK331, arriving around 7:20 p.m. He visited medical facilities in the Southern Public Health Center district on March 29, 31 and April 1; intra-prefectural movements were by private car. He reportedly has fatigue and fever but is recovering as of April 2. Authorities caution that measles is highly contagious; if symptoms appear, contact clinics in advance and avoid public transport. Nationally, 197 infections were reported as of March 29.",
-      "publishedTimestamp": "2026-04-05T02:39:47+00:00",
-      "sourceUrl": "https://ryukyushimpo.jp/national/entry-5171125.html",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Tokyo Prefecture",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Tokyo",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Takadanobaba",
-          "lat": 35.7131,
-          "lon": 139.70013
-        },
-        {
-          "name": "Naha",
-          "lat": 26.21667,
-          "lon": 127.68333
-        },
-        {
-          "name": "Okinawa",
-          "lat": 26.5,
-          "lon": 127.93333
-        },
-        {
-          "name": "Nishinippori",
-          "lat": 35.73264,
-          "lon": 139.76961
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都",
-        "沖縄県"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cub2tpbmF3YXRpbWVzLmNvLmpwL2FydGljbGVzLy0vMTgxMDU5Nw==",
-      "headline": "沖縄のはしか感染者、発症後に成田ー那覇移動　県内移動は自家用車　ウイルス生存期間は2時間以下",
-      "headlineTranslated": "Okinawa measles case traveled from Narita to Naha after onset; intra-prefectural travel was by private car; virus survival time was two hours or less.",
-      "summary": "Measles case in Okinawa Prefecture, Japan: A male in his 20s, resident in the Central Okinawa public health center area, developed symptoms on March 27. Measles infection was confirmed on April 2. He arrived at Naha Airport from Narita on Jetstar GK331 on April 28 at about 19:20 after staying at Narita Airport Terminal 2 from roughly 11:30 to 14:45. Within Okinawa, all travel was by private car; no use of public transportation. Measles is highly contagious via droplets, contact and airborne transmission; authorities urge individuals who shared the same airspace with the patient to monitor for symptoms. The virus is said to survive in air for two hours or less; visiting locations the patient recently used is not considered an infection risk at present. This is a domestic, travel-linked measles case affecting Okinawa.",
-      "summaryOriginal": "Measles case in Okinawa Prefecture, Japan: A male in his 20s, resident in the Central Okinawa public health center area, developed symptoms on March 27. Measles infection was confirmed on April 2. He arrived at Naha Airport from Narita on Jetstar GK331 on April 28 at about 19:20 after staying at Narita Airport Terminal 2 from roughly 11:30 to 14:45. Within Okinawa, all travel was by private car; no use of public transportation. Measles is highly contagious via droplets, contact and airborne transmission; authorities urge individuals who shared the same airspace with the patient to monitor for symptoms. The virus is said to survive in air for two hours or less; visiting locations the patient recently used is not considered an infection risk at present. This is a domestic, travel-linked measles case affecting Okinawa.",
-      "publishedTimestamp": "2026-04-05T00:30:00+00:00",
-      "sourceUrl": "https://www.okinawatimes.co.jp/articles/-/1810597",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Narita",
-          "lat": 35.78333,
-          "lon": 140.31667
-        },
-        {
-          "name": "Chiba-ken",
-          "lat": 35.60506,
-          "lon": 140.12333
-        },
-        {
-          "name": "Okinawa",
-          "lat": 26.5,
-          "lon": 127.93333
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "千葉県",
-        "東京都",
-        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
