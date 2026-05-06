@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-06T17:43:44.136042+00:00",
+  "generated_at": "2026-05-06T19:50:26.354693+00:00",
   "date_range": {
     "start": "2026-04-06",
     "end": "2026-05-06"
   },
-  "total_articles": 141,
+  "total_articles": 140,
   "prefecture_summary": {
     "全国（都道府県不明）": 45,
     "東京都": 83,
@@ -15,8 +15,9 @@
     "京都府": 1,
     "山梨県": 2,
     "千葉県": 4,
-    "沖縄県": 5,
+    "沖縄県": 4,
     "愛知県": 9,
+    "大阪府": 1,
     "神奈川県": 4,
     "静岡県": 5,
     "新潟県": 1,
@@ -26,31 +27,11 @@
     "茨城県": 2,
     "岡山県": 1,
     "三重県": 2,
-    "福島県": 1,
     "長崎県": 1,
     "宮崎県": 1,
     "栃木県": 1
   },
   "articles": [
-    {
-      "articleId": "gnews_9acdfa114e8377f7",
-      "headline": "ニコール・サピエー氏の削除投稿が判明、麻疹拡大の懸念と政権批判を示す - mezha.net",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-06T01:46:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZRTN3WUtjSlhmQjhqOFdtWnQ2ZS1VbnFUaUt0U09tTmluUzRvUGdvQWZuNlFOT2VBV3o4cHU4QmJkRjdrRmtjbWJ5ZElnQ3IyT0R2NWV4SUliYXg1My05bTlseUIwNTFkNC04?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "mezha.net"
-    },
     {
       "articleId": "gnews_cf3b6a6e5c879d47",
       "headline": "子供だけでなく、合併症を防ぐために成人にも麻疹ワクチンが必要です - VOI.id",
@@ -180,8 +161,8 @@
         }
       ],
       "prefectures": [
-        "岩手県",
-        "東京都"
+        "東京都",
+        "岩手県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -219,8 +200,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "埼玉県",
-        "東京都"
+        "東京都",
+        "埼玉県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -376,8 +357,8 @@
         }
       ],
       "prefectures": [
-        "北海道",
-        "東京都"
+        "東京都",
+        "北海道"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1239,25 +1220,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_992798d30dab9229",
-      "headline": "【速報】沖縄で今年2例目のはしか感染 那覇空港など利用、不特定多数と接触か ウイルス生存期間は2時間以下 - 沖縄タイムス社",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-29T04:57:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04eHBNbEhvamx0SnZITk9MNlR5M3BYaXFOSUhLSG8yLVdsbEpUdUFzWTlQLVZxZUlyN2lWWlBrdmhlWF9yOUtnazlZTGxtcW00VmF0RzlWX1JQd295YUE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "沖縄県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "沖縄タイムス社"
-    },
-    {
       "articleId": "gnews_841e639117549e10",
       "headline": "【厚生労働省からのお知らせ】麻しんの感染拡大防止に関するご案内 - centrair.jp",
       "headlineTranslated": "",
@@ -1360,8 +1322,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1449,6 +1411,25 @@
       "sourceName": "wam.go.jp"
     },
     {
+      "articleId": "gnews_a3c4c6b7d92ad1ff",
+      "headline": "大阪市の１０歳未満の男児がはしかに感染 １７日に西成区のデイリーカナートイズミヤ花園店に滞在、２１日・２３日に浪速区の病院を利用 - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-28T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OQXFNWkdVUHNLTEZfdlpzd0RES0VzSGxydzUxRV9Ba1FNeUdjb1FSOVU2Ty1BNE5zRHBQRWxIbXdpaU1kdzcyLS1POTRsUDNnWTFfYzRmcW5zWXU2anpYa2g2aWpTdDhsdkZiWTAxUmN2ei1ZWGZLVDBGZ0RZbms?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "大阪府"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
       "articleId": "gnews_6e7193c119d6248b",
       "headline": "2026神奈川県 麻しん情報（9）16週｜神奈川県衛生研究所 - pref.kanagawa.jp",
       "headlineTranslated": "",
@@ -1522,6 +1503,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_501d88a3c4825ed3",
+      "headline": "「はしか」の感染なぜ爆発的に広がっている？ すでに2025年の年間患者数を超え…専門家が勧める対策は - 東京新聞デジタル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-27T21:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkR3VabFZwdmQzOTNvdmw4Z2xxdW9fODh3RlJrVDVSNmJPY3ZzRTVOVmN1eXZlTHRYY0JpVkpZZkh5YkxkWFpxVXIwVy1VdTJLWVdV?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "東京新聞デジタル"
+    },
+    {
       "articleId": "gnews_6687e746e4244b9c",
       "headline": "麻しんの感染者が増加しています。 - pref.kagoshima.jp",
       "headlineTranslated": "",
@@ -1577,6 +1577,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.koshigaya.saitama.jp"
+    },
+    {
+      "articleId": "gnews_005e71b8cc535011",
+      "headline": "米サウスカロライナ州が麻疹流行の終息宣言 国内最大規模の拡大 - Reuters",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-27T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04bUR1Wkc1U3h5eGt4bDdKend0X1dtZFF1eVIwOWJac3ZBQXNRU1JVbzl6MFM2Vm4xeDBJOThLNWdtRjhIbmZUXzR5Vmw1R2RMZFNKSVRGeEpCalJMQ0xDVk1EZXlhLWctenlPcy00MzBwbzFvNmdpQ2NR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Reuters"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVjRTM1QwTlY0U1VTUFQwMEhNLmh0bWw=",
@@ -1647,25 +1666,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_0722095363338801",
-      "headline": "肺炎、インフルエンザ、百日咳のリスクが増大！麻疹が抱える「免疫健忘」という恐ろしい”二次被害”（FRIDAY） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-26T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40SUpvRDR0UWhyR1QwTFNNSmQybkF5VFZLMFZKSjJEd0ZMRFFzRHVzR3RmdlV0cll6Wk1OTlZCV3M0b3drb1Nmc2hXQWlVRm5SZTJWZ2FGb0dScFRuNTRobEs3YkNhRXRzbWVpVU5MUlVkOEFnRkZRSFpCRW1mQUk?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_8ebe7d6ba8752665",
@@ -1844,25 +1844,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_5701d9ffff27d300",
-      "headline": "新宿区の小学校のはしか集団感染、新たに２９人感染確認で計４７人に…ワクチン接種呼びかけ - 読売新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-24T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EMVBaRVJGZDM4TzJPd0gxVnQwT1BycWx6ZEd1eFdwdEZRV09KQU5lVmJoc3RMUXN3MnplN3dad08tallHaE9HWm90UURsOE5KZUswMVpNdlgwWDlQQTRiemp5OE5ZQQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "読売新聞"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VBMjQwUlUwVTZBNDIwQzIwMDAwMDAv",
@@ -2169,25 +2150,6 @@
       "sourceName": "town.togitsu.nagasaki.jp"
     },
     {
-      "articleId": "gnews_dac74af5d99bbd60",
-      "headline": "麻しん（はしか）について - city.nagasaki.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-22T08:41:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IcnNLZzhWeEdOSlhjNWhqbXhUcjAwMnFucGdqLXZYei1TdkJKamdaSG11RzRsYjlZOE9wTnQyc1c4WmFmU2xuY2s0S2o4U1dSRWNrVmJOMm9XQVE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.nagasaki.lg.jp"
-    },
-    {
       "articleId": "gnews_5faca47bfbcea962",
       "headline": "感染症の発生状況 - city.chiyoda.lg.jp",
       "headlineTranslated": "",
@@ -2474,6 +2436,25 @@
       "sourceName": "city.maebashi.gunma.jp"
     },
     {
+      "articleId": "gnews_7fad9666892e875f",
+      "headline": "麻疹の累積報告数が前年比3.6倍に、日本ワクチン学会が注意喚起 - 日経メディカル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-21T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFcDFwUG93NFM1SWs3d1VMUU9YUmY4aExYekxBcmxwcFQ1aF96dWd4YVNodFBOb29jd0JhX3BVS2tBZmY3UERwOXhMX1djSUxoRmhlTTFlYS1naURLbnQ3TW45ZjBLWkRPREU0eFNUbXFpZVpVTDNVNjh3ZVhrR3M?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日経メディカル"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cuc2Fua2VpLmNvbS9hcnRpY2xlLzIwMjYwNDIxLU43T001VTVOMk5NMjVOWkVSVFBXTEM0M0VBLw==",
       "headline": "今年のはしか累計299人　昨年超え、1週間で56人　海外から持ち込まれるケース",
       "headlineTranslated": "Measles total this year reaches 299, surpassing last year; 56 cases in one week; cases imported from overseas.",
@@ -2754,6 +2735,25 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
+      "articleId": "gnews_82b78867bd9fe4f9",
+      "headline": "【社説】はしか感染急増 予防に徹して拡大を防げ - 西日本新聞me",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-18T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nelE5cjgwYXJWQmRQZXE1WmhNOW85S05yVG9kV3N5Ym90TjZNV3FLc2xNWlNTRTIyWno3VlZ0NUJOMjhhNWRjWFVDdFJ6Tm5nNGJGSVJn?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "西日本新聞me"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cuamlqaS5jb20vamMvYXJ0aWNsZT9rPTIwMjYwNDE4MDAxMjYmZz1zb2M=",
       "headline": "はしか感染、２３０人超　新型コロナ後で最多ペース -- １０～２０代が中心：時事ドットコム",
       "headlineTranslated": "Measles infections exceed 230, the fastest pace since the COVID-19 era — centered on people in their teens and 20s.",
@@ -2800,8 +2800,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "愛知県",
+        "鹿児島県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -2955,13 +2955,13 @@
         }
       ],
       "prefectures": [
-        "岡山県",
-        "千葉県",
-        "鹿児島県",
-        "東京都",
         "神奈川県",
+        "岡山県",
+        "鹿児島県",
         "愛知県",
-        "埼玉県"
+        "東京都",
+        "埼玉県",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3125,25 +3125,6 @@
       "sourceName": "hokeniryo.metro.tokyo.lg.jp"
     },
     {
-      "articleId": "gnews_b56b38683214e4ea",
-      "headline": "感染症情報センター - 福島県ホームページ",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T04:18:51+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84M3ZsZVllLTJrZW1zampaVWRvLU1LUHh5STVmMUxZVEZvWU5RTWNKSUFrM3cwRWYyQ0kwVV9nYjJmOTdrczMyb05PZmZRYXVPYWwwaF81NXgxMjNCaTkwS2ZwT1g?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福島県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "福島県ホームページ"
-    },
-    {
       "articleId": "aHR0cHM6Ly93d3cuaXNlbnAuY28uanAvMjAyNi8wNC8xNi8xNDYyMTAv6Yi06bm-44Gu55S35oCn44Gv44GX44GL5oSf5p+T44CA44Kk44Oz44OJ44GL44KJ5biw5Zu944CA5LiJ6YeN55yMLw==",
       "headline": "鈴鹿の男性はしか感染　インドから帰国　三重県内今年初確認 - 伊勢新聞",
       "headlineTranslated": "Man from Suzuka contracted measles after returning from India; first measles case in Mie Prefecture this year - Ise Shimbun",
@@ -3228,8 +3209,8 @@
         }
       ],
       "prefectures": [
-        "茨城県",
-        "東京都"
+        "東京都",
+        "茨城県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3305,12 +3286,12 @@
         }
       ],
       "prefectures": [
-        "千葉県",
-        "鹿児島県",
-        "東京都",
         "神奈川県",
+        "鹿児島県",
         "愛知県",
-        "埼玉県"
+        "東京都",
+        "埼玉県",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3362,8 +3343,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "愛知県",
+        "鹿児島県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -3743,8 +3724,8 @@
         }
       ],
       "prefectures": [
-        "長野県",
         "静岡県",
+        "長野県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -3930,11 +3911,11 @@
         }
       ],
       "prefectures": [
+        "神奈川県",
         "鹿児島県",
-        "東京都",
-        "栃木県",
         "愛知県",
-        "神奈川県"
+        "東京都",
+        "栃木県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3994,9 +3975,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "山梨県",
-        "愛知県",
-        "東京都"
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
