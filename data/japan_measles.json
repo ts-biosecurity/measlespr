@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-07T14:21:59.486419+00:00",
+  "generated_at": "2026-05-07T17:50:28.778822+00:00",
   "date_range": {
     "start": "2026-04-07",
     "end": "2026-05-07"
   },
-  "total_articles": 140,
+  "total_articles": 142,
   "prefecture_summary": {
-    "全国（都道府県不明）": 43,
-    "長野県": 7,
-    "埼玉県": 8,
     "東京都": 82,
+    "全国（都道府県不明）": 45,
+    "長野県": 9,
+    "埼玉県": 8,
     "静岡県": 6,
     "宮崎県": 2,
     "岩手県": 2,
@@ -17,12 +17,12 @@
     "京都府": 1,
     "山梨県": 2,
     "千葉県": 4,
-    "沖縄県": 6,
+    "沖縄県": 5,
     "愛知県": 9,
     "大阪府": 1,
     "神奈川県": 4,
-    "広島県": 1,
     "鹿児島県": 7,
+    "広島県": 1,
     "福岡県": 1,
     "茨城県": 2,
     "岡山県": 1,
@@ -31,6 +31,33 @@
     "栃木県": 1
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly9jb21lbW8ubmlra2VpLmNvbS9uL242OGM5NDJkYzAyZjE=",
+      "headline": "ハンタウイルス感染症について ～感染症発生の3要素から不安を払拭～｜水野泰孝 Global Healthcare Clinic",
+      "headlineTranslated": "About Hantavirus Infection: Dispelling Concerns Through the Three Elements of Infectious Disease Occurrence | Yasutaka Mizuno Global Healthcare Clinic",
+      "summary": "Hantavirus infection on a cruise ship after Golden Week, with fatalities, prompted comparisons to the Diamond Princess COVID-19 outbreak in 2020. About 150 people aboard, including Japanese, are affected. No vaccine or antiviral exists; transmission is linked to contact with infected rodents rather than sustained human-to-human spread, so containment hinges on identifying the rodent reservoir and blocking routes of exposure. The article emphasizes three basic outbreak elements and notes that, unlike COVID-19 or measles, hantavirus manages spread primarily through contact with the animal source, not prolonged close contact between people. Precautions for travelers include avoiding rodent encounters in endemic areas. Domestic spread in Japan is regarded as unlikely, and imported/exported risk is considered low by authorities. European risk is described as very low by ECDC in related assessments. The article cites May 6, 2026, information from Japan’s National Crisis Management and public health sources.",
+      "summaryOriginal": "Hantavirus infection on a cruise ship after Golden Week, with fatalities, prompted comparisons to the Diamond Princess COVID-19 outbreak in 2020. About 150 people aboard, including Japanese, are affected. No vaccine or antiviral exists; transmission is linked to contact with infected rodents rather than sustained human-to-human spread, so containment hinges on identifying the rodent reservoir and blocking routes of exposure. The article emphasizes three basic outbreak elements and notes that, unlike COVID-19 or measles, hantavirus manages spread primarily through contact with the animal source, not prolonged close contact between people. Precautions for travelers include avoiding rodent encounters in endemic areas. Domestic spread in Japan is regarded as unlikely, and imported/exported risk is considered low by authorities. European risk is described as very low by ECDC in related assessments. The article cites May 6, 2026, information from Japan’s National Crisis Management and public health sources.",
+      "publishedTimestamp": "2026-05-07T14:33:00+00:00",
+      "sourceUrl": "https://comemo.nikkei.com/n/n68c942dc02f1",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "COVID-19",
+        "Measles",
+        "Hantavirus Infection"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
     {
       "articleId": "gnews_b9b6506a43150f5e",
       "headline": "知らないうちに広げている？「麻疹」の潜伏期間と周囲へ感染させないための健康観察 (2026年5月7日掲載) - ライブドアニュース",
@@ -49,6 +76,26 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ライブドアニュース"
+    },
+    {
+      "articleId": "gnews_93e8f250db50e0e0",
+      "headline": "はしか感染の埼玉県の20代男性が北陸新幹線を利用 4月26日、長野駅から大宮駅まで 4月25日と26日、長野市内のホテルとエムウェーブに滞在 保健所が注意呼びかけ - nbs-tv.co.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-07T11:32:40+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kdkdtajBqeTgxR1RRal8ydmRCNGdpcy11azNaQ3lGVk1oNzZWeHVRaVZGVGd4TUo3TnR6THgweXY1N1dNdWdMOS1wZHE5R1VfOHdaVEpkVWt6MF9GR3c?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "長野県",
+        "埼玉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "nbs-tv.co.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuc2hpbm1haS5jby5qcC9uZXdzL2FydGljbGUvZ2YwMWQ3dTRlYXIwYTd0OHZqanZyOW9n",
@@ -97,8 +144,8 @@
       "prefectures": [
         "長野県",
         "埼玉県",
-        "東京都",
-        "静岡県"
+        "静岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -270,8 +317,8 @@
         }
       ],
       "prefectures": [
-        "岩手県",
-        "東京都"
+        "東京都",
+        "岩手県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -309,8 +356,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "埼玉県"
+        "埼玉県",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -486,8 +533,8 @@
         }
       ],
       "prefectures": [
-        "北海道",
-        "東京都"
+        "東京都",
+        "北海道"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -500,6 +547,26 @@
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-02T09:47:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fQ1NnX01LbERET0x4eXQwbFVFVXFrUzdwdVJsZTJjcXFwS0VtVFFxVjZmM2I0YVI3UWFHRHpSRThqaFRLdmZDS0wxV3NRa003TXdpM1FqbnNqRXlNVkVOTjZ6dDZrMEZzUnpORS12TUZ6R1lZTVh5b3MtLXFZblk?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "長野県",
+        "埼玉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_f42ecbc5548e83fa",
+      "headline": "埼玉県の麻しん（はしか）患者が県内に滞在 保健所が注意喚起【長野】 (テレビ信州) - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-02T09:47:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjRpWlllVElBZ0t0bUg3WHJXdDlPSFpZaENfZFVXRFF5UDNrYnNIb2ZlLUVFN1Z3Z3hBaElxdy1BNFl3RFFoWGxGaXpSU0M4eFhuNFp6LVlDTXIzV1gzOU1YQUlISWZiZzItMTRpVW9ObjVYbXFKVU5kbElDWE5Ga0YydXRLVEhRaWNUMHlB?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -577,32 +644,13 @@
       "sourceName": "湘南人"
     },
     {
-      "articleId": "gnews_fa29ae2b52137523",
-      "headline": "はしか感染…20代男性、さいたまや蕨の飲食店を利用 医療機関を利用する前、発症日と前日に はしかの予防接種歴あり - 47NEWS",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T23:21:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nR2ZyTXhHZUpIYVU0eVBncUJxZFhoWndRZ01wNkg4WHVtN0Y4QmtCODVpRjZhTzNDMVZkM3hRSTlJcG9DQk9LM1V0RQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "埼玉県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "47NEWS"
-    },
-    {
-      "articleId": "gnews_b050c573f4ac6040",
+      "articleId": "gnews_187d236e013040b4",
       "headline": "「麻疹（はしか）」にわざと感染して免疫を…それ、自殺行為です！感染症マニアに聞いた「感染とワクチン接種」の違いとは？ - Yahoo!ニュース",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-01T22:00:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDd1RlN1RDhsQ2lqelZDRjdpMVpjVlUzekxlVU9OMndVeGRRVXlSb3pQZ2pEYy03MTFWUGloc3E4UzZVUk41UkVpdlp6Ni1uREhHVGFBOFpJRkxCT09YdG5vT3F5dm5nTVVZcFE4aXp0U1pVQUZzVXE1czFCTTJTLUZoRGR5Z2Z1?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlA5NUItM0pPZnVaQjRVOE1jOHNtMVhsRTJacXcxQnlnU2h3VnhTWlZqNVc4aEtmNnBkXzEybFl1UnlIOFp6TXZuQU1fUUpRZjFBUEsxUjl2UTY4aVgzREN2eEZCd1BOWHQybThDcDJvRHZYc0VoM2lFMmVQNHdfZEVyazZfYTJx?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -734,6 +782,25 @@
       "sourceName": "YOUよっかいち"
     },
     {
+      "articleId": "gnews_2bfc20c41b272660",
+      "headline": "麻しん(はしか) - city.fukushima.fukushima.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-01T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52eTI3cU5WdGpveXdPamQ1UWRfanJQTnRHU2NsbkJEaXlSYU00NGVrb1Iyc182TnFWN1dLSnB0aVpOME5uVVo2eUtkWkdzRlRHTVkxeFQ5WWd5OVlyQno1MVQwQTAxbkx2ZF9vOE5hcEl2eUJORnpn?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.fukushima.fukushima.jp"
+    },
+    {
       "articleId": "gnews_e5b30407ed2f9682",
       "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
       "headlineTranslated": "",
@@ -747,8 +814,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -771,25 +838,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.kameoka.kyoto.jp"
-    },
-    {
-      "articleId": "gnews_2bfc20c41b272660",
-      "headline": "麻しん(はしか) - city.fukushima.fukushima.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52eTI3cU5WdGpveXdPamQ1UWRfanJQTnRHU2NsbkJEaXlSYU00NGVrb1Iyc182TnFWN1dLSnB0aVpOME5uVVo2eUtkWkdzRlRHTVkxeFQ5WWd5OVlyQno1MVQwQTAxbkx2ZF9vOE5hcEl2eUJORnpn?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.fukushima.fukushima.jp"
     },
     {
       "articleId": "gnews_737cc60978c798ab",
@@ -1016,8 +1064,8 @@
         }
       ],
       "prefectures": [
-        "山梨県",
         "長野県",
+        "山梨県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -1158,8 +1206,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1198,25 +1246,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_992798d30dab9229",
-      "headline": "【速報】沖縄で今年2例目のはしか感染 那覇空港など利用、不特定多数と接触か ウイルス生存期間は2時間以下 - 沖縄タイムス社",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-29T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04eHBNbEhvamx0SnZITk9MNlR5M3BYaXFOSUhLSG8yLVdsbEpUdUFzWTlQLVZxZUlyN2lWWlBrdmhlWF9yOUtnazlZTGxtcW00VmF0RzlWX1JQd295YUE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "沖縄県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "沖縄タイムス社"
     },
     {
       "articleId": "aHR0cHM6Ly9yeXVreXVzaGltcG8uanAvbmF0aW9uYWwvZW50cnktNTIxOTgzNi5odG1s",
@@ -1258,8 +1287,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1323,8 +1352,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1687,26 +1716,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Reuters"
-    },
-    {
-      "articleId": "gnews_9cccd903526fb6c9",
-      "headline": "はしかに感染…20代男性が陽性判明前、東武東上線を利用 東京メトロも使って新宿区へ行く 2日間にかけて移動 発熱、発疹、結膜充血、関節痛も（埼玉新聞） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-27T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDNmdoUUEzTjZDRHBaNTZXek5UMDVlbF9RRGRHOFhmempNWVlsX1BPTG5RTDBvel90R0hXQmRVLVFyVHJWRUVpMDZsOU5jczFyNml3UnZwNzZxa3Brd3JfbmY2M1dvRFZMOXZFX3YwMmc5WmpIUE9aXzBHYzNsbFU?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都",
-        "埼玉県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVjRTM1QwTlY0U1VTUFQwMEhNLmh0bWw=",
@@ -2781,9 +2790,9 @@
         }
       ],
       "prefectures": [
-        "広島県",
         "鹿児島県",
-        "東京都"
+        "東京都",
+        "広島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2854,8 +2863,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "鹿児島県",
+        "愛知県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -3009,13 +3018,13 @@
         }
       ],
       "prefectures": [
-        "千葉県",
-        "鹿児島県",
-        "神奈川県",
         "東京都",
         "岡山県",
-        "愛知県",
-        "埼玉県"
+        "埼玉県",
+        "千葉県",
+        "神奈川県",
+        "鹿児島県",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3244,8 +3253,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "茨城県"
+        "茨城県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3321,12 +3330,12 @@
         }
       ],
       "prefectures": [
-        "千葉県",
-        "鹿児島県",
-        "神奈川県",
         "東京都",
-        "愛知県",
-        "埼玉県"
+        "埼玉県",
+        "千葉県",
+        "神奈川県",
+        "鹿児島県",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3378,8 +3387,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
         "鹿児島県",
+        "愛知県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -3403,6 +3412,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "GemMed"
+    },
+    {
+      "articleId": "gnews_8020fe7101ed36b1",
+      "headline": "感染者増加のはしか「重症者発生も懸念」、治療薬はなし…３月中旬までの患者１３％が入院 - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-14T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54QWsxWlU2cUdRd0pZejROT0h1SjQwSzRFcTdSLVdHTGlySS1lcTdHZ294RURPUkxpVUFMN3hpbm1vS1pCODJTclVOdDdGOWlKdlViY0p5NV9JVVpqUHRXUWVHTkY?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
     },
     {
       "articleId": "gnews_4c34d456e082db7f",
@@ -3779,8 +3807,8 @@
       ],
       "prefectures": [
         "長野県",
-        "東京都",
-        "静岡県"
+        "静岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3865,8 +3893,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3903,8 +3931,8 @@
         }
       ],
       "prefectures": [
-        "宮崎県",
-        "東京都"
+        "東京都",
+        "宮崎県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3965,14 +3993,33 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
-        "神奈川県",
         "東京都",
-        "愛知県",
-        "栃木県"
+        "神奈川県",
+        "栃木県",
+        "鹿児島県",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_7b9b3969abd8f186",
+      "headline": "空気感染するはしか、増加続く 厚労省が接種徹底と注意呼びかけ - Science Portal",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-09T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13UVFiNHpJOEU3aldKWDJSY2M5STlGdDRwY3g0MUhrbXpSN0pZMTRsVGw5QTBIT3B0YXpKXzI5VVhSSW5qcks0cDA5ekVKWWdpcE5PQXRmRmRqU21WRGw4ZUtuTFdTZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Science Portal"
     },
     {
       "articleId": "gnews_99ab6184ae19c7a2",
