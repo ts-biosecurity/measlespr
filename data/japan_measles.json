@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T14:56:52.922470+00:00",
+  "generated_at": "2026-05-10T16:59:42.015211+00:00",
   "date_range": {
     "start": "2026-04-10",
     "end": "2026-05-10"
@@ -8,13 +8,13 @@
   "prefecture_summary": {
     "全国（都道府県不明）": 47,
     "東京都": 92,
-    "埼玉県": 9,
+    "埼玉県": 10,
     "福岡県": 2,
-    "神奈川県": 6,
     "鹿児島県": 7,
+    "神奈川県": 6,
     "千葉県": 7,
     "長野県": 5,
-    "静岡県": 6,
+    "静岡県": 5,
     "岩手県": 2,
     "北海道": 1,
     "京都府": 1,
@@ -190,6 +190,25 @@
       "sourceName": "朝日新聞"
     },
     {
+      "articleId": "gnews_250621ead886d451",
+      "headline": "はしかに感染…20代男性 JR武蔵野・総武・埼京線利用 発熱やせき（埼玉新聞） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-09T00:55:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHNHFBZ0lzNFVHbHl1ZVZuSk1zY3hJTkhFSC1PVXpKdnp4T1VDU1BLb2p2anR0cnF0eHdoSUV0WHgzNURYd2FCY0JRSDI1QlJocXc2eENoemVZRUEwTFMzY1NmNlFOYjVoanBFSUtEWTloWTBkZGk1RU5aX2Jybk0?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "埼玉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
       "articleId": "gnews_cd62e2141e1805df",
       "headline": "はしかに感染…50代女性 埼スタでサッカー観戦 鉄道、市内ショッピングモールを利用 発熱やせき、発疹、コプリック斑（埼玉新聞） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -340,9 +359,9 @@
       ],
       "locations": [],
       "prefectures": [
+        "鹿児島県",
         "神奈川県",
-        "東京都",
-        "鹿児島県"
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "読売新聞"
@@ -669,8 +688,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "鹿児島県",
+        "東京都",
         "千葉県",
         "神奈川県",
         "埼玉県"
@@ -811,8 +830,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "埼玉県",
-        "長野県"
+        "長野県",
+        "埼玉県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -862,10 +881,10 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
-        "東京都",
+        "静岡県",
         "長野県",
-        "静岡県"
+        "埼玉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1018,8 +1037,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "岩手県"
+        "岩手県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1156,8 +1175,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "北海道"
+        "北海道",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1416,8 +1435,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -1968,8 +1987,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2755,8 +2774,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "長野県"
+        "長野県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3005,8 +3024,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "静岡県"
+        "静岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3356,8 +3375,8 @@
       ],
       "prefectures": [
         "鹿児島県",
-        "東京都",
-        "広島県"
+        "広島県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3410,8 +3429,8 @@
       ],
       "prefectures": [
         "鹿児島県",
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3564,9 +3583,9 @@
         }
       ],
       "prefectures": [
+        "鹿児島県",
         "東京都",
         "愛知県",
-        "鹿児島県",
         "岡山県",
         "千葉県",
         "神奈川県",
@@ -3630,9 +3649,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "愛知県",
-        "三重県"
+        "三重県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3664,8 +3683,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "静岡県"
+        "静岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3768,8 +3787,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "三重県"
+        "三重県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3818,8 +3837,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "茨城県"
+        "茨城県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3895,9 +3914,9 @@
         }
       ],
       "prefectures": [
+        "鹿児島県",
         "東京都",
         "愛知県",
-        "鹿児島県",
         "千葉県",
         "神奈川県",
         "埼玉県"
@@ -3953,8 +3972,8 @@
       ],
       "prefectures": [
         "鹿児島県",
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4227,8 +4246,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "静岡県"
+        "静岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4327,25 +4346,6 @@
       "sourceName": "読売新聞"
     },
     {
-      "articleId": "gnews_280e01a921353c14",
-      "headline": "【速報】今年初 静岡県内で麻しん(はしか)患者を確認 発症前に海外渡航歴がない50代男性（静岡朝日テレビ） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-13T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93ZUVPd2FHMk5UZGQyQTlDZGZ4YjZLSnJuMTVRazdBaUZEemhRNFNZb0lwdU5CVG1BTTBlOEk2eFpWdk85ZHJ3bHpwRU9uX2VvNjJKbmwyenpHeXlvVzE4b2pOZDhrYVpHVkVWdTY3T3ZRZUdzNFUzRktxVkVjY3M?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "静岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
       "articleId": "aHR0cHM6Ly93d3cuc2hpbm1haS5jby5qcC9uZXdzL2FydGljbGUvZ2YwMWQ3Y2R0ZWtnNDRzZDg5cm91cDFn",
       "headline": "長野県外で確認のはしか感染者、3月28～29日に長野市に滞在　｜信濃毎日新聞デジタル　信州・長野県のニュースサイト",
       "headlineTranslated": "Measles patient confirmed outside Nagano Prefecture stayed in Nagano City on March 28–29.",
@@ -4390,9 +4390,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
+        "静岡県",
         "長野県",
-        "静岡県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
