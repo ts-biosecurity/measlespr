@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-05-11T21:24:54.711591+00:00",
+  "generated_at": "2026-05-11T22:57:38.822233+00:00",
   "date_range": {
     "start": "2026-04-11",
     "end": "2026-05-11"
   },
-  "total_articles": 149,
+  "total_articles": 147,
   "prefecture_summary": {
-    "全国（都道府県不明）": 53,
+    "全国（都道府県不明）": 52,
     "東京都": 86,
     "埼玉県": 9,
     "福岡県": 2,
-    "鹿児島県": 7,
     "神奈川県": 6,
+    "鹿児島県": 7,
     "千葉県": 6,
     "長野県": 4,
-    "静岡県": 5,
+    "静岡県": 4,
     "岩手県": 1,
     "北海道": 1,
     "山梨県": 1,
@@ -361,8 +361,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "埼玉県",
-        "福岡県"
+        "福岡県",
+        "埼玉県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -479,9 +479,9 @@
       ],
       "locations": [],
       "prefectures": [
-        "鹿児島県",
         "東京都",
-        "神奈川県"
+        "神奈川県",
+        "鹿児島県"
       ],
       "dataSource": "Google News",
       "sourceName": "読売新聞"
@@ -846,11 +846,11 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
         "千葉県",
         "神奈川県",
         "鹿児島県",
-        "東京都"
+        "東京都",
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1039,9 +1039,9 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
-        "長野県",
         "東京都",
+        "長野県",
+        "埼玉県",
         "静岡県"
       ],
       "dataSource": "BlueDot",
@@ -1721,9 +1721,9 @@
         }
       ],
       "prefectures": [
-        "山梨県",
+        "東京都",
         "長野県",
-        "東京都"
+        "山梨県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1863,8 +1863,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "沖縄県"
+        "沖縄県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1944,8 +1944,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "沖縄県"
+        "沖縄県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1990,8 +1990,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "沖縄県"
+        "沖縄県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2848,8 +2848,8 @@
         }
       ],
       "prefectures": [
-        "長野県",
-        "東京都"
+        "東京都",
+        "長野県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3391,8 +3391,8 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "東京都",
+        "鹿児島県",
         "広島県"
       ],
       "dataSource": "BlueDot",
@@ -3445,9 +3445,9 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "東京都",
-        "愛知県"
+        "愛知県",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3581,13 +3581,13 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
         "千葉県",
-        "岡山県",
+        "愛知県",
         "神奈川県",
+        "岡山県",
         "鹿児島県",
         "東京都",
-        "愛知県"
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3835,8 +3835,8 @@
         }
       ],
       "prefectures": [
-        "茨城県",
-        "東京都"
+        "東京都",
+        "茨城県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3912,12 +3912,12 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
         "千葉県",
+        "愛知県",
         "神奈川県",
         "鹿児島県",
         "東京都",
-        "愛知県"
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3969,9 +3969,9 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "東京都",
-        "愛知県"
+        "愛知県",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4013,25 +4013,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "読売新聞"
-    },
-    {
-      "articleId": "gnews_5040d55bda8bed56",
-      "headline": "はしか急増、前年比3.5倍200人 海外からのウイルスが拡大か - 朝日新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-14T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yRzRxZHBKTC0tX1FRN1ZwV01CVnZoMHczTlV3YUJNcFUwRkV1VDNEbEVfd2g2SFBaWVdkb2hNYVp1c25oY1dUdE9kQk5LTlE2QWdBZ2dCM1ROZXFNRktnVS15aGtkQnM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "朝日新聞"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9tZWRpY2FsLzIwMjYwNDE0LUdZVDFUMDAxNTMv",
@@ -4323,25 +4304,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.kanagawa.jp"
-    },
-    {
-      "articleId": "gnews_280e01a921353c14",
-      "headline": "【速報】今年初 静岡県内で麻しん(はしか)患者を確認 発症前に海外渡航歴がない50代男性（静岡朝日テレビ） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-13T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93ZUVPd2FHMk5UZGQyQTlDZGZ4YjZLSnJuMTVRazdBaUZEemhRNFNZb0lwdU5CVG1BTTBlOEk2eFpWdk85ZHJ3bHpwRU9uX2VvNjJKbmwyenpHeXlvVzE4b2pOZDhrYVpHVkVWdTY3T3ZRZUdzNFUzRktxVkVjY3M?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "静岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     }
   ]
 }
