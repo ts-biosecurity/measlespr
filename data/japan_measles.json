@@ -1,26 +1,28 @@
 {
-  "generated_at": "2026-05-12T21:22:10.026287+00:00",
+  "generated_at": "2026-05-12T23:04:50.611713+00:00",
   "date_range": {
     "start": "2026-04-12",
     "end": "2026-05-12"
   },
-  "total_articles": 147,
+  "total_articles": 155,
   "prefecture_summary": {
-    "全国（都道府県不明）": 47,
+    "京都府": 1,
+    "東京都": 89,
+    "全国（都道府県不明）": 51,
     "福井県": 1,
     "神奈川県": 9,
-    "東京都": 88,
     "埼玉県": 11,
     "福岡県": 2,
     "鹿児島県": 7,
     "千葉県": 5,
     "長野県": 5,
     "静岡県": 4,
-    "岩手県": 1,
+    "岩手県": 2,
     "北海道": 1,
     "山梨県": 1,
-    "沖縄県": 3,
+    "沖縄県": 4,
     "愛知県": 6,
+    "大分県": 1,
     "広島県": 1,
     "岡山県": 1,
     "三重県": 2,
@@ -28,6 +30,26 @@
     "茨城県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_d244e9ac1952fe2a",
+      "headline": "物価高やはしか対策を要望 東京都議会5会派、知事に提出 - 東京新聞デジタル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-12T22:15:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wQ1ZEUkktQW9vWEFPa01BbkRFWURmdk1CRUs4bXRfV0FIRlRTNWV2SDBmZjNONmg4VnVQempZVlRWaFdvOXEtdFlqU01sUE5LLWJr?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "京都府",
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "東京新聞デジタル"
+    },
     {
       "articleId": "gnews_db3b3b4f1015b77f",
       "headline": "武田薬品工業のMRワクチン、限定出荷で再開へ - 日経メディカル",
@@ -86,25 +108,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_937ab9ffd2259b85",
-      "headline": "【速報】県内ではしか感染確認 丹南の40代男性 4月にベトナムに渡航 症状は回復方向 公共交通機関利用なし - 日テレNEWS NNN",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-12T03:30:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc0hXQ1YxZG5YMFFscVZsN2dEdlNSOVhCUjJfWThyOUc3eC05VU5VVFQ2WUZSMzVHWk5NLTVnak54R3hqcktmUGZHbjlNS3BDZ2xrRW5UZzBvN1c3cnREMDZfRzBaYlhmdXlNTGVSWTk0cks5X1ZBMDVobzRYYUJuVXZwdDdLaVE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日テレNEWS NNN"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVjRTM1QwTlY0U1VTUFQwMEhNLmh0bWw-aXJlZj1vZ2ltYWdlX3Jlaw==",
@@ -586,6 +589,25 @@
       "sourceName": "city.koshigaya.saitama.jp"
     },
     {
+      "articleId": "gnews_c0a0dfa9c740a45e",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年5月8日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-08T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yeDV3MHJrNWg1VC1lUGdwNWRYMkF2US1JTDNPdll6XzNLeG14UzNrWEdrNi1zYnBsQlF3eGlORS1PT3F1UXRhSHZNWFhPSHFVakRsbU9GdEdmQ2N4LTB5QUgyNjVsRDdpY1JxWGhVQU1mSXc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
+    },
+    {
       "articleId": "gnews_03be4bd9c106973f",
       "headline": "麻しん（はしか）に注意！ - city.katano.osaka.jp",
       "headlineTranslated": "",
@@ -907,14 +929,33 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
-        "神奈川県",
         "鹿児島県",
+        "神奈川県",
+        "東京都",
         "千葉県",
-        "東京都"
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_2c490514dce457cd",
+      "headline": "国内で麻しん（はしか）が急増しています - komei.or.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-08T00:19:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPWjNqUE1VaDZidmRDb29oVUJyMG5EMnpKd1JjSUtRZ2k4ZU00WXJNR04wa2xBRG8yX0V4R3FoalM3RmtCYUowRlJlaTM2MUhZM2c4X0JMNnlqY1didTF2U1gyUDVWalFVbHZadTdXOTA3aGRmYXg3VFZkRFBFVW5NSWRSRjU0dDg1aXZtSHl6ZFlTeElETHFZOThrVnRNTnRnTVpwUXRjUmRZaWhONWEzdjVWSGpxSk1iMTNlazhtdE1ZQ0pFWnFabXFCZzFwaV9qVEdSeDRtOFdzQTB0V1h6X1ZwUEZQRVFRU2MtR0dNNE8wNXdudWkxcDZSYTFiLVhvb3JRa2prTVlrNjhsbk9qZ2xZMEJqNlNDNktTVWRFNFZSQzNCNENqV3hyVm9jQ0dFMXJLZnRpdGhXNXBjcWxF?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "komei.or.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDUwOC1HWVQxVDAwMjQ1Lw==",
@@ -1011,8 +1052,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "長野県",
-        "埼玉県"
+        "埼玉県",
+        "長野県"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -1062,10 +1103,10 @@
         }
       ],
       "prefectures": [
-        "長野県",
         "東京都",
         "静岡県",
-        "埼玉県"
+        "埼玉県",
+        "長野県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1147,6 +1188,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.yao.osaka.jp"
+    },
+    {
+      "articleId": "gnews_32fc1359150bbf6c",
+      "headline": "麻疹に注意（4月20～26日） - 岩手日報",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yRFpxdDNkaHVhdEg3SUhYRU9Oc1R4QkdWNEp3Y1NfODIwNUNmOUNiblJtdlZoUWNTT0V0RU5jUE1XRTNKdTI1dmppTnN4SERZVm5KMmYzZWk0NmM4aFB3?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "岩手県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "岩手日報"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuaXdhdGUtbnAuY28uanAvYXJ0aWNsZS8yMDI2LzUvNC8xOTI4MDA=",
@@ -1312,8 +1372,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "長野県",
-        "埼玉県"
+        "埼玉県",
+        "長野県"
       ],
       "dataSource": "Google News",
       "sourceName": "日テレNEWS NNN"
@@ -1521,25 +1581,6 @@
       "sourceName": "city.fukushima.fukushima.jp"
     },
     {
-      "articleId": "gnews_ac952f73c87c2d60",
-      "headline": "中播磨健康福祉事務所の感染症情報 - pref.hyogo.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40R3BzRlI4aG9ZR2MtdElvLTZSMzQtbjU1TGpIX2N2RGpYMk9TSDZUcWl6RFkyNnFHdzQ4S3prUmVRR00yNXJxQmVjR040QUtCLWV0WTVCblA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.hyogo.lg.jp"
-    },
-    {
       "articleId": "gnews_7c64edde8921eaf4",
       "headline": "麻しん（はしか）にご注意ください - city.kameoka.kyoto.jp",
       "headlineTranslated": "",
@@ -1557,6 +1598,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.kameoka.kyoto.jp"
+    },
+    {
+      "articleId": "gnews_ac952f73c87c2d60",
+      "headline": "中播磨健康福祉事務所の感染症情報 - pref.hyogo.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-01T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40R3BzRlI4aG9ZR2MtdElvLTZSMzQtbjU1TGpIX2N2RGpYMk9TSDZUcWl6RFkyNnFHdzQ4S3prUmVRR00yNXJxQmVjR040QUtCLWV0WTVCblA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.hyogo.lg.jp"
     },
     {
       "articleId": "gnews_04e362223cf617e9",
@@ -1745,9 +1805,9 @@
         }
       ],
       "prefectures": [
-        "長野県",
         "山梨県",
-        "東京都"
+        "東京都",
+        "長野県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1929,6 +1989,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_f1aa3907f5a06bea",
+      "headline": "沖縄で今年2例目のはしか患者 30代男性、海外で感染か 1例目との関連はなし - 琉球新報デジタル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKb0xoOTQ0LU5MM2pPQVZYNHprcEgwbFVlclRPZ25ueDdOaG9KdEh4Z19oVDd0SDFPZVkxQ2NGRFhyNXlPMUQwTjdkWU9GR0R0SmpoeWNJNGFUWjctTTdjTQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "沖縄県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "琉球新報デジタル"
+    },
+    {
       "articleId": "aHR0cHM6Ly9yeXVreXVzaGltcG8uanAvbmF0aW9uYWwvZW50cnktNTIxOTgzNi5odG1s",
       "headline": "沖縄で今年2例目のはしか患者　30代男性、海外で感染か　1例目との関連はなし",
       "headlineTranslated": "Second measles patient in Okinawa this year; a man in his 30s may have been infected overseas; no link to the first case.",
@@ -2104,8 +2183,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2191,6 +2270,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "town.kin.okinawa.jp"
+    },
+    {
+      "articleId": "gnews_c12644efb36c3267",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年4月28日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-28T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96QTh3LTdGVlBVT1J2SE1HdkNETDlkZUVEbE85eUpRNWdTNU9iNVRrcHJORVJKeGNGSEFGU29KZjZoOGNYR1RsaE5CVVZFMlAtNEh6LUh1UWpVZ1daVnpsZU40TlZ5RVRINVVsaDhCbjFMNUE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
     },
     {
       "articleId": "gnews_bf6f7e3322972f73",
@@ -2412,6 +2510,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_8ebe7d6ba8752665",
+      "headline": "ウイルス定着していないはずなのに はしか患者が増えているのは - 毎日新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-26T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ERklFV2N6Q1F2bEpLdHJzRnM0QmV4LXk5STNSa0Z0S0tNdU5BZGFqcGJxWjZFUS00VjNUQ1dpYW5BamtxUlltNWN4WlpMUmNuWmNjeF9vUTBwTlpSWnZyNUFVNThSMk9P?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "毎日新聞"
     },
     {
       "articleId": "aHR0cHM6Ly9nZW5raW1hcnUxLmxpdmVkb29yLmJsb2cvYXJjaGl2ZXMvMjM2OTkyNy5odG1s",
@@ -2780,6 +2897,25 @@
       "sourceName": "city.fujimino.saitama.jp"
     },
     {
+      "articleId": "gnews_922d51ea4c33e9e8",
+      "headline": "はしか患者が増加～何が真の脅威なのか～ - 時事メディカル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-23T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiUXJMd1AxcGxnenpaazlqaGp3aU05eEFVdE9YMC1Qdy1Kem9Ec1FZV01aLTd0aUZsMlpXT0loTnBOVnVDcm1VeDlFNlnSAVJBVV95cUxPbWY0amNQMjNlWTZVM3I5Vm9zQmVINXpEdXlwOEwzbF9wRmIwajZiMkN5cmlfY2VxY3N2akxQbjhza05JUEpfaEZ0Vk55MDNWMW93?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "時事メディカル"
+    },
+    {
       "articleId": "gnews_b0fdcededde38d56",
       "headline": "麻しん（はしか）に注意しましょう - city.naka.lg.jp",
       "headlineTranslated": "",
@@ -2854,8 +2990,8 @@
         }
       ],
       "prefectures": [
-        "長野県",
-        "東京都"
+        "東京都",
+        "長野県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2915,23 +3051,23 @@
       "sourceName": "town.togitsu.nagasaki.jp"
     },
     {
-      "articleId": "gnews_dac74af5d99bbd60",
-      "headline": "麻しん（はしか）について - city.nagasaki.lg.jp",
+      "articleId": "gnews_bf41f5929ae63227",
+      "headline": "大型連休中の感染症対策にご協力ください - 大分県ホームページ",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-22T08:41:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IcnNLZzhWeEdOSlhjNWhqbXhUcjAwMnFucGdqLXZYei1TdkJKamdaSG11RzRsYjlZOE9wTnQyc1c4WmFmU2xuY2s0S2o4U1dSRWNrVmJOMm9XQVE?oc=5",
+      "publishedTimestamp": "2026-04-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FSmpwY09zem5WRXR5SVhZT1B5Q1BlNEZ0MlhDdV9SQ21FQk1scEd5N0xnZ2t6RUpUQUZjLUlxOWpqeGFkUWluMzdYU0ktUElmSTZBcGNheEV0LXhHV196X1ZlOUt3TnIycTcxbi04R1ZDQnluUXJkRWttVQ?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "全国（都道府県不明）"
+        "大分県"
       ],
       "dataSource": "Google News",
-      "sourceName": "city.nagasaki.lg.jp"
+      "sourceName": "大分県ホームページ"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2FydGljbGVzL2I1OGFmMDdjNjUzNjMxNDc0ODQ2MWVhYzA2NWNhZmRhNTdmMjE0MzA=",
@@ -3606,13 +3742,13 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
-        "神奈川県",
         "愛知県",
-        "岡山県",
         "鹿児島県",
+        "神奈川県",
+        "東京都",
+        "岡山県",
         "千葉県",
-        "東京都"
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3673,8 +3809,8 @@
       ],
       "prefectures": [
         "東京都",
-        "三重県",
-        "愛知県"
+        "愛知県",
+        "三重県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3791,8 +3927,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "三重県"
+        "三重県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3860,8 +3996,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "茨城県"
+        "茨城県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3937,12 +4073,12 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
-        "神奈川県",
         "愛知県",
         "鹿児島県",
+        "神奈川県",
+        "東京都",
         "千葉県",
-        "東京都"
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -4019,6 +4155,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "GemMed"
+    },
+    {
+      "articleId": "gnews_8020fe7101ed36b1",
+      "headline": "感染者増加のはしか「重症者発生も懸念」、治療薬はなし…３月中旬までの患者１３％が入院 - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-14T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54QWsxWlU2cUdRd0pZejROT0h1SjQwSzRFcTdSLVdHTGlySS1lcTdHZ294RURPUkxpVUFMN3hpbm1vS1pCODJTclVOdDdGOWlKdlViY0p5NV9JVVpqUHRXUWVHTkY?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9tZWRpY2FsLzIwMjYwNDE0LUdZVDFUMDAxNTMv",
