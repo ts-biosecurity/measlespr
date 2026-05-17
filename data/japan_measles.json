@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-17T13:27:25.122069+00:00",
+  "generated_at": "2026-05-17T14:59:25.917686+00:00",
   "date_range": {
     "start": "2026-04-17",
     "end": "2026-05-17"
   },
-  "total_articles": 139,
+  "total_articles": 137,
   "prefecture_summary": {
-    "全国（都道府県不明）": 52,
+    "全国（都道府県不明）": 50,
     "東京都": 75,
     "埼玉県": 6,
     "長野県": 5,
@@ -17,12 +17,12 @@
     "千葉県": 2,
     "鹿児島県": 3,
     "静岡県": 2,
+    "新潟県": 1,
     "岩手県": 1,
     "北海道": 1,
     "山梨県": 1,
     "沖縄県": 3,
     "愛知県": 2,
-    "大分県": 1,
     "広島県": 1
   },
   "articles": [
@@ -83,6 +83,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_24482ceae3ebcc17",
+      "headline": "はしかの感染が拡大 【くらピタ！】 麻しんウイルスによる感染症 主に39度以上の発熱、咳・鼻水、全身の発しんなどの症状 「ワクチン空白世代」とは？ - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T21:49:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYTRUTnZUOTg3YU9Vb0EzTkRMR2k0N1p5bG5ZNXBTT3hYUHVydjJvVGJaTnVLTFNQaGl2MUVGOGIxN3VUUnlaUEZWLUtGbmtoSE9sNFpQRVhHMVhYZ0xKWEQzaDdFUzlUQ3lUUEFnZXJXTkhjTUVIUjVfbzFraHVHaGVSNGtrTlNuWWtMaVhwMHNGLUozRHl1ekVQMmxoV2M3N0lPLVJ1NjJtSkJEXzMyVnl2b2NtWUFaZDZRMUdZV2NHbnl1cTFidm9sWFlUYlItXy1yNDA0ZC1jV2ZkOWZTS0FDOHlmb0d4cUZYYVBFUmhsRFJoaFE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_c1a30f580ac44378",
@@ -489,13 +508,13 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_1a5fd3656cbbd21d",
+      "articleId": "gnews_ae9b687efe808749",
       "headline": "インフルの10倍の感染力！麻疹（はしか）に要警戒、「風邪」と診断された私が死の淵を彷徨うまで(1/5) - JBpress",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-13T21:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWc1SmRocmtmd3A3OFRlOEkzNkpQRDFOUW1CQU50Q0RaaHZWNW9TWjYxU2k5Y3pYaHprWGhfSWhuMm8wQWdBSFcwNk94N21tTXRvRGRWUjhYemhpeHhENHlEamtXcGJZTGtuYlJLcnJ0WUt3NEM3dUFTRTNPWDktOVZKNzlqd1hFU0VpdTd1S2pHNExvd1c3MF9lNXBXQmliZEg2VVl3UlhORWtsM2c?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pdEZzQm9sOFhab21pbVoyZ3hsR3YwemtWN3BYS1hXZk16ellvUVBtOWZTSFU1M0NWLUpPM1VhXzItTWFzY003OTNITTd3MG9KS3otcjVn?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -1248,9 +1267,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "神奈川県",
         "千葉県",
+        "東京都",
         "埼玉県",
         "鹿児島県"
       ],
@@ -1383,9 +1402,9 @@
         }
       ],
       "prefectures": [
-        "長野県",
         "静岡県",
         "埼玉県",
+        "長野県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -1451,23 +1470,23 @@
       "sourceName": "city.yao.osaka.jp"
     },
     {
-      "articleId": "gnews_66cddd8375685557",
-      "headline": "はしか患者、昨年の4倍に急増 感染力はインフルの10倍…GW中の拡大懸念（産経新聞） - Yahoo!ニュース",
+      "articleId": "gnews_3b2776273467cabd",
+      "headline": "【保環研】感染症情報（患者発生情報：新潟県） - pref.niigata.lg.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-04T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hVUVDTlhEdWJxa1JvcUQtdzE0NkNSd3JmczZ0WmsxR0lDLV9vTXVZXy1SaUo4bDc2U0RIbDliOGMyNE4zcmRIeFhBUTJ5T2UxWFNpT2lCbGZZTmlUWDU3XzFLb3lXN2hBbm51Q3Q5NkhzLTNfWHdHVjIyR0F3NTA?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ETHJ3NF84Z0N2M2hWODRjVHhYUjNZVXdlZkFuSkFXYjAzcWlaTVFpVUlpYi10WEh2aG1URF9RTXJxeTV4SGtWUmdvQ1A5UzJFR2QwMlhtR3A1RGpPWlZQUWkwbzlEVEhlLWlqU3MwWQ?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "全国（都道府県不明）"
+        "新潟県"
       ],
       "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
+      "sourceName": "pref.niigata.lg.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuaXdhdGUtbnAuY28uanAvYXJ0aWNsZS8yMDI2LzUvNC8xOTI4MDA=",
@@ -2104,9 +2123,9 @@
         }
       ],
       "prefectures": [
+        "山梨県",
         "長野県",
-        "東京都",
-        "山梨県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2148,44 +2167,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.fukuoka.lg.jp"
-    },
-    {
-      "articleId": "gnews_2aafeda244d3669f",
-      "headline": "感染症の流行状況 2026年 第17週 - pref.saitama.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-30T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIbXJQZEFfSzg4enVJWjlMSG1WV3ZTUDA4V0laRnRjYnp6SVNKQTNNTVhvaDBWU1phTVg2TzhsbHYtM01hYzM5aGRYNTdNOXdzNUNyTEdGY3llN1Y3cW5Fb2JrendKendpMVE1OGZxazRoVlZGWEE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.saitama.lg.jp"
-    },
-    {
-      "articleId": "gnews_48bb1eaab9859cbd",
-      "headline": "「はしか」GW中に感染拡大のおそれ 統計開始以来最多で感染防止呼びかけ - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-30T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wdUp0YUU1ajRqSE5DbVRmTEc4N2tyZDNFZTg0RThpT29fZUxvOEJ2QnBxblZZZjlrbFNxeFZlWnJ3WUZ1NzlXUlNEb2hJaWxSR1VhaXRZTk1Ia29WWHIxZmhmNA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_d0da9ff13e98e8bc",
@@ -2444,8 +2425,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3158,25 +3139,6 @@
       "sourceName": "town.togitsu.nagasaki.jp"
     },
     {
-      "articleId": "gnews_bf41f5929ae63227",
-      "headline": "大型連休中の感染症対策にご協力ください - 大分県ホームページ",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-22T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FSmpwY09zem5WRXR5SVhZT1B5Q1BlNEZ0MlhDdV9SQ21FQk1scEd5N0xnZ2t6RUpUQUZjLUlxOWpqeGFkUWluMzdYU0ktUElmSTZBcGNheEV0LXhHV196X1ZlOUt3TnIycTcxbi04R1ZDQnluUXJkRWttVQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "大分県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "大分県ホームページ"
-    },
-    {
       "articleId": "gnews_5139d411ea224f7c",
       "headline": "MC Plus Material - 感染症週報 2026年第10週（3月2日－3月8日） 12 ページ - 厚生政策情報センター",
       "headlineTranslated": "",
@@ -3781,8 +3743,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
