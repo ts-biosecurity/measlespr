@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-05-18T03:59:42.704922+00:00",
+  "generated_at": "2026-05-18T08:13:08.126542+00:00",
   "date_range": {
     "start": "2026-04-18",
     "end": "2026-05-18"
   },
-  "total_articles": 147,
+  "total_articles": 150,
   "prefecture_summary": {
-    "全国（都道府県不明）": 56,
-    "東京都": 76,
+    "東京都": 77,
     "京都府": 7,
+    "全国（都道府県不明）": 57,
     "埼玉県": 7,
     "長野県": 5,
     "福岡県": 4,
     "熊本県": 1,
-    "神奈川県": 3,
+    "神奈川県": 4,
     "静岡県": 3,
     "千葉県": 2,
     "鹿児島県": 3,
     "新潟県": 1,
-    "岩手県": 1,
+    "岩手県": 2,
     "北海道": 1,
     "山梨県": 1,
     "沖縄県": 3,
@@ -26,6 +26,45 @@
     "広島県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_682ad1e868288c4a",
+      "headline": "東京都ではしか239人、過去10年で最多 無料ワクチン接種開始も「騒ぎすぎ」の声、その見方は正しいのか - coki.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-18T05:25:29+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtV0JqZTd2bTRORzcwVi12RXFGYkdwTUxpRy0zM3VMSW85U2psWjlsbk9mV2dJS1VUSFZzYmp2dWoyS0R1ZU5oVC1HUQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都",
+        "京都府"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "coki.jp"
+    },
+    {
+      "articleId": "gnews_98831aff234d65b2",
+      "headline": "麻しん（はしか）に注意しましょう！ - city.kuwana.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-18T04:19:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpdEpUb1d5d25oZXpBZmZ3SDRxZEVoTjU5LVpEUnNkSGRGelowQXdiZzhCaUJoYlJjMkp5YWpsVWVDUE1vRlppR1FSZmpFbkJqTmhWZnRESEgzN0xhSnAzREdiZ2lYSGFVak9PRXctOGVfTGs?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.kuwana.lg.jp"
+    },
     {
       "articleId": "gnews_a5736608bd5d22eb",
       "headline": "第295回 MMRワクチン、約30年ぶり国内使用へ 麻しん拡大下で定期接種化を検討／厚労省｜連載企画｜CareNet.com - CareNet.com",
@@ -391,26 +430,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.chiyoda.lg.jp"
-    },
-    {
-      "articleId": "gnews_1740bf4518d50ba5",
-      "headline": "はしか患者１０年で最多の東京都、ワクチン緊急接種の開始を発表…患者との接触者が対象（読売新聞オンライン） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T06:11:16+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSVJ0U3FoeDBGRHltbDBFTk84SmtZOWVoUnBNU1VYb1MwcWlkdGUxcldyOFowdS1MWkREMmNTWGpSemJWVUxIc2IxTExDR3VqYUJvTEZNcGpwZFVwY2EycGN1dEVRWnRYQUJ3YWlSZUV0ZElxLWlFZDZuNHVEemc?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都",
-        "京都府"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_e01f706a8ad39197",
@@ -857,6 +876,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "日刊薬業"
+    },
+    {
+      "articleId": "gnews_c667410de3f6afa9",
+      "headline": "中東・北アフリカにおける紛争が麻疹流行を促す - arabnews.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-10T02:05:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tN3pTWVY3TW1mdWUxcXFEelNyam5hdHA0Ykp5VUswNmNrZmF2Ni0yNmxUVnNVM2U2RU9wSEhxWHVkY2RCQ210emRpZ3JoVEpYXzkyMnRPd0FndzYxMHF0cVM2QXZpSnE5Tlhv?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "arabnews.jp"
     },
     {
       "articleId": "gnews_1dd7e60f9be75365",
@@ -1459,10 +1497,10 @@
         }
       ],
       "prefectures": [
-        "千葉県",
         "東京都",
         "埼玉県",
         "神奈川県",
+        "千葉県",
         "鹿児島県"
       ],
       "dataSource": "BlueDot",
@@ -1502,25 +1540,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_26f26a694d833486",
-      "headline": "麻しん（はしか）患者の発生に伴う注意喚起について - city.ginowan.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T17:59:46+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhWjU0VVJxdUFTMVQ2RHV2NE1VVDVJWHRDS0dQdjNrNzh4d2Z1MloybjVxanU4ZjlYMUVrMk5BdWVuMnRYSmR6VnQyNlNoOHVWRkxSck4xYXkyOGljS0E3TDROLWdlclhnb3dld29lbDc3M3JvWFZuRA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.ginowan.lg.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9jb21lbW8ubmlra2VpLmNvbS9uL242OGM5NDJkYzAyZjE=",
@@ -1594,10 +1613,10 @@
         }
       ],
       "prefectures": [
-        "東京都",
+        "静岡県",
         "長野県",
-        "埼玉県",
-        "静岡県"
+        "東京都",
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1679,6 +1698,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.niigata.lg.jp"
+    },
+    {
+      "articleId": "gnews_32fc1359150bbf6c",
+      "headline": "麻疹に注意（4月20～26日） - 岩手日報",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yRFpxdDNkaHVhdEg3SUhYRU9Oc1R4QkdWNEp3Y1NfODIwNUNmOUNiblJtdlZoUWNTT0V0RU5jUE1XRTNKdTI1dmppTnN4SERZVm5KMmYzZWk0NmM4aFB3?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "岩手県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "岩手日報"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuaXdhdGUtbnAuY28uanAvYXJ0aWNsZS8yMDI2LzUvNC8xOTI4MDA=",
@@ -2091,25 +2129,6 @@
       "sourceName": "city.chiyoda.lg.jp"
     },
     {
-      "articleId": "gnews_165cfba34f889d12",
-      "headline": "麻しんが流行しています - town.taishi.osaka.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUhxSGpkaW5kd0g0YlE4SXMyYTJabVl4cTVEQm1hUFlNQkotcTRQV2pJSjQ3SWl3a2RQRTQ4NGQwUXhoQWJaTDMwRkFNem5SVVpJQ1AteFp4OEJ3ckpZSGZKZ2JicjF1UGhSSjhkTm02UEJlRm9IOV9Ib0c4bzktQ2NaalVoYWhLQjdQU3J0c0JQZw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "town.taishi.osaka.jp"
-    },
-    {
       "articleId": "gnews_04e362223cf617e9",
       "headline": "新宿区の小学校で学年閉鎖。麻しん（はしか）の感染が拡大。子ども・妊婦に必要な対策は？（マイナビ子育て） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -2277,9 +2296,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
+        "山梨県",
         "長野県",
-        "山梨県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2321,6 +2340,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.fukuoka.lg.jp"
+    },
+    {
+      "articleId": "gnews_48bb1eaab9859cbd",
+      "headline": "「はしか」GW中に感染拡大のおそれ 統計開始以来最多で感染防止呼びかけ - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-30T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wdUp0YUU1ajRqSE5DbVRmTEc4N2tyZDNFZTg0RThpT29fZUxvOEJ2QnBxblZZZjlrbFNxeFZlWnJ3WUZ1NzlXUlNEb2hJaWxSR1VhaXRZTk1Ia29WWHIxZmhmNA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_d0da9ff13e98e8bc",
@@ -2598,8 +2636,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2687,6 +2725,26 @@
       "sourceName": "wam.go.jp"
     },
     {
+      "articleId": "gnews_bf6f7e3322972f73",
+      "headline": "首都圏で多いはしか患者、東京１５３人・神奈川３６人…全国３６２人の７割がワクチン「１回以下」「不明」 - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-28T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNaXN1LXRGOS1wMWNGQVJPSjhWTTZuTlhqQlIyRnhGOV85c2EzdHlwdEFRU2x1V29hc1d5Ni1ZMm1YUFZoT1E5X3BGYm9kYTNyN1Y3RzUyZXpIandkcGVFcUd6d3U?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都",
+        "神奈川県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDQyOC1HWVQxVDAwMjY5Lw==",
       "headline": "首都圏で多いはしか患者、東京１５３人・神奈川３６人...全国３６２人の７割がワクチン「１回以下」「不明」 | ヨミドクター(読売新聞)",
       "headlineTranslated": "Measles cases most common in the Tokyo metropolitan area, Tokyo 153, Kanagawa 36... 70% of the nationwide total of 362 cases had received one vaccine dose or less, or vaccination status was unknown",
@@ -2722,8 +2780,8 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_a58e2db52ce0b5f6",
-      "headline": "米サウスカロライナ州が麻疹流行の終息宣言 国内最大規模の拡大 - ロイター",
+      "articleId": "gnews_005e71b8cc535011",
+      "headline": "米サウスカロライナ州が麻疹流行の終息宣言 国内最大規模の拡大 - Reuters",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -2738,7 +2796,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "ロイター"
+      "sourceName": "Reuters"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVjRTM1QwTlY0U1VTUFQwMEhNLmh0bWw=",
@@ -3177,8 +3235,8 @@
       "sourceName": "city.fujimino.saitama.jp"
     },
     {
-      "articleId": "gnews_f36364004e481246",
-      "headline": "バングラデシュで麻疹急拡大、乳幼児中心に死者30人に＝ＷＨＯ - ロイター",
+      "articleId": "gnews_dbe915f2c5bd75fe",
+      "headline": "バングラデシュで麻疹急拡大、乳幼児中心に死者30人に＝ＷＨＯ - Reuters",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -3193,7 +3251,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "ロイター"
+      "sourceName": "Reuters"
     },
     {
       "articleId": "gnews_922d51ea4c33e9e8",
@@ -3289,8 +3347,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "長野県"
+        "長野県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3539,8 +3597,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "静岡県"
+        "静岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3852,8 +3910,8 @@
       ],
       "prefectures": [
         "東京都",
-        "鹿児島県",
-        "広島県"
+        "広島県",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -3905,9 +3963,9 @@
         }
       ],
       "prefectures": [
+        "愛知県",
         "東京都",
-        "鹿児島県",
-        "愛知県"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
