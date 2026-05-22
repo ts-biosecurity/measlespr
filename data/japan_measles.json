@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-22T19:52:07.653750+00:00",
+  "generated_at": "2026-05-22T21:14:31.662172+00:00",
   "date_range": {
     "start": "2026-04-22",
     "end": "2026-05-22"
   },
-  "total_articles": 124,
+  "total_articles": 127,
   "prefecture_summary": {
-    "全国（都道府県不明）": 54,
+    "全国（都道府県不明）": 57,
     "東京都": 64,
     "京都府": 4,
     "熊本県": 1,
     "福岡県": 1,
-    "福井県": 1,
     "神奈川県": 3,
+    "福井県": 1,
     "埼玉県": 3,
     "鹿児島県": 1,
     "千葉県": 2,
-    "長野県": 3,
     "静岡県": 1,
+    "長野県": 3,
     "岩手県": 1,
     "北海道": 2,
     "山梨県": 1,
@@ -77,8 +77,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -426,6 +426,25 @@
       "sourceName": "日本医事新報社"
     },
     {
+      "articleId": "gnews_41f3e5b13f2d0eee",
+      "headline": "Dhaka hospital fills with sick children in deadly measles outbreak - Reuters",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-19T17:21:28+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNZnZrdE1TbzNfQm9JNlpFa0R3S3BHT0NpZk9BRkZyWTVJeWJoVHdmMXJ3LWNnWl9nTjlPUEswVlllMDhsVENYenpON05PUENLM2Y3c0JRRUozTDNhX3RqN0RuaUI?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Reuters"
+    },
+    {
       "articleId": "gnews_d527f79cd0590560",
       "headline": "Dhaka hospital fills with sick children in deadly measles outbreak - Reuters",
       "headlineTranslated": "",
@@ -515,8 +534,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "リセマム"
@@ -535,8 +554,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "リセマム"
@@ -578,6 +597,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.kuwana.lg.jp"
+    },
+    {
+      "articleId": "gnews_591b9bcdee705697",
+      "headline": "【医師が注意喚起】麻疹が感染拡大｢妊活前にワクチン｣の切実な理由…発症者が去っても感染力は持続､新生児は高リスク - 東洋経済オンライン",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-17T20:44:30+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GQXVEdG9zVmFPOEh1TEZLVHRjSDhrbkc4XzlhVW4xT3VTWnI1alhtVU01dnN0aHdUa3oxUktVTjlHeUNXM0hINnRGN0VpSTZJVklIazh1X2dYYVk?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "東洋経済オンライン"
     },
     {
       "articleId": "gnews_da769968e260e0b4",
@@ -764,8 +802,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "読売新聞"
@@ -843,8 +881,8 @@
         }
       ],
       "prefectures": [
-        "福井県",
         "神奈川県",
+        "福井県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -1213,6 +1251,25 @@
       "sourceName": "wam.go.jp"
     },
     {
+      "articleId": "gnews_2c490514dce457cd",
+      "headline": "国内で麻しん（はしか）が急増しています - komei.or.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-08T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPWjNqUE1VaDZidmRDb29oVUJyMG5EMnpKd1JjSUtRZ2k4ZU00WXJNR04wa2xBRG8yX0V4R3FoalM3RmtCYUowRlJlaTM2MUhZM2c4X0JMNnlqY1didTF2U1gyUDVWalFVbHZadTdXOTA3aGRmYXg3VFZkRFBFVW5NSWRSRjU0dDg1aXZtSHl6ZFlTeElETHFZOThrVnRNTnRnTVpwUXRjUmRZaWhONWEzdjVWSGpxSk1iMTNlazhtdE1ZQ0pFWnFabXFCZzFwaV9qVEdSeDRtOFdzQTB0V1h6X1ZwUEZQRVFRU2MtR0dNNE8wNXdudWkxcDZSYTFiLVhvb3JRa2prTVlrNjhsbk9qZ2xZMEJqNlNDNktTVWRFNFZSQzNCNENqV3hyVm9jQ0dFMXJLZnRpdGhXNXBjcWxF?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "komei.or.jp"
+    },
+    {
       "articleId": "gnews_03be4bd9c106973f",
       "headline": "麻しん（はしか）に注意！ - city.katano.osaka.jp",
       "headlineTranslated": "",
@@ -1496,11 +1553,11 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
         "埼玉県",
         "鹿児島県",
+        "千葉県",
         "東京都",
-        "千葉県"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1631,10 +1688,10 @@
         }
       ],
       "prefectures": [
+        "静岡県",
         "長野県",
-        "埼玉県",
         "東京都",
-        "静岡県"
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2276,8 +2333,8 @@
       ],
       "prefectures": [
         "長野県",
-        "東京都",
-        "山梨県"
+        "山梨県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2558,8 +2615,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
