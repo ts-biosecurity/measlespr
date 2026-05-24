@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-24T11:22:31.988660+00:00",
+  "generated_at": "2026-05-24T13:42:01.219882+00:00",
   "date_range": {
     "start": "2026-04-24",
     "end": "2026-05-24"
   },
-  "total_articles": 111,
+  "total_articles": 109,
   "prefecture_summary": {
-    "全国（都道府県不明）": 48,
-    "京都府": 5,
+    "全国（都道府県不明）": 47,
     "東京都": 55,
+    "京都府": 5,
     "千葉県": 3,
     "福岡県": 1,
     "福井県": 1,
     "神奈川県": 3,
     "新潟県": 1,
-    "埼玉県": 4,
+    "埼玉県": 3,
     "鹿児島県": 1,
-    "長野県": 2,
     "静岡県": 1,
+    "長野県": 2,
     "岩手県": 1,
     "北海道": 2,
     "山梨県": 1,
@@ -58,8 +58,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -230,30 +230,11 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
-    },
-    {
-      "articleId": "gnews_8bd4f4647f808ac1",
-      "headline": "麻疹ワクチン周知、学校薬剤師に協力要請 日薬・富永常務理事 - 日刊薬業",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-21T01:38:43+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jb3luWE5SRmVBR3dQOS1Dc2tDcWo2V3hPR2RMMEktY0hSU041ZkFSaGlhRFFrLThJQ3ByS1NrYlBsbHFhZ3hMbw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日刊薬業"
     },
     {
       "articleId": "gnews_ade3b5224e27d0d4",
@@ -275,6 +256,25 @@
       "sourceName": "日経メディカル"
     },
     {
+      "articleId": "gnews_8ef7e71db053cd8f",
+      "headline": "マカオ衛生局が航空業界及び空港職員向け麻疹ワクチン接種計画を開始…水際における防疫体制強化（マカオ新聞） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-20T08:20:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyWXlHa3ZleGZfaUF0TjIxTzFQZzZXejZXdkVtaEFfaXhYWGVKYTRkQUd1UmpWWGkyX2RUcEJtdHJ2Z2Nhd3JMYkVkamM1YWZCOERzMjBqX21MWVFWdzZGTXFUU3BSc3U4Y3dpXzdFU2J1SkpjbW1wUU1CSnM4VWs?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
       "articleId": "gnews_7237092dc65a14b1",
       "headline": "千葉県感染症情報センター - pref.chiba.lg.jp",
       "headlineTranslated": "",
@@ -294,8 +294,8 @@
       "sourceName": "pref.chiba.lg.jp"
     },
     {
-      "articleId": "gnews_f0d47af3e3b1934e",
-      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - yomiuri.co.jp",
+      "articleId": "gnews_737cc60978c798ab",
+      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -310,26 +310,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "yomiuri.co.jp"
-    },
-    {
-      "articleId": "gnews_c98968dcd7534d62",
-      "headline": "麻疹ワクチン周知へ、学校薬剤師に協力要請 - PHARMACY NEWSBREAK",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-20T06:36:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wVTg0OXB2dVVHS1BUQm5HYVVYSEduelozMjR4dFQwY3NSNHhrT2pPMGRaWEthbTRXZldVaTV1NVNKa21mbjFCZktB0gFPQVVfeXFMTlR0ekVqQ0xFYWZ3aDBXdEFoaVE3MjZMa1lFUEpIV0NCRmZJdWFFSHdIM2tZcXR2Wmx0YllDLWFEbWoydUVxQkhZRWZUWHhybw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "PHARMACY NEWSBREAK"
+      "sourceName": "読売新聞"
     },
     {
       "articleId": "gnews_ff16f08fc0eb7a24",
@@ -459,8 +440,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "リセマム"
@@ -479,8 +460,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "リセマム"
@@ -619,8 +600,8 @@
       "sourceName": "日経メディカル"
     },
     {
-      "articleId": "gnews_14507b9599a8b36e",
-      "headline": "はしか患者１０年で最多の東京都、ワクチン緊急接種の開始を発表…患者との接触者が対象 - yomiuri.co.jp",
+      "articleId": "gnews_e01f706a8ad39197",
+      "headline": "はしか患者１０年で最多の東京都、ワクチン緊急接種の開始を発表…患者との接触者が対象 - 読売新聞",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -632,11 +613,11 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
-      "sourceName": "yomiuri.co.jp"
+      "sourceName": "読売新聞"
     },
     {
       "articleId": "gnews_9af8590fa65be7d7",
@@ -963,25 +944,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "朝日新聞"
-    },
-    {
-      "articleId": "gnews_cd62e2141e1805df",
-      "headline": "はしかに感染…50代女性 埼スタでサッカー観戦 鉄道、市内ショッピングモールを利用 発熱やせき、発疹、コプリック斑（埼玉新聞） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-09T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wYndRdWdaR1lxOU5fRGlGU2tTcGNKQWJmUDhFT21HYlRHQk8tV3NTTW5ZTVdjRGR4TDNXUmpadHpBZUVudElxbzNWUmhiVnVya21IczRWODZxRFZ6MEo5NmNWS3lnN1d4cXkyNEloMmkzUTJiTVNqSkt1bHB2aWM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "埼玉県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VEMDhCS0UwWTZBNTAwQzIwMDAwMDAv",
@@ -1421,11 +1383,11 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
-        "埼玉県",
+        "鹿児島県",
         "千葉県",
         "東京都",
-        "鹿児島県"
+        "埼玉県",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1537,10 +1499,10 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
         "東京都",
-        "長野県",
-        "静岡県"
+        "埼玉県",
+        "静岡県",
+        "長野県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1667,8 +1629,8 @@
         }
       ],
       "prefectures": [
-        "岩手県",
-        "東京都"
+        "東京都",
+        "岩手県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2143,9 +2105,9 @@
         }
       ],
       "prefectures": [
-        "山梨県",
+        "東京都",
         "長野県",
-        "東京都"
+        "山梨県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2228,8 +2190,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2309,8 +2271,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2355,8 +2317,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2445,8 +2407,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
