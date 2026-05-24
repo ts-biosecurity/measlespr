@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-24T19:21:31.236313+00:00",
+  "generated_at": "2026-05-24T20:59:51.254538+00:00",
   "date_range": {
     "start": "2026-04-24",
     "end": "2026-05-24"
   },
-  "total_articles": 109,
+  "total_articles": 108,
   "prefecture_summary": {
     "全国（都道府県不明）": 48,
     "東京都": 54,
@@ -13,7 +13,7 @@
     "福岡県": 1,
     "福井県": 1,
     "神奈川県": 3,
-    "埼玉県": 4,
+    "埼玉県": 3,
     "鹿児島県": 1,
     "長野県": 2,
     "静岡県": 1,
@@ -729,8 +729,8 @@
         }
       ],
       "prefectures": [
-        "福井県",
         "東京都",
+        "福井県",
         "神奈川県"
       ],
       "dataSource": "BlueDot",
@@ -905,25 +905,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "朝日新聞"
-    },
-    {
-      "articleId": "gnews_cd62e2141e1805df",
-      "headline": "はしかに感染…50代女性 埼スタでサッカー観戦 鉄道、市内ショッピングモールを利用 発熱やせき、発疹、コプリック斑（埼玉新聞） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-09T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wYndRdWdaR1lxOU5fRGlGU2tTcGNKQWJmUDhFT21HYlRHQk8tV3NTTW5ZTVdjRGR4TDNXUmpadHpBZUVudElxbzNWUmhiVnVya21IczRWODZxRFZ6MEo5NmNWS3lnN1d4cXkyNEloMmkzUTJiTVNqSkt1bHB2aWM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "埼玉県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VEMDhCS0UwWTZBNTAwQzIwMDAwMDAv",
@@ -1401,11 +1382,11 @@
         }
       ],
       "prefectures": [
-        "千葉県",
         "埼玉県",
-        "鹿児島県",
+        "神奈川県",
+        "千葉県",
         "東京都",
-        "神奈川県"
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1517,9 +1498,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "埼玉県",
         "長野県",
-        "東京都",
         "静岡県"
       ],
       "dataSource": "BlueDot",
@@ -1766,8 +1747,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "北海道"
+        "北海道",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2124,8 +2105,8 @@
       ],
       "prefectures": [
         "山梨県",
-        "長野県",
-        "東京都"
+        "東京都",
+        "長野県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2227,8 +2208,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2308,8 +2289,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2354,8 +2335,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
