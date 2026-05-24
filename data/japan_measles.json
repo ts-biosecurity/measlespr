@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-24T07:26:20.823279+00:00",
+  "generated_at": "2026-05-24T09:58:08.934489+00:00",
   "date_range": {
     "start": "2026-04-24",
     "end": "2026-05-24"
   },
-  "total_articles": 106,
+  "total_articles": 109,
   "prefecture_summary": {
-    "全国（都道府県不明）": 44,
-    "東京都": 55,
+    "全国（都道府県不明）": 46,
     "京都府": 5,
+    "東京都": 55,
     "千葉県": 3,
     "福岡県": 1,
     "福井県": 1,
     "神奈川県": 3,
     "新潟県": 1,
-    "埼玉県": 3,
+    "埼玉県": 4,
     "鹿児島県": 1,
-    "長野県": 2,
     "静岡県": 1,
+    "長野県": 2,
     "岩手県": 1,
     "北海道": 2,
     "山梨県": 1,
@@ -25,6 +25,25 @@
     "愛知県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_8e0faeec0066a442",
+      "headline": "SEVENTEEN、ファンミ来場者にはしか感染確認と報告し注意喚起（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-23T03:27:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01X3g1dkgyZ0V5MW00d3RjZGFodTZHWHpJQjhrN3RncjJfb0R2RkFXb2ZvS3ZuenBJa2ZDMFBtcm5OVVY1ZHB2WkJFTDNodVNTcUczaG9CeEVRWXRDWUNwTjhyVzd6VlZrLWRGcVhkcE5qMWRnR0xkdEJxcVE2SmM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
     {
       "articleId": "gnews_a5aa3a819e8172e1",
       "headline": "麻疹も「謎のかぜ」も…気になるのは26日公開の週報 - 日経メディカル",
@@ -58,8 +77,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -211,8 +230,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -275,8 +294,8 @@
       "sourceName": "pref.chiba.lg.jp"
     },
     {
-      "articleId": "gnews_737cc60978c798ab",
-      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
+      "articleId": "gnews_f0d47af3e3b1934e",
+      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - yomiuri.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -291,7 +310,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "読売新聞"
+      "sourceName": "yomiuri.co.jp"
     },
     {
       "articleId": "gnews_c98968dcd7534d62",
@@ -330,6 +349,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "wam.go.jp"
+    },
+    {
+      "articleId": "gnews_747c084861006b7d",
+      "headline": "■NEWS 麻しん報告数1ヶ月で2.2倍へ急増―累計報告数は436例へ［感染症発生動向調査2026年第17週（4月20日～4月26日）］ – 日本医事新報社 - 日本医事新報社",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-20T02:29:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pUWN1UGF0SEdLRWhZMXNOTTFmamFmSXJ4OG5NbG9UR0JpaUhVTzRYN0t3OVM3UzJKUERUOFRqTGRXNVFuZWFxWWd1LWt0bmJBbUdSNEZOVDMySXdvUGR0aw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日本医事新報社"
     },
     {
       "articleId": "gnews_d527f79cd0590560",
@@ -421,8 +459,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "リセマム"
@@ -441,8 +479,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "リセマム"
@@ -600,8 +638,8 @@
       "sourceName": "日経メディカル"
     },
     {
-      "articleId": "gnews_e01f706a8ad39197",
-      "headline": "はしか患者１０年で最多の東京都、ワクチン緊急接種の開始を発表…患者との接触者が対象 - 読売新聞",
+      "articleId": "gnews_14507b9599a8b36e",
+      "headline": "はしか患者１０年で最多の東京都、ワクチン緊急接種の開始を発表…患者との接触者が対象 - yomiuri.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -613,11 +651,11 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
-      "sourceName": "読売新聞"
+      "sourceName": "yomiuri.co.jp"
     },
     {
       "articleId": "gnews_9af8590fa65be7d7",
@@ -749,9 +787,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "福井県",
-        "神奈川県"
+        "神奈川県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -925,6 +963,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "朝日新聞"
+    },
+    {
+      "articleId": "gnews_cd62e2141e1805df",
+      "headline": "はしかに感染…50代女性 埼スタでサッカー観戦 鉄道、市内ショッピングモールを利用 発熱やせき、発疹、コプリック斑（埼玉新聞） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-09T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wYndRdWdaR1lxOU5fRGlGU2tTcGNKQWJmUDhFT21HYlRHQk8tV3NTTW5ZTVdjRGR4TDNXUmpadHpBZUVudElxbzNWUmhiVnVya21IczRWODZxRFZ6MEo5NmNWS3lnN1d4cXkyNEloMmkzUTJiTVNqSkt1bHB2aWM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "埼玉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VEMDhCS0UwWTZBNTAwQzIwMDAwMDAv",
@@ -1345,11 +1402,11 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "千葉県",
         "鹿児島県",
         "神奈川県",
-        "埼玉県"
+        "埼玉県",
+        "千葉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1461,10 +1518,10 @@
         }
       ],
       "prefectures": [
-        "長野県",
         "埼玉県",
-        "東京都",
-        "静岡県"
+        "静岡県",
+        "長野県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1591,8 +1648,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "岩手県"
+        "岩手県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1710,8 +1767,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "北海道"
+        "北海道",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2068,8 +2125,8 @@
       ],
       "prefectures": [
         "長野県",
-        "東京都",
-        "山梨県"
+        "山梨県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
