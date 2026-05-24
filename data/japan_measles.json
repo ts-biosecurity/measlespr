@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-23T22:56:09.230897+00:00",
+  "generated_at": "2026-05-24T03:56:45.552402+00:00",
   "date_range": {
-    "start": "2026-04-23",
-    "end": "2026-05-23"
+    "start": "2026-04-24",
+    "end": "2026-05-24"
   },
-  "total_articles": 110,
+  "total_articles": 113,
   "prefecture_summary": {
-    "全国（都道府県不明）": 46,
-    "京都府": 4,
-    "東京都": 57,
+    "全国（都道府県不明）": 52,
+    "東京都": 55,
+    "京都府": 5,
     "熊本県": 1,
-    "千葉県": 3,
     "福岡県": 1,
     "福井県": 1,
     "神奈川県": 3,
     "埼玉県": 3,
     "鹿児島県": 1,
-    "長野県": 2,
+    "千葉県": 2,
     "静岡県": 1,
+    "長野県": 2,
     "岩手県": 1,
     "北海道": 2,
     "山梨県": 1,
@@ -58,8 +58,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -79,25 +79,6 @@
       "locations": [],
       "prefectures": [
         "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_284f54ab13837486",
-      "headline": "SEVENTEEN東京ドーム公演の来場者が麻しん発症（音楽ナタリー） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T10:53:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ubi1uS2hwS0praE1xOUxLcU9hMjVyQ2tBbjAtSGVmRmFnSkVFaE8tTTBwXy1fb3dITEUyLWNFRThmU3dnRk8wMU5yd240NnpvNkFkQzhUcDdqS1gwQjRpcGFwZnJ3TjZ6OW4tby1KWVU1X25PMFJnbGNiY0hDWkE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -160,6 +141,25 @@
       "sourceName": "日経メディカル"
     },
     {
+      "articleId": "gnews_b1d466ac0e9a9711",
+      "headline": "【プレビュー】感染拡大を防ぐ！都が「麻しん(はしか)」接触者へのワクチン緊急接種を開始 - TOKYO MX",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-21T15:54:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByUXVuNDRyNFNzWm5BcThpa0JNb1E3MExQZFdtRVR4VS1LTjd0dU9lNHh1enBrNTcwX1Q5VWtrWkNKN2Vtd2RtT2JGTlhjTzVJS1p5T0RKd2s5bE9LRURENkNiRl9MZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TOKYO MX"
+    },
+    {
       "articleId": "gnews_4c5a48add25d50c8",
       "headline": "はしか急増中!「すれ違ったらうつる」驚異の感染力 「海外からの持ち込み」「低い接種率」要因は複数 熊本県内（RKK熊本放送） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -196,6 +196,26 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TOKYO MX"
+    },
+    {
+      "articleId": "gnews_e5b30407ed2f9682",
+      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-21T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都",
+        "京都府"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "東京都感染症情報センター"
     },
     {
       "articleId": "gnews_8bd4f4647f808ac1",
@@ -236,23 +256,23 @@
       "sourceName": "日経メディカル"
     },
     {
-      "articleId": "gnews_7237092dc65a14b1",
-      "headline": "千葉県感染症情報センター - pref.chiba.lg.jp",
+      "articleId": "gnews_737cc60978c798ab",
+      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-20T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aaFFTLWFTakItdy1TVG1OdVNiUFpwMk1LR0lUUlBYcXMxWWk0MkxUWXgwYjFwYm9zSHJJTVJISjljTnJrdUJXVjdVMkI4TzR1eURpVHpiRnRUaXBSc3pSU19R?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "千葉県"
+        "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "pref.chiba.lg.jp"
+      "sourceName": "読売新聞"
     },
     {
       "articleId": "gnews_c98968dcd7534d62",
@@ -274,13 +294,13 @@
       "sourceName": "PHARMACY NEWSBREAK"
     },
     {
-      "articleId": "gnews_fb4c2ad8e684c8ab",
-      "headline": "感染症の流行状況 2026年 第20週 - pref.saitama.lg.jp",
+      "articleId": "gnews_ff16f08fc0eb7a24",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年5月19日更新） - wam.go.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-20T05:05:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TWl92d3hKRnhHcHhFNWVoeUl1clNHVkJwdW1wakQ3azVqZmpFQ1hQWXlnUU1pQks5bUhYbXJUbHBlMmptQTFvSmJrR3VLVWNTRFpzYndoLU5RLVQ1ZUZPZ2ozU19xYllNQmduNFgtLUdHa1BZT0E?oc=5",
+      "publishedTimestamp": "2026-05-20T04:24:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JcTNrY2NUcmJLd1hGNElfaG5pTU9keWFoLWhMeWlNdWtZdDlWejhwU2VWZ0xsbkRFOXUydU1IdTVsdVBEdWZDaG84eE5vcklVUTRWS3BRbENUYlVkNEtkc1VCQk84TVBzY1lrOV9GcUNtVTg?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -290,7 +310,26 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "pref.saitama.lg.jp"
+      "sourceName": "wam.go.jp"
+    },
+    {
+      "articleId": "gnews_747c084861006b7d",
+      "headline": "■NEWS 麻しん報告数1ヶ月で2.2倍へ急増―累計報告数は436例へ［感染症発生動向調査2026年第17週（4月20日～4月26日）］ – 日本医事新報社 - 日本医事新報社",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-20T02:29:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pUWN1UGF0SEdLRWhZMXNOTTFmamFmSXJ4OG5NbG9UR0JpaUhVTzRYN0t3OVM3UzJKUERUOFRqTGRXNVFuZWFxWWd1LWt0bmJBbUdSNEZOVDMySXdvUGR0aw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日本医事新報社"
     },
     {
       "articleId": "gnews_d527f79cd0590560",
@@ -382,8 +421,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "リセマム"
@@ -402,8 +441,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "リセマム"
@@ -447,25 +486,6 @@
       "sourceName": "city.kuwana.lg.jp"
     },
     {
-      "articleId": "gnews_0384241a4e83233f",
-      "headline": "麻しん（はしか）について - town.manazuru.kanagawa.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-18T02:06:11+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVkp6RzB0bnRVd1Vxdl9LQkswc3VwRE03TWNjaEJvZ1VDcUVodjBKeUtKeHpOMVd3LWVFQkVBOGNlVE9mOVhUdEJMQzFYb2QyQjBSTm1pcXZxSnMwZDFLRjRrSzBWRTVaSEhERTJhUDJpRzV5d2cyUnVIcXoyQkp6WlAzVG92WmJlWHhmNUF4WlduZUpGRURiMml3RQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "town.manazuru.kanagawa.jp"
-    },
-    {
       "articleId": "gnews_da769968e260e0b4",
       "headline": "麻疹診療で知っておくべき5つのポイント：2026年改訂版 - 日経メディカル",
       "headlineTranslated": "",
@@ -504,44 +524,6 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_909ce507f5ba6e74",
-      "headline": "小池知事「知事の部屋」／記者会見（令和8年5月15日） - metro.tokyo.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T17:29:17+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5TGRHWnBxVFV2aXUtRW43M0VmNVowejYxZDZ0N1Rfa0ZjOEVkUTY0NGQ1YV9hLVZHOXFUNHZGS243T0dJODhNNlhoUjA4WlpLcVFqVHJsSGJJTmR3TmtJeExST1NxbE9OMzlXeA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "metro.tokyo.lg.jp"
-    },
-    {
-      "articleId": "gnews_aec8f5227b6b2465",
-      "headline": "麻しん（はしか）から区民の命と健康を守る～麻しん抗体検査・予防接種の費用助成（無料）を拡充（令和8年5月15日配信） - city.chiyoda.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T07:42:47+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQckx3d1J2TzVYRXp4OXJjbzltbEYwWjZNWDZoc1hGUEhTZWtuVEVFLTZpNWM3eEc2enMyUjZaek5wMExETEItbkROZTJuOEo3SXNZdWRBeE5VMC1waWdoOVlSVkRmN2NyZWVtTjMzOGJyV18tTWwtNmpPc19PUkJQYm80cU9OXzQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.chiyoda.lg.jp"
-    },
-    {
       "articleId": "gnews_c66f970d4d8c66fd",
       "headline": "麻しん（はしか）に注意しましょう - city.kitakyushu.lg.jp",
       "headlineTranslated": "",
@@ -559,6 +541,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.kitakyushu.lg.jp"
+    },
+    {
+      "articleId": "gnews_aec8f5227b6b2465",
+      "headline": "麻しん（はしか）から区民の命と健康を守る～麻しん抗体検査・予防接種の費用助成（無料）を拡充（令和8年5月15日配信） - city.chiyoda.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQckx3d1J2TzVYRXp4OXJjbzltbEYwWjZNWDZoc1hGUEhTZWtuVEVFLTZpNWM3eEc2enMyUjZaek5wMExETEItbkROZTJuOEo3SXNZdWRBeE5VMC1waWdoOVlSVkRmN2NyZWVtTjMzOGJyV18tTWwtNmpPc19PUkJQYm80cU9OXzQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.chiyoda.lg.jp"
     },
     {
       "articleId": "gnews_e6eafa4e237f208c",
@@ -593,8 +594,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "読売新聞"
@@ -655,6 +656,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_909ce507f5ba6e74",
+      "headline": "小池知事「知事の部屋」／記者会見（令和8年5月15日） - metro.tokyo.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5TGRHWnBxVFV2aXUtRW43M0VmNVowejYxZDZ0N1Rfa0ZjOEVkUTY0NGQ1YV9hLVZHOXFUNHZGS243T0dJODhNNlhoUjA4WlpLcVFqVHJsSGJJTmR3TmtJeExST1NxbE9OMzlXeA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "metro.tokyo.lg.jp"
     },
     {
       "articleId": "gnews_e34b7d74c76be6d4",
@@ -730,8 +750,8 @@
       ],
       "prefectures": [
         "福井県",
-        "神奈川県",
-        "東京都"
+        "東京都",
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1061,6 +1081,63 @@
       "sourceName": "city.ibaraki-koga.lg.jp"
     },
     {
+      "articleId": "gnews_03067261953dbe34",
+      "headline": "感染症の流行状況 2026年 第18週 - pref.saitama.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-08T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jbHNBZGhSOUNiREIyQnd4b1I5cHJHM3QySW05VFZ1dHM1Qm5Hd1RKSnZVRGFOcE1RbzE2dFlsa0x5eVFIUVdiejF0a25MS0pDYTRRTHMxTm1pV09OZFp0RmI4dTJ1enBrcExWaEdmLVhOQ0ZtcXc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.saitama.lg.jp"
+    },
+    {
+      "articleId": "gnews_c0a0dfa9c740a45e",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年5月8日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-08T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yeDV3MHJrNWg1VC1lUGdwNWRYMkF2US1JTDNPdll6XzNLeG14UzNrWEdrNi1zYnBsQlF3eGlORS1PT3F1UXRhSHZNWFhPSHFVakRsbU9GdEdmQ2N4LTB5QUgyNjVsRDdpY1JxWGhVQU1mSXc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
+    },
+    {
+      "articleId": "gnews_2c490514dce457cd",
+      "headline": "国内で麻しん（はしか）が急増しています - komei.or.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-08T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPWjNqUE1VaDZidmRDb29oVUJyMG5EMnpKd1JjSUtRZ2k4ZU00WXJNR04wa2xBRG8yX0V4R3FoalM3RmtCYUowRlJlaTM2MUhZM2c4X0JMNnlqY1didTF2U1gyUDVWalFVbHZadTdXOTA3aGRmYXg3VFZkRFBFVW5NSWRSRjU0dDg1aXZtSHl6ZFlTeElETHFZOThrVnRNTnRnTVpwUXRjUmRZaWhONWEzdjVWSGpxSk1iMTNlazhtdE1ZQ0pFWnFabXFCZzFwaV9qVEdSeDRtOFdzQTB0V1h6X1ZwUEZQRVFRU2MtR0dNNE8wNXdudWkxcDZSYTFiLVhvb3JRa2prTVlrNjhsbk9qZ2xZMEJqNlNDNktTVWRFNFZSQzNCNENqV3hyVm9jQ0dFMXJLZnRpdGhXNXBjcWxF?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "komei.or.jp"
+    },
+    {
       "articleId": "aHR0cHM6Ly9pYmFyYWtpbmV3cy5qcC9uZXdzL25ld3NkZXRhaWwucGhwP2ZfanVuPUNPMjAyNjA1MDgwMTAwMDc1Ni4yLk4uMjAyNjA1MDhUMTMzNDM4LnhtbA==",
       "headline": "【茨城新聞】はしか１月からの累計４００人超",
       "headlineTranslated": "[Ibaraki Shimbun] Measles: Cumulative total exceeds 400 cases since January.",
@@ -1325,11 +1402,11 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
-        "埼玉県",
         "東京都",
-        "千葉県",
-        "鹿児島県"
+        "埼玉県",
+        "神奈川県",
+        "鹿児島県",
+        "千葉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1442,9 +1519,9 @@
       ],
       "prefectures": [
         "東京都",
-        "長野県",
         "埼玉県",
-        "静岡県"
+        "静岡県",
+        "長野県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1571,8 +1648,8 @@
         }
       ],
       "prefectures": [
-        "岩手県",
-        "東京都"
+        "東京都",
+        "岩手県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2047,9 +2124,9 @@
         }
       ],
       "prefectures": [
-        "長野県",
         "山梨県",
-        "東京都"
+        "東京都",
+        "長野県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2132,8 +2209,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2213,8 +2290,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2259,8 +2336,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2330,8 +2407,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2509,6 +2586,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "北海道厚岸町"
+    },
+    {
+      "articleId": "gnews_d8616663056469c3",
+      "headline": "After the tsunami, a wildfire: one Japanese firefighter's tale - Reuters",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-27T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50U1Rxc3VxMkdmeUw3dlR2SDVRUEYwWlpQWWxpVGFzd1ZLcUZpRHJfLUowbmY4b3hhS1NEb0ZtTktSMk1jTjF3LUZjd3llY2YwakVlWUk4UHo5NUJ1X1dfT1dhRmNQUQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Reuters"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVjRTM1QwTlY0U1VTUFQwMEhNLmh0bWw=",
@@ -2888,57 +2984,6 @@
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cuai1jYXN0LmNvbS8yMDI2LzA0LzIzNTE0MDY4Lmh0bWw=",
-      "headline": "高熱、発疹のハシカが大流行、ワクチン接種を確認できていますか？",
-      "headlineTranslated": "Measles outbreak with high fever and rash is spreading widely—can you confirm your vaccination status?",
-      "summary": "As of April 12, 2026, Japan is seeing a nationwide measles outbreak ahead of Golden Week, with cumulative cases reaching 499 in four months, surpassing totals for all of last year. Measles is highly contagious, with common signs including fever, cough, runny nose, and, in many cases, a high fever above 39°C and a spreading rash. Vaccination remains the key preventive measure; two doses are said to provide about 97% protection against disease. The report notes immunity gaps where generations have not been vaccinated. During the DayDay program, host Yamashita Ryota and announcer Arisa Goro discussed vaccination status; Goro later revealed she had learned she had only one prior shot and then received the second dose. Nationwide outreach is implied to address the unvaccinated cohorts before the holiday period.",
-      "summaryOriginal": "As of April 12, 2026, Japan is seeing a nationwide measles outbreak ahead of Golden Week, with cumulative cases reaching 499 in four months, surpassing totals for all of last year. Measles is highly contagious, with common signs including fever, cough, runny nose, and, in many cases, a high fever above 39°C and a spreading rash. Vaccination remains the key preventive measure; two doses are said to provide about 97% protection against disease. The report notes immunity gaps where generations have not been vaccinated. During the DayDay program, host Yamashita Ryota and announcer Arisa Goro discussed vaccination status; Goro later revealed she had learned she had only one prior shot and then received the second dose. Nationwide outreach is implied to address the unvaccinated cohorts before the holiday period.",
-      "publishedTimestamp": "2026-04-23T08:45:00+00:00",
-      "sourceUrl": "https://www.j-cast.com/2026/04/23514068.html",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cubmlra2Fuc3BvcnRzLmNvbS9lbnRlcnRhaW5tZW50L25ld3MvMjAyNjA0MjMwMDAwMzgzLmh0bWw=",
-      "headline": "日テレ女性アナ「気になって１回しか...」はしか流行の際、抗体検査してワクチン２回目接種告白 - アナウンサー : 日刊スポーツ",
-      "headlineTranslated": "Nippon TV female announcer: \"I was worried and only got one dose...\" During a measles outbreak, she had an antibody test and confessed to receiving a second vaccine dose - News anchor, Nikkan Sports",
-      "summary": "Measles outbreak in Japan: 299 cases reported as of April 12 this year, up from last year’s 265, with measles being about ten times more contagious than influenza and capable of airborne transmission, raising concerns of further spread. Inbound tourists are cited as a likely source introducing the virus into the country. A 32-year-old Nippon TV announcer on the DayDay program disclosed she had only one vaccine dose in the past; after an antibody test, she revealed she has since received a second dose. Two-dose vaccination markedly reduces infection risk. The discussion highlighted the announcer’s own admission, noting she learned years ago during a prior outbreak that she had only one dose, prompting her to get the second shot. Emphasizes vaccination and public health measures to curb transmission.",
-      "summaryOriginal": "Measles outbreak in Japan: 299 cases reported as of April 12 this year, up from last year’s 265, with measles being about ten times more contagious than influenza and capable of airborne transmission, raising concerns of further spread. Inbound tourists are cited as a likely source introducing the virus into the country. A 32-year-old Nippon TV announcer on the DayDay program disclosed she had only one vaccine dose in the past; after an antibody test, she revealed she has since received a second dose. Two-dose vaccination markedly reduces infection risk. The discussion highlighted the announcer’s own admission, noting she learned years ago during a prior outbreak that she had only one dose, prompting her to get the second shot. Emphasizes vaccination and public health measures to curb transmission.",
-      "publishedTimestamp": "2026-04-23T04:23:56+00:00",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/news/202604230000383.html",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles",
-        "Influenza"
       ],
       "locations": [
         {
