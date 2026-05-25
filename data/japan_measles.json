@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-25T17:46:15.781620+00:00",
+  "generated_at": "2026-05-25T19:45:19.233026+00:00",
   "date_range": {
     "start": "2026-04-25",
     "end": "2026-05-25"
   },
-  "total_articles": 111,
+  "total_articles": 112,
   "prefecture_summary": {
     "全国（都道府県不明）": 54,
     "神奈川県": 3,
-    "東京都": 51,
-    "京都府": 4,
+    "東京都": 52,
+    "京都府": 5,
     "熊本県": 1,
     "埼玉県": 4,
     "福井県": 1,
     "新潟県": 1,
-    "鹿児島県": 1,
     "千葉県": 2,
+    "鹿児島県": 1,
     "長野県": 2,
     "静岡県": 1,
     "岩手県": 1,
@@ -134,8 +134,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "日テレNEWS NNN"
@@ -154,8 +154,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -383,8 +383,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -426,6 +426,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "日経メディカル"
+    },
+    {
+      "articleId": "gnews_8ef7e71db053cd8f",
+      "headline": "マカオ衛生局が航空業界及び空港職員向け麻疹ワクチン接種計画を開始…水際における防疫体制強化（マカオ新聞） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-20T08:20:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyWXlHa3ZleGZfaUF0TjIxTzFQZzZXejZXdkVtaEFfaXhYWGVKYTRkQUd1UmpWWGkyX2RUcEJtdHJ2Z2Nhd3JMYkVkamM1YWZCOERzMjBqX21MWVFWdzZGTXFUU3BSc3U4Y3dpXzdFU2J1SkpjbW1wUU1CSnM4VWs?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_737cc60978c798ab",
@@ -612,8 +631,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -790,6 +809,26 @@
       "sourceName": "国立成育医療研究センター"
     },
     {
+      "articleId": "gnews_e01f706a8ad39197",
+      "headline": "はしか患者１０年で最多の東京都、ワクチン緊急接種の開始を発表…患者との接触者が対象 - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xQzVOWk1FejRhY0p3c1MtbURxVUNwSldCUUMwU2FIcW5NN1lILVBaOFY1TzhwRUVHY0J2YU5sRGkwQlZrcEFZU1AxLWpYY0EtcGw0aWhfZER5MlRGVTJIa1FSOG8?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都",
+        "京都府"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
+    },
+    {
       "articleId": "gnews_e34b7d74c76be6d4",
       "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年5月14日更新） - wam.go.jp",
       "headlineTranslated": "",
@@ -898,9 +937,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "神奈川県",
-        "福井県",
-        "東京都"
+        "福井県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1570,11 +1609,11 @@
         }
       ],
       "prefectures": [
-        "神奈川県",
-        "東京都",
-        "鹿児島県",
         "千葉県",
-        "埼玉県"
+        "神奈川県",
+        "鹿児島県",
+        "埼玉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1688,8 +1727,8 @@
       "prefectures": [
         "長野県",
         "東京都",
-        "静岡県",
-        "埼玉県"
+        "埼玉県",
+        "静岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2651,8 +2690,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2754,25 +2793,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "town.hirokawa.fukuoka.jp"
-    },
-    {
-      "articleId": "gnews_0dd618b5d7524fec",
-      "headline": "麻しん（はしか）に注意しましょう - city.tambasasayama.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-27T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kT2RibHRpWE0tQUpmTS1yd1JqWlRxaVFEVDZXbDZjNGJNejlETlRhcDZuY3V4cldRLTJlaG1KUHZlNFNOdDZwLUx2V3VrZFJndzVKQUZIZk9lcTNPZmRZTktXV2FfRm8yeUZLNkFtaG9pSWlZMVFXLURReGU2QQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.tambasasayama.lg.jp"
     },
     {
       "articleId": "gnews_b0b9bad0c6f575a5",
