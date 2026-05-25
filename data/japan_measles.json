@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T15:14:43.929552+00:00",
+  "generated_at": "2026-05-25T17:46:15.781620+00:00",
   "date_range": {
     "start": "2026-04-25",
     "end": "2026-05-25"
@@ -134,8 +134,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "日テレNEWS NNN"
@@ -154,8 +154,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -332,25 +332,6 @@
       "sourceName": "TOKYO MX"
     },
     {
-      "articleId": "gnews_23fe97071665616e",
-      "headline": "麻疹の流行が米国からメキシコへと急速に拡大している。 - Vietnam.vn",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-21T10:50:38+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNldYZWR5SEdpdXp1RkdLRG5GMndkMDdUN1dkNzBfVjJ2eUxiai1VSFpueTNyZTJMWWJ0R1lfY3o4eThrbGpUejZpOUIzZVdnbUpqZzNEVHpIaXN0d19mVVBsb3RsWldibmd1VGt3Tmp0VEFZamRHQXNEQ3lCWTRhUw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Vietnam.vn"
-    },
-    {
       "articleId": "gnews_4c5a48add25d50c8",
       "headline": "はしか急増中!「すれ違ったらうつる」驚異の感染力 「海外からの持ち込み」「低い接種率」要因は複数 熊本県内（RKK熊本放送） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -402,8 +383,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -483,6 +464,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "PHARMACY NEWSBREAK"
+    },
+    {
+      "articleId": "gnews_fb4c2ad8e684c8ab",
+      "headline": "感染症の流行状況 2026年 第20週 - pref.saitama.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-20T05:05:49+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TWl92d3hKRnhHcHhFNWVoeUl1clNHVkJwdW1wakQ3azVqZmpFQ1hQWXlnUU1pQks5bUhYbXJUbHBlMmptQTFvSmJrR3VLVWNTRFpzYndoLU5RLVQ1ZUZPZ2ozU19xYllNQmduNFgtLUdHa1BZT0E?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.saitama.lg.jp"
     },
     {
       "articleId": "gnews_ff16f08fc0eb7a24",
@@ -612,8 +612,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
@@ -857,8 +857,8 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
-        "東京都"
+        "東京都",
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -898,8 +898,8 @@
         }
       ],
       "prefectures": [
-        "福井県",
         "神奈川県",
+        "福井県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -1570,11 +1570,11 @@
         }
       ],
       "prefectures": [
-        "鹿児島県",
         "神奈川県",
         "東京都",
-        "埼玉県",
-        "千葉県"
+        "鹿児島県",
+        "千葉県",
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1687,9 +1687,9 @@
       ],
       "prefectures": [
         "長野県",
-        "埼玉県",
+        "東京都",
         "静岡県",
-        "東京都"
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1816,8 +1816,8 @@
         }
       ],
       "prefectures": [
-        "岩手県",
-        "東京都"
+        "東京都",
+        "岩手県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1935,8 +1935,8 @@
         }
       ],
       "prefectures": [
-        "北海道",
-        "東京都"
+        "東京都",
+        "北海道"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2434,8 +2434,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2515,8 +2515,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2561,8 +2561,8 @@
         }
       ],
       "prefectures": [
-        "沖縄県",
-        "東京都"
+        "東京都",
+        "沖縄県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
