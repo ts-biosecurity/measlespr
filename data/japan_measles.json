@@ -1,27 +1,47 @@
 {
-  "generated_at": "2026-05-29T08:04:04.017497+00:00",
+  "generated_at": "2026-05-29T12:48:19.947319+00:00",
   "date_range": {
     "start": "2026-04-29",
     "end": "2026-05-29"
   },
-  "total_articles": 102,
+  "total_articles": 103,
   "prefecture_summary": {
+    "佐賀県": 1,
     "全国（都道府県不明）": 46,
     "千葉県": 2,
     "東京都": 51,
-    "福岡県": 3,
+    "福岡県": 2,
     "神奈川県": 3,
-    "埼玉県": 4,
+    "埼玉県": 5,
     "福井県": 1,
     "鹿児島県": 1,
-    "静岡県": 1,
     "長野県": 2,
+    "静岡県": 1,
     "岩手県": 1,
     "北海道": 1,
     "山梨県": 1,
     "沖縄県": 3
   },
   "articles": [
+    {
+      "articleId": "gnews_7ea91c4c0c5b183b",
+      "headline": "診察室から＞はしか（麻しん）の流行に注意 子どもを守るワクチン接種を | 暮らし・文化 | 佐賀県のニュース - 佐賀新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T09:51:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PWXZRa3dnaWoyakRyNjBIU0pfYThpXzVQZWpjMTBodEtLTnN1S09pM0FnYmtRMFFMOWtZcWctbG55VjFpSzJDa1pLMHhFR2tMb1duZnNB?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "佐賀県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "佐賀新聞"
+    },
     {
       "articleId": "gnews_0757abdc86cf3118",
       "headline": "第315回 国内の麻疹流行、2025年と今年で決定的に違うこと｜連載企画｜CareNet.com - CareNet.com",
@@ -748,8 +768,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -846,25 +866,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "国立成育医療研究センター"
-    },
-    {
-      "articleId": "gnews_1834e0e92936c06b",
-      "headline": "北九州市で6年ぶり、はしか感染確認 不特定多数に接触した可能性 - 西日本新聞me",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zNVNjM1JiRnhuSVlqSkM0Z3k3OFMyMkg3NGRtdFZjRVVzMHpLRVl6bmhfNUZzWFpjNDN0ZDFhaUtsUmhXZjR0NlN4RURYUnhfdmp0Q3Bn?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "西日本新聞me"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9tZWRpY2FsLzIwMjYwNTE1LUdZVDFUMDAyMzgv",
@@ -1122,9 +1123,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "福井県",
-        "神奈川県",
-        "東京都"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1253,6 +1254,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "朝日新聞"
+    },
+    {
+      "articleId": "gnews_cd62e2141e1805df",
+      "headline": "はしかに感染…50代女性 埼スタでサッカー観戦 鉄道、市内ショッピングモールを利用 発熱やせき、発疹、コプリック斑（埼玉新聞） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-09T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wYndRdWdaR1lxOU5fRGlGU2tTcGNKQWJmUDhFT21HYlRHQk8tV3NTTW5ZTVdjRGR4TDNXUmpadHpBZUVudElxbzNWUmhiVnVya21IczRWODZxRFZ6MEo5NmNWS3lnN1d4cXkyNEloMmkzUTJiTVNqSkt1bHB2aWM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "埼玉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VEMDhCS0UwWTZBNTAwQzIwMDAwMDAv",
@@ -1693,10 +1713,10 @@
       ],
       "prefectures": [
         "鹿児島県",
-        "千葉県",
-        "東京都",
         "神奈川県",
-        "埼玉県"
+        "埼玉県",
+        "千葉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1808,10 +1828,10 @@
         }
       ],
       "prefectures": [
-        "静岡県",
-        "埼玉県",
+        "東京都",
         "長野県",
-        "東京都"
+        "静岡県",
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2491,8 +2511,8 @@
       ],
       "prefectures": [
         "東京都",
-        "長野県",
-        "山梨県"
+        "山梨県",
+        "長野県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
