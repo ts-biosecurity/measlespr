@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T19:21:24.455575+00:00",
+  "generated_at": "2026-05-30T21:02:10.718958+00:00",
   "date_range": {
     "start": "2026-04-30",
     "end": "2026-05-30"
@@ -16,8 +16,8 @@
     "福井県": 1,
     "鹿児島県": 1,
     "千葉県": 1,
-    "静岡県": 1,
     "長野県": 2,
+    "静岡県": 1,
     "岩手県": 1,
     "北海道": 1,
     "山梨県": 1
@@ -290,25 +290,6 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_a218a3eaf9648ea8",
-      "headline": "SEVENTEEN東京ドーム公演の来場者が麻しん発症 - ナタリー",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T10:52:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DdElBUDZqa3B0emhHcnNxMGZfaDRIaDczbGc5eXlGWE5lN2djR1FLNWV5YkQ0a2JlR0VOX2hKSUFJOWZKRzNwS2liWlQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ナタリー"
-    },
-    {
       "articleId": "gnews_8afeb6f6a0a6006f",
       "headline": "はしか感染女性、13日に東京ドーム利用 11日から発熱や発疹 - 毎日新聞",
       "headlineTranslated": "",
@@ -383,6 +364,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "日経メディカル"
+    },
+    {
+      "articleId": "gnews_a218a3eaf9648ea8",
+      "headline": "SEVENTEEN東京ドーム公演の来場者が麻しん発症 - ナタリー",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DdElBUDZqa3B0emhHcnNxMGZfaDRIaDczbGc5eXlGWE5lN2djR1FLNWV5YkQ0a2JlR0VOX2hKSUFJOWZKRzNwS2liWlQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ナタリー"
     },
     {
       "articleId": "gnews_3432cf6cbad7405a",
@@ -774,8 +774,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1186,9 +1186,9 @@
         }
       ],
       "prefectures": [
-        "福井県",
+        "神奈川県",
         "東京都",
-        "神奈川県"
+        "福井県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1851,11 +1851,11 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "鹿児島県",
-        "千葉県",
         "埼玉県",
-        "神奈川県"
+        "千葉県",
+        "神奈川県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1967,10 +1967,10 @@
         }
       ],
       "prefectures": [
-        "静岡県",
-        "埼玉県",
         "東京都",
-        "長野県"
+        "埼玉県",
+        "長野県",
+        "静岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2097,8 +2097,8 @@
         }
       ],
       "prefectures": [
-        "岩手県",
-        "東京都"
+        "東京都",
+        "岩手県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2612,8 +2612,8 @@
       ],
       "prefectures": [
         "山梨県",
-        "東京都",
-        "長野県"
+        "長野県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
