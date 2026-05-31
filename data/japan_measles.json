@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T17:09:40.375948+00:00",
+  "generated_at": "2026-05-31T19:21:24.797153+00:00",
   "date_range": {
     "start": "2026-05-01",
     "end": "2026-05-31"
@@ -8,17 +8,17 @@
   "prefecture_summary": {
     "佐賀県": 1,
     "全国（都道府県不明）": 39,
-    "東京都": 45,
     "京都府": 1,
+    "東京都": 46,
     "新潟県": 1,
     "神奈川県": 3,
     "福岡県": 2,
-    "埼玉県": 6,
+    "埼玉県": 5,
     "福井県": 1,
     "千葉県": 1,
     "鹿児島県": 1,
-    "長野県": 1,
     "静岡県": 1,
+    "長野県": 1,
     "岩手県": 1,
     "北海道": 1
   },
@@ -75,8 +75,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -405,6 +405,25 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
+      "articleId": "gnews_1cfca8265d87b364",
+      "headline": "SEVENTEEN、東京ドームのファンミ来場者にはしか患者確認 注意喚起「当該公演にご来場いただいた皆様につきましては」 - オリコンニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5neTVvdk8xaEU5NWEzd1ZodzhlTEp2S1hjSUVEY1hVWnY3WDBYcm5MdnRobXFVb1dhZjVUSW1lUVBmMDVKOEdweDhZc3ZyVHphRngtSG13?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "オリコンニュース"
+    },
+    {
       "articleId": "gnews_a218a3eaf9648ea8",
       "headline": "SEVENTEEN東京ドーム公演の来場者が麻しん発症 - ナタリー",
       "headlineTranslated": "",
@@ -519,6 +538,25 @@
       "sourceName": "TOKYO MX"
     },
     {
+      "articleId": "gnews_a2b96383f1682226",
+      "headline": "麻疹急増の発端は輸入例だが…問われる「排除国」維持への対応 - 日経メディカル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-20T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56NjdQOThFNkszU3pDRHhPcDI1c25ILU5pUXpxSy1EUHpiOHMxREd2T2xVSGFJRHU0aXZkbDlzYjVnOHFIdldTVlVIR1hOSUMyNFI1V3VYLTZyVEhYa1ZrM3RNM1Y5TnZ4dTdTSWJXU0JObGdKOHBwSA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日経メディカル"
+    },
+    {
       "articleId": "gnews_737cc60978c798ab",
       "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
       "headlineTranslated": "",
@@ -555,25 +593,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "wam.go.jp"
-    },
-    {
-      "articleId": "gnews_a2b96383f1682226",
-      "headline": "麻疹急増の発端は輸入例だが…問われる「排除国」維持への対応 - 日経メディカル",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-19T14:45:07+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56NjdQOThFNkszU3pDRHhPcDI1c25ILU5pUXpxSy1EUHpiOHMxREd2T2xVSGFJRHU0aXZkbDlzYjVnOHFIdldTVlVIR1hOSUMyNFI1V3VYLTZyVEhYa1ZrM3RNM1Y5TnZ4dTdTSWJXU0JObGdKOHBwSA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日経メディカル"
     },
     {
       "articleId": "gnews_519fc3ce5d426347",
@@ -1206,8 +1225,8 @@
         }
       ],
       "prefectures": [
-        "福井県",
         "神奈川県",
+        "福井県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -1356,25 +1375,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "朝日新聞"
-    },
-    {
-      "articleId": "gnews_cd62e2141e1805df",
-      "headline": "はしかに感染…50代女性 埼スタでサッカー観戦 鉄道、市内ショッピングモールを利用 発熱やせき、発疹、コプリック斑（埼玉新聞） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-09T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wYndRdWdaR1lxOU5fRGlGU2tTcGNKQWJmUDhFT21HYlRHQk8tV3NTTW5ZTVdjRGR4TDNXUmpadHpBZUVudElxbzNWUmhiVnVya21IczRWODZxRFZ6MEo5NmNWS3lnN1d4cXkyNEloMmkzUTJiTVNqSkt1bHB2aWM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "埼玉県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VEMDhCS0UwWTZBNTAwQzIwMDAwMDAv",
@@ -1871,11 +1871,11 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "千葉県",
         "鹿児島県",
         "神奈川県",
-        "埼玉県"
+        "埼玉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1987,9 +1987,9 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
-        "長野県",
         "静岡県",
+        "長野県",
+        "埼玉県",
         "東京都"
       ],
       "dataSource": "BlueDot",
@@ -2117,8 +2117,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "岩手県"
+        "岩手県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2236,8 +2236,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "北海道"
+        "北海道",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
