@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-03T11:05:29.503965+00:00",
+  "generated_at": "2026-06-03T16:55:39.222435+00:00",
   "date_range": {
     "start": "2026-05-04",
     "end": "2026-06-03"
   },
-  "total_articles": 91,
+  "total_articles": 92,
   "prefecture_summary": {
-    "全国（都道府県不明）": 42,
+    "全国（都道府県不明）": 43,
     "東京都": 42,
     "沖縄県": 1,
     "神奈川県": 5,
@@ -23,6 +23,25 @@
     "岩手県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_fb8fc903bba189a1",
+      "headline": "海外ウイルス、国内猛威　はしか累計５００人超　「ワクチン２回接種を」｜四国新聞WEB朝刊 - 四国新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T12:34:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85UTlLZFA4cFM5MXU3OUNoOVlJZm1WMEJ2Um4tNlRnME9TcVhpQTIxMjJwLWZtZmFFa3B6NGVKQkFVb0NtWVdnaVRSMnFUOUhPbWgwd0pHMWMzamVoT0s1Q3dWSldOYWRtQ1F5d0NjS3VlUGduV2dJ0gF8QVVfeXFMUGpJTzRMTm5yZ3FOOV9aT042bzc4ZUptNC03UmFfc0hZODF4aHZWcE9zZHQxMHZFWFpRQXdPQVBCTVR1Wjd1dy1hWWRoTVVKTUNOQ2NrWXUzNVN2TTJTcGNtdmF4elBfRF9sVWI1czFfdGxvVm5PWWs3UnNKVw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "四国新聞"
+    },
     {
       "articleId": "gnews_eb69dfb603c8a945",
       "headline": "エボラ出血熱やハンタウイルスに関する警告の陰に隠れて、忘れ去られた脅威。 - Vietnam.vn",
@@ -41,6 +60,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Vietnam.vn"
+    },
+    {
+      "articleId": "gnews_253e7812d4d54880",
+      "headline": "はしか患者、累計511人へ感染拡大…2019年に迫る勢い 1枚目の写真・画像 - リセマム",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T04:45:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tdms5LTVLOUpsSFNsMXlJckdLd0JWRUlveEQyYzUtR2twX3R6WEt3ZUVNY1RDMGZ6b3oxQWxPLVRIM0N4bVRTeXNXZjk5VTNDbjBLZmhjakZpNEFDY0ZxdW4yeUdwX1lKZF93?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "リセマム"
     },
     {
       "articleId": "gnews_270e129b9fff6894",
@@ -360,30 +398,11 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
-    },
-    {
-      "articleId": "gnews_0757abdc86cf3118",
-      "headline": "第315回 国内の麻疹流行、2025年と今年で決定的に違うこと｜連載企画｜CareNet.com - CareNet.com",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-29T00:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tdFJuT0FvWXFjUk5TenRORF9yYi1YLTRuaDhtQ0pMaGFTMjRvWGh4b3ExSk56UjM3TlVsNDN3Nl9EZzVIT2xCX21oVlItdTJMTFY4?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CareNet.com"
     },
     {
       "articleId": "gnews_4ece0cc26707ef0a",
@@ -467,7 +486,7 @@
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-25T20:46:34+00:00",
+      "publishedTimestamp": "2026-05-26T07:00:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZmxWbjdVOGF0aFRsbkdzY1RzXzUxQjVTYm9VOWh4WVVZSVJQUEZVc2JHUUhBWnlYQm1sTzhoQV9iT3VSc0VYZGxWRDVvZkxXS1YxaGNIS18xeXRsUGNqaUlnckszb21aTUhPWnhXcVBmdjcxREphM1dLNmRhblZoNTJKdnNkOUtoc2c2anJZRXhzbm9uR0ZiS1E0aHFES3ptYllkT2k4VVkxXzlsNlpnQzV4Qk04U281UzRiTlJQaTFTOFVUVVpFUzZqZzI1VHQyWjVnelh6UGRISTJUZTU4TzlTbzlWSXh1cTl0dDgwbnNiRElvWVVCZ2lPbjRxR3NYcUxlRklzSG1Nb2ZWSjItYWNvWDhMTjlWc3Z2eUlUWUNCM0I2Yk9ZS1AxVXAxdjlTajl3cg?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
@@ -1097,8 +1116,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "読売新聞"
@@ -1193,25 +1212,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_c4b72994182f7db9",
-      "headline": "2026神奈川県 麻しん情報（11）18週｜神奈川県衛生研究所 - pref.kanagawa.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU9lcFRiYU9VYmh5djg1V1VVV1labDdkcDVCTllqQTFpaGtGNW1aZ0pKRUJhUzhIV0FfSFgwSnFrUDR3LTZzR255LWMtNjhZOUVBSDd0NGphTU5LNzdsVHZRNUtpc3ozTkkzWUFoOC11U0lIdVNkQ3dKU182cHE3NjdKUTdyWlliUGR3R0s4SWt0UQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "神奈川県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.kanagawa.jp"
-    },
-    {
       "articleId": "gnews_71b978297d3312e6",
       "headline": "都内の麻しん（はしか）患者の8割以上が10代から30代【麻しん啓発動画】PC版 - my.metro.tokyo.lg.jp",
       "headlineTranslated": "",
@@ -1229,6 +1229,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "my.metro.tokyo.lg.jp"
+    },
+    {
+      "articleId": "gnews_c4b72994182f7db9",
+      "headline": "2026神奈川県 麻しん情報（11）18週｜神奈川県衛生研究所 - pref.kanagawa.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-14T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU9lcFRiYU9VYmh5djg1V1VVV1labDdkcDVCTllqQTFpaGtGNW1aZ0pKRUJhUzhIV0FfSFgwSnFrUDR3LTZzR255LWMtNjhZOUVBSDd0NGphTU5LNzdsVHZRNUtpc3ozTkkzWUFoOC11U0lIdVNkQ3dKU182cHE3NjdKUTdyWlliUGR3R0s4SWt0UQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "神奈川県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.kanagawa.jp"
     },
     {
       "articleId": "gnews_c677f07b41a361a5",
@@ -1413,8 +1432,8 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
-        "東京都"
+        "東京都",
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1454,9 +1473,9 @@
         }
       ],
       "prefectures": [
+        "福井県",
         "東京都",
-        "神奈川県",
-        "福井県"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2024,11 +2043,11 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
         "神奈川県",
-        "東京都",
         "鹿児島県",
-        "千葉県"
+        "千葉県",
+        "東京都",
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2141,9 +2160,9 @@
       ],
       "prefectures": [
         "静岡県",
-        "埼玉県",
         "東京都",
-        "長野県"
+        "長野県",
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2251,8 +2270,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "岩手県"
+        "岩手県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
