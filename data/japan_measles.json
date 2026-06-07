@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-07T17:21:44.153006+00:00",
+  "generated_at": "2026-06-07T19:27:30.320779+00:00",
   "date_range": {
     "start": "2026-05-08",
     "end": "2026-06-07"
   },
-  "total_articles": 84,
+  "total_articles": 88,
   "prefecture_summary": {
-    "全国（都道府県不明）": 32,
-    "東京都": 47,
-    "京都府": 1,
+    "全国（都道府県不明）": 33,
+    "京都府": 2,
+    "東京都": 50,
     "神奈川県": 5,
     "千葉県": 2,
     "福岡県": 1,
@@ -50,8 +50,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -93,6 +93,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.kanagawa.jp"
+    },
+    {
+      "articleId": "gnews_26e3e68a61528734",
+      "headline": "麻しんの現状を解説／感染症クォータリーレポート｜CareNet.com - CareNet.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T19:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GeXZpS3hZeHJvMmlrN1JnUjFXeU5JUFNoMFhNbkFqVHloU1JtV0MzUnRlN3lWVGRRNldrdE9LTU52Z0FRLVl3bEVlejFPR2dBNXU5Rm9Xem1zUG1ISEV3?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CareNet.com"
     },
     {
       "articleId": "gnews_7237092dc65a14b1",
@@ -190,25 +209,6 @@
       "sourceName": "city.tsugaru.aomori.jp"
     },
     {
-      "articleId": "gnews_80dc33fbef53b64e",
-      "headline": "■NEWS 麻しん報告数は引き続き増加、過去10年で最も多かった2019年に迫る数値［感染症発生動向調査2026年第20週（5月11日～5月 – 日本医事新報社 - 日本医事新報社",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-03T02:34:16+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sR2ROY2NGcjh6enJ3NmRXbFFONzU3STc1MXc1OThha3RyTF9PVVNoRWNXYWJ3ajlFM1JfUlZvcjFwZmE3a19TZE9IYXpxcjVEeFRRLXRNR1FaeFpPejJUdg?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日本医事新報社"
-    },
-    {
       "articleId": "gnews_e5493f94f4e7883d",
       "headline": "インフルエンザの10倍の感染力…都内を中心に「麻疹（はしか）」急増 ワクチン接種率は流行阻止ラインの95％を下回る92.7％ 世代で違う免疫の落とし穴（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -226,6 +226,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_bbbda8dcfe545f9c",
+      "headline": "インフルエンザの10倍の感染力…都内を中心に「麻疹（はしか）」急増 ワクチン接種率は流行阻止ラインの95％を下回る92.7％ 世代で違う免疫の落とし穴 - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T02:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwQXNveTFGLU0xNjlPVTJ5d2lCS3hPV0lsdl95NElRSzBuT2FvdUc1RXAxY1NGOVFTMVJ1VEdPV3ItRzZSNXhyXzNFUDJKbGthZnFDUWVyZ2ZvSmlackNXVGZMdE1tM01CV1cySVFvVTQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_1bcfc17ec99677ea",
@@ -758,6 +777,44 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_284f54ab13837486",
+      "headline": "SEVENTEEN東京ドーム公演の来場者が麻しん発症（音楽ナタリー） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ubi1uS2hwS0praE1xOUxLcU9hMjVyQ2tBbjAtSGVmRmFnSkVFaE8tTTBwXy1fb3dITEUyLWNFRThmU3dnRk8wMU5yd240NnpvNkFkQzhUcDdqS1gwQjRpcGFwZnJ3TjZ6OW4tby1KWVU1X25PMFJnbGNiY0hDWkE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_818adb17c1d85a00",
+      "headline": "麻疹急増中！ 今こそ対応を再確認せよ - 日経メディカル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwV0Q2Vk5IWjBaR25aRzVDMlVWb2R1WU00cElFTHNHbDFDeVk3NmtiWkpGanA2OG9KOHAtMWl2ekkwWWxNSEI2TW1xTmNDTU54eHN6UkJzRkx4U0dLSldUS21ONDZUbEFLZEtxR3BkcFBfaGYwb0YzTG1MUS0?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日経メディカル"
     },
     {
       "articleId": "aHR0cHM6Ly9tZWRpY2FsLm5pa2tlaWJwLmNvLmpwL2xlYWYvYWxsL3JlcG9ydC9XZWVrbHkvMjAyNjA1LzU5MzI3MC5odG1s",
@@ -1354,6 +1411,26 @@
       "sourceName": "日経メディカル"
     },
     {
+      "articleId": "gnews_e01f706a8ad39197",
+      "headline": "はしか患者１０年で最多の東京都、ワクチン緊急接種の開始を発表…患者との接触者が対象 - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xQzVOWk1FejRhY0p3c1MtbURxVUNwSldCUUMwU2FIcW5NN1lILVBaOFY1TzhwRUVHY0J2YU5sRGkwQlZrcEFZU1AxLWpYY0EtcGw0aWhfZER5MlRGVTJIa1FSOG8?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "京都府",
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9tZWRpY2FsLzIwMjYwNTE1LUdZVDFUMDAyMzgv",
       "headline": "はしか患者１０年で最多の東京都、ワクチン緊急接種の開始を発表...患者との接触者が対象",
       "headlineTranslated": "Tokyo, with the highest number of measles patients in ten years, announces the start of emergency vaccination for contacts of patients.",
@@ -1625,8 +1702,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "埼玉県"
+        "埼玉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1666,9 +1743,9 @@
         }
       ],
       "prefectures": [
+        "福井県",
         "東京都",
-        "神奈川県",
-        "福井県"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2179,11 +2256,11 @@
         }
       ],
       "prefectures": [
-        "千葉県",
-        "東京都",
+        "埼玉県",
         "神奈川県",
-        "鹿児島県",
-        "埼玉県"
+        "東京都",
+        "千葉県",
+        "鹿児島県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
