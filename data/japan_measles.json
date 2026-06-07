@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-07T19:27:30.320779+00:00",
+  "generated_at": "2026-06-07T21:17:16.560251+00:00",
   "date_range": {
     "start": "2026-05-08",
     "end": "2026-06-07"
   },
   "total_articles": 88,
   "prefecture_summary": {
-    "全国（都道府県不明）": 33,
-    "京都府": 2,
-    "東京都": 50,
+    "全国（都道府県不明）": 34,
+    "東京都": 49,
+    "京都府": 1,
     "神奈川県": 5,
     "千葉県": 2,
     "福岡県": 1,
@@ -50,8 +50,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -406,6 +406,25 @@
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-26T07:00:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZmxWbjdVOGF0aFRsbkdzY1RzXzUxQjVTYm9VOWh4WVVZSVJQUEZVc2JHUUhBWnlYQm1sTzhoQV9iT3VSc0VYZGxWRDVvZkxXS1YxaGNIS18xeXRsUGNqaUlnckszb21aTUhPWnhXcVBmdjcxREphM1dLNmRhblZoNTJKdnNkOUtoc2c2anJZRXhzbm9uR0ZiS1E0aHFES3ptYllkT2k4VVkxXzlsNlpnQzV4Qk04U281UzRiTlJQaTFTOFVUVVpFUzZqZzI1VHQyWjVnelh6UGRISTJUZTU4TzlTbzlWSXh1cTl0dDgwbnNiRElvWVVCZ2lPbjRxR3NYcUxlRklzSG1Nb2ZWSjItYWNvWDhMTjlWc3Z2eUlUWUNCM0I2Yk9ZS1AxVXAxdjlTajl3cg?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "komei.or.jp"
+    },
+    {
+      "articleId": "gnews_d3a378ad81884d3c",
+      "headline": "麻疹の流行 : ブログ : 高槻市議会議員 吉田あきひろのごきんじょニュース - komei.or.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-26T00:19:06+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzZaUU1qY2wzR0tSbEJKNVFyVlBVdExsZ1NLQjl6Y1BKR0NKdVQ0YXFaejRqMF9FOFhINjYyUW0wUTJLR2huNWRaTmxhVW9CaEdQTWQyYTZmNlZXVGVyZ1BOSXFmNHdzUG1vcmg1cEFyQkJ4bnQxaGg2b1dpV2Yyc294N2hCUUt1UWJoR2s4UGVCbTZzTkM5WFVfM0NLTG9lQ3dza2tyUENPQl84dHV3?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -1411,26 +1430,6 @@
       "sourceName": "日経メディカル"
     },
     {
-      "articleId": "gnews_e01f706a8ad39197",
-      "headline": "はしか患者１０年で最多の東京都、ワクチン緊急接種の開始を発表…患者との接触者が対象 - 読売新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xQzVOWk1FejRhY0p3c1MtbURxVUNwSldCUUMwU2FIcW5NN1lILVBaOFY1TzhwRUVHY0J2YU5sRGkwQlZrcEFZU1AxLWpYY0EtcGw0aWhfZER5MlRGVTJIa1FSOG8?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "京都府",
-        "東京都"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "読売新聞"
-    },
-    {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9tZWRpY2FsLzIwMjYwNTE1LUdZVDFUMDAyMzgv",
       "headline": "はしか患者１０年で最多の東京都、ワクチン緊急接種の開始を発表...患者との接触者が対象",
       "headlineTranslated": "Tokyo, with the highest number of measles patients in ten years, announces the start of emergency vaccination for contacts of patients.",
@@ -1702,8 +1701,8 @@
         }
       ],
       "prefectures": [
-        "埼玉県",
-        "東京都"
+        "東京都",
+        "埼玉県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -2257,10 +2256,10 @@
       ],
       "prefectures": [
         "埼玉県",
-        "神奈川県",
+        "鹿児島県",
         "東京都",
         "千葉県",
-        "鹿児島県"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
