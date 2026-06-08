@@ -1,18 +1,17 @@
 {
-  "generated_at": "2026-06-08T15:58:14.127275+00:00",
+  "generated_at": "2026-06-08T18:30:33.497424+00:00",
   "date_range": {
     "start": "2026-05-09",
     "end": "2026-06-08"
   },
-  "total_articles": 76,
+  "total_articles": 78,
   "prefecture_summary": {
-    "東京都": 39,
+    "東京都": 42,
     "京都府": 1,
     "全国（都道府県不明）": 32,
     "神奈川県": 4,
     "千葉県": 1,
     "福岡県": 2,
-    "新潟県": 1,
     "埼玉県": 1,
     "福井県": 1
   },
@@ -190,6 +189,25 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
+      "articleId": "gnews_bbbda8dcfe545f9c",
+      "headline": "インフルエンザの10倍の感染力…都内を中心に「麻疹（はしか）」急増 ワクチン接種率は流行阻止ラインの95％を下回る92.7％ 世代で違う免疫の落とし穴 - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T02:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwQXNveTFGLU0xNjlPVTJ5d2lCS3hPV0lsdl95NElRSzBuT2FvdUc1RXAxY1NGOVFTMVJ1VEdPV3ItRzZSNXhyXzNFUDJKbGthZnFDUWVyZ2ZvSmlackNXVGZMdE1tM01CV1cySVFvVTQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
+    },
+    {
       "articleId": "gnews_1bcfc17ec99677ea",
       "headline": "はしか患者数初の５００人突破、半数が東京…今年の累計「世界的に感染拡大」（読売新聞オンライン） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -302,25 +320,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.ginowan.lg.jp"
-    },
-    {
-      "articleId": "gnews_52b286388c59a266",
-      "headline": "麻疹（はしか）の感染者急増なぜ？ : ブログ : ❤さかい妙子 練馬区議会議員❤ - komei.or.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-26T14:58:36+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQQ2RfMHE2MHBULXZ4RWNfemM1aWVERDBpSXNIVktTTUEwOEFEUGtwWW9uVmJCUGtxNnhLaERNZlVaVGFHOVVQSWpDMTljMXJ6czRjNkRtUzNTTUdrTTBaNHdwRTZON28zcGR4Nm1iVXYzTDJfTU1mMEEySjdMdkNtV09lT2dWNFdNNjFfejdKWmVPeVFvMno4RWhTclZDRy1zYjNxZnpsZHdwbU5IS2hONlZsN082NzgyNEZMQnhKSzNOUFA4TXpyOG5NaGdSOWktYjJ2UzJDZ2gtWXdqR05fVUF1UjUxbi1RTjNJeC1wRnZxNmJwWS00dWJwa0hldjRXdGhTMnh3YzU5OXV4cUdtSVlJb2N6cHVnZ0sxUlk2aWFhMkUxRHJZX1NR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "komei.or.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cubmlzaGluaXBwb24uY28uanAvaXRlbS8xNDk2NTQwLw==",
@@ -446,25 +445,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "komei.or.jp"
-    },
-    {
-      "articleId": "gnews_3b2776273467cabd",
-      "headline": "【保環研】感染症情報（患者発生情報：新潟県） - pref.niigata.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-25T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ETHJ3NF84Z0N2M2hWODRjVHhYUjNZVXdlZkFuSkFXYjAzcWlaTVFpVUlpYi10WEh2aG1URF9RTXJxeTV4SGtWUmdvQ1A5UzJFR2QwMlhtR3A1RGpPWlZQUWkwbzlEVEhlLWlqU3MwWQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "新潟県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.niigata.lg.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9hbGZhbGZhbGZhLmNvbS9hcnRpY2xlcy8xMTA0MzEyMy5odG1s",
@@ -828,6 +808,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_284f54ab13837486",
+      "headline": "SEVENTEEN東京ドーム公演の来場者が麻しん発症（音楽ナタリー） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ubi1uS2hwS0praE1xOUxLcU9hMjVyQ2tBbjAtSGVmRmFnSkVFaE8tTTBwXy1fb3dITEUyLWNFRThmU3dnRk8wMU5yd240NnpvNkFkQzhUcDdqS1gwQjRpcGFwZnJ3TjZ6OW4tby1KWVU1X25PMFJnbGNiY0hDWkE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
       "articleId": "gnews_818adb17c1d85a00",
       "headline": "麻疹急増中！ 今こそ対応を再確認せよ - 日経メディカル",
       "headlineTranslated": "",
@@ -845,6 +844,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "日経メディカル"
+    },
+    {
+      "articleId": "gnews_a218a3eaf9648ea8",
+      "headline": "SEVENTEEN東京ドーム公演の来場者が麻しん発症 - ナタリー",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DdElBUDZqa3B0emhHcnNxMGZfaDRIaDczbGc5eXlGWE5lN2djR1FLNWV5YkQ0a2JlR0VOX2hKSUFJOWZKRzNwS2liWlQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ナタリー"
     },
     {
       "articleId": "aHR0cHM6Ly9tZWRpY2FsLm5pa2tlaWJwLmNvLmpwL2xlYWYvYWxsL3JlcG9ydC9XZWVrbHkvMjAyNjA1LzU5MzI3MC5odG1s",
@@ -908,6 +926,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "日経メディカル"
+    },
+    {
+      "articleId": "gnews_2a353cc7f44d5bff",
+      "headline": "感染拡大を防ぐ！都が「麻しん(はしか)」接触者へのワクチン緊急接種を開始 - TOKYO MX",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-21T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3a3BITnB1YWFhVlFYS0xYRl9TNWRLLUIyWWpwbVotd29QM182Qm5XcWltN1dSWW5JZkd0ZzNpRDlRZ2xNMVlsell1Xy1IYzlUbG1QTmVudzh2elJWM1lmSXpySEdOMDA5Q2RScU5pRQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TOKYO MX"
     },
     {
       "articleId": "gnews_fb4c2ad8e684c8ab",
@@ -1165,6 +1202,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_8ab977b80302821e",
+      "headline": "麻しん「72時間以内の緊急ワクチン」 対象になるのはどんな人か #エキスパートトピ（倉原優） - エキスパート - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-17T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRm5EXzJkTGtmTnQ2SWczVzFZZmVRT0VKN2dPM0FqOTl2Zl91am1jV29mVW9ESXpUR2VLUU5mT2FCVlZoNUlCcEZMdVRoU2hnSXc0aFhRMDdtREs1Uk1BYU5SZVY0enhVX0RzY0hBekVGRDlheWFzRVM1V0xFcDY0TVpYRzF5REty?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly9tYWluaWNoaS5qcC9hcnRpY2xlcy8yMDI2MDUxNS9rMDAvMDBtLzA0MC8zMjQwMDBj",
@@ -1759,25 +1815,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_05b151f208b09efa",
-      "headline": "麻しんの国内伝播事例が増加しています！【注意喚起】 - city.tomigusuku.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-12T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcFFBbEVVMno4eGNiV0p5a1U0b2ZlX2xRNTZDMjl4WFlLX2NZRDl1dlRpZUdsdVExblV1ZjhhZmFnR2RZM3MwenRmLUpFTkJybzd2eDY1aVhiUG9tclBHODRyYTRMWXpKX2h3UW1qQmI3VVQwZzVCb2FrbGhNQlZWaA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.tomigusuku.lg.jp"
     },
     {
       "articleId": "gnews_1dd7e60f9be75365",
