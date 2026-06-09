@@ -1,21 +1,59 @@
 {
-  "generated_at": "2026-06-09T07:52:43.781209+00:00",
+  "generated_at": "2026-06-09T11:18:59.832728+00:00",
   "date_range": {
     "start": "2026-05-10",
     "end": "2026-06-09"
   },
-  "total_articles": 73,
+  "total_articles": 75,
   "prefecture_summary": {
-    "全国（都道府県不明）": 32,
+    "全国（都道府県不明）": 33,
+    "東京都": 38,
     "京都府": 1,
-    "東京都": 37,
-    "神奈川県": 4,
     "千葉県": 1,
     "福岡県": 2,
+    "神奈川県": 4,
     "埼玉県": 1,
     "福井県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_f2f51c3f22e3172f",
+      "headline": "2026年ワールドカップにおける感染症の蔓延に対する懸念。 - Vietnam.vn",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-09T09:55:54+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNThqMk1qMjQzdFVyeTVFemxfTHdlZ1pBT2pxazR1bGRZakE0c191LWwxcDMxcjZ2VGpCTlJ6WjEzTHpPX0lCaUxMcUk4WVR4SDBEeE1XTk5UaENHWTFQRVM5aG9WQjhUUU1aWEhyU0M4enBSMkhwaWMzVUQxNGlacTRXdXgtZDA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Vietnam.vn"
+    },
+    {
+      "articleId": "gnews_980c3f24427d6f7b",
+      "headline": "「麻しん（はしか）予防で大切なこと」を動画配信|6月 - metro.tokyo.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-09T07:56:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UYTVvTDZvS0ZaN0VSUFQwa0NqekxNbXp5V2d5R2p4SGRWcUlSd0lQSk5IZFIyRlhDTDJINzQtdmdONlpQOXV3VDdBcVRpc0hoT1VHZXJnTFZIOVIwUDFIZlFKbzFuNzNwZEFYeWg3a0MzbGww?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "metro.tokyo.lg.jp"
+    },
     {
       "articleId": "gnews_77ab25211b2f29b8",
       "headline": "麻疹の流行が再発：世界は油断しているのか？ - Vietnam.vn",
@@ -36,13 +74,13 @@
       "sourceName": "Vietnam.vn"
     },
     {
-      "articleId": "gnews_683e8ec9da4e7ffd",
-      "headline": "【日本ナレッジスペース株式会社】昨今のはしか（麻しん）流行を受け、従業員向け「MRワクチン（麻しん風しん混合ワクチン）接種および抗体検査費用補助制度」を新たに導入 - ASCII.jp",
+      "articleId": "gnews_f71d37eaf4b1a90d",
+      "headline": "【日本ナレッジスペース株式会社】昨今のはしか（麻しん）流行を受け、従業員向け「MRワクチン（麻しん風しん混合ワクチン）接種および抗体検査費用補助制度」を新たに導入 - PR TIMES",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-05T07:39:16+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YTzZZeFloWm80dWxGQnRUYVN1bUV6MTVKc213TmxpQ3hhbjdQdlBRaHdSalNqTTZDYUJ6aUptVGJCOC01WjJGR1U1cUlvWTFoMklYcg?oc=5",
+      "publishedTimestamp": "2026-06-05T04:52:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1INUhXc3JyNHlyTk5ZWGFObHBnU3ZCby1ZNlJRLUVWSHBDZWI1ZmRJR1NrYmM5bzF2aWl3cFFBQ3gyal9zN3dXMThXTUVsejNob2hBV2V5cEppLXM2Qy1KYndqckpiaktkY3c?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -52,7 +90,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "ASCII.jp"
+      "sourceName": "PR TIMES"
     },
     {
       "articleId": "gnews_e5b30407ed2f9682",
@@ -68,8 +106,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -111,25 +149,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.katsuragi.nara.jp"
-    },
-    {
-      "articleId": "gnews_38a434bfa726462f",
-      "headline": "2026神奈川県 麻しん情報（14）21週｜神奈川県衛生研究所 - pref.kanagawa.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-04T01:18:53+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUWhKNnhtMDVSbV9Sd1p5S3ZocHc3cnVGQVo0TzYydEpJUXIwcmotZXhRTlNvc21jWTRtWkF0Ql9wRmhMenA2Q19wdTFzdDJxSmU3WHpuZDktSnVxTDJmcTJtQzdjWVhlZUM4SkhaMGctbm9KSWNkUWtzY3B2OGQ3dC00aW15d21HWWtJVnB6aV9zdw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "神奈川県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.kanagawa.jp"
     },
     {
       "articleId": "gnews_26e3e68a61528734",
@@ -341,6 +360,25 @@
       "sourceName": "city.ginowan.lg.jp"
     },
     {
+      "articleId": "gnews_2dff6067debe1a9f",
+      "headline": "【患者急増】「麻しん（はしか）ワクチン」の”緊急接種”都内で開始―72時間以内の接種で予防可能？ - メディカルドック",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-26T23:04:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53TnFfeXBVMVM5eGJ2cGxoTmNsTHV1eGdRMG5oSm0xd0tScDRSZEpfZWNFVXd0d2JEQ0luODR2SV94WVdtSVN0Nm9jWEQ5RWJ4QVlrOUhsMA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "メディカルドック"
+    },
+    {
       "articleId": "gnews_52b286388c59a266",
       "headline": "麻疹（はしか）の感染者急増なぜ？ : ブログ : ❤さかい妙子 練馬区議会議員❤ - komei.or.jp",
       "headlineTranslated": "",
@@ -483,6 +521,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "komei.or.jp"
+    },
+    {
+      "articleId": "gnews_c2c2909ad800384e",
+      "headline": "2026神奈川県 麻しん情報（12）19週｜神奈川県衛生研究所 - pref.kanagawa.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-25T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYW9sTDdjZ2pmN1gwWFExckNSeTRndXdWMmhRR0pwdlVtZmZSY1dHWDhkV2Z4TmZlaXNsRG1hMVBBa3Y4bkxuUjJGRWVRN3JBZFhEWjFVVnhORWdQdlA1S19YYzdKU0Rsem9zSXZjanpid1ZiYVVxeHotOWRXam8tM213VEhPRmhfVjh0d2ZsZzh6QQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "神奈川県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.kanagawa.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9hbGZhbGZhbGZhLmNvbS9hcnRpY2xlcy8xMTA0MzEyMy5odG1s",
@@ -865,25 +922,6 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_f55d8854344d5a4f",
-      "headline": "【プレビュー】感染拡大を防ぐ！都が「麻しん(はしか)」接触者へのワクチン緊急接種を開始 - s.mxtv.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByUXVuNDRyNFNzWm5BcThpa0JNb1E3MExQZFdtRVR4VS1LTjd0dU9lNHh1enBrNTcwX1Q5VWtrWkNKN2Vtd2RtT2JGTlhjTzVJS1p5T0RKd2s5bE9LRURENkNiRl9MZw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "s.mxtv.jp"
-    },
-    {
       "articleId": "gnews_818adb17c1d85a00",
       "headline": "麻疹急増中！ 今こそ対応を再確認せよ - 日経メディカル",
       "headlineTranslated": "",
@@ -901,6 +939,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "日経メディカル"
+    },
+    {
+      "articleId": "gnews_b1d466ac0e9a9711",
+      "headline": "【プレビュー】感染拡大を防ぐ！都が「麻しん(はしか)」接触者へのワクチン緊急接種を開始 - TOKYO MX",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByUXVuNDRyNFNzWm5BcThpa0JNb1E3MExQZFdtRVR4VS1LTjd0dU9lNHh1enBrNTcwX1Q5VWtrWkNKN2Vtd2RtT2JGTlhjTzVJS1p5T0RKd2s5bE9LRURENkNiRl9MZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TOKYO MX"
     },
     {
       "articleId": "gnews_a218a3eaf9648ea8",
@@ -1103,25 +1160,6 @@
       "sourceName": "city.nishitokyo.lg.jp"
     },
     {
-      "articleId": "gnews_d617fa40d102b44e",
-      "headline": "麻しんが流行しています - city.satte.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-18T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CWlFMeDUzS1pQWTZHa2ZEWFV5YVdMX2NDUjRHZUJBaHFER1g5S3ljd3FfU04wcFZHb1hvaWJNYk5jWGN1VG54Sy1Na1ZBRE1OUVBab0Z6bEI2Z0E2cDZlTW9ISmdka3pGQ3M4NGZqTQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.satte.lg.jp"
-    },
-    {
       "articleId": "gnews_0384241a4e83233f",
       "headline": "麻しん（はしか）について - town.manazuru.kanagawa.jp",
       "headlineTranslated": "",
@@ -1141,6 +1179,25 @@
       "sourceName": "town.manazuru.kanagawa.jp"
     },
     {
+      "articleId": "gnews_d617fa40d102b44e",
+      "headline": "麻しんが流行しています - city.satte.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-18T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CWlFMeDUzS1pQWTZHa2ZEWFV5YVdMX2NDUjRHZUJBaHFER1g5S3ljd3FfU04wcFZHb1hvaWJNYk5jWGN1VG54Sy1Na1ZBRE1OUVBab0Z6bEI2Z0E2cDZlTW9ISmdka3pGQ3M4NGZqTQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.satte.lg.jp"
+    },
+    {
       "articleId": "gnews_98831aff234d65b2",
       "headline": "麻しん（はしか）に注意しましょう！ - city.kuwana.lg.jp",
       "headlineTranslated": "",
@@ -1158,25 +1215,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.kuwana.lg.jp"
-    },
-    {
-      "articleId": "gnews_da769968e260e0b4",
-      "headline": "麻疹診療で知っておくべき5つのポイント：2026年改訂版 - 日経メディカル",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-18T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KYWlwUkNWSkJvYlZpWEF4eTVGVGIwcFctS3V4UmRXMTNrUTJRR3p1MXJSd19uUkxyaEhVYnM1R29lck96SXlZSWVyZmxwMUVtVndVN0gwQ1Vrbm5ndFpqbnBtSWhucHRoWmh4d2VwWHZuNXNkT2lSRA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日経メディカル"
     },
     {
       "articleId": "aHR0cHM6Ly9tZWRpY2FsLm5pa2tlaWJwLmNvLmpwL2xlYWYvbWVtL3B1Yi9yZXBvcnQvMjAyNjA1LzU5MzEyOS5odG1s",
@@ -1790,9 +1828,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "神奈川県",
-        "福井県",
-        "東京都"
+        "福井県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
