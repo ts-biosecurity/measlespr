@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-08T23:12:57.862745+00:00",
+  "generated_at": "2026-06-09T03:50:46.464778+00:00",
   "date_range": {
-    "start": "2026-05-09",
-    "end": "2026-06-08"
+    "start": "2026-05-10",
+    "end": "2026-06-09"
   },
-  "total_articles": 79,
+  "total_articles": 76,
   "prefecture_summary": {
     "全国（都道府県不明）": 33,
-    "東京都": 42,
     "京都府": 1,
+    "東京都": 39,
     "神奈川県": 4,
     "千葉県": 1,
     "福岡県": 2,
@@ -49,8 +49,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -846,6 +846,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_8afeb6f6a0a6006f",
+      "headline": "はしか感染女性、13日に東京ドーム利用 11日から発熱や発疹 - 毎日新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSVFhlWHhFaXZ5S2ZDUGpUNThzY2lKQU90WXVCNTk3WVFRa3ZiM2VrTU1FakZrT0JCN09wajlCWTFlSWhaeW5CUzBKR0R1em0wNTktYzdqM0VyZnRmRnNDdjdzVk1IUTg2?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "毎日新聞"
+    },
+    {
       "articleId": "gnews_284f54ab13837486",
       "headline": "SEVENTEEN東京ドーム公演の来場者が麻しん発症（音楽ナタリー） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -863,6 +882,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_f55d8854344d5a4f",
+      "headline": "【プレビュー】感染拡大を防ぐ！都が「麻しん(はしか)」接触者へのワクチン緊急接種を開始 - s.mxtv.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByUXVuNDRyNFNzWm5BcThpa0JNb1E3MExQZFdtRVR4VS1LTjd0dU9lNHh1enBrNTcwX1Q5VWtrWkNKN2Vtd2RtT2JGTlhjTzVJS1p5T0RKd2s5bE9LRURENkNiRl9MZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "s.mxtv.jp"
     },
     {
       "articleId": "gnews_818adb17c1d85a00",
@@ -964,25 +1002,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "日経メディカル"
-    },
-    {
-      "articleId": "gnews_2a353cc7f44d5bff",
-      "headline": "感染拡大を防ぐ！都が「麻しん(はしか)」接触者へのワクチン緊急接種を開始 - TOKYO MX",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-21T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3a3BITnB1YWFhVlFYS0xYRl9TNWRLLUIyWWpwbVotd29QM182Qm5XcWltN1dSWW5JZkd0ZzNpRDlRZ2xNMVlsell1Xy1IYzlUbG1QTmVudzh2elJWM1lmSXpySEdOMDA5Q2RScU5pRQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TOKYO MX"
     },
     {
       "articleId": "gnews_fb4c2ad8e684c8ab",
@@ -1122,25 +1141,6 @@
       "sourceName": "Reuters"
     },
     {
-      "articleId": "gnews_0384241a4e83233f",
-      "headline": "麻しん（はしか）について - town.manazuru.kanagawa.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-18T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVkp6RzB0bnRVd1Vxdl9LQkswc3VwRE03TWNjaEJvZ1VDcUVodjBKeUtKeHpOMVd3LWVFQkVBOGNlVE9mOVhUdEJMQzFYb2QyQjBSTm1pcXZxSnMwZDFLRjRrSzBWRTVaSEhERTJhUDJpRzV5d2cyUnVIcXoyQkp6WlAzVG92WmJlWHhmNUF4WlduZUpGRURiMml3RQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "town.manazuru.kanagawa.jp"
-    },
-    {
       "articleId": "gnews_d617fa40d102b44e",
       "headline": "麻しんが流行しています - city.satte.lg.jp",
       "headlineTranslated": "",
@@ -1158,6 +1158,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.satte.lg.jp"
+    },
+    {
+      "articleId": "gnews_0384241a4e83233f",
+      "headline": "麻しん（はしか）について - town.manazuru.kanagawa.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-18T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVkp6RzB0bnRVd1Vxdl9LQkswc3VwRE03TWNjaEJvZ1VDcUVodjBKeUtKeHpOMVd3LWVFQkVBOGNlVE9mOVhUdEJMQzFYb2QyQjBSTm1pcXZxSnMwZDFLRjRrSzBWRTVaSEhERTJhUDJpRzV5d2cyUnVIcXoyQkp6WlAzVG92WmJlWHhmNUF4WlduZUpGRURiMml3RQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "town.manazuru.kanagawa.jp"
     },
     {
       "articleId": "gnews_98831aff234d65b2",
@@ -1438,6 +1457,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.chiyoda.lg.jp"
+    },
+    {
+      "articleId": "gnews_de63f8fe7cf48f59",
+      "headline": "麻しん(はしか)にご注意ください!! - city.maebashi.gunma.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeEFnbEh0S0JiUG9sZzFpQmF3NDUxMmhpZUgtUmhrVEhQSEFKcU5ZV3JZNjd6LXFtWDR2YnNIeUhiWThsREJodmUyOHBmbTh0ZkJKR3owTjRJcFRuUU1JeEVFeS1Oc0ZpMWl2OC1FOGVQdlBvNUdhUDdmTmFPSXRvdzVTVlh6LWs?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.maebashi.gunma.jp"
     },
     {
       "articleId": "gnews_9af8590fa65be7d7",
@@ -1749,8 +1787,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "埼玉県"
+        "埼玉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1791,30 +1829,11 @@
       ],
       "prefectures": [
         "福井県",
-        "東京都",
-        "神奈川県"
+        "神奈川県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_05b151f208b09efa",
-      "headline": "麻しんの国内伝播事例が増加しています！【注意喚起】 - city.tomigusuku.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-12T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcFFBbEVVMno4eGNiV0p5a1U0b2ZlX2xRNTZDMjl4WFlLX2NZRDl1dlRpZUdsdVExblV1ZjhhZmFnR2RZM3MwenRmLUpFTkJybzd2eDY1aVhiUG9tclBHODRyYTRMWXpKX2h3UW1qQmI3VVQwZzVCb2FrbGhNQlZWaA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.tomigusuku.lg.jp"
     },
     {
       "articleId": "gnews_02df9526c274bf7a",
@@ -1853,130 +1872,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "毎日新聞"
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cua29jaGluZXdzLmNvLmpwL2FydGljbGUvZGV0YWlsLzEwMDE0OTI=",
-      "headline": "【コロナ５類３年】予防対策を怠らずに | 高知新聞",
-      "headlineTranslated": "COVID-19: Three years under Category 5—Keep up preventive measures",
-      "summary": "COVID-19 in Japan remains under Category 5 for three years (since May 2023), with ongoing preventive measures emphasized for the elderly and those with underlying conditions. National sentinel data show shrinking waves: summer peaks per medical institution fell from about 20 patients in 2023 to about 8 in 2025, and winter peaks from roughly 16 (2023–24) to under 3 this year. Healthy young adults mostly experience mild illness and may not seek care, but hospitalizations and deaths remain heavily concentrated among those aged 65+, with frailty and cognitive decline post-infection. Elderly-care facilities reinforce routine temperature checks, hand hygiene, and masking. While overall suppression continues, avoiding clusters is essential. Since initial domestic detection in 2020, policy shifted to standard medical funding; elderly vaccination subsidies ended and uptake declined. The circulating virus is Omicron-related, with a shifting sublineage. Measles cases are rising in Japan; seek medical advice if infection is suspected.",
-      "summaryOriginal": "COVID-19 in Japan remains under Category 5 for three years (since May 2023), with ongoing preventive measures emphasized for the elderly and those with underlying conditions. National sentinel data show shrinking waves: summer peaks per medical institution fell from about 20 patients in 2023 to about 8 in 2025, and winter peaks from roughly 16 (2023–24) to under 3 this year. Healthy young adults mostly experience mild illness and may not seek care, but hospitalizations and deaths remain heavily concentrated among those aged 65+, with frailty and cognitive decline post-infection. Elderly-care facilities reinforce routine temperature checks, hand hygiene, and masking. While overall suppression continues, avoiding clusters is essential. Since initial domestic detection in 2020, policy shifted to standard medical funding; elderly vaccination subsidies ended and uptake declined. The circulating virus is Omicron-related, with a shifting sublineage. Measles cases are rising in Japan; seek medical advice if infection is suspected.",
-      "publishedTimestamp": "2026-05-09T20:12:01+00:00",
-      "sourceUrl": "https://www.kochinews.co.jp/article/detail/1001492",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "COVID-19",
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VEMDk1UzYwWjAwQzI2QTQwMDAwMDAv",
-      "headline": "江戸の「はしか絵」に学ぶ病の伝承　無用のモノにも宿るコロナ禍の教訓",
-      "headlineTranslated": "What Edo-era Measles Pictures Teach About the Transmission of Disease: COVID-19 Lessons That Linger Even in Useless Things",
-      "summary": "Measles is spreading in Japan as of 2026-05-10. Measles is a highly airborne infectious disease that can be severe even in the same room, and the Edo-era population feared it greatly due to the absence of a vaccine. The 1862 Edo outbreak (Bunka 2) reportedly caused over 14,000 deaths in Edo. At that time, ukiyo-e artists produced ‘measles pictures’ depicting the illness. The article uses these historical images to illustrate transmission and draws COVID-19–related lessons that linger in cultural artifacts, suggesting that artifacts can illuminate how diseases spread beyond direct medical contexts. It contrasts historical fear with modern outbreaks and emphasizes airborne transmission and the ongoing relevance of public health measures.",
-      "summaryOriginal": "Measles is spreading in Japan as of 2026-05-10. Measles is a highly airborne infectious disease that can be severe even in the same room, and the Edo-era population feared it greatly due to the absence of a vaccine. The 1862 Edo outbreak (Bunka 2) reportedly caused over 14,000 deaths in Edo. At that time, ukiyo-e artists produced ‘measles pictures’ depicting the illness. The article uses these historical images to illustrate transmission and draws COVID-19–related lessons that linger in cultural artifacts, suggesting that artifacts can illuminate how diseases spread beyond direct medical contexts. It contrasts historical fear with modern outbreaks and emphasizes airborne transmission and the ongoing relevance of public health measures.",
-      "publishedTimestamp": "2026-05-09T20:00:00+00:00",
-      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUD095S60Z00C26A4000000/",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "COVID-19",
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Edo",
-          "lat": 6.5,
-          "lon": 6.0
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        },
-        {
-          "name": "Federal Republic of Nigeria",
-          "lat": 10.0,
-          "lon": 8.0
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cubmlra2Fuc3BvcnRzLmNvbS9lbnRlcnRhaW5tZW50L25ld3MvMjAyNjA1MDkwMDAxNzA0Lmh0bWw=",
-      "headline": "鈴木おさむ氏、はしかワクチン「空白世代」にショック「やってないってこと？」 - 芸能 : 日刊スポーツ",
-      "headlineTranslated": "Osamu Suzuki shocked by the measles vaccine's \"gap generation\": \"Did I not get vaccinated?\"",
-      "summary": "Measles outbreak in Japan intensifies, with infections through April 2026 about 4.5 times higher than the same period last year, partly attributed to increased inbound tourism. Vaccination schemes vary by birth cohort: two-dose schedules for those born on or after April 2, 2000; one-dose for those born between October 1, 1972 and April 1, 2000; and likely no routine vaccination for those born before October 1, 1972, creating a so-called 'gap-generation' of under-immunized individuals. Osamu Suzuki, 54, expresses shock at potentially belonging to the older cohort. A 1995-born announcer reported two doses but serology showed insufficient antibody titers, indicating a possible need for a booster. Public health advice emphasizes checking maternal-child health records, pursuing antibody testing if unsure, and noting that some local authorities subsidize testing. The discussion underscores vaccination gaps and immunity verification amid ongoing measles spread in Japan.\"",
-      "summaryOriginal": "Measles outbreak in Japan intensifies, with infections through April 2026 about 4.5 times higher than the same period last year, partly attributed to increased inbound tourism. Vaccination schemes vary by birth cohort: two-dose schedules for those born on or after April 2, 2000; one-dose for those born between October 1, 1972 and April 1, 2000; and likely no routine vaccination for those born before October 1, 1972, creating a so-called 'gap-generation' of under-immunized individuals. Osamu Suzuki, 54, expresses shock at potentially belonging to the older cohort. A 1995-born announcer reported two doses but serology showed insufficient antibody titers, indicating a possible need for a booster. Public health advice emphasizes checking maternal-child health records, pursuing antibody testing if unsure, and noting that some local authorities subsidize testing. The discussion underscores vaccination gaps and immunity verification amid ongoing measles spread in Japan.\"",
-      "publishedTimestamp": "2026-05-09T12:00:18+00:00",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/news/202605090001704.html",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VEMDhCS0UwWTZBNTAwQzIwMDAwMDAv",
-      "headline": "はしか、2026年累計400人超に　過去10年で最多の19年に迫るペース",
-      "headlineTranslated": "Measles: Cumulative total to exceed 400 by 2026, pace approaching the 2019 level—the highest in the past decade.",
-      "summary": "Measles in Japan: On Apr 20–26, 2026, 68 new measles cases were reported nationwide, bringing the January-to-date total to 436 and signaling a pace near the 2019 peak (744 for the year-to-date period). The year’s weekly total (68) is the highest so far. Age group 10–30 accounts for about 74% of cases. Tokyo hosts 211 cases, nearly half of the national total; Saitama, Chiba, and Kanagawa together reach 304; Kagoshima reports 34 during a cluster. Measles virus is highly transmissible via airborne exposure in shared spaces. Symptoms emerge after roughly 10 days and include fever, cough, runny nose, and rash; encephalitis is a severe risk. Despite WHO declaring Japan measles-eliminated in 2015, importations from travelers sustain transmission. Vaccination with the measles-rubella (MR) vaccine—two doses at ages 1 and before elementary school—remains essential.",
-      "summaryOriginal": "Measles in Japan: On Apr 20–26, 2026, 68 new measles cases were reported nationwide, bringing the January-to-date total to 436 and signaling a pace near the 2019 peak (744 for the year-to-date period). The year’s weekly total (68) is the highest so far. Age group 10–30 accounts for about 74% of cases. Tokyo hosts 211 cases, nearly half of the national total; Saitama, Chiba, and Kanagawa together reach 304; Kagoshima reports 34 during a cluster. Measles virus is highly transmissible via airborne exposure in shared spaces. Symptoms emerge after roughly 10 days and include fever, cough, runny nose, and rash; encephalitis is a severe risk. Despite WHO declaring Japan measles-eliminated in 2015, importations from travelers sustain transmission. Vaccination with the measles-rubella (MR) vaccine—two doses at ages 1 and before elementary school—remains essential.",
-      "publishedTimestamp": "2026-05-09T02:55:09+00:00",
-      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUD08BKE0Y6A500C2000000/",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Rubella",
-        "Measles",
-        "Unknown Encephalitis"
-      ],
-      "locations": [
-        {
-          "name": "Tokyo Prefecture",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Tokyo",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
     }
   ]
 }
