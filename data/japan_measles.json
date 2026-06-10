@@ -1,20 +1,39 @@
 {
-  "generated_at": "2026-06-10T18:32:11.139897+00:00",
+  "generated_at": "2026-06-10T22:05:12.695413+00:00",
   "date_range": {
     "start": "2026-05-11",
     "end": "2026-06-10"
   },
-  "total_articles": 73,
+  "total_articles": 74,
   "prefecture_summary": {
-    "全国（都道府県不明）": 31,
-    "京都府": 1,
+    "全国（都道府県不明）": 32,
     "東京都": 39,
+    "京都府": 1,
     "福岡県": 2,
     "神奈川県": 4,
     "埼玉県": 1,
     "福井県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_9147e04731255ade",
+      "headline": "米国、麻疹排除国の地位を失う瀬戸際に｜CareNet.com - CareNet.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-10T19:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zOE9BdEV2NVptRDBEQWdPVHk0MGFFM3BPWUgwUUpyVk5KVGs3Sy1mMF9YTE95ekxwZEVBVTdILUM4ZGVnNC1WcmRoRUlSWTdBNmdOZVh4dFRhZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CareNet.com"
+    },
     {
       "articleId": "gnews_4e4d134767eb7ad6",
       "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月9日更新） - wam.go.jp",
@@ -124,8 +143,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -148,6 +167,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.hyogo.lg.jp"
+    },
+    {
+      "articleId": "gnews_f62496a1c9452242",
+      "headline": "麻しん（はしか）について - city.katsuragi.nara.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-04T04:50:49+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GZGxFREppMTlIZzBGajJuTkdTSmNsbmpVUFhrUXFGRUxpS3E5MGwxSXlFZElBZHFhNXN6VXY0U1VGcDFBdEVXcThoRUdVTkhLRjQ2ZUxsR2R6WDRZcEdEY0dRajc3cnBBMERzQzktSlJPdmhkeFRj?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.katsuragi.nara.jp"
     },
     {
       "articleId": "gnews_26e3e68a61528734",
@@ -444,8 +482,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1394,8 +1432,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1492,25 +1530,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "日経メディカル"
-    },
-    {
-      "articleId": "gnews_9af8590fa65be7d7",
-      "headline": "はしか（麻しんウイルス感染症）に関するお願い - 国立成育医療研究センター",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iY0VlNktTZXZSOGo1WnV4ekhVM3lqSTBVUG96SVdUWnhjUHhCZGd3NlN5VzViNnhILUtIeEJYUy1qVXJyUmRnMk8tcklMRXB6UTV2Uk41T3E?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "国立成育医療研究センター"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9tZWRpY2FsLzIwMjYwNTE1LUdZVDFUMDAyMzgv",
@@ -1825,9 +1844,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "福井県",
-        "神奈川県",
-        "東京都"
+        "神奈川県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
