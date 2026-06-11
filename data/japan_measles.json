@@ -1,14 +1,16 @@
 {
-  "generated_at": "2026-06-10T22:05:12.695413+00:00",
+  "generated_at": "2026-06-11T04:15:31.314879+00:00",
   "date_range": {
-    "start": "2026-05-11",
-    "end": "2026-06-10"
+    "start": "2026-05-12",
+    "end": "2026-06-11"
   },
-  "total_articles": 74,
+  "total_articles": 80,
   "prefecture_summary": {
-    "全国（都道府県不明）": 32,
-    "東京都": 39,
+    "全国（都道府県不明）": 33,
+    "東京都": 44,
     "京都府": 1,
+    "大阪府": 1,
+    "愛知県": 1,
     "福岡県": 2,
     "神奈川県": 4,
     "埼玉県": 1,
@@ -130,26 +132,6 @@
       "sourceName": "PR TIMES"
     },
     {
-      "articleId": "gnews_e5b30407ed2f9682",
-      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-04T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都",
-        "京都府"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "東京都感染症情報センター"
-    },
-    {
       "articleId": "gnews_ac952f73c87c2d60",
       "headline": "中播磨健康福祉事務所の感染症情報 - pref.hyogo.lg.jp",
       "headlineTranslated": "",
@@ -169,23 +151,24 @@
       "sourceName": "pref.hyogo.lg.jp"
     },
     {
-      "articleId": "gnews_f62496a1c9452242",
-      "headline": "麻しん（はしか）について - city.katsuragi.nara.jp",
+      "articleId": "gnews_e5b30407ed2f9682",
+      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-04T04:50:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GZGxFREppMTlIZzBGajJuTkdTSmNsbmpVUFhrUXFGRUxpS3E5MGwxSXlFZElBZHFhNXN6VXY0U1VGcDFBdEVXcThoRUdVTkhLRjQ2ZUxsR2R6WDRZcEdEY0dRajc3cnBBMERzQzktSlJPdmhkeFRj?oc=5",
+      "publishedTimestamp": "2026-06-04T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "全国（都道府県不明）"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
-      "sourceName": "city.katsuragi.nara.jp"
+      "sourceName": "東京都感染症情報センター"
     },
     {
       "articleId": "gnews_26e3e68a61528734",
@@ -207,6 +190,25 @@
       "sourceName": "CareNet.com"
     },
     {
+      "articleId": "gnews_121c3d920413a187",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月3日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83SzVINV9CV3VZQnNpN3gwMUFJeW80emdNc1J3dGhTbHdqUUlEQlEwUE80MVJ6RzdQSFl5dXRDOV8yTjBURkNsUUZHNHdHZU8tbTI3ZnpVcVJoZmUwbTZ2UHVhLVk4Q1U0YWY5QkYzRzlmUWM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
+    },
+    {
       "articleId": "gnews_737cc60978c798ab",
       "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
       "headlineTranslated": "",
@@ -224,25 +226,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "読売新聞"
-    },
-    {
-      "articleId": "gnews_5133e900a08bcd25",
-      "headline": "感染症の流行状況 2026年 第22週 - pref.saitama.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-03T05:01:19+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yZWVJejByRlFIVy1OVm56N19XQ0NmNFR2Q21vNzZnVmJ5Z0Eyd1Izd05vcnZzWF9xZndPY2hLWG5FRkoxbXpnTG5CcER1OTNPLTM1d2M2ckk1WHZCWlJaR054Z1pleFNKUHQyVXFWdlVrU0Q2TFE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.saitama.lg.jp"
     },
     {
       "articleId": "gnews_673da431680e6eb2",
@@ -300,6 +283,179 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5LzA0Y2ZiNjI5MTIxNjQzOTliNTI4MTM2OWUyNDRlYWQ5",
+      "headline": "はしかの全国患者数ことし累計511人　過去10年で2番目の多さに（2026年6月2日掲載）｜日テレNEWS NNN",
+      "headlineTranslated": "Nationwide cumulative measles cases this year total 511, the second-highest in the past decade (Posted June 2, 2026) | Nippon TV News NNN",
+      "summary": "Measles cases in Japan reached 511 this year, the second-highest in the past decade, according to the Ministry of Health, Labour and Welfare (MHLW). In the week ending May 24, 11 new cases were reported nationwide, with Tokyo accounting for 8 cases, followed by Aichi Prefecture (2) and Osaka (1). Measles is highly contagious, with nearly all susceptible individuals at risk; the incubation period is about 10 days, followed by cold-like symptoms, then high fever and a characteristic rash. Authorities urge verification of vaccination records and to contact a medical institution in advance if symptoms emerge. On June 1, MHLW launched a new national data system to consolidate individuals' vaccination histories and suspected adverse events via the My Number Portal, using anonymized data to assess vaccine effectiveness and safety. The government aims to aggregate nationwide information by spring 2028.",
+      "summaryOriginal": "Measles cases in Japan reached 511 this year, the second-highest in the past decade, according to the Ministry of Health, Labour and Welfare (MHLW). In the week ending May 24, 11 new cases were reported nationwide, with Tokyo accounting for 8 cases, followed by Aichi Prefecture (2) and Osaka (1). Measles is highly contagious, with nearly all susceptible individuals at risk; the incubation period is about 10 days, followed by cold-like symptoms, then high fever and a characteristic rash. Authorities urge verification of vaccination records and to contact a medical institution in advance if symptoms emerge. On June 1, MHLW launched a new national data system to consolidate individuals' vaccination histories and suspected adverse events via the My Number Portal, using anonymized data to assess vaccine effectiveness and safety. The government aims to aggregate nationwide information by spring 2028.",
+      "publishedTimestamp": "2026-06-02T04:55:01+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/category/society/04cfb62912164399b5281369e244ead9",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Tokyo Prefecture",
+          "lat": 35.6895,
+          "lon": 139.69171
+        },
+        {
+          "name": "Ōsaka-fu",
+          "lat": 34.68631,
+          "lon": 135.51968
+        },
+        {
+          "name": "Tokyo",
+          "lat": 35.6895,
+          "lon": 139.69171
+        },
+        {
+          "name": "Osaka",
+          "lat": 34.69374,
+          "lon": 135.50218
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都",
+        "大阪府"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
+      "articleId": "aHR0cHM6Ly93d3cuaG9ra29rdS5jby5qcC9hcnRpY2xlcy8tLzIxMjYyNDU=",
+      "headline": "はしか患者、累計５１１人に 近年最多２０１９年に迫る勢い｜全国のニュース｜北國新聞",
+      "headlineTranslated": "Measles patients reach a cumulative total of 511, nearing the 2019 peak | National News | Hokkoku Shimbun",
+      "summary": "Measles cases in Japan reach 511 cumulative infections for this year as of June 2, 2026, per the National Institute of Health Crisis Management, nearing the 2019 peak of 744. The provisional 2025 total was 265 and has been exceeded. The measles virus is highly contagious; the Ministry of Health, Labour and Welfare urges suspected cases to consult medical facilities by phone first. By prefecture, Tokyo leads with 253 cases, followed by Kanagawa (47) and Saitama (38). In April, nationwide weekly cases exceeded 60, but after the Golden Week holiday the weekly total has fallen below 30. Japan was certified by the WHO in 2015 as having eliminated endemic transmission. About 70% of current cases are domestically acquired, with the virus introduced and spread by returning travelers and inbound visitors.",
+      "summaryOriginal": "Measles cases in Japan reach 511 cumulative infections for this year as of June 2, 2026, per the National Institute of Health Crisis Management, nearing the 2019 peak of 744. The provisional 2025 total was 265 and has been exceeded. The measles virus is highly contagious; the Ministry of Health, Labour and Welfare urges suspected cases to consult medical facilities by phone first. By prefecture, Tokyo leads with 253 cases, followed by Kanagawa (47) and Saitama (38). In April, nationwide weekly cases exceeded 60, but after the Golden Week holiday the weekly total has fallen below 30. Japan was certified by the WHO in 2015 as having eliminated endemic transmission. About 70% of current cases are domestically acquired, with the virus introduced and spread by returning travelers and inbound visitors.",
+      "publishedTimestamp": "2026-06-02T02:51:57+00:00",
+      "sourceUrl": "https://www.hokkoku.co.jp/articles/-/2126245",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
+      "articleId": "aHR0cHM6Ly93d3cuNDduZXdzLmpwLzE0NDAyMjc5Lmh0bWw=",
+      "headline": "はしか患者、累計511人に　近年最多2019年に迫る勢い",
+      "headlineTranslated": "Measles cases total 511, on track to approach the 2019 peak.",
+      "summary": "As of June 2, 2026, Japan reports 511 cumulative measles cases this year, with the pace nearing the 2019 peak of 744. The provisional 2025 total was 265, already surpassed. Measles, caused by the highly contagious measles virus, prompts the Ministry of Health to advise contacting medical facilities by phone before visiting if infection is suspected. By prefecture, Tokyo leads with 253 cases, followed by Kanagawa 47 and Saitama 38. In April, weekly nationwide cases exceeded 60, but after the long holidays the weekly count dropped below 30. Japan was certified by the WHO in 2015 as having eliminated endemic measles; about 70% of current infections are domestically acquired, with many outbreaks triggered by importation from returning residents or visitors. Vaccination remains key to outbreak control.",
+      "summaryOriginal": "As of June 2, 2026, Japan reports 511 cumulative measles cases this year, with the pace nearing the 2019 peak of 744. The provisional 2025 total was 265, already surpassed. Measles, caused by the highly contagious measles virus, prompts the Ministry of Health to advise contacting medical facilities by phone before visiting if infection is suspected. By prefecture, Tokyo leads with 253 cases, followed by Kanagawa 47 and Saitama 38. In April, weekly nationwide cases exceeded 60, but after the long holidays the weekly count dropped below 30. Japan was certified by the WHO in 2015 as having eliminated endemic measles; about 70% of current infections are domestically acquired, with many outbreaks triggered by importation from returning residents or visitors. Vaccination remains key to outbreak control.",
+      "publishedTimestamp": "2026-06-02T02:32:31+00:00",
+      "sourceUrl": "https://www.47news.jp/14402279.html",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
+      "articleId": "aHR0cHM6Ly93d3cubmlzaGluaXBwb24uY28uanAvaXRlbS8xNDk5MTM5Lw==",
+      "headline": "はしか患者、累計511人に　近年最多2019年に迫る勢い",
+      "headlineTranslated": "Measles patients reach a cumulative total of 511, on track to approach the 2019 peak.",
+      "summary": "Measles cases in Japan reached a cumulative total of 511 as of 2 June 2026, with the nationwide tally approaching the 2019 peak of 744. Provisional 2025 cases stood at 265, already well above previous years. Tokyo Metropolitan Area accounted for 253 cases, followed by Kanagawa (47) and Saitama (38). In April, weekly nationwide reports exceeded 60 cases, but after the Golden Week holidays totals declined to under 30 per week. The measles virus is highly contagious; the Ministry of Health, Labour and Welfare (MHLW) urges individuals with suspected infection to first contact a healthcare facility by phone before visiting. The report notes ongoing transmission across multiple prefectures, with Tokyo bearing the largest share of cases.",
+      "summaryOriginal": "Measles cases in Japan reached a cumulative total of 511 as of 2 June 2026, with the nationwide tally approaching the 2019 peak of 744. Provisional 2025 cases stood at 265, already well above previous years. Tokyo Metropolitan Area accounted for 253 cases, followed by Kanagawa (47) and Saitama (38). In April, weekly nationwide reports exceeded 60 cases, but after the Golden Week holidays totals declined to under 30 per week. The measles virus is highly contagious; the Ministry of Health, Labour and Welfare (MHLW) urges individuals with suspected infection to first contact a healthcare facility by phone before visiting. The report notes ongoing transmission across multiple prefectures, with Tokyo bearing the largest share of cases.",
+      "publishedTimestamp": "2026-06-02T02:32:10+00:00",
+      "sourceUrl": "https://www.nishinippon.co.jp/item/1499139/",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Tokyo Prefecture",
+          "lat": 35.6895,
+          "lon": 139.69171
+        },
+        {
+          "name": "Tokyo",
+          "lat": 35.6895,
+          "lon": 139.69171
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
+      "articleId": "aHR0cHM6Ly93d3cuZXhjaXRlLmNvLmpwL25ld3MvYXJ0aWNsZS9BbGxhYm91dF81MTkzNzQv",
+      "headline": "命に関わる重篤な合併症リスクも......驚異的な感染力を持つ麻しん（はしか）のリスクと、取るべき対策法",
+      "headlineTranslated": "Life-threatening risk of severe complications as well... the measles, with its astonishing contagiousness, and the measures to be taken.",
+      "summary": "Measles is spreading rapidly in Japan and worldwide, driven by its exceptionally high transmissibility (R0 12–18) and airborne spread. A single unimmunized person can infect up to 18 others; in households, about 90% of susceptible contacts become infected. The illness begins with a catarrhal phase (1–4 days) of fever 38–39°C, runny nose, cough and conjunctivitis, followed by a high fever and widespread rash during the eruption phase. Complications include pneumonia and, in about 1 in 1,000 cases, encephalitis; long-term sequelae and SSPE can occur years later. In Japan, outbreaks have surged: 45 cases in 2024, 265 in 2025, and 462 cases by week 18 of 2026 (through May 3), concentrated in urban areas such as Tokyo and Aichi, affecting adults over 20. Vaccination coverage remains below 95% (first dose 92.7%, second dose 91.0% in 2024). An emergency vaccination program for contacts started May 18, 2026. MR vaccine (two doses) offers 97–99% protection; one dose 93–95%.",
+      "summaryOriginal": "Measles is spreading rapidly in Japan and worldwide, driven by its exceptionally high transmissibility (R0 12–18) and airborne spread. A single unimmunized person can infect up to 18 others; in households, about 90% of susceptible contacts become infected. The illness begins with a catarrhal phase (1–4 days) of fever 38–39°C, runny nose, cough and conjunctivitis, followed by a high fever and widespread rash during the eruption phase. Complications include pneumonia and, in about 1 in 1,000 cases, encephalitis; long-term sequelae and SSPE can occur years later. In Japan, outbreaks have surged: 45 cases in 2024, 265 in 2025, and 462 cases by week 18 of 2026 (through May 3), concentrated in urban areas such as Tokyo and Aichi, affecting adults over 20. Vaccination coverage remains below 95% (first dose 92.7%, second dose 91.0% in 2024). An emergency vaccination program for contacts started May 18, 2026. MR vaccine (two doses) offers 97–99% protection; one dose 93–95%.",
+      "publishedTimestamp": "2026-06-01T12:53:58+00:00",
+      "sourceUrl": "https://www.excite.co.jp/news/article/Allabout_519374/",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles",
+        "Unknown Encephalitis"
+      ],
+      "locations": [
+        {
+          "name": "Tokyo Prefecture",
+          "lat": 35.6895,
+          "lon": 139.69171
+        },
+        {
+          "name": "Tokyo",
+          "lat": 35.6895,
+          "lon": 139.69171
+        },
+        {
+          "name": "Aichi-ken",
+          "lat": 35.18017,
+          "lon": 136.90656
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "愛知県",
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
     },
     {
       "articleId": "gnews_50fab2e55a06d3cd",
@@ -482,8 +638,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -563,7 +719,7 @@
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-26T00:19:06+00:00",
+      "publishedTimestamp": "2026-05-26T07:00:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzZaUU1qY2wzR0tSbEJKNVFyVlBVdExsZ1NLQjl6Y1BKR0NKdVQ0YXFaejRqMF9FOFhINjYyUW0wUTJLR2huNWRaTmxhVW9CaEdQTWQyYTZmNlZXVGVyZ1BOSXFmNHdzUG1vcmg1cEFyQkJ4bnQxaGg2b1dpV2Yyc294N2hCUUt1UWJoR2s4UGVCbTZzTkM5WFVfM0NLTG9lQ3dza2tyUENPQl84dHV3?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
@@ -1115,6 +1271,25 @@
       "sourceName": "pref.saitama.lg.jp"
     },
     {
+      "articleId": "gnews_a2b96383f1682226",
+      "headline": "麻疹急増の発端は輸入例だが…問われる「排除国」維持への対応 - 日経メディカル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-20T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56NjdQOThFNkszU3pDRHhPcDI1c25ILU5pUXpxSy1EUHpiOHMxREd2T2xVSGFJRHU0aXZkbDlzYjVnOHFIdldTVlVIR1hOSUMyNFI1V3VYLTZyVEhYa1ZrM3RNM1Y5TnZ4dTdTSWJXU0JObGdKOHBwSA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日経メディカル"
+    },
+    {
       "articleId": "gnews_ff16f08fc0eb7a24",
       "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年5月19日更新） - wam.go.jp",
       "headlineTranslated": "",
@@ -1233,13 +1408,13 @@
       "sourceName": "city.satte.lg.jp"
     },
     {
-      "articleId": "gnews_98831aff234d65b2",
-      "headline": "麻しん（はしか）に注意しましょう！ - city.kuwana.lg.jp",
+      "articleId": "gnews_da769968e260e0b4",
+      "headline": "麻疹診療で知っておくべき5つのポイント：2026年改訂版 - 日経メディカル",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-18T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpdEpUb1d5d25oZXpBZmZ3SDRxZEVoTjU5LVpEUnNkSGRGelowQXdiZzhCaUJoYlJjMkp5YWpsVWVDUE1vRlppR1FSZmpFbkJqTmhWZnRESEgzN0xhSnAzREdiZ2lYSGFVak9PRXctOGVfTGs?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KYWlwUkNWSkJvYlZpWEF4eTVGVGIwcFctS3V4UmRXMTNrUTJRR3p1MXJSd19uUkxyaEhVYnM1R29lck96SXlZSWVyZmxwMUVtVndVN0gwQ1Vrbm5ndFpqbnBtSWhucHRoWmh4d2VwWHZuNXNkT2lSRA?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -1249,7 +1424,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "city.kuwana.lg.jp"
+      "sourceName": "日経メディカル"
     },
     {
       "articleId": "gnews_0384241a4e83233f",
@@ -1269,6 +1444,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "town.manazuru.kanagawa.jp"
+    },
+    {
+      "articleId": "gnews_98831aff234d65b2",
+      "headline": "麻しん（はしか）に注意しましょう！ - city.kuwana.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-18T04:19:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpdEpUb1d5d25oZXpBZmZ3SDRxZEVoTjU5LVpEUnNkSGRGelowQXdiZzhCaUJoYlJjMkp5YWpsVWVDUE1vRlppR1FSZmpFbkJqTmhWZnRESEgzN0xhSnAzREdiZ2lYSGFVak9PRXctOGVfTGs?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.kuwana.lg.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9tZWRpY2FsLm5pa2tlaWJwLmNvLmpwL2xlYWYvbWVtL3B1Yi9yZXBvcnQvMjAyNjA1LzU5MzEyOS5odG1s",
@@ -1432,8 +1626,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1803,8 +1997,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "埼玉県"
+        "埼玉県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1844,9 +2038,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
+        "神奈川県",
         "福井県",
-        "神奈川県"
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
