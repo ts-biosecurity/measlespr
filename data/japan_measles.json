@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-11T23:26:15.269585+00:00",
+  "generated_at": "2026-06-12T04:17:44.538177+00:00",
   "date_range": {
-    "start": "2026-05-12",
-    "end": "2026-06-11"
+    "start": "2026-05-13",
+    "end": "2026-06-12"
   },
-  "total_articles": 76,
+  "total_articles": 75,
   "prefecture_summary": {
-    "全国（都道府県不明）": 31,
-    "東京都": 42,
+    "全国（都道府県不明）": 28,
+    "東京都": 43,
     "大阪府": 1,
     "愛知県": 1,
+    "新潟県": 1,
     "福岡県": 2,
-    "神奈川県": 4,
-    "埼玉県": 1,
-    "福井県": 1
+    "神奈川県": 3,
+    "埼玉県": 1
   },
   "articles": [
     {
@@ -131,25 +131,6 @@
       "sourceName": "読売新聞"
     },
     {
-      "articleId": "gnews_5133e900a08bcd25",
-      "headline": "感染症の流行状況 2026年 第22週 - pref.saitama.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-03T05:01:19+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yZWVJejByRlFIVy1OVm56N19XQ0NmNFR2Q21vNzZnVmJ5Z0Eyd1Izd05vcnZzWF9xZndPY2hLWG5FRkoxbXpnTG5CcER1OTNPLTM1d2M2ckk1WHZCWlJaR054Z1pleFNKUHQyVXFWdlVrU0Q2TFE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.saitama.lg.jp"
-    },
-    {
       "articleId": "gnews_673da431680e6eb2",
       "headline": "麻しん（はしか）に注意しましょう！ - city.tsugaru.aomori.jp",
       "headlineTranslated": "",
@@ -188,12 +169,62 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
+      "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDYwMi1HWVQxVDAwMTk4Lw==",
+      "headline": "はしか患者数初の５００人突破、半数が東京...今年の累計「世界的に感染拡大」 | ヨミドクター(読売新聞)",
+      "headlineTranslated": "Measles cases exceed 500 for the first time, half in Tokyo; this year's cumulative total shows worldwide spread of infection",
+      "summary": "Measles outbreaks in Japan reach 511 cases (as of May 24, 2026), the first time exceeding 500. Tokyo accounts for about half with 253 cases. Nationwide weekly tally up to May 24 shows 11 new cases. Cumulative totals by prefecture: Tokyo 253, Kanagawa 47, Saitama 38, Kagoshima 34, Chiba 31. Preventive vaccination remains most effective; however, 67% of patients this year had one or fewer vaccine doses or vaccination history unknown. Health officials note that while some infected have vaccination, the majority are unvaccinated or have unknown status, underscoring global spread. Experts urge two-dose vaccination to curb outbreaks in Japan.",
+      "summaryOriginal": "Measles outbreaks in Japan reach 511 cases (as of May 24, 2026), the first time exceeding 500. Tokyo accounts for about half with 253 cases. Nationwide weekly tally up to May 24 shows 11 new cases. Cumulative totals by prefecture: Tokyo 253, Kanagawa 47, Saitama 38, Kagoshima 34, Chiba 31. Preventive vaccination remains most effective; however, 67% of patients this year had one or fewer vaccine doses or vaccination history unknown. Health officials note that while some infected have vaccination, the majority are unvaccinated or have unknown status, underscoring global spread. Experts urge two-dose vaccination to curb outbreaks in Japan.",
+      "publishedTimestamp": "2026-06-02T09:47:27+00:00",
+      "sourceUrl": "https://www.yomiuri.co.jp/yomidr/article/20260602-GYT1T00198/",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
+      "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9uYXRpb25hbC8yMDI2MDYwMi1HWVQxVDAwMTk4Lw==",
+      "headline": "はしか患者数初の５００人突破、半数が東京...今年の累計「世界的に感染拡大」",
+      "headlineTranslated": "Measles cases exceed 500 for the first time, half of them in Tokyo... This year's cumulative total marks a global outbreak.",
+      "summary": "Measles cases in Japan reached 511 (preliminary) as of May 24, marking the first time this year exceeding 500. Tokyo accounts for 253 cases, about half of the national total, followed by Kanagawa 47, Saitama 38, Kagoshima 34, and Chiba 31. In the latest week through May 24, nationwide new cases totaled 11. Vaccination remains the most effective prevention; however, 67% of patients had one dose or less, or vaccination history was unknown. Sayaka Takanashi, head of the Vaccination Research Department at the National Institute for Health Crisis Management, notes that while some infected were vaccinated, unvaccinated or unknown-status individuals predominate. With global spread ongoing, two-dose vaccination for a large portion of the population is crucial to curb Japan’s outbreak.",
+      "summaryOriginal": "Measles cases in Japan reached 511 (preliminary) as of May 24, marking the first time this year exceeding 500. Tokyo accounts for 253 cases, about half of the national total, followed by Kanagawa 47, Saitama 38, Kagoshima 34, and Chiba 31. In the latest week through May 24, nationwide new cases totaled 11. Vaccination remains the most effective prevention; however, 67% of patients had one dose or less, or vaccination history was unknown. Sayaka Takanashi, head of the Vaccination Research Department at the National Institute for Health Crisis Management, notes that while some infected were vaccinated, unvaccinated or unknown-status individuals predominate. With global spread ongoing, two-dose vaccination for a large portion of the population is crucial to curb Japan’s outbreak.",
+      "publishedTimestamp": "2026-06-02T09:44:00+00:00",
+      "sourceUrl": "https://www.yomiuri.co.jp/national/20260602-GYT1T00198/",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
       "articleId": "gnews_7ef0ebd62330050c",
       "headline": "【都内で急増】麻疹（はしか）の「知られざる怖さ」とは？ 空気感染・症状・予防を医師が解説（メディカルドック） - Yahoo!ニュース",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-02T08:08:59+00:00",
+      "publishedTimestamp": "2026-06-02T07:00:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yLUR2Nm1fNWRSaTdLZHluYUpGRDVXaGxjYy1Jdms0REZpWHJienNYVTN3cmdCWEV3Uk9ZQjBrT2NET2tZRGdKQ2xTMUh2MHBOalF4Ri1faWZidXAxdmdMVHh5dl9EaGpuSUlFcDNIaDRmU3pyX01idXg2TmpYSlE?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
@@ -418,6 +449,25 @@
       "sourceName": "hokeniryo.metro.tokyo.lg.jp"
     },
     {
+      "articleId": "gnews_3b2776273467cabd",
+      "headline": "【保環研】感染症情報（患者発生情報：新潟県） - pref.niigata.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ETHJ3NF84Z0N2M2hWODRjVHhYUjNZVXdlZkFuSkFXYjAzcWlaTVFpVUlpYi10WEh2aG1URF9RTXJxeTV4SGtWUmdvQ1A5UzJFR2QwMlhtR3A1RGpPWlZQUWkwbzlEVEhlLWlqU3MwWQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "新潟県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.niigata.lg.jp"
+    },
+    {
       "articleId": "gnews_4ece0cc26707ef0a",
       "headline": "麻疹（はしか）流行に注意！－最強クラスの感染力、ワクチン接種率は流行阻止する95％を下回る92.7％－ - nli-research.co.jp",
       "headlineTranslated": "",
@@ -598,25 +648,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_936dc2810de6fd7f",
-      "headline": "麻疹（はしか）の感染者急増なぜ？ - komei.or.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-26T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZmxWbjdVOGF0aFRsbkdzY1RzXzUxQjVTYm9VOWh4WVVZSVJQUEZVc2JHUUhBWnlYQm1sTzhoQV9iT3VSc0VYZGxWRDVvZkxXS1YxaGNIS18xeXRsUGNqaUlnckszb21aTUhPWnhXcVBmdjcxREphM1dLNmRhblZoNTJKdnNkOUtoc2c2anJZRXhzbm9uR0ZiS1E0aHFES3ptYllkT2k4VVkxXzlsNlpnQzV4Qk04U281UzRiTlJQaTFTOFVUVVpFUzZqZzI1VHQyWjVnelh6UGRISTJUZTU4TzlTbzlWSXh1cTl0dDgwbnNiRElvWVVCZ2lPbjRxR3NYcUxlRklzSG1Nb2ZWSjItYWNvWDhMTjlWc3Z2eUlUWUNCM0I2Yk9ZS1AxVXAxdjlTajl3cg?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "komei.or.jp"
-    },
-    {
       "articleId": "gnews_2bfc20c41b272660",
       "headline": "麻しん(はしか) - city.fukushima.fukushima.jp",
       "headlineTranslated": "",
@@ -636,6 +667,25 @@
       "sourceName": "city.fukushima.fukushima.jp"
     },
     {
+      "articleId": "gnews_936dc2810de6fd7f",
+      "headline": "麻疹（はしか）の感染者急増なぜ？ - komei.or.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-26T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZmxWbjdVOGF0aFRsbkdzY1RzXzUxQjVTYm9VOWh4WVVZSVJQUEZVc2JHUUhBWnlYQm1sTzhoQV9iT3VSc0VYZGxWRDVvZkxXS1YxaGNIS18xeXRsUGNqaUlnckszb21aTUhPWnhXcVBmdjcxREphM1dLNmRhblZoNTJKdnNkOUtoc2c2anJZRXhzbm9uR0ZiS1E0aHFES3ptYllkT2k4VVkxXzlsNlpnQzV4Qk04U281UzRiTlJQaTFTOFVUVVpFUzZqZzI1VHQyWjVnelh6UGRISTJUZTU4TzlTbzlWSXh1cTl0dDgwbnNiRElvWVVCZ2lPbjRxR3NYcUxlRklzSG1Nb2ZWSjItYWNvWDhMTjlWc3Z2eUlUWUNCM0I2Yk9ZS1AxVXAxdjlTajl3cg?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "komei.or.jp"
+    },
+    {
       "articleId": "gnews_476f6ede5003a269",
       "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年5月26日更新） - wam.go.jp",
       "headlineTranslated": "",
@@ -653,25 +703,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "wam.go.jp"
-    },
-    {
-      "articleId": "gnews_d3a378ad81884d3c",
-      "headline": "麻疹の流行 : ブログ : 高槻市議会議員 吉田あきひろのごきんじょニュース - komei.or.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-26T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzZaUU1qY2wzR0tSbEJKNVFyVlBVdExsZ1NLQjl6Y1BKR0NKdVQ0YXFaejRqMF9FOFhINjYyUW0wUTJLR2huNWRaTmxhVW9CaEdQTWQyYTZmNlZXVGVyZ1BOSXFmNHdzUG1vcmg1cEFyQkJ4bnQxaGg2b1dpV2Yyc294N2hCUUt1UWJoR2s4UGVCbTZzTkM5WFVfM0NLTG9lQ3dza2tyUENPQl84dHV3?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "komei.or.jp"
     },
     {
       "articleId": "gnews_c2c2909ad800384e",
@@ -1071,25 +1102,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_818adb17c1d85a00",
-      "headline": "麻疹急増中！ 今こそ対応を再確認せよ - 日経メディカル",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwV0Q2Vk5IWjBaR25aRzVDMlVWb2R1WU00cElFTHNHbDFDeVk3NmtiWkpGanA2OG9KOHAtMWl2ekkwWWxNSEI2TW1xTmNDTU54eHN6UkJzRkx4U0dLSldUS21ONDZUbEFLZEtxR3BkcFBfaGYwb0YzTG1MUS0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日経メディカル"
     },
     {
       "articleId": "gnews_a218a3eaf9648ea8",
@@ -1920,48 +1932,6 @@
       ],
       "prefectures": [
         "埼玉県",
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cuZnVrdWlzaGltYnVuLmNvLmpwL2FydGljbGVzLy0vMjU5ODMyNQ==",
-      "headline": "福井県内の40代男性、はしか感染　4月下旬にベトナムへ渡航、神奈川から車で帰郷 | 医療 | 福井のニュース | 福井新聞ONLINE",
-      "headlineTranslated": "Measles infection in a man in his 40s from Fukui Prefecture; traveled to Vietnam in late April, returned home by car from Kanagawa.",
-      "summary": "As of May 12, 2026, Fukui Prefecture reported a measles infection in a man in his 40s, who recovered at home. He had traveled to Vietnam in late April, with infection thought most probable there. Fever began May 6; he sought care May 8; rash appeared May 10; measles virus was confirmed May 11. He returned to Fukui by private car from Kanagawa on May 6 and has since avoided public transport. Authorities advised suspected cases to contact medical facilities before visiting and to avoid public transit. Measles virus can survive in air for under two hours; typical progression includes fever and cold-like symptoms about 10 days after exposure, followed by high fever and a widespread rash with Koplik spots in the mouth. Nationally, 436 measles cases had been reported as of April 26.",
-      "summaryOriginal": "As of May 12, 2026, Fukui Prefecture reported a measles infection in a man in his 40s, who recovered at home. He had traveled to Vietnam in late April, with infection thought most probable there. Fever began May 6; he sought care May 8; rash appeared May 10; measles virus was confirmed May 11. He returned to Fukui by private car from Kanagawa on May 6 and has since avoided public transport. Authorities advised suspected cases to contact medical facilities before visiting and to avoid public transit. Measles virus can survive in air for under two hours; typical progression includes fever and cold-like symptoms about 10 days after exposure, followed by high fever and a widespread rash with Koplik spots in the mouth. Nationally, 436 measles cases had been reported as of April 26.",
-      "publishedTimestamp": "2026-05-12T07:08:00+00:00",
-      "sourceUrl": "https://www.fukuishimbun.co.jp/articles/-/2598325",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Kanagawa",
-          "lat": 35.41667,
-          "lon": 139.33333
-        },
-        {
-          "name": "Fukui",
-          "lat": 35.85,
-          "lon": 136.21667
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        },
-        {
-          "name": "Socialist Republic of Vietnam",
-          "lat": 16.16667,
-          "lon": 107.83333
-        }
-      ],
-      "prefectures": [
-        "福井県",
-        "神奈川県",
         "東京都"
       ],
       "dataSource": "BlueDot",
