@@ -1,21 +1,40 @@
 {
-  "generated_at": "2026-06-14T19:41:13.586358+00:00",
+  "generated_at": "2026-06-14T21:16:01.487407+00:00",
   "date_range": {
     "start": "2026-05-15",
     "end": "2026-06-14"
   },
-  "total_articles": 69,
+  "total_articles": 71,
   "prefecture_summary": {
-    "全国（都道府県不明）": 26,
-    "富山県": 2,
-    "東京都": 40,
+    "全国（都道府県不明）": 27,
+    "富山県": 3,
     "京都府": 1,
+    "東京都": 40,
     "大阪府": 1,
     "愛知県": 1,
     "福岡県": 2,
     "神奈川県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_7d9df79edde60b0c",
+      "headline": "【識者の眼】「ハンタウイルス感染症も重要、だが麻疹はもっとハイリスク」岡部信彦 - 日本医事新報社",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-13T21:14:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4VVNQSHVFS09iWEk5b2NJeFktX0dhMHFJekQwRHg3d2s4R2hZcUxXNjdWY1Nqc2YyTlpRbHM5VzFqREljd2hOX2k3SnRqWEs1dHlDRkZLMVd2cW1YdUVZMw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日本医事新報社"
+    },
     {
       "articleId": "gnews_e1db16b984941f99",
       "headline": "【今週のウイルス学】ダニエル・グリフィン医師：米国で麻疹2132人、CDC信頼度50％、そしてどの検査室も検出できなかったエボラ株 - finance.biggo.jp",
@@ -34,6 +53,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "finance.biggo.jp"
+    },
+    {
+      "articleId": "gnews_72a0ad87d74a90eb",
+      "headline": "インドネシア渡航歴の20代男性が「はしか」感染 極めて感染力の強い病気「免疫なければほぼ100％発症」 さらに患者発生の可能性があり県が注意喚起 富山（FNNプライムオンライン） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-12T12:47:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TMW1wUTk5MkFzWFhRcDhSVmM2V1RHUjA5YThRTDRvRzVQZ1RQRFFQdm1ES0lMdG5SWXdIRmFUcHpfVWhva21GbzBjZHNySFN0cC15OXhZSDlFcTFIY29pTUtkM3NPUXFFSkhXU2hjak1QbEFrMFZXX09UR2FDVjA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "富山県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_93c78e68bdc8cb81",
@@ -106,8 +144,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
