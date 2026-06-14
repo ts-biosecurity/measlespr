@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-14T21:16:01.487407+00:00",
+  "generated_at": "2026-06-14T23:11:15.642079+00:00",
   "date_range": {
     "start": "2026-05-15",
     "end": "2026-06-14"
   },
-  "total_articles": 71,
+  "total_articles": 72,
   "prefecture_summary": {
     "全国（都道府県不明）": 27,
-    "富山県": 3,
+    "富山県": 4,
     "京都府": 1,
     "東京都": 40,
     "大阪府": 1,
@@ -16,25 +16,6 @@
     "神奈川県": 1
   },
   "articles": [
-    {
-      "articleId": "gnews_7d9df79edde60b0c",
-      "headline": "【識者の眼】「ハンタウイルス感染症も重要、だが麻疹はもっとハイリスク」岡部信彦 - 日本医事新報社",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-13T21:14:26+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4VVNQSHVFS09iWEk5b2NJeFktX0dhMHFJekQwRHg3d2s4R2hZcUxXNjdWY1Nqc2YyTlpRbHM5VzFqREljd2hOX2k3SnRqWEs1dHlDRkZLMVd2cW1YdUVZMw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日本医事新報社"
-    },
     {
       "articleId": "gnews_e1db16b984941f99",
       "headline": "【今週のウイルス学】ダニエル・グリフィン医師：米国で麻疹2132人、CDC信頼度50％、そしてどの検査室も検出できなかったエボラ株 - finance.biggo.jp",
@@ -110,6 +91,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_f4b640b97bb45b5f",
+      "headline": "富山県で今年初のはしか（麻しん）感染者を確認 インドネシア渡航歴のある20代男性 気になる初期症状や潜伏期間の目安 - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-12T11:40:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82UUZvUWpUNXcxMzFYM3VubTBaZGlvaUJySEljdFRRb0w0THhDQXM5VmdtVFdmTmFJOVhNSnppM3FscVRQQjlGenhRVkhvY0t6YW1xZFZta1pVQQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "富山県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_319ae9f9e7fbdd54",
@@ -507,8 +507,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -634,8 +634,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1313,6 +1313,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_818adb17c1d85a00",
+      "headline": "麻疹急増中！ 今こそ対応を再確認せよ - 日経メディカル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwV0Q2Vk5IWjBaR25aRzVDMlVWb2R1WU00cElFTHNHbDFDeVk3NmtiWkpGanA2OG9KOHAtMWl2ekkwWWxNSEI2TW1xTmNDTU54eHN6UkJzRkx4U0dLSldUS21ONDZUbEFLZEtxR3BkcFBfaGYwb0YzTG1MUS0?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日経メディカル"
     },
     {
       "articleId": "gnews_a218a3eaf9648ea8",
