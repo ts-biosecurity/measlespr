@@ -1,21 +1,46 @@
 {
-  "generated_at": "2026-06-14T23:11:15.642079+00:00",
+  "generated_at": "2026-06-15T04:46:47.371981+00:00",
   "date_range": {
-    "start": "2026-05-15",
-    "end": "2026-06-14"
+    "start": "2026-05-16",
+    "end": "2026-06-15"
   },
-  "total_articles": 72,
+  "total_articles": 67,
   "prefecture_summary": {
+    "東京都": 36,
     "全国（都道府県不明）": 27,
-    "富山県": 4,
+    "富山県": 3,
     "京都府": 1,
-    "東京都": 40,
     "大阪府": 1,
     "愛知県": 1,
-    "福岡県": 2,
+    "福岡県": 1,
     "神奈川県": 1
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VBMDU2SFMwVjAwQzI2QTYwMDAwMDAv",
+      "headline": "はしか、なぜ急増しているの？　「ワクチン2回接種」徹底が重要",
+      "headlineTranslated": "Measles: Why is it increasing rapidly? Ensuring two-dose vaccination is important.",
+      "summary": "As of June 14, 2026, measles outbreaks are expanding globally, with Japan reporting a rapid rise in 2026, particularly in the Kanto, Chubu, and Kansai regions. The year-to-date case count already far exceeds the 2025 annual total of 265. Sayaka Takanashi, head of the Vaccination Research Department at the National Institute of Infectious Diseases (NIID), discusses the domestic situation. The article emphasizes the importance of ensuring two-dose measles vaccination to prevent transmission and strengthen population immunity, highlighting vaccination coverage as a key factor in controlling the outbreak.",
+      "summaryOriginal": "As of June 14, 2026, measles outbreaks are expanding globally, with Japan reporting a rapid rise in 2026, particularly in the Kanto, Chubu, and Kansai regions. The year-to-date case count already far exceeds the 2025 annual total of 265. Sayaka Takanashi, head of the Vaccination Research Department at the National Institute of Infectious Diseases (NIID), discusses the domestic situation. The article emphasizes the importance of ensuring two-dose measles vaccination to prevent transmission and strengthen population immunity, highlighting vaccination coverage as a key factor in controlling the outbreak.",
+      "publishedTimestamp": "2026-06-13T17:00:00+00:00",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUA056HS0V00C26A6000000/",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
     {
       "articleId": "gnews_e1db16b984941f99",
       "headline": "【今週のウイルス学】ダニエル・グリフィン医師：米国で麻疹2132人、CDC信頼度50％、そしてどの検査室も検出できなかったエボラ株 - finance.biggo.jp",
@@ -36,6 +61,37 @@
       "sourceName": "finance.biggo.jp"
     },
     {
+      "articleId": "aHR0cHM6Ly93d3cuaG9ra29rdS5jby5qcC9hcnRpY2xlcy90eW0vMjEzNzY2NQ==",
+      "headline": "富山県内男性、はしか感染　海外に渡航歴　１９年１１月以来｜社会｜富山のニュース｜富山新聞",
+      "headlineTranslated": "Measles infection in a man in Toyama Prefecture; overseas travel history; since November 2007.",
+      "summary": "Measles infection reported in a man in his 20s residing in the Takaoka Public Health Center area of Toyama Prefecture, Japan. It is the first measles case in Toyama since November 2019 amid a domestic outbreak. The patient developed fever on the 3rd and visited a Toyama medical facility on the 12th; infection was confirmed by genetic testing at the prefectural Public Health Laboratory and he remains under treatment. He had traveled to Indonesia about three days before onset, an area with higher measles exposure risk. Measles presents with fever and cough and can lead to pneumonia, otitis media, or encephalitis; most patients recover within 7–10 days. Two scheduled routine vaccinations are administered at age 1 and before entering elementary school; authorities urge vaccination to prevent further spread.",
+      "summaryOriginal": "Measles infection reported in a man in his 20s residing in the Takaoka Public Health Center area of Toyama Prefecture, Japan. It is the first measles case in Toyama since November 2019 amid a domestic outbreak. The patient developed fever on the 3rd and visited a Toyama medical facility on the 12th; infection was confirmed by genetic testing at the prefectural Public Health Laboratory and he remains under treatment. He had traveled to Indonesia about three days before onset, an area with higher measles exposure risk. Measles presents with fever and cough and can lead to pneumonia, otitis media, or encephalitis; most patients recover within 7–10 days. Two scheduled routine vaccinations are administered at age 1 and before entering elementary school; authorities urge vaccination to prevent further spread.",
+      "publishedTimestamp": "2026-06-12T15:31:38+00:00",
+      "sourceUrl": "https://www.hokkoku.co.jp/articles/tym/2137665",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles",
+        "Unknown Encephalitis"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        },
+        {
+          "name": "Republic of Indonesia",
+          "lat": -5.0,
+          "lon": 120.0
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
       "articleId": "gnews_72a0ad87d74a90eb",
       "headline": "インドネシア渡航歴の20代男性が「はしか」感染 極めて感染力の強い病気「免疫なければほぼ100％発症」 さらに患者発生の可能性があり県が注意喚起 富山（FNNプライムオンライン） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -53,6 +109,36 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuNzZjODljNmE4Yjc5NGJjYmIzYzUyNjhmOWVlOWYzYmI=",
+      "headline": "高岡厚生センター管内の２０代男性が\"はしか\"に感染　富山県内での感染報告は７年ぶり　県が注意呼びかけ（2026年6月12日掲載）｜KNB NEWS NNN",
+      "headlineTranslated": "Measles infection in a man in his 20s within the jurisdiction of the Takaoka Public Health Center; first measles infection reported in Toyama Prefecture in seven years; prefecture urges caution (Posted June 12, 2026) | KNB NEWS NNN",
+      "summary": "Measles infection confirmed in a man in his 20s within the Takaoka Public Health Center jurisdiction, Toyama Prefecture—the first measles case in Toyama since 2019 (seven years). The patient developed fever on June 3 and a rash; laboratory confirmation by the Prefectural Institute of Public Health; he is hospitalized. He had recently traveled to Indonesia, where measles transmission is ongoing, and investigators are determining the infection source and transmission route. Measles is highly contagious via airborne and droplet spread; in unimmunized individuals, illness begins with fever and cough, then a high fever (≥39°C) and rash lasting 4–5 days. The contagious period spans from one day before symptom onset to about three days after fever subsides. The prefecture urges caution and advises contacting healthcare facilities by phone before visiting if measles is suspected.",
+      "summaryOriginal": "Measles infection confirmed in a man in his 20s within the Takaoka Public Health Center jurisdiction, Toyama Prefecture—the first measles case in Toyama since 2019 (seven years). The patient developed fever on June 3 and a rash; laboratory confirmation by the Prefectural Institute of Public Health; he is hospitalized. He had recently traveled to Indonesia, where measles transmission is ongoing, and investigators are determining the infection source and transmission route. Measles is highly contagious via airborne and droplet spread; in unimmunized individuals, illness begins with fever and cough, then a high fever (≥39°C) and rash lasting 4–5 days. The contagious period spans from one day before symptom onset to about three days after fever subsides. The prefecture urges caution and advises contacting healthcare facilities by phone before visiting if measles is suspected.",
+      "publishedTimestamp": "2026-06-12T12:02:00+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/n/knb/category/society/kn76c89c6a8b794bcbb3c5268f9ee9f3bb",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        },
+        {
+          "name": "Republic of Indonesia",
+          "lat": -5.0,
+          "lon": 120.0
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
     },
     {
       "articleId": "gnews_93c78e68bdc8cb81",
@@ -93,25 +179,6 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_f4b640b97bb45b5f",
-      "headline": "富山県で今年初のはしか（麻しん）感染者を確認 インドネシア渡航歴のある20代男性 気になる初期症状や潜伏期間の目安 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T11:40:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82UUZvUWpUNXcxMzFYM3VubTBaZGlvaUJySEljdFRRb0w0THhDQXM5VmdtVFdmTmFJOVhNSnppM3FscVRQQjlGenhRVkhvY0t6YW1xZFZta1pVQQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
-    },
-    {
       "articleId": "gnews_319ae9f9e7fbdd54",
       "headline": "麻しん（はしか）抗体検査および予防接種を無料で受けられます（20歳以上60歳未満のかた） - city.meguro.tokyo.jp",
       "headlineTranslated": "",
@@ -129,6 +196,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.meguro.tokyo.jp"
+    },
+    {
+      "articleId": "gnews_be27389dec6361b4",
+      "headline": "麻しん（はしか）患者の発生について - Takasaki City Office",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-12T05:36:54+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xVzZSMXNFNVZlTEFUZ19TZGdFYUZaMkJMcjN3QWU0eXZWMkZrSjJieVlRRXBvOF9XQWswQ1lxcGx6LWdxejNWYzEwSENyWTgxYnd6aF85UnE3bXZ3b0pn?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Takasaki City Office"
     },
     {
       "articleId": "gnews_e5b30407ed2f9682",
@@ -342,25 +428,6 @@
       "sourceName": "CareNet.com"
     },
     {
-      "articleId": "gnews_ea152e89de389941",
-      "headline": "インフルエンザの10倍の感染力…都内を中心に「麻疹（はしか）」急増 ワクチン接種率は流行阻止ラインの95％を下回る92.7％ 世代で違う免疫の落とし穴 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-03T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GclRNNEFSc0lJeS16UlV4U2dNVGU4dmxsVWhaMEFiOTd6NWF3eWhtcloxZnlrZERybDJrdW9tMW1LNEpEMWFrU0JvSXREbHQ5UWJBYjlPbml6ZVl4NWFhODdzQV91SU0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
-    },
-    {
       "articleId": "gnews_737cc60978c798ab",
       "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
       "headlineTranslated": "",
@@ -378,6 +445,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "読売新聞"
+    },
+    {
+      "articleId": "gnews_ea152e89de389941",
+      "headline": "インフルエンザの10倍の感染力…都内を中心に「麻疹（はしか）」急増 ワクチン接種率は流行阻止ラインの95％を下回る92.7％ 世代で違う免疫の落とし穴 - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GclRNNEFSc0lJeS16UlV4U2dNVGU4dmxsVWhaMEFiOTd6NWF3eWhtcloxZnlrZERybDJrdW9tMW1LNEpEMWFrU0JvSXREbHQ5UWJBYjlPbml6ZVl4NWFhODdzQV91SU0?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_673da431680e6eb2",
@@ -1315,25 +1401,6 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_818adb17c1d85a00",
-      "headline": "麻疹急増中！ 今こそ対応を再確認せよ - 日経メディカル",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwV0Q2Vk5IWjBaR25aRzVDMlVWb2R1WU00cElFTHNHbDFDeVk3NmtiWkpGanA2OG9KOHAtMWl2ekkwWWxNSEI2TW1xTmNDTU54eHN6UkJzRkx4U0dLSldUS21ONDZUbEFLZEtxR3BkcFBfaGYwb0YzTG1MUS0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日経メディカル"
-    },
-    {
       "articleId": "gnews_a218a3eaf9648ea8",
       "headline": "SEVENTEEN東京ドーム公演の来場者が麻しん発症 - ナタリー",
       "headlineTranslated": "",
@@ -1603,255 +1670,6 @@
         "Measles"
       ],
       "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly9tYWluaWNoaS5qcC9hcnRpY2xlcy8yMDI2MDUxNS9rMDAvMDBtLzA0MC8zMjQwMDBj",
-      "headline": "都がはしか接触者にワクチン無料接種へ　都内8カ所で18日から",
-      "headlineTranslated": "Tokyo to offer free measles vaccines to contacts of measles cases at eight sites in Tokyo from the 18th.",
-      "summary": "Tokyo will launch emergency measles vaccination for close contacts of measles patients, offering free MR (measles-rubella) vaccines at eight designated infectious-disease medical institutions from May 18, 2026. Targeting residents who had contact within 72 hours with a measles patient, have not had confirmed infection, and have received only one vaccine dose. Public health centers will identify contacts from patient travel and exposure histories and vaccinate with consent. As of May 14, 2026, Tokyo reported 239 measles cases, the second-highest figure since record-keeping began in 2008 (1,174 cases that year). Measles is highly contagious and airborne; vaccination remains the most effective prevention. Outside the regular schedule (which includes 1-year-olds and the year before elementary school), vaccination is self-funded, costing at least 10,000 yen. About 26 million yen is allocated from this year's contingency budget. Governor Koike urged residents to consider vaccination to protect themselves and others.",
-      "summaryOriginal": "Tokyo will launch emergency measles vaccination for close contacts of measles patients, offering free MR (measles-rubella) vaccines at eight designated infectious-disease medical institutions from May 18, 2026. Targeting residents who had contact within 72 hours with a measles patient, have not had confirmed infection, and have received only one vaccine dose. Public health centers will identify contacts from patient travel and exposure histories and vaccinate with consent. As of May 14, 2026, Tokyo reported 239 measles cases, the second-highest figure since record-keeping began in 2008 (1,174 cases that year). Measles is highly contagious and airborne; vaccination remains the most effective prevention. Outside the regular schedule (which includes 1-year-olds and the year before elementary school), vaccination is self-funded, costing at least 10,000 yen. About 26 million yen is allocated from this year's contingency budget. Governor Koike urged residents to consider vaccination to protect themselves and others.",
-      "publishedTimestamp": "2026-05-15T12:25:21+00:00",
-      "sourceUrl": "https://mainichi.jp/articles/20260515/k00/00m/040/324000c",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Rubella",
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Tokyo Prefecture",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Tokyo",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cuc2Fua2VpLmNvbS9hcnRpY2xlLzIwMjYwNTE1LVJJQlczQzZVS0pLNEZCN0RaQTZWUVpDM1JJLw==",
-      "headline": "東京都、はしか感染拡大受け無料のワクチン緊急接種開始へ　患者が過去10年で最多",
-      "headlineTranslated": "Tokyo to start free emergency measles vaccination as measles infections spread; cases at a ten-year high.",
-      "summary": "Tokyo will begin free emergency measles vaccination on May 18 at eight designated infectious disease medical institutions to curb a rapidly spreading outbreak. Eligible residents are those with no prior measles history who have had contact with a measles patient within 72 hours and whose vaccination history is either zero or one dose; eligibility is determined by public health centers. The measles virus is highly contagious, and vaccination within 72 hours of exposure is considered preventive against illness. From January through May 14, Tokyo reported 239 measles cases, the highest in ten years amid a global outbreak. Governor Yuriko Koike, at a May 15 press conference, urged residents to consider vaccination to protect themselves and those around them.",
-      "summaryOriginal": "Tokyo will begin free emergency measles vaccination on May 18 at eight designated infectious disease medical institutions to curb a rapidly spreading outbreak. Eligible residents are those with no prior measles history who have had contact with a measles patient within 72 hours and whose vaccination history is either zero or one dose; eligibility is determined by public health centers. The measles virus is highly contagious, and vaccination within 72 hours of exposure is considered preventive against illness. From January through May 14, Tokyo reported 239 measles cases, the highest in ten years amid a global outbreak. Governor Yuriko Koike, at a May 15 press conference, urged residents to consider vaccination to protect themselves and those around them.",
-      "publishedTimestamp": "2026-05-15T09:55:10+00:00",
-      "sourceUrl": "https://www.sankei.com/article/20260515-RIBW3C6UKJK4FB7DZA6VQZC3RI/",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Tokyo Prefecture",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Tokyo",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cudG9reW8tbnAuY28uanAvYXJ0aWNsZS80ODgzNTQ=",
-      "headline": "東京都、はしか患者の接触者に無料でワクチン接種　接触から72時間以内、18日から：東京新聞デジタル",
-      "headlineTranslated": "Tokyo to provide free measles vaccinations to contacts of measles patients within 72 hours of exposure, starting on the 18th: Tokyo Shimbun Digital.",
-      "summary": "Tokyo will launch an emergency measles vaccination program for close contacts of measles patients within 72 hours of exposure, starting May 18, 2026, in response to a surge in measles cases. The MR vaccine (measles-rubella) will be provided free of charge with the recipient’s consent, funded from contingency funds (~26 million yen). The target is primarily Tokyo residents. After a measles case is confirmed, public health centers trace the patient’s movements and identify contacts, typically household members. Among these, individuals who are unvaccinated, have only one prior dose, or have unknown vaccination status are eligible. Centers will contact eligible persons and administer MR vaccination upon consent. Initially eight designated infectious disease medical institutions in Tokyo will offer vaccination, with plans to expand to about 25 sites.",
-      "summaryOriginal": "Tokyo will launch an emergency measles vaccination program for close contacts of measles patients within 72 hours of exposure, starting May 18, 2026, in response to a surge in measles cases. The MR vaccine (measles-rubella) will be provided free of charge with the recipient’s consent, funded from contingency funds (~26 million yen). The target is primarily Tokyo residents. After a measles case is confirmed, public health centers trace the patient’s movements and identify contacts, typically household members. Among these, individuals who are unvaccinated, have only one prior dose, or have unknown vaccination status are eligible. Centers will contact eligible persons and administer MR vaccination upon consent. Initially eight designated infectious disease medical institutions in Tokyo will offer vaccination, with plans to expand to about 25 sites.",
-      "publishedTimestamp": "2026-05-15T09:47:51+00:00",
-      "sourceUrl": "https://www.tokyo-np.co.jp/article/488354",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Rubella",
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Tokyo Prefecture",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Tokyo",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cubmlzaGluaXBwb24uY28uanAvaXRlbS8xNDkyNTc3Lw==",
-      "headline": "北九州市で6年ぶり、はしか感染確認　不特定多数に接触した可能性",
-      "headlineTranslated": "Measles infection confirmed in Kitakyushu City for the first time in six years; possible exposure to a large number of people.",
-      "summary": "As of May 15, 2026, Kitakyushu City confirms a measles infection—the first in six years—in a woman in her 30s from Wakamatsu Ward, with potential exposure to a large number of people. The patient developed fever on May 7 and a generalized rash, with laboratory confirmation on May 14. She is reported to have visited the Wakamatsu Ward Office and supermarkets between May 7–13. The city notes over 400 measles infections since January, nearing the ten-year high, with no confirmed cases in the city since 2020. No details on infection source or vaccination status are provided. This case highlights ongoing measles transmission risk in urban settings and the need for continued surveillance and public health measures to limit exposure in public spaces.",
-      "summaryOriginal": "As of May 15, 2026, Kitakyushu City confirms a measles infection—the first in six years—in a woman in her 30s from Wakamatsu Ward, with potential exposure to a large number of people. The patient developed fever on May 7 and a generalized rash, with laboratory confirmation on May 14. She is reported to have visited the Wakamatsu Ward Office and supermarkets between May 7–13. The city notes over 400 measles infections since January, nearing the ten-year high, with no confirmed cases in the city since 2020. No details on infection source or vaccination status are provided. This case highlights ongoing measles transmission risk in urban settings and the need for continued surveillance and public health measures to limit exposure in public spaces.",
-      "publishedTimestamp": "2026-05-15T09:34:05+00:00",
-      "sourceUrl": "https://www.nishinippon.co.jp/item/1492577/",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Kitakyushu",
-          "lat": 33.85181,
-          "lon": 130.85034
-        },
-        {
-          "name": "Fukuoka Prefecture",
-          "lat": 33.52813,
-          "lon": 130.66472
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "福岡県",
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT0NDMTU1Q0UwVjEwQzI2QTUwMDAwMDAv",
-      "headline": "東京都、はしか患者の接触者にワクチン接種　患者数10年で最多",
-      "headlineTranslated": "Tokyo Vaccinates Contacts of Measles Patients; Measles Cases at a 10-Year High.",
-      "summary": "Measles outbreak in Tokyo continues with 239 confirmed cases as of May 14, 2026—the second-highest total since recordkeeping began in 2008 and the highest in the past decade. In response, Tokyo Governor Yuriko Koike announced on May 15 that free measles vaccination will be offered to contacts of confirmed cases beginning May 18. Eligible residents of Tokyo who have 0 or 1 prior vaccine doses or an unknown vaccination history and who were exposed will be targeted; vaccination within 72 hours of exposure may prevent illness. Public health centers will determine vaccination necessity and contact eligible individuals; vaccinations will be administered at eight designated medical institutions in Tokyo, with the list to be expanded. Measles is highly contagious via airborne transmission and droplets; symptoms include fever and rash, with rare complications such as pneumonia or encephalitis. Vaccination is emphasized to curb further spread.",
-      "summaryOriginal": "Measles outbreak in Tokyo continues with 239 confirmed cases as of May 14, 2026—the second-highest total since recordkeeping began in 2008 and the highest in the past decade. In response, Tokyo Governor Yuriko Koike announced on May 15 that free measles vaccination will be offered to contacts of confirmed cases beginning May 18. Eligible residents of Tokyo who have 0 or 1 prior vaccine doses or an unknown vaccination history and who were exposed will be targeted; vaccination within 72 hours of exposure may prevent illness. Public health centers will determine vaccination necessity and contact eligible individuals; vaccinations will be administered at eight designated medical institutions in Tokyo, with the list to be expanded. Measles is highly contagious via airborne transmission and droplets; symptoms include fever and rash, with rare complications such as pneumonia or encephalitis. Vaccination is emphasized to curb further spread.",
-      "publishedTimestamp": "2026-05-15T08:29:08+00:00",
-      "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC155CE0V10C26A5000000/",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles",
-        "Unknown Encephalitis"
-      ],
-      "locations": [
-        {
-          "name": "Tokyo Prefecture",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Tokyo",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9tZWRpY2FsLzIwMjYwNTE1LUdZVDFUMDAyMzgv",
-      "headline": "はしか患者１０年で最多の東京都、ワクチン緊急接種の開始を発表...患者との接触者が対象",
-      "headlineTranslated": "Tokyo, with the highest number of measles patients in ten years, announces the start of emergency vaccination for contacts of patients.",
-      "summary": "Measles outbreak in Tokyo reaches 239 cases as of May 14, the highest in the past decade. In response, Tokyo Governor Yuriko Koike announced on May 15 the start of emergency vaccination for close contacts of confirmed patients. Vaccination will be offered free of charge from May 18 at eight designated infectious disease medical institutions across Tokyo. Eligible individuals are those who had contact with a measles patient within 72 hours, with no prior measles history and with unknown or only one-dose vaccination history. Public health centers will assess the need and contact eligible people; vaccination proceeds upon consent. Authorities continue to emphasize vaccination to prevent infection and reduce severity. The measure aims to curb further transmission amid the surge.",
-      "summaryOriginal": "Measles outbreak in Tokyo reaches 239 cases as of May 14, the highest in the past decade. In response, Tokyo Governor Yuriko Koike announced on May 15 the start of emergency vaccination for close contacts of confirmed patients. Vaccination will be offered free of charge from May 18 at eight designated infectious disease medical institutions across Tokyo. Eligible individuals are those who had contact with a measles patient within 72 hours, with no prior measles history and with unknown or only one-dose vaccination history. Public health centers will assess the need and contact eligible people; vaccination proceeds upon consent. Authorities continue to emphasize vaccination to prevent infection and reduce severity. The measure aims to curb further transmission amid the surge.",
-      "publishedTimestamp": "2026-05-15T06:40:07+00:00",
-      "sourceUrl": "https://www.yomiuri.co.jp/medical/20260515-GYT1T00238/",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Tokyo Prefecture",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Tokyo",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDUxNS1HWVQxVDAwMjM4Lw==",
-      "headline": "はしか患者１０年で最多の東京都、ワクチン緊急接種の開始を発表...患者との接触者が対象 | ヨミドクター(読売新聞)",
-      "headlineTranslated": "Tokyo, with the highest number of measles patients in ten years, announces the start of an emergency vaccination program, targeting those who had contact with patients | Yomidokutā (Yomiuri Shimbun).",
-      "summary": "Measles outbreak in Tokyo, Japan, reaches 239 cases as of May 14, 2026—the highest in ten years. Tokyo Metropolitan Government launches an emergency measles vaccination program targeting close contacts within 72 hours of exposure. The free program will operate at eight designated infectious disease medical facilities starting May 18. Eligible individuals are those with no prior measles history and unknown or one-dose vaccination history, identified by public health centers as having exposure. Consent is required for vaccination. Governor Yuriko Koike urged those contacted to consider vaccination to protect personal and public health. The initiative supplements ongoing vaccination campaigns aimed at preventing spread and reducing the risk of severe disease.",
-      "summaryOriginal": "Measles outbreak in Tokyo, Japan, reaches 239 cases as of May 14, 2026—the highest in ten years. Tokyo Metropolitan Government launches an emergency measles vaccination program targeting close contacts within 72 hours of exposure. The free program will operate at eight designated infectious disease medical facilities starting May 18. Eligible individuals are those with no prior measles history and unknown or one-dose vaccination history, identified by public health centers as having exposure. Consent is required for vaccination. Governor Yuriko Koike urged those contacted to consider vaccination to protect personal and public health. The initiative supplements ongoing vaccination campaigns aimed at preventing spread and reducing the risk of severe disease.",
-      "publishedTimestamp": "2026-05-15T06:34:34+00:00",
-      "sourceUrl": "https://www.yomiuri.co.jp/yomidr/article/20260515-GYT1T00238/",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Tokyo Prefecture",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Tokyo",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
         {
           "name": "Japan",
           "lat": 35.68536,
