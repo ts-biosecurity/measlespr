@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-06-17T04:24:32.478980+00:00",
+  "generated_at": "2026-06-17T11:02:16.080295+00:00",
   "date_range": {
     "start": "2026-05-18",
     "end": "2026-06-17"
   },
-  "total_articles": 64,
+  "total_articles": 67,
   "prefecture_summary": {
-    "全国（都道府県不明）": 22,
+    "熊本県": 1,
+    "全国（都道府県不明）": 23,
     "東京都": 36,
+    "富山県": 5,
     "神奈川県": 1,
-    "富山県": 4,
     "京都府": 1,
     "大阪府": 1,
     "愛知県": 1,
@@ -17,6 +18,63 @@
     "福岡県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_540a33ad50685941",
+      "headline": "熊本市で7年ぶり「はしか」感染確認 県外から転居の10代女性 拡大リスクなし 全国では今年すでに去年の2倍近い525件 - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T06:40:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOTVZSbFpOTnVDRWJWQXBDNFg3VDVEbjE4QUI0ZWdrWlU1R05uM2xONkNUVm1ZSHVXNnBDcWVac0FEWDBvRmtNa1JVWXpCYW4yV3AtTnJORnkxZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "熊本県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
+    },
+    {
+      "articleId": "gnews_c570868d52a088ee",
+      "headline": "「はしか」が首都圏と関西の都市部で流行中、どんな病気かをおさらい | カラダご医見番 - ダイヤモンド・オンライン",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T06:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YM0MyaXN6WHdLQzVqTFZZQ1RIRGlYSUpKQldRYmZmcDJyelFsanRkYTJkLUVybTJrdUFIRllTTWt4OFdiYmREVkc1UUc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ダイヤモンド・オンライン"
+    },
+    {
+      "articleId": "gnews_14205208c56acdc5",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月16日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T03:18:30+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpanNsTkhGZXdraXRjdkdlUVdoSTc0dHhQZVBEUlRjZGFpN3RJSndKM0JpME1vbDlyTWY3TUxGa2tNX3A4RnZMNzlKT1E0RVFDQXptNk1nS1paWnJmT0drN1VPbk5sV1puZi1QQ042MjY2aVU?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
+    },
     {
       "articleId": "gnews_cc0f579de8492f6a",
       "headline": "Ｗ杯でのエボラ感染リスクは？ 米病院は対応準備 麻疹、コロナ、インフルの脅威も - ニューズウィーク日本版",
@@ -60,6 +118,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_b6875a492dd6191b",
+      "headline": "富山で7年ぶりにはしか確認 「国民の95％は抗体あり」専門家が語る冷静な対処法（FNNプライムオンライン） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-15T12:21:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DaXVIOVJFSThKN2Vad1RiYnpiYzk1QnpFdWpRNmNPdEtSOEc3ZEhQcDlYbTFMajlldGF1b3I4bWRGcXdZbmVUZndEcEtxY0JsbFVzUTNheTlKMjllY05BY3NaOUhwZEFFbEQ3RjFZTU1jSVd3VWktV1dQMjQzQzg?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "富山県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_685a46d8c0970b27",
@@ -275,8 +352,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -318,25 +395,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CareNet.com"
-    },
-    {
-      "articleId": "gnews_4e4d134767eb7ad6",
-      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月9日更新） - wam.go.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-10T03:33:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RS0xmNGtDaVgwek4wWkxnUG5pZkY0OUVjbGxiUk5maldhYmMxNDVPMjE0Z1JmejgzcnlpVk5USEN0TkdGc1hidmV4S0dVcFUyR281NnB1SEFfdFFMdHJmeHYwTk9qVzFIaFNTZnhxVnBqQTQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "wam.go.jp"
     },
     {
       "articleId": "gnews_980c3f24427d6f7b",
@@ -433,6 +491,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_c571f645eafe1920",
+      "headline": "麻しん（はしか）について - city.katsuragi.nara.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-04T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WZC1fZDhCVUxqNk1rX3ZEQVBhN05JYjNxY3lqWG9YQ0FuTndSMDlpY3lCSThIUG9ibjVySkswcWJXb18xc1ZTSDQ3ajJLQUZCenpkYVMyMm5yMURkRi1kUmRkREs0UGFqaklhbFV3LUtYbzhZNlpKQQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.katsuragi.nara.jp"
     },
     {
       "articleId": "gnews_26e3e68a61528734",
@@ -746,8 +823,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -810,13 +887,13 @@
       "sourceName": "city.ibaraki-koga.lg.jp"
     },
     {
-      "articleId": "gnews_bf49d4f812c005a5",
-      "headline": "麻疹（はしか）流行に注意！－最強クラスの感染力、ワクチン接種率は流行阻止する95％を下回る92.7 - nli-research.co.jp",
+      "articleId": "gnews_4ece0cc26707ef0a",
+      "headline": "麻疹（はしか）流行に注意！－最強クラスの感染力、ワクチン接種率は流行阻止する95％を下回る92.7％－ - nli-research.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-29T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11UFZ5MDM4akxVeWVRSnRTbnhoSURKRzdtS2V6ZWhkTEFXTnduNlRVNzNYUFgxSF9uMHdvUEY1d2RoYktCOHZjZ1BaRUFVbmluaDhoWFZSS2ppUTlraTFhNGlUcEV0WDd1VHdsR3k2MA?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11UFZ5MDM4akxVeWVRSnRTbnhoSURKRzdtS2V6ZWhkTEFXTnduNlRVNzNYUFgxSF9uMHdvUEY1d2RoYktCOHZjZ1BaRUFVbmluaDhoWFZSS2ppUTlraTFhNGlUcEV0WDd1VHdsR3k2MNIBf0FVX3lxTE5YMnZIX1d0SGtqZ3E0TXlzSG5LLTJ4SHBHYTc2WlZrZlpCeC1vTlItbEw3Mk81M3NydXZxTWY5emZMaFVDSk1FXzFyV2xqQmNjNDFBdFBkRUxEZUVlbU05WUVyZkZjeHE4blhPbUs1MGNTV3pCTjMwSkR4emo0ZXc?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -1606,25 +1683,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.nishitokyo.lg.jp"
-    },
-    {
-      "articleId": "gnews_d617fa40d102b44e",
-      "headline": "麻しんが流行しています - city.satte.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-18T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CWlFMeDUzS1pQWTZHa2ZEWFV5YVdMX2NDUjRHZUJBaHFER1g5S3ljd3FfU04wcFZHb1hvaWJNYk5jWGN1VG54Sy1Na1ZBRE1OUVBab0Z6bEI2Z0E2cDZlTW9ISmdka3pGQ3M4NGZqTQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.satte.lg.jp"
     }
   ]
 }
