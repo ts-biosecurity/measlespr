@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-06-16T23:25:19.741190+00:00",
+  "generated_at": "2026-06-17T04:24:32.478980+00:00",
   "date_range": {
-    "start": "2026-05-17",
-    "end": "2026-06-16"
+    "start": "2026-05-18",
+    "end": "2026-06-17"
   },
   "total_articles": 64,
   "prefecture_summary": {
-    "全国（都道府県不明）": 23,
-    "神奈川県": 1,
+    "全国（都道府県不明）": 22,
     "東京都": 36,
+    "神奈川県": 1,
     "富山県": 4,
     "京都府": 1,
     "大阪府": 1,
     "愛知県": 1,
+    "茨城県": 1,
     "福岡県": 1
   },
   "articles": [
@@ -34,6 +35,31 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ニューズウィーク日本版"
+    },
+    {
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5L2Y2ODE5ZjEzMGEwYzQyMzg5N2IzMjc0NTE3MjZjY2M1",
+      "headline": "今年の「はしか」患者数525人に　今月7日までの1週間で全国で新たに2人確認（2026年6月16日掲載）｜日テレNEWS NNN",
+      "headlineTranslated": "Measles cases this year reach 525; two new nationwide cases confirmed in the week through the 7th of this month (Published June 16, 2026) | Nippon TV News NNN",
+      "summary": "Measles cases in Japan this year reach 525, with two new nationwide infections reported in the week through June 7 (one in Chiba Prefecture and one in Gunma Prefecture). The cumulative total is about 3.9 times higher than the same period last year. Dr. Takeshi Terashima, a respiratory medicine specialist, notes measles spreads more easily at around 20°C, suggesting seasonal factors may slow the current rise. Nonetheless, infections commonly peak from spring to early summer, and increased international travel during summer vacations could boost case numbers. The Ministry of Health, Labour and Welfare urges travelers to consider vaccination as appropriate before overseas trips.",
+      "summaryOriginal": "Measles cases in Japan this year reach 525, with two new nationwide infections reported in the week through June 7 (one in Chiba Prefecture and one in Gunma Prefecture). The cumulative total is about 3.9 times higher than the same period last year. Dr. Takeshi Terashima, a respiratory medicine specialist, notes measles spreads more easily at around 20°C, suggesting seasonal factors may slow the current rise. Nonetheless, infections commonly peak from spring to early summer, and increased international travel during summer vacations could boost case numbers. The Ministry of Health, Labour and Welfare urges travelers to consider vaccination as appropriate before overseas trips.",
+      "publishedTimestamp": "2026-06-16T03:33:00+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/category/society/f6819f130a0c423897b327451726ccc5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
     },
     {
       "articleId": "gnews_685a46d8c0970b27",
@@ -249,8 +275,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -535,13 +561,13 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_3492e688953d63bd",
+      "articleId": "gnews_7ef0ebd62330050c",
       "headline": "【都内で急増】麻疹（はしか）の「知られざる怖さ」とは？ 空気感染・症状・予防を医師が解説（メディカルドック） - Yahoo!ニュース",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-06-02T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmRFR2w4R0J0dUY4UmNmOG43SV8wSDJGT2hwc1BEcVV6Zjl1eDhlUXBiRzNkZTlQZ2FfSGtHUUx0ai00c1VZb0x4OVlyOVZKUGtEZFFXTml3SE84NXBLNWt2Q0Jhdzc3LWRHUHZQLTRZUEtQQUdyX1d3YzRZQndIVHg5dFlwR2g4?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yLUR2Nm1fNWRSaTdLZHluYUpGRDVXaGxjYy1Jdms0REZpWHJienNYVTN3cmdCWEV3Uk9ZQjBrT2NET2tZRGdKQ2xTMUh2MHBOalF4Ri1faWZidXAxdmdMVHh5dl9EaGpuSUlFcDNIaDRmU3pyX01idXg2TmpYSlE?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -593,8 +619,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -763,6 +789,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "メディカルドック"
+    },
+    {
+      "articleId": "gnews_ff7d5504998174b6",
+      "headline": "茨城県内の麻しん（はしか）患者の発生について（令和8年5月28日） - city.ibaraki-koga.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xdFdjVGJSajRUSkxJcGtLR3hYT21ySERTT0kxNzhGMnBwS1pMT3dqbnYzSkhXcWZ3aGhLOFVmMmJGSmdIb1pwQkR2Z3QyVlRVVktLM3dFd1dtbjNwaGJxbGpFZkVWUElTZkVpQzN1ZC1vb3pyZlE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "茨城県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.ibaraki-koga.lg.jp"
     },
     {
       "articleId": "gnews_bf49d4f812c005a5",
@@ -1483,25 +1528,6 @@
       "sourceName": "pref.saitama.lg.jp"
     },
     {
-      "articleId": "gnews_a2b96383f1682226",
-      "headline": "麻疹急増の発端は輸入例だが…問われる「排除国」維持への対応 - 日経メディカル",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-20T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56NjdQOThFNkszU3pDRHhPcDI1c25ILU5pUXpxSy1EUHpiOHMxREd2T2xVSGFJRHU0aXZkbDlzYjVnOHFIdldTVlVIR1hOSUMyNFI1V3VYLTZyVEhYa1ZrM3RNM1Y5TnZ4dTdTSWJXU0JObGdKOHBwSA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日経メディカル"
-    },
-    {
       "articleId": "aHR0cHM6Ly9tZWRpY2FsLm5pa2tlaWJwLmNvLmpwL2xlYWYvbWVtL3B1Yi9yZXBvcnQvMjAyNjA1LzU5MzE3MS5odG1s",
       "headline": "麻疹急増の発端は輸入例だが...問われる「排除国」維持への対応",
       "headlineTranslated": "Measles Surge Traced to Imported Cases, but Questions Remain on Maintaining Elimination Status.",
@@ -1599,31 +1625,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.satte.lg.jp"
-    },
-    {
-      "articleId": "aHR0cHM6Ly9tZWRpY2FsLm5pa2tlaWJwLmNvLmpwL2xlYWYvbWVtL3B1Yi9yZXBvcnQvMjAyNjA1LzU5MzEyOS5odG1s",
-      "headline": "麻疹診療で知っておくべき5つのポイント：2026年改訂版",
-      "headlineTranslated": "Five Key Points to Know in Measles Management: 2026 Revised Edition",
-      "summary": "Measles in Japan continues into 2026, with school-based clusters reported in Aichi Prefecture, Kagoshima Prefecture, and Tokyo. Many cases lack a clear transmission source, increasing vigilance for healthcare facilities about when a measles suspect might present. Keiko Taya of the Kanagawa Prefectural Institute of Public Health outlines five key points for measles management in the revised 2026 edition: (1) early recognition of measles signs in patients presenting to clinics and hospitals, (2) prompt laboratory confirmation, (3) immediate infection control measures to prevent nosocomial spread, (4) rapid public health notification and contact tracing, (5) vaccination considerations for patients and contacts and evaluation of exposure. The update emphasizes ongoing local transmission in addition to imported cases and underscores the need for preparedness in schools and medical settings.",
-      "summaryOriginal": "Measles in Japan continues into 2026, with school-based clusters reported in Aichi Prefecture, Kagoshima Prefecture, and Tokyo. Many cases lack a clear transmission source, increasing vigilance for healthcare facilities about when a measles suspect might present. Keiko Taya of the Kanagawa Prefectural Institute of Public Health outlines five key points for measles management in the revised 2026 edition: (1) early recognition of measles signs in patients presenting to clinics and hospitals, (2) prompt laboratory confirmation, (3) immediate infection control measures to prevent nosocomial spread, (4) rapid public health notification and contact tracing, (5) vaccination considerations for patients and contacts and evaluation of exposure. The update emphasizes ongoing local transmission in addition to imported cases and underscores the need for preparedness in schools and medical settings.",
-      "publishedTimestamp": "2026-05-17T15:00:00+00:00",
-      "sourceUrl": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/202605/593129.html",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
     }
   ]
 }
