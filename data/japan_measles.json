@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-06-17T15:40:44.685521+00:00",
+  "generated_at": "2026-06-17T18:22:31.454337+00:00",
   "date_range": {
     "start": "2026-05-18",
     "end": "2026-06-17"
   },
   "total_articles": 66,
   "prefecture_summary": {
-    "熊本県": 1,
-    "全国（都道府県不明）": 22,
+    "全国（都道府県不明）": 23,
     "東京都": 36,
     "富山県": 5,
     "神奈川県": 1,
@@ -18,25 +17,6 @@
     "福岡県": 1
   },
   "articles": [
-    {
-      "articleId": "gnews_540a33ad50685941",
-      "headline": "熊本市で7年ぶり「はしか」感染確認 県外から転居の10代女性 拡大リスクなし 全国では今年すでに去年の2倍近い525件 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T06:40:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOTVZSbFpOTnVDRWJWQXBDNFg3VDVEbjE4QUI0ZWdrWlU1R05uM2xONkNUVm1ZSHVXNnBDcWVac0FEWDBvRmtNa1JVWXpCYW4yV3AtTnJORnkxZw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "熊本県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
-    },
     {
       "articleId": "gnews_c570868d52a088ee",
       "headline": "「はしか」が首都圏と関西の都市部で流行中、どんな病気かをおさらい | カラダご医見番 - ダイヤモンド・オンライン",
@@ -550,6 +530,25 @@
       "sourceName": "TBS NEWS DIG"
     },
     {
+      "articleId": "gnews_737cc60978c798ab",
+      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
+    },
+    {
       "articleId": "gnews_673da431680e6eb2",
       "headline": "麻しん（はしか）に注意しましょう！ - city.tsugaru.aomori.jp",
       "headlineTranslated": "",
@@ -804,8 +803,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
