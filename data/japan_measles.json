@@ -1,16 +1,15 @@
 {
-  "generated_at": "2026-06-18T04:17:32.654065+00:00",
+  "generated_at": "2026-06-18T10:24:32.480431+00:00",
   "date_range": {
     "start": "2026-05-19",
     "end": "2026-06-18"
   },
-  "total_articles": 65,
+  "total_articles": 63,
   "prefecture_summary": {
-    "全国（都道府県不明）": 23,
+    "全国（都道府県不明）": 21,
     "東京都": 35,
     "富山県": 5,
     "神奈川県": 1,
-    "京都府": 1,
     "大阪府": 1,
     "愛知県": 1,
     "茨城県": 1,
@@ -319,26 +318,6 @@
       "sourceName": "city.meguro.tokyo.jp"
     },
     {
-      "articleId": "gnews_e5b30407ed2f9682",
-      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "京都府",
-        "東京都"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "東京都感染症情報センター"
-    },
-    {
       "articleId": "gnews_6687e746e4244b9c",
       "headline": "麻しんの感染者が増加しています。 - pref.kagoshima.jp",
       "headlineTranslated": "",
@@ -356,25 +335,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.kagoshima.jp"
-    },
-    {
-      "articleId": "gnews_9147e04731255ade",
-      "headline": "米国、麻疹排除国の地位を失う瀬戸際に｜CareNet.com - CareNet.com",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-10T19:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zOE9BdEV2NVptRDBEQWdPVHk0MGFFM3BPWUgwUUpyVk5KVGs3Sy1mMF9YTE95ekxwZEVBVTdILUM4ZGVnNC1WcmRoRUlSWTdBNmdOZVh4dFRhZw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CareNet.com"
     },
     {
       "articleId": "gnews_980c3f24427d6f7b",
@@ -803,8 +763,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -939,6 +899,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.ginowan.lg.jp"
+    },
+    {
+      "articleId": "gnews_2dff6067debe1a9f",
+      "headline": "【患者急増】「麻しん（はしか）ワクチン」の”緊急接種”都内で開始―72時間以内の接種で予防可能？ - メディカルドック",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-27T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53TnFfeXBVMVM5eGJ2cGxoTmNsTHV1eGdRMG5oSm0xd0tScDRSZEpfZWNFVXd0d2JEQ0luODR2SV94WVdtSVN0Nm9jWEQ5RWJ4QVlrOUhsMA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "メディカルドック"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cubmlzaGluaXBwb24uY28uanAvaXRlbS8xNDk2NTQwLw==",
@@ -1625,25 +1604,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_519fc3ce5d426347",
-      "headline": "麻しん（はしか）が流行中！ - city.nishitokyo.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-19T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1N2RUNjRkxuWnA0bmt6MGl0bGxfTFVPVTRrZ2tZZldyTTRpV3lvWnZxUjlIWXZsUW1TeXlwQUpwYU1mR3JVVGVoSlYwOUstdFlZdnhRRnJSN0VVSUVTZU0tSUFQVTZxNFY5NktlUGxaa3VGLVpKZ3d5cmJvVi12THZtcWd1NmhhM19mNXd1Q2FLNVlL?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.nishitokyo.lg.jp"
     }
   ]
 }
