@@ -1,117 +1,18 @@
 {
-  "generated_at": "2026-06-18T15:32:25.665658+00:00",
+  "generated_at": "2026-06-18T18:27:09.711116+00:00",
   "date_range": {
     "start": "2026-05-19",
     "end": "2026-06-18"
   },
-  "total_articles": 56,
+  "total_articles": 31,
   "prefecture_summary": {
-    "全国（都道府県不明）": 9,
-    "熊本県": 2,
-    "東京都": 31,
-    "富山県": 13,
-    "千葉県": 1,
+    "東京都": 30,
     "大阪府": 1,
     "愛知県": 1,
-    "茨城県": 1,
+    "全国（都道府県不明）": 1,
     "福岡県": 1
   },
   "articles": [
-    {
-      "articleId": "gnews_97f2dfc078e87142",
-      "headline": "子どもと未来の赤ちゃんを守るために。風しんについて小児外科専門医竹内先生にお伺いしました - TRILL",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-18T12:14:52+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xV2hwTWtsOFlsMGNEZHZVYV93LTlVR0NNUVBZWV9wRXNIRC1TcHlRbXBxRWM1b0tSOWROeF9zZHVuWEkxRnFRWWc0YTRudXM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TRILL"
-    },
-    {
-      "articleId": "gnews_472ece8230e1a496",
-      "headline": "熊本市で7年ぶり「はしか」感染確認 県外から転居の10代女性 拡大リスクなし 全国では今年すでに去年の2倍近い525件 - Excite エキサイト",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T06:44:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96TFpLZ2JsSk9jVkw3Z1V1LXdydnlub1dKSnd2MUdHVDZCanVEREUxaVlKaEp5TmFmNFd5TlBxWHloR3pVTzVpaEdRWWU2NFNnOEhtNnQwVVZ2SlAxQkdWcHZfbUotSzNraUcyWkxR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "熊本県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Excite エキサイト"
-    },
-    {
-      "articleId": "gnews_540a33ad50685941",
-      "headline": "熊本市で7年ぶり「はしか」感染確認 県外から転居の10代女性 拡大リスクなし 全国では今年すでに去年の2倍近い525件 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T06:40:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOTVZSbFpOTnVDRWJWQXBDNFg3VDVEbjE4QUI0ZWdrWlU1R05uM2xONkNUVm1ZSHVXNnBDcWVac0FEWDBvRmtNa1JVWXpCYW4yV3AtTnJORnkxZw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "熊本県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
-    },
-    {
-      "articleId": "gnews_7132a3edf7316ed1",
-      "headline": "「はしか」が首都圏と関西の都市部で流行中、どんな病気かをおさらい - ダイヤモンド・オンライン",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T06:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YM0MyaXN6WHdLQzVqTFZZQ1RIRGlYSUpKQldRYmZmcDJyelFsanRkYTJkLUVybTJrdUFIRllTTWt4OFdiYmREVkc1UUc?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ダイヤモンド・オンライン"
-    },
-    {
-      "articleId": "gnews_cc0f579de8492f6a",
-      "headline": "Ｗ杯でのエボラ感染リスクは？ 米病院は対応準備 麻疹、コロナ、インフルの脅威も - ニューズウィーク日本版",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-16T09:15:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6elJ1QXlDenRsRHJVM3A4Tlo3Z1hDZnp6MHBOMTlhcWtTWFYtdF9yc1N5ZlFXeHhlbVVkSzNlc2RhTFI3em9sb1hLdXFfVzJHX3lBamdpS0puZw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ニューズウィーク日本版"
-    },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5L2Y2ODE5ZjEzMGEwYzQyMzg5N2IzMjc0NTE3MjZjY2M1",
       "headline": "今年の「はしか」患者数525人に　今月7日までの1週間で全国で新たに2人確認（2026年6月16日掲載）｜日テレNEWS NNN",
@@ -138,63 +39,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_4f72dcc72dbfac34",
-      "headline": "富山で7年ぶりにはしか確認 「国民の95%は抗体あり」専門家が語る冷静な対処法 - Excite エキサイト",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-15T12:25:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yXzFHWWMzeXk0blVheHg5amJfQmdOeTUwT0RZT2JwNFVxNWRvN0VzTmFNTWcwVWN5MTkzM0ZXMlQwYVZiTEtDRmxjX0pFT05acUZGemJMd2xKV0lQSHhvU3Zib3dVUzYzTTU0YVJ3?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Excite エキサイト"
-    },
-    {
-      "articleId": "gnews_b6875a492dd6191b",
-      "headline": "富山で7年ぶりにはしか確認 「国民の95％は抗体あり」専門家が語る冷静な対処法（FNNプライムオンライン） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-15T12:21:23+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DaXVIOVJFSThKN2Vad1RiYnpiYzk1QnpFdWpRNmNPdEtSOEc3ZEhQcDlYbTFMajlldGF1b3I4bWRGcXdZbmVUZndEcEtxY0JsbFVzUTNheTlKMjllY05BY3NaOUhwZEFFbEQ3RjFZTU1jSVd3VWktV1dQMjQzQzg?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_d39d8b7fbe56144a",
-      "headline": "ワールドカップは感染症の蔓延の「ホットスポット」になり得るのだろうか？ - Vietnam.vn",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-14T00:05:38+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGlsN2ZsVnZWU3RvOXNteExzZERoazJhWkVoRUpWckctOHJ6TnlYbDg4N3k4NV91SlpTQ0hMaWpud01zY0lmMVF0TzFGRmNDT0I3Rmptc1VjbjhRWlB0SGVHUlpfT3hrUUdrcUJTbE0yTS1EbGYzWkpja1FJU1VmOTQzekpFSTQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Vietnam.vn"
-    },
-    {
       "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VBMDU2SFMwVjAwQzI2QTYwMDAwMDAv",
       "headline": "はしか、なぜ急増しているの？　「ワクチン2回接種」徹底が重要",
       "headlineTranslated": "Measles: Why is it increasing rapidly? Ensuring two-dose vaccination is important.",
@@ -218,25 +62,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_a24a18be462ea486",
-      "headline": "富山県内男性、はしか感染 海外に渡航歴 １９年１１月以来 - 47NEWS",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T20:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QYVNhSDVJY3ZidEdqb09FWG5adE9oUmJYYVRUMHI5RGpOdVlwLWVpLXVaVXNaQkRzdFNTTGpleFoySVMyQTMxV1JCUQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "47NEWS"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuaG9ra29rdS5jby5qcC9hcnRpY2xlcy90eW0vMjEzNzY2NQ==",
@@ -270,121 +95,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_6bb3dd6720fb8053",
-      "headline": "富山県で今年初のはしか（麻しん）感染者を確認 インドネシア渡航歴のある20代男性 気になる初期症状や潜伏期間の目安 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T13:06:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQjY4VTVmWDI0MDhRU3g3VnV3Vk1ta05kZUFsZWg3eC04N1didXBxSy1INjBtdUhFTWxpNnozZmZ3ZzBtMlB4bWl3R0RWUGtnZUpzcXdxQ0lXSDhuWHE4?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
-    },
-    {
-      "articleId": "gnews_dbff5480d3072630",
-      "headline": "富山で「はしか」感染者 インドネシア渡航歴の20代男性が入院 極めて感染力の強い病気「免疫なければほぼ100％発症」 県内でさらに患者発生の可能性があり県が注意喚起 - Excite エキサイト",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T12:59:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JTnpBTTRuN2RhQTBnakFOZEx3T1hub2k0LWVBZ3RMd0tHazdyenNRN2drRzZtM19HcHBad29hZHc0QUEyamd3U0hxajFuclpveTFOOFNCR3FYUXh0OUJ1dkpubzE3aWtrUXh4cXh3?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Excite エキサイト"
-    },
-    {
-      "articleId": "gnews_5493e1c5c8a1d8fc",
-      "headline": "富山で「はしか」感染者　インドネシア渡航歴の20代男性が入院 　極めて感染力の強い病気「免疫なければほぼ100％発症」　県内でさらに患者発生の可能性があり県が注意喚起 | チバテレ＋プラス - 千葉テレビ放送株式会社",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T12:52:31+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1weUJCTFFqSFphbDZDa0ZoXzBwNUZjeF9pWERkYzdEQ0Q0eTZkbXhUeXJvMU1ielNLVEpzUFdPMHZzYUFxN1NSRl9yZVpST1NRcm1NYkxfUmJ1Tk1vVmk40gFkQVVfeXFMTjU1UEkxNnlyOFVPaE1hd0hma1Jqay1JQjAyREN3dHozbkhyalZZcG9SRDk2V2w4bGx2TGcxUk9pZ1Z4TFFCZERhcnpSLTdpc2FpcWNwbjktWC1GLXJqRXEySEhGdA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県",
-        "千葉県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "千葉テレビ放送株式会社"
-    },
-    {
-      "articleId": "gnews_a4584ce76380e3f9",
-      "headline": "インドネシア渡航歴の20代男性が「はしか」感染 極めて感染力の強い病気「免疫なければほぼ100％発症」 さらに患者発生の可能性があり県が注意喚起 富山 - Excite エキサイト",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T12:52:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RDhKUXRuMFJNSkE3dzBkMjA1Q3JWZFFfVmpIQ1RfSEhRa3FndXA4QmI5WTRqTS0tbmdQei1nQUVOZWMwYm5veUdYWl9CekFjVktSdTMwMDlWal9LSDk5RWhLVkEtVkNVdllhTjFB?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Excite エキサイト"
-    },
-    {
-      "articleId": "gnews_f7b5f744285619e8",
-      "headline": "インドネシア渡航歴の20代男性が「はしか」感染 極めて感染力の強い病気「免疫なければほぼ100％発症」 さらに患者発生の可能性があり県が注意喚起 富山 - FNNプライムオンライン",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T12:46:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nOGEtOUlCLXRjaHNqcWFSeEloVjVRMV82Ym53TWhuZXZGOXllZDlVUnVlMEhNMGJSVmZLc3Z0ZEZkUmtKZ3d3ZkpYUUxfOFNkT1RaSFZpVThUM2ZILXZz?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "FNNプライムオンライン"
-    },
-    {
-      "articleId": "gnews_c4a89740f12cdc14",
-      "headline": "高岡厚生センター管内の２０代男性が”はしか”に感染 富山県内での感染報告は７年ぶり 県が注意呼びかけ - Excite エキサイト",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T12:04:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDdTRCazFIRzBRR184eE1vTXU2ZXZXSHA1OHo1b25PbjY1WHhha0lycS1vNTRnZllicVRKSWcySEkwVkx4VGd5VU05OUVpRk1McEJMeG9Sdm5ZWDBhRVdRUVozSmw5cXJpTUtmX2xB?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Excite エキサイト"
-    },
-    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuNzZjODljNmE4Yjc5NGJjYmIzYzUyNjhmOWVlOWYzYmI=",
       "headline": "高岡厚生センター管内の２０代男性が\"はしか\"に感染　富山県内での感染報告は７年ぶり　県が注意呼びかけ（2026年6月12日掲載）｜KNB NEWS NNN",
       "headlineTranslated": "Measles infection in a man in his 20s within the jurisdiction of the Takaoka Public Health Center; first measles infection reported in Toyama Prefecture in seven years; prefecture urges caution (Posted June 12, 2026) | KNB NEWS NNN",
@@ -413,82 +123,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_d48cec6cd0027f6a",
-      "headline": "高岡厚生センター管内の２０代男性が”はしか”に感染 富山県内での感染報告は７年ぶり 県が注意呼びかけ（北日本放送） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T12:02:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wNzdySzNfX3BZVTBreFFqWTU2NlpNZWd5VWw1VlpIc2tacExjYk43UDJfbDY3ckVxMTdDRzUyeWZMOGVLbVNUOW9OZmhFNmdDeUNxZHlJUmxzV2xwUDNIRzFUamdFRnJpdWwyTkI1ZG5ZRzBiNGFHWnZQWlk1ZE0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_2c6bd91a09bbe414",
-      "headline": "富山県で今年初のはしか（麻しん）感染者を確認 インドネシア渡航歴のある20代男性 気になる初期症状や潜伏期間の目安 - Excite エキサイト",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T11:46:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCcW9OcVlJQm5UbFBZUlpQU213cmhhSXpNajZqeEZPY0dxMFBWMWNMMlhJZjFFZGRqQm9QbUVTNXRweTJ3RjBLTmQxbXNqN3NBb0ozaG5TZW9BVkNOb0NyVTZmOV9qSGtnTnhGOWl3?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Excite エキサイト"
-    },
-    {
-      "articleId": "gnews_73a92ae71cfbcc95",
-      "headline": "富山県で今年初のはしか（麻しん）感染者を確認 インドネシア渡航歴のある20代男性 気になる初期症状や潜伏期間の目安 - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T11:41:12+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93VkpmUTh6OFhQUjNFRjFFcnRmTi0zQ0JCaHNXNGhYdjNib2NxRkRqcFd5UnhMWVdrWXVqd0FLRTlpZ0lIV3NXTXQyUGEteFVwU1VQeGJ5V1BTR3NSTVpYU1h5UnJuc1A5SzE5eDlId1FTMTM0QVM1X3cwZ0VtUlU?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_f4b640b97bb45b5f",
-      "headline": "富山県で今年初のはしか（麻しん）感染者を確認 インドネシア渡航歴のある20代男性 気になる初期症状や潜伏期間の目安 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T11:40:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82UUZvUWpUNXcxMzFYM3VubTBaZGlvaUJySEljdFRRb0w0THhDQXM5VmdtVFdmTmFJOVhNSnppM3FscVRQQjlGenhRVkhvY0t6YW1xZFZta1pVQQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5L2JkN2JlZTJjYzhkYTQzNGViMWUyZGYxODE4NDAzMWJm",
@@ -524,25 +158,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_cabc13186f2bf107",
-      "headline": "「はしか」大流行の背景とは…専門家がワクチン2回接種を勧める理由とこの夏の感染力 - ｄメニューニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-08T21:55:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMU9xNUxSN0FHVDJzaVI3QkRTNm1WU2o5cWMyRmQwWF9Gckp4MWw5Smt1eFFzRmVDZmQzSjN2YU5KeTNhU0o5NXJOTzdxYmFWaUEyMnpwRjhmYThtS0o3ajB4bk9fYno4dVYwMFRyX1gyRC1PR0hWYUxDMEFRbldBdXVoSnTSAYoBQVVfeXFMTWMyR1ZCQVRlU1d1WVlkcUtaRzNhNGpZcVdrb192UjRUeHpzLS1yNnowTjV1YW9fOE9KaTRpOUE0eWY5b0ZIMEhlb0Q5NXBtM1hZZ3pjWE9xaVVMNkR3aDEtZmxCaWxZems5bTYxQklmeGNnYnVKbERrZ1ZXeUtqbjl3c3FZOUFzcXpB?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ｄメニューニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cubmlra2FuLWdlbmRhaS5jb20vYXJ0aWNsZXMvdmlldy9saWZlLzM4ODY3Mg==",
@@ -585,44 +200,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_c571f645eafe1920",
-      "headline": "麻しん（はしか）について - city.katsuragi.nara.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-04T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WZC1fZDhCVUxqNk1rX3ZEQVBhN05JYjNxY3lqWG9YQ0FuTndSMDlpY3lCSThIUG9ibjVySkswcWJXb18xc1ZTSDQ3ajJLQUZCenpkYVMyMm5yMURkRi1kUmRkREs0UGFqaklhbFV3LUtYbzhZNlpKQQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.katsuragi.nara.jp"
-    },
-    {
-      "articleId": "gnews_80dc33fbef53b64e",
-      "headline": "■NEWS 麻しん報告数は引き続き増加、過去10年で最も多かった2019年に迫る数値［感染症発生動向調査2026年第20週（5月11日～5月 – 日本医事新報社 - 日本医事新報社",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-03T02:34:40+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sR2ROY2NGcjh6enJ3NmRXbFFONzU3STc1MXc1OThha3RyTF9PVVNoRWNXYWJ3ajlFM1JfUlZvcjFwZmE3a19TZE9IYXpxcjVEeFRRLXRNR1FaeFpPejJUdg?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日本医事新報社"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDYwMi1HWVQxVDAwMTk4Lw==",
@@ -675,25 +252,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_2bb75a1dab6da7b6",
-      "headline": "【都内で急増】麻疹（はしか）の「知られざる怖さ」とは？ 空気感染・症状・予防を医師が解説 (メディカルドック) - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-02T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObkhtaDFJNVBaX3BfYTlyUkp4RkJ1aTNMWHlIQzFpLS1Dc25EZVBjNGNwbmdBNTU5VDVrV1ZWdHlBU3A5dTBhNTB1QnFTUkJ2UFdjYV9PT0VnRTRvNEJJMHctcGJPVHV1UUdnM3l4bmNrXzk2QVV6Tll0NW1TWXRmRThoUnVZYUNEeWVPN0NR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5LzA0Y2ZiNjI5MTIxNjQzOTliNTI4MTM2OWUyNDRlYWQ5",
       "headline": "はしかの全国患者数ことし累計511人　過去10年で2番目の多さに（2026年6月2日掲載）｜日テレNEWS NNN",
       "headlineTranslated": "Nationwide cumulative measles cases this year total 511, the second-highest in the past decade (Posted June 2, 2026) | Nippon TV News NNN",
@@ -733,8 +291,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -860,8 +418,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -884,25 +442,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "hokeniryo.metro.tokyo.lg.jp"
-    },
-    {
-      "articleId": "gnews_ff7d5504998174b6",
-      "headline": "茨城県内の麻しん（はしか）患者の発生について（令和8年5月28日） - city.ibaraki-koga.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-29T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xdFdjVGJSajRUSkxJcGtLR3hYT21ySERTT0kxNzhGMnBwS1pMT3dqbnYzSkhXcWZ3aGhLOFVmMmJGSmdIb1pwQkR2Z3QyVlRVVktLM3dFd1dtbjNwaGJxbGpFZkVWUElTZkVpQzN1ZC1vb3pyZlE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "茨城県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.ibaraki-koga.lg.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuc2FraWdha2UuanAvbmV3cy9hcnRpY2xlLzIwMjYwNTI5QUswMDA1Lw==",
@@ -1007,25 +546,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_936dc2810de6fd7f",
-      "headline": "麻疹（はしか）の感染者急増なぜ？ - komei.or.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-26T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZmxWbjdVOGF0aFRsbkdzY1RzXzUxQjVTYm9VOWh4WVVZSVJQUEZVc2JHUUhBWnlYQm1sTzhoQV9iT3VSc0VYZGxWRDVvZkxXS1YxaGNIS18xeXRsUGNqaUlnckszb21aTUhPWnhXcVBmdjcxREphM1dLNmRhblZoNTJKdnNkOUtoc2c2anJZRXhzbm9uR0ZiS1E0aHFES3ptYllkT2k4VVkxXzlsNlpnQzV4Qk04U281UzRiTlJQaTFTOFVUVVpFUzZqZzI1VHQyWjVnelh6UGRISTJUZTU4TzlTbzlWSXh1cTl0dDgwbnNiRElvWVVCZ2lPbjRxR3NYcUxlRklzSG1Nb2ZWSjItYWNvWDhMTjlWc3Z2eUlUWUNCM0I2Yk9ZS1AxVXAxdjlTajl3cg?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "komei.or.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9hbGZhbGZhbGZhLmNvbS9hcnRpY2xlcy8xMTA0MzEyMy5odG1s",
