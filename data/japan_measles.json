@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-20T03:59:41.706695+00:00",
+  "generated_at": "2026-06-20T07:55:39.681892+00:00",
   "date_range": {
     "start": "2026-05-21",
     "end": "2026-06-20"
   },
-  "total_articles": 64,
+  "total_articles": 65,
   "prefecture_summary": {
-    "全国（都道府県不明）": 23,
+    "富山県": 5,
+    "全国（都道府県不明）": 22,
     "東京都": 36,
-    "富山県": 3,
     "神奈川県": 1,
     "大阪府": 1,
     "愛知県": 1,
@@ -16,6 +16,44 @@
     "福岡県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_e4397a8a65a35a67",
+      "headline": "富山市の20代男性がはしか感染 富山県内の感染報告2人目に - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-20T07:37:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WbEFlN0tEQTd1Mkp3WFdpV1ZpanNGbzQ1S3hjejR4Vm1sNmRRZTdBd1BHWDU0ZmlNNFBmRElzMVhkN2JKVzkwX25tT1g3OVJWejVWTF94cURCQQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "富山県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
+    },
+    {
+      "articleId": "gnews_a50f1f0b904d903d",
+      "headline": "富山市の20代男性「はしか」に感染 県内での感染報告は今月2件め（2026年6月19日掲載）｜KNB NEWS NNN - 日テレNEWS NNN",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-20T06:29:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYktEVjQ4S05PRHhZT3hjU0dWYXU5aDdJdU5JRURMZmFKQzBiNzBpbmEtcUlDQ0ZfUGMwQkE4VXNfQVF2dDJBOHF4WDFuQnVRQUgxME9reEhfR0ZLYnRDdDRrb2d6QjBtWWZ3QmdLUDRuREVkcGVtVkIyeE1LM3FYOTdKNUdMWms?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "富山県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日テレNEWS NNN"
+    },
     {
       "articleId": "gnews_51398a83864ec8ce",
       "headline": "はしか急増、手洗いやマスクをしても防げない…感染力はインフルエンザの10倍（読売新聞オンライン） - Yahoo!ニュース",
@@ -401,6 +439,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.meguro.tokyo.jp"
+    },
+    {
+      "articleId": "gnews_6687e746e4244b9c",
+      "headline": "麻しんの感染者が増加しています。 - pref.kagoshima.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-11T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcC1ZQXFvM1Y5Tno5YjEtVE1RNFd1MlFuejlVYnZxVFh6WGhBV1NYVlpvX2I1c2x3TGp1Tnd3X2Z6OG5kbFBxZ3dPRU04dzdCVWg2UUpZaFpJMmVoMjdtbkxMMGVHajIxWVMzZWxqT3hIbFpROG00LVZHY3hOSVZxbUdBWkU0cE5OWEE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.kagoshima.jp"
     },
     {
       "articleId": "gnews_3ebb64c006bbf9c8",
@@ -886,8 +943,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1073,8 +1130,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1567,25 +1624,6 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_818adb17c1d85a00",
-      "headline": "麻疹急増中！ 今こそ対応を再確認せよ - 日経メディカル",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwV0Q2Vk5IWjBaR25aRzVDMlVWb2R1WU00cElFTHNHbDFDeVk3NmtiWkpGanA2OG9KOHAtMWl2ekkwWWxNSEI2TW1xTmNDTU54eHN6UkJzRkx4U0dLSldUS21ONDZUbEFLZEtxR3BkcFBfaGYwb0YzTG1MUS0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日経メディカル"
-    },
-    {
       "articleId": "gnews_a218a3eaf9648ea8",
       "headline": "SEVENTEEN東京ドーム公演の来場者が麻しん発症 - ナタリー",
       "headlineTranslated": "",
@@ -1628,25 +1666,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_5faca47bfbcea962",
-      "headline": "感染症の発生状況 - city.chiyoda.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-21T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3Q3dFFtaXVIQ3lndVNiR1UwMWpLUnZxcFEwZ2FhREU3NGdUZDhNV0hmT3dTT0hBSl93NWtySHlJQlMyUnV1Ny1iZDVjSEVhLV9VaUVfc1ctMnpSN25KVXFCMmx1TkxSc19iYmV5UzM0dU5pckdNRjR2WVlONm91NVhsUDd6M0pkcjVZZE1JZw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.chiyoda.lg.jp"
     }
   ]
 }
