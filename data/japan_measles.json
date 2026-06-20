@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T17:37:28.967194+00:00",
+  "generated_at": "2026-06-20T19:41:20.911964+00:00",
   "date_range": {
     "start": "2026-05-21",
     "end": "2026-06-20"
@@ -7,9 +7,9 @@
   "total_articles": 63,
   "prefecture_summary": {
     "富山県": 5,
-    "全国（都道府県不明）": 21,
-    "東京都": 35,
+    "東京都": 36,
     "京都府": 1,
+    "全国（都道府県不明）": 20,
     "神奈川県": 1,
     "大阪府": 1,
     "愛知県": 1,
@@ -54,25 +54,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
-    },
-    {
-      "articleId": "gnews_51398a83864ec8ce",
-      "headline": "はしか急増、手洗いやマスクをしても防げない…感染力はインフルエンザの10倍（読売新聞オンライン） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-19T02:57:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwVFZ4YUtnY2x0V0pGWTZzZkpKRjNzZXVWRVBhNWR1QzVvbG54SXZjZ3Y1S1dQNF9ZQmFhOU0tWkx3UmQ3ZTR3bFBJMlpOeW00V0RiTXcybGJ4TmVsTVhGcjlkWEVmSjQ1YUp6OXRvd3ZUTVhqc2lnRFJWcGFNQ3M?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVjZKMkoxQ1Y2SlVURkwwME1NLmh0bWw=",
@@ -125,8 +106,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -818,8 +799,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -945,8 +926,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1132,8 +1113,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1605,6 +1586,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_a218a3eaf9648ea8",
+      "headline": "SEVENTEEN東京ドーム公演の来場者が麻しん発症 - ナタリー",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DdElBUDZqa3B0emhHcnNxMGZfaDRIaDczbGc5eXlGWE5lN2djR1FLNWV5YkQ0a2JlR0VOX2hKSUFJOWZKRzNwS2liWlQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ナタリー"
     },
     {
       "articleId": "aHR0cHM6Ly9tZWRpY2FsLm5pa2tlaWJwLmNvLmpwL2xlYWYvYWxsL3JlcG9ydC9XZWVrbHkvMjAyNjA1LzU5MzI3MC5odG1s",
