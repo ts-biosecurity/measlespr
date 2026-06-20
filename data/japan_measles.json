@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-06-20T07:55:39.681892+00:00",
+  "generated_at": "2026-06-20T10:35:14.775614+00:00",
   "date_range": {
     "start": "2026-05-21",
     "end": "2026-06-20"
   },
-  "total_articles": 65,
+  "total_articles": 67,
   "prefecture_summary": {
-    "富山県": 5,
+    "富山県": 6,
     "全国（都道府県不明）": 22,
-    "東京都": 36,
+    "東京都": 37,
+    "京都府": 1,
     "神奈川県": 1,
     "大阪府": 1,
     "愛知県": 1,
@@ -16,6 +17,25 @@
     "福岡県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_3bc97e218af9b404",
+      "headline": "富山市の20代男性がはしか感染 富山県内の感染報告2人目に（チューリップテレビ） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-20T07:39:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rUVZkbUtBc2ZWbWFMcG42eVZZZHpwRXFZbHE1UXMxOUR2UnpKN3g5MVlwMlNkU1FTZUY4c2F3NkwzSmFFNU44VW1ieHJDVWNMVkFaYVRkc3N4dklIa0lYNURIOTdqZkE3eWpYckUwblhmZnJlWmN4bkNwLXkySlU?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "富山県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
     {
       "articleId": "gnews_e4397a8a65a35a67",
       "headline": "富山市の20代男性がはしか感染 富山県内の感染報告2人目に - TBS NEWS DIG",
@@ -111,6 +131,26 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_e5b30407ed2f9682",
+      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-18T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "京都府",
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "東京都感染症情報センター"
+    },
+    {
       "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDM2Mzk=",
       "headline": "熊本市ではしか、今年1例目　感染拡大「可能性は低い」　ワクチン接種呼びかけ｜熊本日日新聞社",
       "headlineTranslated": "Measles in Kumamoto City: First case this year; spread of infection unlikely; vaccination urged | Kumamoto Nichinichi Shimbun",
@@ -159,6 +199,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_737cc60978c798ab",
+      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
     },
     {
       "articleId": "aHR0cHM6Ly9kaWFtb25kLmpwL2FydGljbGVzLy0vMzkyNjM5",
@@ -670,25 +729,6 @@
       "sourceName": "TBS NEWS DIG"
     },
     {
-      "articleId": "gnews_737cc60978c798ab",
-      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-03T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "読売新聞"
-    },
-    {
       "articleId": "gnews_673da431680e6eb2",
       "headline": "麻しん（はしか）に注意しましょう！ - city.tsugaru.aomori.jp",
       "headlineTranslated": "",
@@ -816,8 +856,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
