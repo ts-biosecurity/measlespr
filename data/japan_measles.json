@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-19T23:00:52.056643+00:00",
+  "generated_at": "2026-06-20T03:59:41.706695+00:00",
   "date_range": {
-    "start": "2026-05-20",
-    "end": "2026-06-19"
+    "start": "2026-05-21",
+    "end": "2026-06-20"
   },
-  "total_articles": 62,
+  "total_articles": 64,
   "prefecture_summary": {
     "全国（都道府県不明）": 23,
-    "東京都": 35,
-    "富山県": 2,
+    "東京都": 36,
+    "富山県": 3,
     "神奈川県": 1,
     "大阪府": 1,
     "愛知県": 1,
@@ -34,6 +34,43 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVjZKMkoxQ1Y2SlVURkwwME1NLmh0bWw=",
+      "headline": "致死率高いニパウイルスの日本発ワクチン　臨床試験をベルギーで開始：朝日新聞",
+      "headlineTranslated": "Japan-developed Nipah virus vaccine for a high-fatality Nipah virus begins clinical trials in Belgium",
+      "summary": "Japan-developed Nipah virus vaccine, using a live-attenuated measles virus vector carrying Nipah genes, began clinical trials in Belgium on June 15, testing safety and immunogenicity in 60 healthy adults. Nipah virus, transmitted from fruit bats to people (and occasionally via human contact), can cause fever and myalgia and may progress to encephalitis with high fatality; there are no approved treatments or vaccines. The vaccine showed safety and efficacy in animal studies. If safety and immune response are confirmed, trials are planned in Bangladesh, where Nipah outbreaks occur. The project is led by Misako Yoneda of Teikyo University, with collaborators including the European Vaccine Initiative, Stanford University, and Japan’s Center for Advanced Research and Development Strategy. Researchers describe this as a potential step toward a practical vaccine against a deadly, zoonotic infection.",
+      "summaryOriginal": "Japan-developed Nipah virus vaccine, using a live-attenuated measles virus vector carrying Nipah genes, began clinical trials in Belgium on June 15, testing safety and immunogenicity in 60 healthy adults. Nipah virus, transmitted from fruit bats to people (and occasionally via human contact), can cause fever and myalgia and may progress to encephalitis with high fatality; there are no approved treatments or vaccines. The vaccine showed safety and efficacy in animal studies. If safety and immune response are confirmed, trials are planned in Bangladesh, where Nipah outbreaks occur. The project is led by Misako Yoneda of Teikyo University, with collaborators including the European Vaccine Initiative, Stanford University, and Japan’s Center for Advanced Research and Development Strategy. Researchers describe this as a potential step toward a practical vaccine against a deadly, zoonotic infection.",
+      "publishedTimestamp": "2026-06-19T00:00:00+00:00",
+      "sourceUrl": "https://www.asahi.com/articles/ASV6J2J1CV6JUTFL00MM.html",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Nipah",
+        "Measles",
+        "Unknown Encephalitis"
+      ],
+      "locations": [
+        {
+          "name": "Kingdom of Belgium",
+          "lat": 50.75,
+          "lon": 4.5
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        },
+        {
+          "name": "Bangladesh",
+          "lat": 24.0,
+          "lon": 90.0
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
     },
     {
       "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDM2Mzk=",
@@ -185,25 +222,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_b6105f8968a2b9cf",
-      "headline": "【医師が注意喚起】麻疹が感染拡大｢妊活前にワクチン｣の切実な理由…発症者が去っても感染力は持続､新生児は高リスク - 東洋経済オンライン",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-16T03:14:55+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xb3RpYnNoR1FLNzJUT3J2NDJmYzBDb1JaVW5UVTlRdjBkWnN1dl9UMnNiNGpISTJyMWxPcDAxVUpRU3RSbWJHT01rV3c4MkVJM05kRnh5djZXemM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "東洋経済オンライン"
-    },
-    {
       "articleId": "gnews_b6875a492dd6191b",
       "headline": "富山で7年ぶりにはしか確認 「国民の95％は抗体あり」専門家が語る冷静な対処法（FNNプライムオンライン） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -298,6 +316,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_72a0ad87d74a90eb",
+      "headline": "インドネシア渡航歴の20代男性が「はしか」感染 極めて感染力の強い病気「免疫なければほぼ100％発症」 さらに患者発生の可能性があり県が注意喚起 富山（FNNプライムオンライン） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-12T12:47:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TMW1wUTk5MkFzWFhRcDhSVmM2V1RHUjA5YThRTDRvRzVQZ1RQRFFQdm1ES0lMdG5SWXdIRmFUcHpfVWhva21GbzBjZHNySFN0cC15OXhZSDlFcTFIY29pTUtkM3NPUXFFSkhXU2hjak1QbEFrMFZXX09UR2FDVjA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "富山県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuNzZjODljNmE4Yjc5NGJjYmIzYzUyNjhmOWVlOWYzYmI=",
       "headline": "高岡厚生センター管内の２０代男性が\"はしか\"に感染　富山県内での感染報告は７年ぶり　県が注意呼びかけ（2026年6月12日掲載）｜KNB NEWS NNN",
       "headlineTranslated": "Measles infection in a man in his 20s within the jurisdiction of the Takaoka Public Health Center; first measles infection reported in Toyama Prefecture in seven years; prefecture urges caution (Posted June 12, 2026) | KNB NEWS NNN",
@@ -364,6 +401,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.meguro.tokyo.jp"
+    },
+    {
+      "articleId": "gnews_3ebb64c006bbf9c8",
+      "headline": "感染症情報について - city.ichikawa.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-11T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3ekR4RlRZbEdnQmhPa1JKdTg4LUxVZnRLeXVsSUdSaTlZYnlIcEVwd1dJQ1RHMk9yUldZQURSMFBZZHlFb1ZOcTdtRkd6R19DeFNlSDFrVk5VZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.ichikawa.lg.jp"
     },
     {
       "articleId": "gnews_9147e04731255ade",
@@ -1017,8 +1073,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
