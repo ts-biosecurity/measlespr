@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-21T12:11:24.742672+00:00",
+  "generated_at": "2026-06-21T15:55:19.051448+00:00",
   "date_range": {
     "start": "2026-05-22",
     "end": "2026-06-21"
   },
-  "total_articles": 64,
+  "total_articles": 66,
   "prefecture_summary": {
-    "静岡県": 1,
+    "静岡県": 2,
     "富山県": 5,
     "東京都": 35,
+    "全国（都道府県不明）": 23,
     "京都府": 1,
-    "全国（都道府県不明）": 22,
     "神奈川県": 1,
     "大阪府": 1,
     "愛知県": 1,
@@ -19,13 +19,13 @@
   },
   "articles": [
     {
-      "articleId": "gnews_8d962efc26bc1a94",
-      "headline": "アジアから帰国した20代女性が麻しん（はしか）に感染 中部国際空港～浜松駅の直行バスを利用（静岡朝日テレビ） - Yahoo!ニュース",
+      "articleId": "gnews_7356dd7566dff6b4",
+      "headline": "アジアから帰国した20代女性が麻しん（はしか）に感染 中部国際空港～浜松駅の直行バスを利用 - Excite エキサイト",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-21T02:16:45+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1LUlVbVAyb0lJSTdBcGZGMnd1b0IwU2pXSjctMFhXZXhHdXpPQ0h6N2xuYWJuREdPT3FaUlRiWDRPUXMxa3NhOEZUbmt0WF9MZlNyQ25pdl9ocXpoY2g4dXBuWUJBdVFRMGhLQ2VqbjNhdEhVNFh4UFpYY0NkNDg?oc=5",
+      "publishedTimestamp": "2026-06-21T15:08:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1haEtra0tzOEp3MEFhZFktUzZvWkJfdERsYzNfanJjb3hqRFA5WmlSRFhQcktPQVNWa0VrT1BiSk5USTJjSDBldm5XTnUxQ205bmRlTjJnNmo4dkJRcC1QZUFfMVdOS2lkalN6ZG5sZw?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -35,7 +35,26 @@
         "静岡県"
       ],
       "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
+      "sourceName": "Excite エキサイト"
+    },
+    {
+      "articleId": "gnews_0277621ef5be7976",
+      "headline": "アジアから帰国した20代女性が麻しん（はしか）に感染　中部国際空港〜浜松駅の直行バスを利用 - ｄメニューニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-21T02:16:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2l1VlhaT25haXdnc1pzUU5SREMwLXN0bGswcllJWjdiWWtyYUVtanNsSFpzRDNsUzE3UGJyOVZkVEwza1NaeWhlMFRGWjNFcnhoYmJLanFLcUl3UnBIdGJUT1Y3N19PVHdRbU10UEhjcEdZTWdlUFBKMmFwZkxiUEpB0gF0QVVfeXFMUGtuRUxfTHZrRmN6UEFoZUNZc0pWQV9VU29RQmhFQndPZWVhSlFUd2NiTFo1OG5HdU9Wb09ZeEpHeW9LQ2RBOUJIWExKNE5tNkVOUHFZTGVJY1MwbWE3XzBMOHdneHMtSmRsN0NXR1oyUHRTYVc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "静岡県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ｄメニューニュース"
     },
     {
       "articleId": "gnews_3bc97e218af9b404",
@@ -96,6 +115,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_51398a83864ec8ce",
+      "headline": "はしか急増、手洗いやマスクをしても防げない…感染力はインフルエンザの10倍（読売新聞オンライン） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-19T02:57:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwVFZ4YUtnY2x0V0pGWTZzZkpKRjNzZXVWRVBhNWR1QzVvbG54SXZjZ3Y1S1dQNF9ZQmFhOU0tWkx3UmQ3ZTR3bFBJMlpOeW00V0RiTXcybGJ4TmVsTVhGcjlkWEVmSjQ1YUp6OXRvd3ZUTVhqc2lnRFJWcGFNQ3M?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVjZKMkoxQ1Y2SlVURkwwME1NLmh0bWw=",
@@ -752,25 +790,6 @@
       "sourceName": "TBS NEWS DIG"
     },
     {
-      "articleId": "gnews_673da431680e6eb2",
-      "headline": "麻しん（はしか）に注意しましょう！ - city.tsugaru.aomori.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-03T03:43:23+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2p1R3hWbzZHNzBMQ0Z2NEs4dFZTenBNaHF3LVNjYWZlVkxtM0FZR3lia013bEVGTEZzVGpRQktGTnAzZFk1SDl0UmpyakN4R1ZVTWpCY2VlRDluVmxFT21DMW5Ebjd5eXdlel9jOTBYNHRjRDZHWFQyU0dzdXFORV9tcWdmSnB1Sm9YVnJR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.tsugaru.aomori.jp"
-    },
-    {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDYwMi1HWVQxVDAwMTk4Lw==",
       "headline": "はしか患者数初の５００人突破、半数が東京...今年の累計「世界的に感染拡大」 | ヨミドクター(読売新聞)",
       "headlineTranslated": "Measles cases exceed 500 for the first time, half in Tokyo; this year's cumulative total shows worldwide spread of infection",
@@ -838,6 +857,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_673da431680e6eb2",
+      "headline": "麻しん（はしか）に注意しましょう！ - city.tsugaru.aomori.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-02T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2p1R3hWbzZHNzBMQ0Z2NEs4dFZTenBNaHF3LVNjYWZlVkxtM0FZR3lia013bEVGTEZzVGpRQktGTnAzZFk1SDl0UmpyakN4R1ZVTWpCY2VlRDluVmxFT21DMW5Ebjd5eXdlel9jOTBYNHRjRDZHWFQyU0dzdXFORV9tcWdmSnB1Sm9YVnJR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.tsugaru.aomori.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5LzA0Y2ZiNjI5MTIxNjQzOTliNTI4MTM2OWUyNDRlYWQ5",
@@ -1193,8 +1231,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
