@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-20T23:11:50.555835+00:00",
+  "generated_at": "2026-06-21T04:41:03.220377+00:00",
   "date_range": {
-    "start": "2026-05-21",
-    "end": "2026-06-20"
+    "start": "2026-05-22",
+    "end": "2026-06-21"
   },
-  "total_articles": 64,
+  "total_articles": 63,
   "prefecture_summary": {
     "富山県": 5,
     "東京都": 36,
@@ -37,23 +37,45 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_e4397a8a65a35a67",
-      "headline": "富山市の20代男性がはしか感染 富山県内の感染報告2人目に - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-20T07:37:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WbEFlN0tEQTd1Mkp3WFdpV1ZpanNGbzQ1S3hjejR4Vm1sNmRRZTdBd1BHWDU0ZmlNNFBmRElzMVhkN2JKVzkwX25tT1g3OVJWejVWTF94cURCQQ?oc=5",
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuMTZhOGFlMDNlYzZjNDI4NjhhZTY5MmEyZTgyY2EwOTg=",
+      "headline": "富山市の20代男性「はしか」に感染　県内での感染報告は今月2件め（2026年6月20日掲載）｜KNB NEWS NNN",
+      "headlineTranslated": "Measles infection in a man in his twenties in Toyama City; second measles case reported in the prefecture this month (published June 20, 2026) | KNB News NNN",
+      "summary": "As of June 20, 2026, a man in his 20s in Toyama City has been confirmed with measles, the second measles case in Toyama Prefecture this month. The patient developed fever and rash on June 17 and sought medical care on June 19; genetic testing at the Prefectural Institute of Public Health confirmed measles. He is self-isolating at home. There is no overseas travel in the past year, and no travel outside the prefecture within the past three weeks. Authorities are investigating the infection source and transmission route. This follows the first case this month, a man in his 20s residing in the Takaoka Public Health Center jurisdiction, making June 2026 the month with two reported cases in the prefecture. City health officials are issuing cautions to the public.",
+      "summaryOriginal": "As of June 20, 2026, a man in his 20s in Toyama City has been confirmed with measles, the second measles case in Toyama Prefecture this month. The patient developed fever and rash on June 17 and sought medical care on June 19; genetic testing at the Prefectural Institute of Public Health confirmed measles. He is self-isolating at home. There is no overseas travel in the past year, and no travel outside the prefecture within the past three weeks. Authorities are investigating the infection source and transmission route. This follows the first case this month, a man in his 20s residing in the Takaoka Public Health Center jurisdiction, making June 2026 the month with two reported cases in the prefecture. City health officials are issuing cautions to the public.",
+      "publishedTimestamp": "2026-06-20T06:29:00+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/n/knb/category/society/kn16a8ae03ec6c42868ae692a2e82ca098",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
-      "locations": [],
+      "locations": [
+        {
+          "name": "Toyama-ken",
+          "lat": 36.63926,
+          "lon": 137.26513
+        },
+        {
+          "name": "Takaoka",
+          "lat": 36.75,
+          "lon": 137.01667
+        },
+        {
+          "name": "Toyama Shi",
+          "lat": 36.55146,
+          "lon": 137.29872
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
       "prefectures": [
+        "東京都",
         "富山県"
       ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
+      "dataSource": "BlueDot",
+      "sourceName": ""
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVjZKMkoxQ1Y2SlVURkwwME1NLmh0bWw=",
@@ -818,8 +840,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -945,8 +967,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1624,31 +1646,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ナタリー"
-    },
-    {
-      "articleId": "aHR0cHM6Ly9tZWRpY2FsLm5pa2tlaWJwLmNvLmpwL2xlYWYvYWxsL3JlcG9ydC9XZWVrbHkvMjAyNjA1LzU5MzI3MC5odG1s",
-      "headline": "麻疹急増中！ 今こそ対応を再確認せよ",
-      "headlineTranslated": "Measles on the rise! Now is the time to reassess our response.",
-      "summary": "Measles is on the rise globally, and Japan reports a rapid domestic uptick in 2026, with cases concentrated in the Kanto, Chubu, and Kansai regions. National authorities and related medical societies are calling for heightened vigilance. The May 22, 2026 issue of Nikkei Medical COVER STORY centers on measles, presenting expert perspectives to reassess and reinforce the country’s response to the evolving outbreak. The article outlines what is happening domestically, emphasizes the need to review prevention and control strategies, and highlights ongoing concerns for public health. While specific case counts are not disclosed in the summary, the report signals an urgent re-evaluation of surveillance, vaccination coverage, and outbreak management in light of the global increase. Readers are directed to the online edition for the full set of related articles.",
-      "summaryOriginal": "Measles is on the rise globally, and Japan reports a rapid domestic uptick in 2026, with cases concentrated in the Kanto, Chubu, and Kansai regions. National authorities and related medical societies are calling for heightened vigilance. The May 22, 2026 issue of Nikkei Medical COVER STORY centers on measles, presenting expert perspectives to reassess and reinforce the country’s response to the evolving outbreak. The article outlines what is happening domestically, emphasizes the need to review prevention and control strategies, and highlights ongoing concerns for public health. While specific case counts are not disclosed in the summary, the report signals an urgent re-evaluation of surveillance, vaccination coverage, and outbreak management in light of the global increase. Readers are directed to the online edition for the full set of related articles.",
-      "publishedTimestamp": "2026-05-21T15:00:00+00:00",
-      "sourceUrl": "https://medical.nikkeibp.co.jp/leaf/all/report/Weekly/202605/593270.html",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
     }
   ]
 }
