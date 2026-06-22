@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-22T04:46:41.845506+00:00",
+  "generated_at": "2026-06-22T12:10:05.631544+00:00",
   "date_range": {
     "start": "2026-05-23",
     "end": "2026-06-22"
   },
-  "total_articles": 59,
+  "total_articles": 57,
   "prefecture_summary": {
-    "静岡県": 2,
-    "富山県": 5,
+    "静岡県": 1,
+    "富山県": 4,
     "東京都": 29,
     "全国（都道府県不明）": 22,
     "京都府": 1,
@@ -18,25 +18,6 @@
     "福岡県": 1
   },
   "articles": [
-    {
-      "articleId": "gnews_7356dd7566dff6b4",
-      "headline": "アジアから帰国した20代女性が麻しん（はしか）に感染 中部国際空港～浜松駅の直行バスを利用 - Excite エキサイト",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-21T15:08:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1haEtra0tzOEp3MEFhZFktUzZvWkJfdERsYzNfanJjb3hqRFA5WmlSRFhQcktPQVNWa0VrT1BiSk5USTJjSDBldm5XTnUxQ205bmRlTjJnNmo4dkJRcC1QZUFfMVdOS2lkalN6ZG5sZw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "静岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Excite エキサイト"
-    },
     {
       "articleId": "gnews_8d962efc26bc1a94",
       "headline": "アジアから帰国した20代女性が麻しん（はしか）に感染 中部国際空港～浜松駅の直行バスを利用（静岡朝日テレビ） - Yahoo!ニュース",
@@ -110,8 +91,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -191,6 +172,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
+    },
+    {
+      "articleId": "gnews_c8c3ef0517b05fc4",
+      "headline": "麻しん（はしか）抗体検査および予防接種を無料で受けられます（20歳以上59歳以下のかた） - city.meguro.tokyo.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-18T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2EwdkMzZUNlbmVsTkF6S18xWHRqc0lxSWhfOXg3ckdXQTJWaWZDT1F4cTN6WDZMWTNXOTUzSE40NGdvbk5iejhTZ1RSakhGWnVYeTBsZV9NS0FWQVFvTDNsd0g3NjZGRi1VTzVFeEU5VUdudUtBbzhTNFdfTVRlTW9ZQXlpS0FYNXdSeHkyRFBrQXljWVNsNGFrc1dNUQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.meguro.tokyo.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDM2Mzk=",
@@ -361,42 +361,23 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_b6875a492dd6191b",
-      "headline": "富山で7年ぶりにはしか確認 「国民の95％は抗体あり」専門家が語る冷静な対処法（FNNプライムオンライン） - Yahoo!ニュース",
+      "articleId": "gnews_b6105f8968a2b9cf",
+      "headline": "【医師が注意喚起】麻疹が感染拡大｢妊活前にワクチン｣の切実な理由…発症者が去っても感染力は持続､新生児は高リスク - 東洋経済オンライン",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-15T12:21:23+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DaXVIOVJFSThKN2Vad1RiYnpiYzk1QnpFdWpRNmNPdEtSOEc3ZEhQcDlYbTFMajlldGF1b3I4bWRGcXdZbmVUZndEcEtxY0JsbFVzUTNheTlKMjllY05BY3NaOUhwZEFFbEQ3RjFZTU1jSVd3VWktV1dQMjQzQzg?oc=5",
+      "publishedTimestamp": "2026-06-16T03:14:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xb3RpYnNoR1FLNzJUT3J2NDJmYzBDb1JaVW5UVTlRdjBkWnN1dl9UMnNiNGpISTJyMWxPcDAxVUpRU3RSbWJHT01rV3c4MkVJM05kRnh5djZXemM?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "富山県"
+        "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_685a46d8c0970b27",
-      "headline": "2026神奈川県 麻しん情報（15）22週｜神奈川県衛生研究所 - pref.kanagawa.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-15T08:53:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTDFpcTFpdlAycTkxSXVucVMzQ08xWHRFTFZqTGNZU1NxbFd3U1RzcEtQZ0lsaHMxRkd1Q1B0OXpkeXhZQmZaSWZxY2xnZklWQUNLM3FVN1ppUU5oZTROZVlLQnNacGhQVG1ORGJfMTRPVHJuQ0Y1aUJRbEZ5X3JWdmhIYXdKVmtYQ2ZQTU02My12Zw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "神奈川県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.kanagawa.jp"
+      "sourceName": "東洋経済オンライン"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VBMDU2SFMwVjAwQzI2QTYwMDAwMDAv",
@@ -521,25 +502,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_319ae9f9e7fbdd54",
-      "headline": "麻しん（はしか）抗体検査および予防接種を無料で受けられます（20歳以上60歳未満のかた） - city.meguro.tokyo.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2EwdkMzZUNlbmVsTkF6S18xWHRqc0lxSWhfOXg3ckdXQTJWaWZDT1F4cTN6WDZMWTNXOTUzSE40NGdvbk5iejhTZ1RSakhGWnVYeTBsZV9NS0FWQVFvTDNsd0g3NjZGRi1VTzVFeEU5VUdudUtBbzhTNFdfTVRlTW9ZQXlpS0FYNXdSeHkyRFBrQXljWVNsNGFrc1dNUQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.meguro.tokyo.jp"
     },
     {
       "articleId": "gnews_6687e746e4244b9c",
@@ -712,6 +674,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_38a434bfa726462f",
+      "headline": "2026神奈川県 麻しん情報（14）21週｜神奈川県衛生研究所 - pref.kanagawa.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-04T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUWhKNnhtMDVSbV9Sd1p5S3ZocHc3cnVGQVo0TzYydEpJUXIwcmotZXhRTlNvc21jWTRtWkF0Ql9wRmhMenA2Q19wdTFzdDJxSmU3WHpuZDktSnVxTDJmcTJtQzdjWVhlZUM4SkhaMGctbm9KSWNkUWtzY3B2OGQ3dC00aW15d21HWWtJVnB6aV9zdw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "神奈川県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.kanagawa.jp"
     },
     {
       "articleId": "gnews_c571f645eafe1920",
@@ -1025,8 +1006,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1359,25 +1340,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_a5aa3a819e8172e1",
-      "headline": "麻疹も「謎のかぜ」も…気になるのは26日公開の週報 - 日経メディカル",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-23T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81SzNNcU9FcG03UjhNMktQOW5FTnIzMk5hR0FSWHZEQ3l2bjBIai0zREtLTkUxOWdyUWZtRXZyNXAzVFVkMm8zMHJwY3lmWldGV29XME5EdHBHODQxSkEzeG5wMmxZaDIwbmZ3SURrekEtNzV2SG1xYXliYw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日経メディカル"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzNHZpcC5saXZlZG9vci5iaXovYXJjaGl2ZXMvNTI1Nzk5NDQuaHRtbA==",
