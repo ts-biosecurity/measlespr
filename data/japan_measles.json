@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-22T12:10:05.631544+00:00",
+  "generated_at": "2026-06-22T18:13:07.249354+00:00",
   "date_range": {
     "start": "2026-05-23",
     "end": "2026-06-22"
   },
-  "total_articles": 57,
+  "total_articles": 58,
   "prefecture_summary": {
     "静岡県": 1,
     "富山県": 4,
     "東京都": 29,
     "全国（都道府県不明）": 22,
     "京都府": 1,
-    "神奈川県": 1,
+    "神奈川県": 2,
     "大阪府": 1,
     "愛知県": 1,
     "茨城県": 1,
@@ -91,8 +91,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -879,8 +879,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1030,6 +1030,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "hokeniryo.metro.tokyo.lg.jp"
+    },
+    {
+      "articleId": "gnews_e9dd6c223ff83c62",
+      "headline": "2026神奈川県 麻しん情報（13）20週｜神奈川県衛生研究所 - pref.kanagawa.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNmdYSWpneFNaZUVKbVNlVEVqQ0dhajR1YzVlRjl1b1Mtd0pLMFlmRGs4RWM3SEpCN2tuTFdkNkl3dkNfQXdaeEN4U2NXQkducDdfd09lMzNPbWJ2bHdaRGs2b2tsSEZKc1JqazJ4M3I1N3JGaVUzYV9rbGR0ajJfc3JJQlpUQ3E5Q0JEeEtKVWxjUQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "神奈川県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.kanagawa.jp"
     },
     {
       "articleId": "gnews_50fab2e55a06d3cd",
