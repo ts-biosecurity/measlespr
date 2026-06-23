@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-23T18:00:01.308059+00:00",
+  "generated_at": "2026-06-23T20:19:02.514780+00:00",
   "date_range": {
     "start": "2026-05-24",
     "end": "2026-06-23"
   },
-  "total_articles": 56,
+  "total_articles": 54,
   "prefecture_summary": {
     "東京都": 26,
-    "全国（都道府県不明）": 23,
+    "全国（都道府県不明）": 22,
     "静岡県": 1,
     "富山県": 3,
     "京都府": 1,
-    "神奈川県": 3,
+    "神奈川県": 2,
     "大阪府": 1,
     "愛知県": 1,
     "茨城県": 1,
@@ -340,25 +340,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_7132a3edf7316ed1",
-      "headline": "「はしか」が首都圏と関西の都市部で流行中、どんな病気かをおさらい - ダイヤモンド・オンライン",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T06:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YM0MyaXN6WHdLQzVqTFZZQ1RIRGlYSUpKQldRYmZmcDJyelFsanRkYTJkLUVybTJrdUFIRllTTWt4OFdiYmREVkc1UUc?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ダイヤモンド・オンライン"
     },
     {
       "articleId": "gnews_14205208c56acdc5",
@@ -1095,25 +1076,6 @@
       "sourceName": "メディカルドック"
     },
     {
-      "articleId": "gnews_c097e431cbaf5125",
-      "headline": "麻しん（はしか）に注意しましょう - city.seiyo.ehime.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-29T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWRKM1VhQ0tUcENkWm9YZ2E2NGR4VlIzSTBiY3Y1Ni0yUDRFUjlyOE5hMXlJNFBCMGJuU0lXT1otTUU2M1BQX1gwbTNiTkVibUh2bThEYU5seVktNDBuWVg0YzRKeTlvbEJqY0lxZHdhQV82M2g4QTBYcGhvRXZ2QXQ5Zzc2STM1RVFr?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.seiyo.ehime.jp"
-    },
-    {
       "articleId": "gnews_ff7d5504998174b6",
       "headline": "茨城県内の麻しん（はしか）患者の発生について（令和8年5月28日） - city.ibaraki-koga.lg.jp",
       "headlineTranslated": "",
@@ -1131,6 +1093,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.ibaraki-koga.lg.jp"
+    },
+    {
+      "articleId": "gnews_c097e431cbaf5125",
+      "headline": "麻しん（はしか）に注意しましょう - city.seiyo.ehime.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWRKM1VhQ0tUcENkWm9YZ2E2NGR4VlIzSTBiY3Y1Ni0yUDRFUjlyOE5hMXlJNFBCMGJuU0lXT1otTUU2M1BQX1gwbTNiTkVibUh2bThEYU5seVktNDBuWVg0YzRKeTlvbEJqY0lxZHdhQV82M2g4QTBYcGhvRXZ2QXQ5Zzc2STM1RVFr?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.seiyo.ehime.jp"
     },
     {
       "articleId": "gnews_4ece0cc26707ef0a",
@@ -1237,8 +1218,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1349,25 +1330,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.shiroi.chiba.jp"
-    },
-    {
-      "articleId": "gnews_c2c2909ad800384e",
-      "headline": "2026神奈川県 麻しん情報（12）19週｜神奈川県衛生研究所 - pref.kanagawa.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-25T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYW9sTDdjZ2pmN1gwWFExckNSeTRndXdWMmhRR0pwdlVtZmZSY1dHWDhkV2Z4TmZlaXNsRG1hMVBBa3Y4bkxuUjJGRWVRN3JBZFhEWjFVVnhORWdQdlA1S19YYzdKU0Rsem9zSXZjanpid1ZiYVVxeHotOWRXam8tM213VEhPRmhfVjh0d2ZsZzh6QQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "神奈川県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.kanagawa.jp"
     }
   ]
 }
