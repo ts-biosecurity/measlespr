@@ -1,23 +1,48 @@
 {
-  "generated_at": "2026-06-23T03:52:03.244292+00:00",
+  "generated_at": "2026-06-23T07:52:20.259630+00:00",
   "date_range": {
     "start": "2026-05-24",
     "end": "2026-06-23"
   },
-  "total_articles": 52,
+  "total_articles": 56,
   "prefecture_summary": {
-    "全国（都道府県不明）": 22,
+    "東京都": 26,
+    "全国（都道府県不明）": 23,
     "静岡県": 1,
     "富山県": 3,
-    "東京都": 25,
     "京都府": 1,
-    "神奈川県": 1,
+    "神奈川県": 3,
     "大阪府": 1,
     "愛知県": 1,
     "茨城県": 1,
     "福岡県": 1
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5L2E2OWI4NjY0NWQyMTQyZDU5MzdiODE1MzllNTI1ZGYx",
+      "headline": "はしかの全国患者数ことし累計529人（2026年6月23日掲載）｜日テレNEWS NNN",
+      "headlineTranslated": "Nationwide measles cases this year total 529 (posted June 23, 2026) | Nippon TV News NNN",
+      "summary": "As of June 23, 2026, Japan has confirmed 529 measles cases this year, about 3.7 times higher than the same period last year. In the week through June 14, five new cases were reported nationwide: Gunma Prefecture (2), Ibaraki (1), Toyama (1), and Kumamoto (1). Measles typically has an incubation of about 10 days, with initial cold-like symptoms followed by high fever and rash. The pace of increase has slowed somewhat, but the Ministry of Health, Labour and Welfare warns that measles remains highly contagious and will continue to monitor the outbreak nationwide.",
+      "summaryOriginal": "As of June 23, 2026, Japan has confirmed 529 measles cases this year, about 3.7 times higher than the same period last year. In the week through June 14, five new cases were reported nationwide: Gunma Prefecture (2), Ibaraki (1), Toyama (1), and Kumamoto (1). Measles typically has an incubation of about 10 days, with initial cold-like symptoms followed by high fever and rash. The pace of increase has slowed somewhat, but the Ministry of Health, Labour and Welfare warns that measles remains highly contagious and will continue to monitor the outbreak nationwide.",
+      "publishedTimestamp": "2026-06-23T05:27:01+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/category/society/a69b86645d2142d5937b81539e525df1",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
     {
       "articleId": "gnews_8def843e5106f5ef",
       "headline": "多くの子供たちが麻疹に感染していることから、医師たちはワクチン接種の不足を懸念している。 - Vietnam.vn",
@@ -186,8 +211,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -315,6 +340,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_7132a3edf7316ed1",
+      "headline": "「はしか」が首都圏と関西の都市部で流行中、どんな病気かをおさらい - ダイヤモンド・オンライン",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T06:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YM0MyaXN6WHdLQzVqTFZZQ1RIRGlYSUpKQldRYmZmcDJyelFsanRkYTJkLUVybTJrdUFIRllTTWt4OFdiYmREVkc1UUc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ダイヤモンド・オンライン"
     },
     {
       "articleId": "gnews_14205208c56acdc5",
@@ -528,7 +572,7 @@
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-10T19:00:00+00:00",
+      "publishedTimestamp": "2026-06-11T07:00:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zOE9BdEV2NVptRDBEQWdPVHk0MGFFM3BPWUgwUUpyVk5KVGs3Sy1mMF9YTE95ekxwZEVBVTdILUM4ZGVnNC1WcmRoRUlSWTdBNmdOZVh4dFRhZw?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
@@ -860,8 +904,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -987,8 +1031,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1011,6 +1055,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "hokeniryo.metro.tokyo.lg.jp"
+    },
+    {
+      "articleId": "gnews_e9dd6c223ff83c62",
+      "headline": "2026神奈川県 麻しん情報（13）20週｜神奈川県衛生研究所 - pref.kanagawa.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNmdYSWpneFNaZUVKbVNlVEVqQ0dhajR1YzVlRjl1b1Mtd0pLMFlmRGs4RWM3SEpCN2tuTFdkNkl3dkNfQXdaeEN4U2NXQkducDdfd09lMzNPbWJ2bHdaRGs2b2tsSEZKc1JqazJ4M3I1N3JGaVUzYV9rbGR0ajJfc3JJQlpUQ3E5Q0JEeEtKVWxjUQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "神奈川県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.kanagawa.jp"
     },
     {
       "articleId": "gnews_50fab2e55a06d3cd",
@@ -1174,8 +1237,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1286,6 +1349,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.shiroi.chiba.jp"
+    },
+    {
+      "articleId": "gnews_c2c2909ad800384e",
+      "headline": "2026神奈川県 麻しん情報（12）19週｜神奈川県衛生研究所 - pref.kanagawa.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-25T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYW9sTDdjZ2pmN1gwWFExckNSeTRndXdWMmhRR0pwdlVtZmZSY1dHWDhkV2Z4TmZlaXNsRG1hMVBBa3Y4bkxuUjJGRWVRN3JBZFhEWjFVVnhORWdQdlA1S19YYzdKU0Rsem9zSXZjanpid1ZiYVVxeHotOWRXam8tM213VEhPRmhfVjh0d2ZsZzh6QQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "神奈川県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.kanagawa.jp"
     }
   ]
 }
