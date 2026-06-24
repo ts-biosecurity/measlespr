@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-23T23:10:08.050162+00:00",
+  "generated_at": "2026-06-24T03:53:19.222717+00:00",
   "date_range": {
-    "start": "2026-05-24",
-    "end": "2026-06-23"
+    "start": "2026-05-25",
+    "end": "2026-06-24"
   },
-  "total_articles": 54,
+  "total_articles": 56,
   "prefecture_summary": {
     "東京都": 26,
-    "全国（都道府県不明）": 22,
+    "全国（都道府県不明）": 24,
     "静岡県": 1,
     "富山県": 3,
     "京都府": 1,
@@ -135,8 +135,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -342,6 +342,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_571f05378b1b747a",
+      "headline": "感染症の流行状況 2026年 第24週 - pref.saitama.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T05:32:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rb2ZuNjdkX1I2U28zRGdkSmJBanlQVk9LOXM4aGozckYyWDNvcm1DN3lkTlVxeTNGaU1TbHJ1MlV4YUYxVmJLNE9GaXlNaVozZzNaMThBMFdDN2R3a25JbTZleGFzaTdUOFJBOGs2R2hOWGI4LVE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.saitama.lg.jp"
+    },
+    {
       "articleId": "gnews_14205208c56acdc5",
       "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月16日更新） - wam.go.jp",
       "headlineTranslated": "",
@@ -403,6 +422,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "東洋経済オンライン"
+    },
+    {
+      "articleId": "gnews_7d9df79edde60b0c",
+      "headline": "【識者の眼】「ハンタウイルス感染症も重要、だが麻疹はもっとハイリスク」岡部信彦 - 日本医事新報社",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-15T21:49:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4VVNQSHVFS09iWEk5b2NJeFktX0dhMHFJekQwRHg3d2s4R2hZcUxXNjdWY1Nqc2YyTlpRbHM5VzFqREljd2hOX2k3SnRqWEs1dHlDRkZLMVd2cW1YdUVZMw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日本医事新報社"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VBMDU2SFMwVjAwQzI2QTYwMDAwMDAv",
@@ -1076,25 +1114,6 @@
       "sourceName": "メディカルドック"
     },
     {
-      "articleId": "gnews_ff7d5504998174b6",
-      "headline": "茨城県内の麻しん（はしか）患者の発生について（令和8年5月28日） - city.ibaraki-koga.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-29T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xdFdjVGJSajRUSkxJcGtLR3hYT21ySERTT0kxNzhGMnBwS1pMT3dqbnYzSkhXcWZ3aGhLOFVmMmJGSmdIb1pwQkR2Z3QyVlRVVktLM3dFd1dtbjNwaGJxbGpFZkVWUElTZkVpQzN1ZC1vb3pyZlE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "茨城県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.ibaraki-koga.lg.jp"
-    },
-    {
       "articleId": "gnews_c097e431cbaf5125",
       "headline": "麻しん（はしか）に注意しましょう - city.seiyo.ehime.jp",
       "headlineTranslated": "",
@@ -1112,6 +1131,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.seiyo.ehime.jp"
+    },
+    {
+      "articleId": "gnews_ff7d5504998174b6",
+      "headline": "茨城県内の麻しん（はしか）患者の発生について（令和8年5月28日） - city.ibaraki-koga.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xdFdjVGJSajRUSkxJcGtLR3hYT21ySERTT0kxNzhGMnBwS1pMT3dqbnYzSkhXcWZ3aGhLOFVmMmJGSmdIb1pwQkR2Z3QyVlRVVktLM3dFd1dtbjNwaGJxbGpFZkVWUElTZkVpQzN1ZC1vb3pyZlE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "茨城県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.ibaraki-koga.lg.jp"
     },
     {
       "articleId": "gnews_4ece0cc26707ef0a",
@@ -1218,8 +1256,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
