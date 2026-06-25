@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-06-25T07:49:04.619392+00:00",
+  "generated_at": "2026-06-25T10:45:27.935507+00:00",
   "date_range": {
     "start": "2026-05-26",
     "end": "2026-06-25"
   },
-  "total_articles": 51,
+  "total_articles": 56,
   "prefecture_summary": {
-    "全国（都道府県不明）": 18,
-    "東京都": 26,
+    "東京都": 28,
+    "熊本県": 1,
+    "全国（都道府県不明）": 21,
     "静岡県": 1,
     "富山県": 4,
     "京都府": 1,
@@ -18,6 +19,86 @@
     "福岡県": 1
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDY3NzQ=",
+      "headline": "熊本市で2人目、はしか感染【熊本県感染症情報】｜熊本日日新聞社",
+      "headlineTranslated": "Second Measles Case in Kumamoto City [Kumamoto Prefecture Infectious Disease Information] | Kumamoto Nichinichi Shimbun",
+      "summary": "Second measles case reported in Kumamoto City, Kumamoto Prefecture. Published 2026-06-25. The body of the article, however, focuses on the Kumamoto Nichinichi Shimbun’s content-recommendation system, called KUMANICHI Rekomendo, developed at Kumamoto University, describing its aim to mirror human thought by analyzing contextual language beyond simple word similarity. It notes the system uses anonymized information and may surface unrelated articles, with privacy-compliance disclaimers and a reminder that content is limited to the newspaper’s electronic edition. No clinical details about the measles case are provided in the body—no symptoms, onset date, laboratory confirmation, exposure source, or case counts are described. The piece thus lacks epidemiological data beyond the headline, emphasizing technical aspects of content recommendation and data privacy rather than medical specifics. Keywords: measles, Kumamoto City, infectious disease information, privacy, outbreak notification.",
+      "summaryOriginal": "Second measles case reported in Kumamoto City, Kumamoto Prefecture. Published 2026-06-25. The body of the article, however, focuses on the Kumamoto Nichinichi Shimbun’s content-recommendation system, called KUMANICHI Rekomendo, developed at Kumamoto University, describing its aim to mirror human thought by analyzing contextual language beyond simple word similarity. It notes the system uses anonymized information and may surface unrelated articles, with privacy-compliance disclaimers and a reminder that content is limited to the newspaper’s electronic edition. No clinical details about the measles case are provided in the body—no symptoms, onset date, laboratory confirmation, exposure source, or case counts are described. The piece thus lacks epidemiological data beyond the headline, emphasizing technical aspects of content recommendation and data privacy rather than medical specifics. Keywords: measles, Kumamoto City, infectious disease information, privacy, outbreak notification.",
+      "publishedTimestamp": "2026-06-25T10:04:52+00:00",
+      "sourceUrl": "https://kumanichi.com/articles/2006774",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Kumamoto",
+          "lat": 32.61667,
+          "lon": 130.75
+        },
+        {
+          "name": "Kumamoto",
+          "lat": 32.80589,
+          "lon": 130.69181
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都",
+        "熊本県"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuN2Y1YmQ2ZDY4ODQ3NDg3YzlkNDNhZWM4ZjgyOTQ3MjY=",
+      "headline": "富山県内で「はしか」新たな患者２人確認　今月４件目で県が注意呼びかけ（2026年6月25日掲載）｜KNB NEWS NNN",
+      "headlineTranslated": "Two new measles patients confirmed in Toyama Prefecture, the fourth case this month; prefecture urges caution (June 25, 2026) | KNB NEWS NNN",
+      "summary": "Two new measles cases have been confirmed in Toyama Prefecture's Takaoka City, the fourth measles case this month and prompting a prefectural warning. The patients are a man in his 20s and a woman in her 40s, residents within the Takaoka Health Center jurisdiction, and both were contacts of the measles patient announced on June 12. Health authorities conducted exposure monitoring, and fever was detected on June 23 during health observations. The prefecture’s Public Health Laboratory confirmed measles infection through genetic testing. Measles is highly contagious, with transmission possible from mere co-location. The prefecture urges anyone showing suspected symptoms to contact a medical facility by phone in advance and to follow staff instructions when seeking care. The ongoing month-long cluster underscores heightened vigilance in Toyama.",
+      "summaryOriginal": "Two new measles cases have been confirmed in Toyama Prefecture's Takaoka City, the fourth measles case this month and prompting a prefectural warning. The patients are a man in his 20s and a woman in her 40s, residents within the Takaoka Health Center jurisdiction, and both were contacts of the measles patient announced on June 12. Health authorities conducted exposure monitoring, and fever was detected on June 23 during health observations. The prefecture’s Public Health Laboratory confirmed measles infection through genetic testing. Measles is highly contagious, with transmission possible from mere co-location. The prefecture urges anyone showing suspected symptoms to contact a medical facility by phone in advance and to follow staff instructions when seeking care. The ongoing month-long cluster underscores heightened vigilance in Toyama.",
+      "publishedTimestamp": "2026-06-25T09:37:00+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/n/knb/category/society/kn7f5bd6d68847487c9d43aec8f8294726",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
+      "articleId": "gnews_74ff83e8101fc7aa",
+      "headline": "基礎疾患のある子供は、麻疹の合併症のリスクが高くなります。 - Vietnam.vn",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-24T06:13:56+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWjBLQkIzeXVGUkJPb2pnN0IxaTMzTWFFbWFxa3cyVTQxZGdqOXk3SFl4X0xCSHRjQkVwLXExUVFhWDIxeVlkcWZvcXhxdC1XS3pyLXdGb2Z2dXpWSXJ2OVpGUGtMbVlWcHJmcHdRR2ZMM3hXcnZxSkptb20xVV9UMUxB?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Vietnam.vn"
+    },
     {
       "articleId": "gnews_cd8e517021dea6f1",
       "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月23日更新） - wam.go.jp",
@@ -61,6 +142,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_8def843e5106f5ef",
+      "headline": "多くの子供たちが麻疹に感染していることから、医師たちはワクチン接種の不足を懸念している。 - Vietnam.vn",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-23T00:36:02+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGtEX2dDcnB2YktxZ0FfOUdoS1IxXzh1LWhSRXFSSmNGX0NScGwtcC1VaDQ1ZGdZM2V4a3N2MjVXUkhacG1VcTcyTldmX2F2Sk5GSzRSMy1ubWNNVkZtUHZJMUZJZTB3NzBvWVk4dEk2c09iMUV6b0lKN2ZpQjBzdjZSMndncklxRDB0MEx3?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Vietnam.vn"
     },
     {
       "articleId": "gnews_8d962efc26bc1a94",
@@ -211,8 +311,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -384,6 +484,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_b6105f8968a2b9cf",
+      "headline": "【医師が注意喚起】麻疹が感染拡大｢妊活前にワクチン｣の切実な理由…発症者が去っても感染力は持続､新生児は高リスク - 東洋経済オンライン",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-16T03:14:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xb3RpYnNoR1FLNzJUT3J2NDJmYzBDb1JaVW5UVTlRdjBkWnN1dl9UMnNiNGpISTJyMWxPcDAxVUpRU3RSbWJHT01rV3c4MkVJM05kRnh5djZXemM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "東洋経済オンライン"
     },
     {
       "articleId": "gnews_7d9df79edde60b0c",
@@ -885,8 +1004,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
