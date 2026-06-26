@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-26T21:21:49.601946+00:00",
+  "generated_at": "2026-06-26T23:09:17.083630+00:00",
   "date_range": {
     "start": "2026-05-27",
     "end": "2026-06-26"
   },
-  "total_articles": 45,
+  "total_articles": 46,
   "prefecture_summary": {
-    "東京都": 25,
     "熊本県": 1,
-    "富山県": 4,
-    "全国（都道府県不明）": 15,
+    "東京都": 25,
+    "全国（都道府県不明）": 17,
+    "富山県": 3,
     "神奈川県": 1,
     "大阪府": 1,
     "愛知県": 1,
@@ -46,8 +46,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "熊本県"
+        "熊本県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -76,25 +76,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_14d04788385f5f4b",
-      "headline": "富山県内で「はしか」新たな患者２人確認 今月４件目で県が注意呼びかけ（北日本放送） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-25T09:37:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oVDhydlZ1M1V6RHVzeXdVUkR2UlYtRVZkcmUyUVE1NEYtOUphRUZraG1RQm4xbGpraTlJemVkX3kyRUJXR0EzQWwzSV9Xa2hRWHNESVVHMXFJcjZhYnViOGw2YlNwNWxaRV9Demx3Y192MEdKeWtqYThWdnhxX3M?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5L2E2OWI4NjY0NWQyMTQyZDU5MzdiODE1MzllNTI1ZGYx",
@@ -406,6 +387,25 @@
       "sourceName": "日本医事新報社"
     },
     {
+      "articleId": "gnews_30374f7f9d440ac1",
+      "headline": "風しんの第5期定期予防接種の実施について - city.takashima.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-14T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObU1tWUsxVVZZcVBIVk1XNkRFY3VKeGJpTFNndDJ3NHdmdVNFWndvYUZDSTdDczZyNDdjNmJPWG8xcEtKSVN2T1VZMFBrcTJKZjRFQ3Z2UFpvMWR3ejhjTElVTjB5M3dxdm85NkY0UDB1Z3ltRlF4MF92bnl3dktmeUhFQ2ZvNWtwVktvZzN3Vy0?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.takashima.lg.jp"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VBMDU2SFMwVjAwQzI2QTYwMDAwMDAv",
       "headline": "はしか、なぜ急増しているの？　「ワクチン2回接種」徹底が重要",
       "headlineTranslated": "Measles: Why is it increasing rapidly? Ensuring two-dose vaccination is important.",
@@ -566,6 +566,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.kuwana.lg.jp"
+    },
+    {
+      "articleId": "gnews_9147e04731255ade",
+      "headline": "米国、麻疹排除国の地位を失う瀬戸際に｜CareNet.com - CareNet.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-11T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zOE9BdEV2NVptRDBEQWdPVHk0MGFFM3BPWUgwUUpyVk5KVGs3Sy1mMF9YTE95ekxwZEVBVTdILUM4ZGVnNC1WcmRoRUlSWTdBNmdOZVh4dFRhZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CareNet.com"
     },
     {
       "articleId": "gnews_de63f8fe7cf48f59",
