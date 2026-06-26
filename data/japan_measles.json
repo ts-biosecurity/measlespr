@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-26T09:32:49.758919+00:00",
+  "generated_at": "2026-06-26T12:12:48.503409+00:00",
   "date_range": {
     "start": "2026-05-27",
     "end": "2026-06-26"
   },
-  "total_articles": 48,
+  "total_articles": 47,
   "prefecture_summary": {
-    "全国（都道府県不明）": 18,
-    "熊本県": 1,
     "東京都": 25,
+    "熊本県": 1,
+    "全国（都道府県不明）": 17,
     "富山県": 4,
     "神奈川県": 1,
     "大阪府": 1,
@@ -16,25 +16,6 @@
     "茨城県": 1
   },
   "articles": [
-    {
-      "articleId": "gnews_8f7a3356eb35361e",
-      "headline": "LA郡で麻疹（はしか）感染者を確認 ハリウッド・バーバンク空港を含む複数地点で接触の可能性（6/25） - LALALA USA",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-25T19:18:50+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iOGVWN2dpSHRHSFpVZF81RDZuS1owaUZfTUtUSGRrV09WTV9NdzhodGhoZ2VLVnZhczc1azUxc1FzblJlblF2S0lnbm0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "LALALA USA"
-    },
     {
       "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDY3NzQ=",
       "headline": "熊本市で2人目、はしか感染【熊本県感染症情報】｜熊本日日新聞社",
@@ -65,8 +46,8 @@
         }
       ],
       "prefectures": [
-        "熊本県",
-        "東京都"
+        "東京都",
+        "熊本県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -194,8 +175,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1070,8 +1051,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
