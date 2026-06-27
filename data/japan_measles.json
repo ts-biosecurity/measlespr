@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-27T10:11:52.954521+00:00",
+  "generated_at": "2026-06-27T13:49:08.721545+00:00",
   "date_range": {
     "start": "2026-05-28",
     "end": "2026-06-27"
   },
   "total_articles": 50,
   "prefecture_summary": {
-    "東京都": 26,
     "富山県": 8,
+    "東京都": 26,
     "熊本県": 1,
     "全国（都道府県不明）": 16,
     "神奈川県": 1,
@@ -46,8 +46,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -268,8 +268,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -434,25 +434,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_571f05378b1b747a",
-      "headline": "感染症の流行状況 2026年 第24週 - pref.saitama.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T05:32:35+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rb2ZuNjdkX1I2U28zRGdkSmJBanlQVk9LOXM4aGozckYyWDNvcm1DN3lkTlVxeTNGaU1TbHJ1MlV4YUYxVmJLNE9GaXlNaVozZzNaMThBMFdDN2R3a25JbTZleGFzaTdUOFJBOGs2R2hOWGI4LVE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.saitama.lg.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5L2Y2ODE5ZjEzMGEwYzQyMzg5N2IzMjc0NTE3MjZjY2M1",
@@ -852,6 +833,25 @@
       "sourceName": "TBS NEWS DIG"
     },
     {
+      "articleId": "gnews_5133e900a08bcd25",
+      "headline": "感染症の流行状況 2026年 第22週 - pref.saitama.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yZWVJejByRlFIVy1OVm56N19XQ0NmNFR2Q21vNzZnVmJ5Z0Eyd1Izd05vcnZzWF9xZndPY2hLWG5FRkoxbXpnTG5CcER1OTNPLTM1d2M2ckk1WHZCWlJaR054Z1pleFNKUHQyVXFWdlVrU0Q2TFE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.saitama.lg.jp"
+    },
+    {
       "articleId": "gnews_121c3d920413a187",
       "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月3日更新） - wam.go.jp",
       "headlineTranslated": "",
@@ -998,8 +998,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1125,8 +1125,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
