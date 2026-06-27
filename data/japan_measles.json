@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-27T06:55:03.626343+00:00",
+  "generated_at": "2026-06-27T10:11:52.954521+00:00",
   "date_range": {
     "start": "2026-05-28",
     "end": "2026-06-27"
   },
-  "total_articles": 49,
+  "total_articles": 50,
   "prefecture_summary": {
-    "富山県": 7,
-    "東京都": 25,
+    "東京都": 26,
+    "富山県": 8,
     "熊本県": 1,
     "全国（都道府県不明）": 16,
     "神奈川県": 1,
@@ -16,6 +16,42 @@
     "茨城県": 1
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuN2FlYWJkMTIxNDBlNDk3YThlM2EyZjY5OTFhYzIwMWU=",
+      "headline": "今月県内５人目　富山市で４０代女性　はしか感染（2026年6月27日掲載）｜KNB NEWS NNN",
+      "headlineTranslated": "Fifth measles case in the prefecture this month: a woman in her 40s in Toyama City (Published June 27, 2026) | KNB NEWS NNN",
+      "summary": "Measles case in Toyama City, Toyama Prefecture, Japan: a woman in her 40s has been diagnosed, marking five measles cases in the prefecture this month. She is a contact of a measles patient reported on June 12; fever was detected around June 25, and the Prefectural Institute of Public Health confirmed infection on June 26. The patient reportedly did not visit facilities with potential exposure to large numbers of people during her infectious period. Toyama City urges anyone with suspected measles symptoms to call ahead to a medical facility and follow instructions before visiting. Public health authorities are continuing case finding and contact tracing as part of the month's ongoing measles activity in the prefecture.",
+      "summaryOriginal": "Measles case in Toyama City, Toyama Prefecture, Japan: a woman in her 40s has been diagnosed, marking five measles cases in the prefecture this month. She is a contact of a measles patient reported on June 12; fever was detected around June 25, and the Prefectural Institute of Public Health confirmed infection on June 26. The patient reportedly did not visit facilities with potential exposure to large numbers of people during her infectious period. Toyama City urges anyone with suspected measles symptoms to call ahead to a medical facility and follow instructions before visiting. Public health authorities are continuing case finding and contact tracing as part of the month's ongoing measles activity in the prefecture.",
+      "publishedTimestamp": "2026-06-27T08:43:00+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/n/knb/category/society/kn7aeabd12140e497a8e3a2f6991ac201e",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Toyama-ken",
+          "lat": 36.63926,
+          "lon": 137.26513
+        },
+        {
+          "name": "Toyama Shi",
+          "lat": 36.55146,
+          "lon": 137.29872
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都",
+        "富山県"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
     {
       "articleId": "gnews_4306acb0bfc488bd",
       "headline": "富山市内ではしか（麻しん）感染者を確認 40代女性が発症、強力な感染力への対策と、疑わしい症状が出た場合は医療機関の受診を - Excite エキサイト",
@@ -152,6 +188,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_cd8e517021dea6f1",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月23日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-24T05:14:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TNFRmSjlHSFY0VEx3VWxmcWZEX3FLX1A4OV9PSGlsR2M5VWxvR0w0TWRoVzY0ZHBSOC1SRURSUzdUN3ZJN0Vzc3Z5Z19NTzRmZnA1LWpSZGY5MlNvWnRselhtUThKOXEyU2p1R2pWZEUzQmM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5L2E2OWI4NjY0NWQyMTQyZDU5MzdiODE1MzllNTI1ZGYx",
@@ -400,25 +455,6 @@
       "sourceName": "pref.saitama.lg.jp"
     },
     {
-      "articleId": "gnews_14205208c56acdc5",
-      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月16日更新） - wam.go.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T03:18:30+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpanNsTkhGZXdraXRjdkdlUVdoSTc0dHhQZVBEUlRjZGFpN3RJSndKM0JpME1vbDlyTWY3TUxGa2tNX3A4RnZMNzlKT1E0RVFDQXptNk1nS1paWnJmT0drN1VPbk5sV1puZi1QQ042MjY2aVU?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "wam.go.jp"
-    },
-    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5L2Y2ODE5ZjEzMGEwYzQyMzg5N2IzMjc0NTE3MjZjY2M1",
       "headline": "今年の「はしか」患者数525人に　今月7日までの1週間で全国で新たに2人確認（2026年6月16日掲載）｜日テレNEWS NNN",
       "headlineTranslated": "Measles cases this year reach 525; two new nationwide cases confirmed in the week through the 7th of this month (Published June 16, 2026) | Nippon TV News NNN",
@@ -442,25 +478,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_7d9df79edde60b0c",
-      "headline": "【識者の眼】「ハンタウイルス感染症も重要、だが麻疹はもっとハイリスク」岡部信彦 - 日本医事新報社",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-15T21:49:18+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4VVNQSHVFS09iWEk5b2NJeFktX0dhMHFJekQwRHg3d2s4R2hZcUxXNjdWY1Nqc2YyTlpRbHM5VzFqREljd2hOX2k3SnRqWEs1dHlDRkZLMVd2cW1YdUVZMw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日本医事新報社"
     },
     {
       "articleId": "gnews_30374f7f9d440ac1",
@@ -835,6 +852,25 @@
       "sourceName": "TBS NEWS DIG"
     },
     {
+      "articleId": "gnews_121c3d920413a187",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月3日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83SzVINV9CV3VZQnNpN3gwMUFJeW80emdNc1J3dGhTbHdqUUlEQlEwUE80MVJ6RzdQSFl5dXRDOV8yTjBURkNsUUZHNHdHZU8tbTI3ZnpVcVJoZmUwbTZ2UHVhLVk4Q1U0YWY5QkYzRzlmUWM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDYwMi1HWVQxVDAwMTk4Lw==",
       "headline": "はしか患者数初の５００人突破、半数が東京...今年の累計「世界的に感染拡大」 | ヨミドクター(読売新聞)",
       "headlineTranslated": "Measles cases exceed 500 for the first time, half in Tokyo; this year's cumulative total shows worldwide spread of infection",
@@ -962,8 +998,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1089,8 +1125,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
