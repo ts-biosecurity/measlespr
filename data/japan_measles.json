@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-27T19:25:00.262210+00:00",
+  "generated_at": "2026-06-27T21:07:42.199824+00:00",
   "date_range": {
     "start": "2026-05-28",
     "end": "2026-06-27"
   },
-  "total_articles": 50,
+  "total_articles": 51,
   "prefecture_summary": {
-    "東京都": 26,
-    "富山県": 9,
+    "東京都": 27,
+    "富山県": 10,
     "熊本県": 1,
     "全国（都道府県不明）": 15,
     "神奈川県": 1,
@@ -16,6 +16,42 @@
     "茨城県": 1
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly93d3cuaG9ra29rdS5jby5qcC9hcnRpY2xlcy90eW0vMjE1MzA3Ng==",
+      "headline": "はしか新たに１人　富山の４０代女性、感染者と接触｜社会｜富山のニュース｜富山新聞",
+      "headlineTranslated": "One more measles case: a woman in her 40s from Toyama who had contact with an infected person",
+      "summary": "Measles case reported in Toyama: a woman in her 40s in Toyama City contracted measles after contact with a man in his 20s whose infection was confirmed on the 12th. The patient developed fever on the 25th and sought medical care on the 26th; laboratory confirmation was reported by the prefectural Public Health Institute. She is currently convalescing at home. She has received one measles vaccination dose and had no recent overseas travel. This year, five measles cases have been identified in the prefecture. Japan was declared to be in an elimination state for endemic measles in 2015, but imports linked to travelers have driven recent outbreaks; authorities warn the virus is highly contagious and not fully preventable by handwashing or masks, and urge vaccination to prevent further spread.",
+      "summaryOriginal": "Measles case reported in Toyama: a woman in her 40s in Toyama City contracted measles after contact with a man in his 20s whose infection was confirmed on the 12th. The patient developed fever on the 25th and sought medical care on the 26th; laboratory confirmation was reported by the prefectural Public Health Institute. She is currently convalescing at home. She has received one measles vaccination dose and had no recent overseas travel. This year, five measles cases have been identified in the prefecture. Japan was declared to be in an elimination state for endemic measles in 2015, but imports linked to travelers have driven recent outbreaks; authorities warn the virus is highly contagious and not fully preventable by handwashing or masks, and urge vaccination to prevent further spread.",
+      "publishedTimestamp": "2026-06-27T15:26:52+00:00",
+      "sourceUrl": "https://www.hokkoku.co.jp/articles/tym/2153076",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Toyama-ken",
+          "lat": 36.63926,
+          "lon": 137.26513
+        },
+        {
+          "name": "Toyama Shi",
+          "lat": 36.55146,
+          "lon": 137.29872
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都",
+        "富山県"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuN2FlYWJkMTIxNDBlNDk3YThlM2EyZjY5OTFhYzIwMWU=",
       "headline": "今月県内５人目　富山市で４０代女性　はしか感染（2026年6月27日掲載）｜KNB NEWS NNN",
@@ -1017,8 +1053,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
