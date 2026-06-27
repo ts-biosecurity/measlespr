@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-26T23:09:17.083630+00:00",
+  "generated_at": "2026-06-27T03:44:07.093384+00:00",
   "date_range": {
-    "start": "2026-05-27",
-    "end": "2026-06-26"
+    "start": "2026-05-28",
+    "end": "2026-06-27"
   },
-  "total_articles": 46,
+  "total_articles": 47,
   "prefecture_summary": {
-    "熊本県": 1,
     "東京都": 25,
+    "熊本県": 1,
+    "富山県": 4,
     "全国（都道府県不明）": 17,
-    "富山県": 3,
     "神奈川県": 1,
     "大阪府": 1,
     "愛知県": 1,
@@ -46,8 +46,8 @@
         }
       ],
       "prefectures": [
-        "熊本県",
-        "東京都"
+        "東京都",
+        "熊本県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -76,6 +76,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_14d04788385f5f4b",
+      "headline": "富山県内で「はしか」新たな患者２人確認 今月４件目で県が注意呼びかけ（北日本放送） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-25T09:37:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oVDhydlZ1M1V6RHVzeXdVUkR2UlYtRVZkcmUyUVE1NEYtOUphRUZraG1RQm4xbGpraTlJemVkX3kyRUJXR0EzQWwzSV9Xa2hRWHNESVVHMXFJcjZhYnViOGw2YlNwNWxaRV9Demx3Y192MEdKeWtqYThWdnhxX3M?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "富山県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5L2E2OWI4NjY0NWQyMTQyZDU5MzdiODE1MzllNTI1ZGYx",
@@ -156,8 +175,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -905,8 +924,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
