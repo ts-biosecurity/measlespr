@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-28T17:16:23.149554+00:00",
+  "generated_at": "2026-06-28T19:25:12.882037+00:00",
   "date_range": {
     "start": "2026-05-29",
     "end": "2026-06-28"
   },
-  "total_articles": 50,
+  "total_articles": 51,
   "prefecture_summary": {
-    "全国（都道府県不明）": 14,
-    "富山県": 9,
+    "全国（都道府県不明）": 15,
     "東京都": 28,
+    "富山県": 9,
     "熊本県": 1,
     "京都府": 1,
     "静岡県": 1,
@@ -66,8 +66,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -102,8 +102,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -164,6 +164,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
+    },
+    {
+      "articleId": "gnews_7018576ed26ddd7e",
+      "headline": "県内の感染症情報 - city.fujieda.shizuoka.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-26T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmdoY2ZmX3BHS3NqNTdRY0VuLWNGQks4NGduLVI3LUlyc1hGWi1RVGpDakVwb01RUmhETWtTejl6Z0pSb3pwdEJwQnZfTkRRTnl3ZWRJM1VDRkdvTzlwTlFEUEZSRWFFN0dQb2ZXb3ZxSkh6QW1NZ2VhTGp0dUVwcGh0Y25HVEl6Ujdna0FR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.fujieda.shizuoka.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDY3NzQ=",
@@ -363,8 +382,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -909,25 +928,6 @@
       "sourceName": "TBS NEWS DIG"
     },
     {
-      "articleId": "gnews_5133e900a08bcd25",
-      "headline": "感染症の流行状況 2026年 第22週 - pref.saitama.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-03T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yZWVJejByRlFIVy1OVm56N19XQ0NmNFR2Q21vNzZnVmJ5Z0Eyd1Izd05vcnZzWF9xZndPY2hLWG5FRkoxbXpnTG5CcER1OTNPLTM1d2M2ckk1WHZCWlJaR054Z1pleFNKUHQyVXFWdlVrU0Q2TFE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.saitama.lg.jp"
-    },
-    {
       "articleId": "gnews_121c3d920413a187",
       "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月3日更新） - wam.go.jp",
       "headlineTranslated": "",
@@ -945,6 +945,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "wam.go.jp"
+    },
+    {
+      "articleId": "gnews_5133e900a08bcd25",
+      "headline": "感染症の流行状況 2026年 第22週 - pref.saitama.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yZWVJejByRlFIVy1OVm56N19XQ0NmNFR2Q21vNzZnVmJ5Z0Eyd1Izd05vcnZzWF9xZndPY2hLWG5FRkoxbXpnTG5CcER1OTNPLTM1d2M2ckk1WHZCWlJaR054Z1pleFNKUHQyVXFWdlVrU0Q2TFE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.saitama.lg.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDYwMi1HWVQxVDAwMTk4Lw==",
@@ -1201,8 +1220,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
