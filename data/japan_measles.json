@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-30T03:15:36.446184+00:00",
+  "generated_at": "2026-06-30T05:29:27.597688+00:00",
   "date_range": {
     "start": "2026-05-31",
     "end": "2026-06-30"
   },
-  "total_articles": 50,
+  "total_articles": 51,
   "prefecture_summary": {
-    "全国（都道府県不明）": 15,
+    "全国（都道府県不明）": 16,
     "富山県": 9,
     "東京都": 27,
     "熊本県": 1,
@@ -232,8 +232,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "熊本県"
+        "熊本県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -473,6 +473,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_14a68391d3a162d7",
+      "headline": "「はしか」が首都圏と関西の都市部で流行中、どんな病気かをおさらい - ダイヤモンド・オンライン",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YM0MyaXN6WHdLQzVqTFZZQ1RIRGlYSUpKQldRYmZmcDJyelFsanRkYTJkLUVybTJrdUFIRllTTWt4OFdiYmREVkc1UUfSAU9BVV95cUxNb2txM1N3S0tNNEdRMjhJNGtfaEhxOWhQS2xCVGVJYldqRDhwaXBWTUR0aWFyUG9JWF9GRTlJeWdjTkJLN0hXSmEtMTRXdlRZ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ダイヤモンド・オンライン"
     },
     {
       "articleId": "gnews_737cc60978c798ab",
@@ -1073,8 +1092,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
