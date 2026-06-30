@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-06-30T11:06:49.361508+00:00",
+  "generated_at": "2026-06-30T12:49:47.800724+00:00",
   "date_range": {
     "start": "2026-05-31",
     "end": "2026-06-30"
   },
-  "total_articles": 51,
+  "total_articles": 52,
   "prefecture_summary": {
     "全国（都道府県不明）": 16,
-    "富山県": 9,
     "東京都": 27,
+    "富山県": 9,
     "熊本県": 1,
     "京都府": 1,
+    "静岡県": 1,
     "神奈川県": 2,
     "大阪府": 1,
     "愛知県": 1
@@ -65,8 +66,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -120,8 +121,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -328,6 +329,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_8d962efc26bc1a94",
+      "headline": "アジアから帰国した20代女性が麻しん（はしか）に感染 中部国際空港～浜松駅の直行バスを利用（静岡朝日テレビ） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-21T02:16:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1LUlVbVAyb0lJSTdBcGZGMnd1b0IwU2pXSjctMFhXZXhHdXpPQ0h6N2xuYWJuREdPT3FaUlRiWDRPUXMxa3NhOEZUbmt0WF9MZlNyQ25pdl9ocXpoY2g4dXBuWUJBdVFRMGhLQ2VqbjNhdEhVNFh4UFpYY0NkNDg?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "静岡県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuMTZhOGFlMDNlYzZjNDI4NjhhZTY5MmEyZTgyY2EwOTg=",
       "headline": "富山市の20代男性「はしか」に感染　県内での感染報告は今月2件め（2026年6月20日掲載）｜KNB NEWS NNN",
       "headlineTranslated": "Measles infection in a man in his twenties in Toyama City; second measles case reported in the prefecture this month (published June 20, 2026) | KNB News NNN",
@@ -362,8 +382,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
