@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-01T15:04:50.900123+00:00",
+  "generated_at": "2026-07-01T16:51:26.361150+00:00",
   "date_range": {
     "start": "2026-06-01",
     "end": "2026-07-01"
   },
-  "total_articles": 49,
+  "total_articles": 50,
   "prefecture_summary": {
-    "東京都": 27,
     "富山県": 8,
-    "全国（都道府県不明）": 16,
+    "東京都": 27,
+    "全国（都道府県不明）": 17,
     "熊本県": 1,
     "京都府": 1,
     "静岡県": 1,
@@ -47,8 +47,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -71,6 +71,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "wam.go.jp"
+    },
+    {
+      "articleId": "gnews_2e1d95c86307c564",
+      "headline": "麻しん風しん任意予防接種費用助成 - town.oiso.kanagawa.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-01T02:02:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUt1Yk5GWE41OTlFYjFLQ3F1TkVMUnN1bURfZURXVEZaY3AtWTN0MmctR1JYYkxHYUIzZC11WHREaXRrOVh4dDBwRWRzTUtfbW45Ni1Zb000Q3Vma2ZDRXI3bUxvZjFlZU9MX3VqcnRDMWFqb0dZXzJpRVRtT19pLVpZQmQ5OTVJVmdROUU3Zw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "town.oiso.kanagawa.jp"
     },
     {
       "articleId": "gnews_69c603613c3bcf50",
@@ -140,8 +159,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -195,8 +214,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -456,8 +475,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
