@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-30T22:31:14.064969+00:00",
+  "generated_at": "2026-07-01T01:05:24.185337+00:00",
   "date_range": {
-    "start": "2026-05-31",
-    "end": "2026-06-30"
+    "start": "2026-06-01",
+    "end": "2026-07-01"
   },
-  "total_articles": 50,
+  "total_articles": 51,
   "prefecture_summary": {
-    "全国（都道府県不明）": 16,
+    "全国（都道府県不明）": 17,
     "富山県": 8,
     "東京都": 26,
     "熊本県": 1,
@@ -278,11 +278,30 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
+    },
+    {
+      "articleId": "gnews_ac952f73c87c2d60",
+      "headline": "中播磨健康福祉事務所の感染症情報 - pref.hyogo.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-25T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40R3BzRlI4aG9ZR2MtdElvLTZSMzQtbjU1TGpIX2N2RGpYMk9TSDZUcWl6RFkyNnFHdzQ4S3prUmVRR00yNXJxQmVjR040QUtCLWV0WTVCblA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.hyogo.lg.jp"
     },
     {
       "articleId": "gnews_cd8e517021dea6f1",
@@ -1016,25 +1035,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_673da431680e6eb2",
-      "headline": "麻しん（はしか）に注意しましょう！ - city.tsugaru.aomori.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-02T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2p1R3hWbzZHNzBMQ0Z2NEs4dFZTenBNaHF3LVNjYWZlVkxtM0FZR3lia013bEVGTEZzVGpRQktGTnAzZFk1SDl0UmpyakN4R1ZVTWpCY2VlRDluVmxFT21DMW5Ebjd5eXdlel9jOTBYNHRjRDZHWFQyU0dzdXFORV9tcWdmSnB1Sm9YVnJR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.tsugaru.aomori.jp"
-    },
-    {
       "articleId": "gnews_3492e688953d63bd",
       "headline": "【都内で急増】麻疹（はしか）の「知られざる怖さ」とは？ 空気感染・症状・予防を医師が解説（メディカルドック） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -1052,6 +1052,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_673da431680e6eb2",
+      "headline": "麻しん（はしか）に注意しましょう！ - city.tsugaru.aomori.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-02T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2p1R3hWbzZHNzBMQ0Z2NEs4dFZTenBNaHF3LVNjYWZlVkxtM0FZR3lia013bEVGTEZzVGpRQktGTnAzZFk1SDl0UmpyakN4R1ZVTWpCY2VlRDluVmxFT21DMW5Ebjd5eXdlel9jOTBYNHRjRDZHWFQyU0dzdXFORV9tcWdmSnB1Sm9YVnJR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.tsugaru.aomori.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5LzA0Y2ZiNjI5MTIxNjQzOTliNTI4MTM2OWUyNDRlYWQ5",
@@ -1093,8 +1112,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1220,8 +1239,8 @@
         }
       ],
       "prefectures": [
-        "愛知県",
-        "東京都"
+        "東京都",
+        "愛知県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
