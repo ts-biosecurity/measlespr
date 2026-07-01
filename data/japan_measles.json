@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-01T01:05:24.185337+00:00",
+  "generated_at": "2026-07-01T03:16:36.062550+00:00",
   "date_range": {
     "start": "2026-06-01",
     "end": "2026-07-01"
   },
-  "total_articles": 51,
+  "total_articles": 52,
   "prefecture_summary": {
-    "全国（都道府県不明）": 17,
+    "全国（都道府県不明）": 18,
     "富山県": 8,
     "東京都": 26,
     "熊本県": 1,
@@ -278,8 +278,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -928,6 +928,25 @@
       "sourceName": "city.katsuragi.nara.jp"
     },
     {
+      "articleId": "gnews_26e3e68a61528734",
+      "headline": "麻しんの現状を解説／感染症クォータリーレポート｜CareNet.com - CareNet.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-04T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GeXZpS3hZeHJvMmlrN1JnUjFXeU5JUFNoMFhNbkFqVHloU1JtV0MzUnRlN3lWVGRRNldrdE9LTU52Z0FRLVl3bEVlejFPR2dBNXU5Rm9Xem1zUG1ISEV3?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CareNet.com"
+    },
+    {
       "articleId": "gnews_ea152e89de389941",
       "headline": "インフルエンザの10倍の感染力…都内を中心に「麻疹（はしか）」急増 ワクチン接種率は流行阻止ラインの95％を下回る92.7％ 世代で違う免疫の落とし穴 - TBS NEWS DIG",
       "headlineTranslated": "",
@@ -1112,8 +1131,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "大阪府"
+        "大阪府",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1239,8 +1258,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "愛知県"
+        "愛知県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
