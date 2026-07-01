@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-01T09:16:13.253121+00:00",
+  "generated_at": "2026-07-01T11:11:02.661691+00:00",
   "date_range": {
     "start": "2026-06-01",
     "end": "2026-07-01"
   },
   "total_articles": 49,
   "prefecture_summary": {
-    "全国（都道府県不明）": 16,
     "富山県": 8,
-    "東京都": 26,
+    "東京都": 27,
+    "全国（都道府県不明）": 16,
     "熊本県": 1,
     "京都府": 1,
     "静岡県": 1,
@@ -18,13 +18,49 @@
   },
   "articles": [
     {
-      "articleId": "gnews_1e6b3a6e9256efe7",
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuMTdlNjk5YmQxMDkyNDVkZjk2ZjdhMTBiNjk4YmQ2YTE=",
+      "headline": "富山県内で「はしか」感染者　新たに２人判明　今年に入って７人目（2026年7月1日掲載）｜KNB NEWS NNN",
+      "headlineTranslated": "Two more measles cases confirmed in Toyama Prefecture, seventh this year (published July 1, 2026) | KNB NEWS NNN",
+      "summary": "Two more measles cases confirmed in Toyama Prefecture, Japan, bringing the year’s total to seven. The two patients are in their 40s, a man and a woman, within the jurisdiction of the Takaoka Public Health Center. Genetic testing by the Prefectural Health Research Institute confirmed infection yesterday. The man is a contact of a patient announced on June 12. The woman developed fever and rash since June 21, with no overseas travel history and no clear infection source. Since the first case last month, the prefecture reports ongoing domestic transmission, indicating local spread. Public health authorities urge anyone with suspected measles symptoms to call ahead to medical facilities and follow instructions when seeking care.",
+      "summaryOriginal": "Two more measles cases confirmed in Toyama Prefecture, Japan, bringing the year’s total to seven. The two patients are in their 40s, a man and a woman, within the jurisdiction of the Takaoka Public Health Center. Genetic testing by the Prefectural Health Research Institute confirmed infection yesterday. The man is a contact of a patient announced on June 12. The woman developed fever and rash since June 21, with no overseas travel history and no clear infection source. Since the first case last month, the prefecture reports ongoing domestic transmission, indicating local spread. Public health authorities urge anyone with suspected measles symptoms to call ahead to medical facilities and follow instructions when seeking care.",
+      "publishedTimestamp": "2026-07-01T10:39:00+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/n/knb/category/society/kn17e699bd109245df96f7a10b698bd6a1",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Takaoka",
+          "lat": 36.75,
+          "lon": 137.01667
+        },
+        {
+          "name": "Toyama-ken",
+          "lat": 36.63926,
+          "lon": 137.26513
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "富山県",
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
+      "articleId": "gnews_02f3d26e1dbf30db",
       "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月30日更新） - wam.go.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-01T02:24:06+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hU2tLbHdkX3NDakxxemxPdnFHZ2pLTmowZnJvbXVBZDhNeU50d0RRbjZJLW5WRE50dkwybmR5cW1nQTNBcHV2cm0tUXBTZkZINjBRRWozb0xROHlJeW5STjJrMVEtaS1nOFZaY2JYU0tQY1FGcW0tYkhLMlA1MEE?oc=5",
+      "publishedTimestamp": "2026-07-01T05:02:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zdzNrMWZ5Q0lud3VXb1k5aFJGaktsQ3Rvc21JWU8yd0hqOE5yUHVjVUt3V0RXTjdkc201T0N1bFNhY1lDYjZIVElBVjlucldDU3RMdWFSZVBlYXdYSlA2NEJ0VnRaT3hSUFNZR0JDSG5yeTQ?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -252,8 +288,8 @@
         }
       ],
       "prefectures": [
-        "熊本県",
-        "東京都"
+        "東京都",
+        "熊本県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -297,8 +333,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -655,25 +691,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_72a0ad87d74a90eb",
-      "headline": "インドネシア渡航歴の20代男性が「はしか」感染 極めて感染力の強い病気「免疫なければほぼ100％発症」 さらに患者発生の可能性があり県が注意喚起 富山（FNNプライムオンライン） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-13T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TMW1wUTk5MkFzWFhRcDhSVmM2V1RHUjA5YThRTDRvRzVQZ1RQRFFQdm1ES0lMdG5SWXdIRmFUcHpfVWhva21GbzBjZHNySFN0cC15OXhZSDlFcTFIY29pTUtkM3NPUXFFSkhXU2hjak1QbEFrMFZXX09UR2FDVjA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuaG9ra29rdS5jby5qcC9hcnRpY2xlcy90eW0vMjEzNzY2NQ==",
@@ -1112,8 +1129,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
