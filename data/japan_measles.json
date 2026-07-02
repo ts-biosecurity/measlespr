@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-02T05:24:09.303183+00:00",
+  "generated_at": "2026-07-02T07:15:35.244543+00:00",
   "date_range": {
     "start": "2026-06-02",
     "end": "2026-07-02"
   },
-  "total_articles": 45,
+  "total_articles": 44,
   "prefecture_summary": {
-    "東京都": 23,
     "富山県": 7,
+    "東京都": 22,
     "全国（都道府県不明）": 16,
     "熊本県": 1,
     "京都府": 1,
@@ -46,8 +46,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -177,8 +177,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -270,8 +270,8 @@
         }
       ],
       "prefectures": [
-        "熊本県",
-        "東京都"
+        "東京都",
+        "熊本県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -315,8 +315,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -339,6 +339,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.hyogo.lg.jp"
+    },
+    {
+      "articleId": "gnews_cd8e517021dea6f1",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月23日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-24T05:14:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TNFRmSjlHSFY0VEx3VWxmcWZEX3FLX1A4OV9PSGlsR2M5VWxvR0w0TWRoVzY0ZHBSOC1SRURSUzdUN3ZJN0Vzc3Z5Z19NTzRmZnA1LWpSZGY5MlNvWnRselhtUThKOXEyU2p1R2pWZEUzQmM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5L2E2OWI4NjY0NWQyMTQyZDU5MzdiODE1MzllNTI1ZGYx",
@@ -419,8 +438,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -942,44 +961,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_673da431680e6eb2",
-      "headline": "麻しん（はしか）に注意しましょう！ - city.tsugaru.aomori.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-02T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2p1R3hWbzZHNzBMQ0Z2NEs4dFZTenBNaHF3LVNjYWZlVkxtM0FZR3lia013bEVGTEZzVGpRQktGTnAzZFk1SDl0UmpyakN4R1ZVTWpCY2VlRDluVmxFT21DMW5Ebjd5eXdlel9jOTBYNHRjRDZHWFQyU0dzdXFORV9tcWdmSnB1Sm9YVnJR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.tsugaru.aomori.jp"
-    },
-    {
-      "articleId": "gnews_7ef0ebd62330050c",
-      "headline": "【都内で急増】麻疹（はしか）の「知られざる怖さ」とは？ 空気感染・症状・予防を医師が解説（メディカルドック） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-02T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yLUR2Nm1fNWRSaTdLZHluYUpGRDVXaGxjYy1Jdms0REZpWHJienNYVTN3cmdCWEV3Uk9ZQjBrT2NET2tZRGdKQ2xTMUh2MHBOalF4Ri1faWZidXAxdmdMVHh5dl9EaGpuSUlFcDNIaDRmU3pyX01idXg2TmpYSlE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5LzA0Y2ZiNjI5MTIxNjQzOTliNTI4MTM2OWUyNDRlYWQ5",
       "headline": "はしかの全国患者数ことし累計511人　過去10年で2番目の多さに（2026年6月2日掲載）｜日テレNEWS NNN",
       "headlineTranslated": "Nationwide cumulative measles cases this year total 511, the second-highest in the past decade (Posted June 2, 2026) | Nippon TV News NNN",
@@ -1019,8 +1000,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
