@@ -1,20 +1,57 @@
 {
-  "generated_at": "2026-07-02T10:57:57.342519+00:00",
+  "generated_at": "2026-07-02T12:45:31.387460+00:00",
   "date_range": {
     "start": "2026-06-02",
     "end": "2026-07-02"
   },
-  "total_articles": 44,
+  "total_articles": 47,
   "prefecture_summary": {
-    "富山県": 8,
-    "東京都": 22,
+    "東京都": 24,
+    "富山県": 9,
     "全国（都道府県不明）": 16,
     "熊本県": 1,
+    "新潟県": 1,
     "静岡県": 1,
     "神奈川県": 1,
     "大阪府": 1
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuOGVlOTRiNjJjOTlmNGIzYWJlMTE1MDQ3ZjQ1NjAwMzI=",
+      "headline": "富山県内でもはしかの感染拡大　気を付けることは（2026年7月2日掲載）｜KNB NEWS NNN",
+      "headlineTranslated": "Measles spread even within Toyama Prefecture: what to watch out for (Posted July 2, 2026) | KNB NEWS NNN",
+      "summary": "Measles is spreading in Japan, with Toyama Prefecture reporting seven confirmed cases in the Takaoka Public Health Center area, after the first case appeared last month. Nationally, measles cases exceed 500, well above last year’s total. Dr. Kazunori Oishi, director of the Toyama Prefectural Institute of Public Health, says measles is highly contagious and presents with fever, mucosal symptoms, respiratory symptoms, and rash. Transmission occurs by droplets, contact, and airborne routes; exposure in the same space can infect those without immunity. Vaccination with the measles–mumps–rubella (MR) vaccine remains the best defense. Most cases have one or two doses, but protection can wane about ten years after vaccination, so breakthrough infections occur. If only one dose is on record, an additional dose may be considered. Suspected cases should call ahead to medical facilities before visiting, and those under 40 may have lower antibody levels and should be vigilant.",
+      "summaryOriginal": "Measles is spreading in Japan, with Toyama Prefecture reporting seven confirmed cases in the Takaoka Public Health Center area, after the first case appeared last month. Nationally, measles cases exceed 500, well above last year’s total. Dr. Kazunori Oishi, director of the Toyama Prefectural Institute of Public Health, says measles is highly contagious and presents with fever, mucosal symptoms, respiratory symptoms, and rash. Transmission occurs by droplets, contact, and airborne routes; exposure in the same space can infect those without immunity. Vaccination with the measles–mumps–rubella (MR) vaccine remains the best defense. Most cases have one or two doses, but protection can wane about ten years after vaccination, so breakthrough infections occur. If only one dose is on record, an additional dose may be considered. Suspected cases should call ahead to medical facilities before visiting, and those under 40 may have lower antibody levels and should be vigilant.",
+      "publishedTimestamp": "2026-07-02T10:42:00+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/n/knb/category/society/kn8ee94b62c99f4b3abe115047f4560032",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Takaoka",
+          "lat": 36.75,
+          "lon": 137.01667
+        },
+        {
+          "name": "Toyama-ken",
+          "lat": 36.63926,
+          "lon": 137.26513
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都",
+        "富山県"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
     {
       "articleId": "gnews_2d457b33fd1ba646",
       "headline": "富山県内でもはしかの感染拡大 気を付けることは（2026年7月2日掲載）｜KNB NEWS NNN - 日テレNEWS NNN",
@@ -33,6 +70,32 @@
       ],
       "dataSource": "Google News",
       "sourceName": "日テレNEWS NNN"
+    },
+    {
+      "articleId": "aHR0cHM6Ly93d3cuaG9ra29rdS5jby5qcC9hcnRpY2xlcy90eW0vMjE1NzYyNQ==",
+      "headline": "はしか、知事が注意喚起　ワクチン接種を呼び掛け｜富山のニュース｜富山新聞",
+      "headlineTranslated": "Measles: Governor Issues Warning, Urges Vaccination",
+      "summary": "Measles infections are being reported in Toyama Prefecture, prompting Governor Hachiro Nitta to urge vaccination at a July 2, 2026 press conference. While the governor notes that about 95% of residents reportedly have measles antibodies and cautions against excessive fear, he emphasizes that infants remain at higher risk of severe outcomes such as pneumonia and encephalitis, and that family members should receive additional vaccination. Individuals planning overseas travel and airport personnel are advised to be vigilant. Japan’s routine measles immunization consists of two doses: first at age one and a second before entering elementary school; beyond these, vaccination is voluntary and paid. The prefecture’s official website lists medical facilities where vaccines are available, facilitating access for residents and travelers alike.",
+      "summaryOriginal": "Measles infections are being reported in Toyama Prefecture, prompting Governor Hachiro Nitta to urge vaccination at a July 2, 2026 press conference. While the governor notes that about 95% of residents reportedly have measles antibodies and cautions against excessive fear, he emphasizes that infants remain at higher risk of severe outcomes such as pneumonia and encephalitis, and that family members should receive additional vaccination. Individuals planning overseas travel and airport personnel are advised to be vigilant. Japan’s routine measles immunization consists of two doses: first at age one and a second before entering elementary school; beyond these, vaccination is voluntary and paid. The prefecture’s official website lists medical facilities where vaccines are available, facilitating access for residents and travelers alike.",
+      "publishedTimestamp": "2026-07-02T10:14:29+00:00",
+      "sourceUrl": "https://www.hokkoku.co.jp/articles/tym/2157625",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles",
+        "Unknown Encephalitis"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuaG9ra29rdS5jby5qcC9hcnRpY2xlcy90eW0vMjE1NzU3Ng==",
@@ -64,8 +127,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -100,8 +163,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -183,6 +246,25 @@
       "sourceName": "town.oiso.kanagawa.jp"
     },
     {
+      "articleId": "gnews_9e2e8e3482be93ed",
+      "headline": "麻疹風疹混合ワクチン製造技術移転プロジェクト - jica.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-28T10:10:59+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UU1ZoanluNlQ4TzB5bF9MYXY5dlZYWTJSZE9uQ0hYQTZaQzEyaTZMcE9LUVJtbE1NSzBqbThodnpTREtTNmViclg4N2tPUURQOExGc3Rn?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "jica.go.jp"
+    },
+    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuN2FlYWJkMTIxNDBlNDk3YThlM2EyZjY5OTFhYzIwMWU=",
       "headline": "今月県内５人目　富山市で４０代女性　はしか感染（2026年6月27日掲載）｜KNB NEWS NNN",
       "headlineTranslated": "Fifth measles case in the prefecture this month: a woman in her 40s in Toyama City (Published June 27, 2026) | KNB NEWS NNN",
@@ -212,8 +294,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -257,25 +339,6 @@
       "sourceName": "TBS NEWS DIG"
     },
     {
-      "articleId": "gnews_7018576ed26ddd7e",
-      "headline": "県内の感染症情報 - city.fujieda.shizuoka.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmdoY2ZmX3BHS3NqNTdRY0VuLWNGQks4NGduLVI3LUlyc1hGWi1RVGpDakVwb01RUmhETWtTejl6Z0pSb3pwdEJwQnZfTkRRTnl3ZWRJM1VDRkdvTzlwTlFEUEZSRWFFN0dQb2ZXb3ZxSkh6QW1NZ2VhTGp0dUVwcGh0Y25HVEl6Ujdna0FR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.fujieda.shizuoka.jp"
-    },
-    {
       "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDY3NzQ=",
       "headline": "熊本市で2人目、はしか感染【熊本県感染症情報】｜熊本日日新聞社",
       "headlineTranslated": "Second Measles Case in Kumamoto City [Kumamoto Prefecture Infectious Disease Information] | Kumamoto Nichinichi Shimbun",
@@ -305,8 +368,8 @@
         }
       ],
       "prefectures": [
-        "熊本県",
-        "東京都"
+        "東京都",
+        "熊本県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -356,6 +419,25 @@
       "sourceName": "pref.hyogo.lg.jp"
     },
     {
+      "articleId": "gnews_3ebb64c006bbf9c8",
+      "headline": "感染症情報について - city.ichikawa.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-25T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3ekR4RlRZbEdnQmhPa1JKdTg4LUxVZnRLeXVsSUdSaTlZYnlIcEVwd1dJQ1RHMk9yUldZQURSMFBZZHlFb1ZOcTdtRkd6R19DeFNlSDFrVk5VZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.ichikawa.lg.jp"
+    },
+    {
       "articleId": "gnews_cd8e517021dea6f1",
       "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月23日更新） - wam.go.jp",
       "headlineTranslated": "",
@@ -398,6 +480,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_3b2776273467cabd",
+      "headline": "【保環研】感染症情報（患者発生情報：新潟県） - pref.niigata.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ETHJ3NF84Z0N2M2hWODRjVHhYUjNZVXdlZkFuSkFXYjAzcWlaTVFpVUlpYi10WEh2aG1URF9RTXJxeTV4SGtWUmdvQ1A5UzJFR2QwMlhtR3A1RGpPWlZQUWkwbzlEVEhlLWlqU3MwWQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "新潟県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.niigata.lg.jp"
     },
     {
       "articleId": "gnews_8d962efc26bc1a94",
@@ -453,8 +554,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -907,25 +1008,6 @@
       "sourceName": "wam.go.jp"
     },
     {
-      "articleId": "gnews_5133e900a08bcd25",
-      "headline": "感染症の流行状況 2026年 第22週 - pref.saitama.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-03T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yZWVJejByRlFIVy1OVm56N19XQ0NmNFR2Q21vNzZnVmJ5Z0Eyd1Izd05vcnZzWF9xZndPY2hLWG5FRkoxbXpnTG5CcER1OTNPLTM1d2M2ckk1WHZCWlJaR054Z1pleFNKUHQyVXFWdlVrU0Q2TFE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.saitama.lg.jp"
-    },
-    {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDYwMi1HWVQxVDAwMTk4Lw==",
       "headline": "はしか患者数初の５００人突破、半数が東京...今年の累計「世界的に感染拡大」 | ヨミドクター(読売新聞)",
       "headlineTranslated": "Measles cases exceed 500 for the first time, half in Tokyo; this year's cumulative total shows worldwide spread of infection",
@@ -1015,8 +1097,8 @@
         }
       ],
       "prefectures": [
-        "大阪府",
-        "東京都"
+        "東京都",
+        "大阪府"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
