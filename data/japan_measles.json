@@ -1,18 +1,17 @@
 {
-  "generated_at": "2026-07-02T22:26:16.453342+00:00",
+  "generated_at": "2026-07-03T00:48:51.656707+00:00",
   "date_range": {
-    "start": "2026-06-02",
-    "end": "2026-07-02"
+    "start": "2026-06-03",
+    "end": "2026-07-03"
   },
-  "total_articles": 49,
+  "total_articles": 42,
   "prefecture_summary": {
-    "東京都": 25,
-    "富山県": 10,
+    "東京都": 19,
+    "富山県": 9,
     "全国（都道府県不明）": 17,
     "熊本県": 1,
     "静岡県": 1,
-    "神奈川県": 1,
-    "大阪府": 1
+    "神奈川県": 1
   },
   "articles": [
     {
@@ -283,25 +282,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "town.oiso.kanagawa.jp"
-    },
-    {
-      "articleId": "gnews_14d04788385f5f4b",
-      "headline": "富山県内で「はしか」新たな患者２人確認 今月４件目で県が注意呼びかけ（北日本放送） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-27T15:01:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oVDhydlZ1M1V6RHVzeXdVUkR2UlYtRVZkcmUyUVE1NEYtOUphRUZraG1RQm4xbGpraTlJemVkX3kyRUJXR0EzQWwzSV9Xa2hRWHNESVVHMXFJcjZhYnViOGw2YlNwNWxaRV9Demx3Y192MEdKeWtqYThWdnhxX3M?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuN2FlYWJkMTIxNDBlNDk3YThlM2EyZjY5OTFhYzIwMWU=",
@@ -1064,187 +1044,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.saitama.lg.jp"
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDYwMi1HWVQxVDAwMTk4Lw==",
-      "headline": "はしか患者数初の５００人突破、半数が東京...今年の累計「世界的に感染拡大」 | ヨミドクター(読売新聞)",
-      "headlineTranslated": "Measles cases exceed 500 for the first time, half in Tokyo; this year's cumulative total shows worldwide spread of infection",
-      "summary": "Measles outbreaks in Japan reach 511 cases (as of May 24, 2026), the first time exceeding 500. Tokyo accounts for about half with 253 cases. Nationwide weekly tally up to May 24 shows 11 new cases. Cumulative totals by prefecture: Tokyo 253, Kanagawa 47, Saitama 38, Kagoshima 34, Chiba 31. Preventive vaccination remains most effective; however, 67% of patients this year had one or fewer vaccine doses or vaccination history unknown. Health officials note that while some infected have vaccination, the majority are unvaccinated or have unknown status, underscoring global spread. Experts urge two-dose vaccination to curb outbreaks in Japan.",
-      "summaryOriginal": "Measles outbreaks in Japan reach 511 cases (as of May 24, 2026), the first time exceeding 500. Tokyo accounts for about half with 253 cases. Nationwide weekly tally up to May 24 shows 11 new cases. Cumulative totals by prefecture: Tokyo 253, Kanagawa 47, Saitama 38, Kagoshima 34, Chiba 31. Preventive vaccination remains most effective; however, 67% of patients this year had one or fewer vaccine doses or vaccination history unknown. Health officials note that while some infected have vaccination, the majority are unvaccinated or have unknown status, underscoring global spread. Experts urge two-dose vaccination to curb outbreaks in Japan.",
-      "publishedTimestamp": "2026-06-02T09:47:27+00:00",
-      "sourceUrl": "https://www.yomiuri.co.jp/yomidr/article/20260602-GYT1T00198/",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC9uYXRpb25hbC8yMDI2MDYwMi1HWVQxVDAwMTk4Lw==",
-      "headline": "はしか患者数初の５００人突破、半数が東京...今年の累計「世界的に感染拡大」",
-      "headlineTranslated": "Measles cases exceed 500 for the first time, half of them in Tokyo... This year's cumulative total marks a global outbreak.",
-      "summary": "Measles cases in Japan reached 511 (preliminary) as of May 24, marking the first time this year exceeding 500. Tokyo accounts for 253 cases, about half of the national total, followed by Kanagawa 47, Saitama 38, Kagoshima 34, and Chiba 31. In the latest week through May 24, nationwide new cases totaled 11. Vaccination remains the most effective prevention; however, 67% of patients had one dose or less, or vaccination history was unknown. Sayaka Takanashi, head of the Vaccination Research Department at the National Institute for Health Crisis Management, notes that while some infected were vaccinated, unvaccinated or unknown-status individuals predominate. With global spread ongoing, two-dose vaccination for a large portion of the population is crucial to curb Japan’s outbreak.",
-      "summaryOriginal": "Measles cases in Japan reached 511 (preliminary) as of May 24, marking the first time this year exceeding 500. Tokyo accounts for 253 cases, about half of the national total, followed by Kanagawa 47, Saitama 38, Kagoshima 34, and Chiba 31. In the latest week through May 24, nationwide new cases totaled 11. Vaccination remains the most effective prevention; however, 67% of patients had one dose or less, or vaccination history was unknown. Sayaka Takanashi, head of the Vaccination Research Department at the National Institute for Health Crisis Management, notes that while some infected were vaccinated, unvaccinated or unknown-status individuals predominate. With global spread ongoing, two-dose vaccination for a large portion of the population is crucial to curb Japan’s outbreak.",
-      "publishedTimestamp": "2026-06-02T09:44:00+00:00",
-      "sourceUrl": "https://www.yomiuri.co.jp/national/20260602-GYT1T00198/",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5LzA0Y2ZiNjI5MTIxNjQzOTliNTI4MTM2OWUyNDRlYWQ5",
-      "headline": "はしかの全国患者数ことし累計511人　過去10年で2番目の多さに（2026年6月2日掲載）｜日テレNEWS NNN",
-      "headlineTranslated": "Nationwide cumulative measles cases this year total 511, the second-highest in the past decade (Posted June 2, 2026) | Nippon TV News NNN",
-      "summary": "Measles cases in Japan reached 511 this year, the second-highest in the past decade, according to the Ministry of Health, Labour and Welfare (MHLW). In the week ending May 24, 11 new cases were reported nationwide, with Tokyo accounting for 8 cases, followed by Aichi Prefecture (2) and Osaka (1). Measles is highly contagious, with nearly all susceptible individuals at risk; the incubation period is about 10 days, followed by cold-like symptoms, then high fever and a characteristic rash. Authorities urge verification of vaccination records and to contact a medical institution in advance if symptoms emerge. On June 1, MHLW launched a new national data system to consolidate individuals' vaccination histories and suspected adverse events via the My Number Portal, using anonymized data to assess vaccine effectiveness and safety. The government aims to aggregate nationwide information by spring 2028.",
-      "summaryOriginal": "Measles cases in Japan reached 511 this year, the second-highest in the past decade, according to the Ministry of Health, Labour and Welfare (MHLW). In the week ending May 24, 11 new cases were reported nationwide, with Tokyo accounting for 8 cases, followed by Aichi Prefecture (2) and Osaka (1). Measles is highly contagious, with nearly all susceptible individuals at risk; the incubation period is about 10 days, followed by cold-like symptoms, then high fever and a characteristic rash. Authorities urge verification of vaccination records and to contact a medical institution in advance if symptoms emerge. On June 1, MHLW launched a new national data system to consolidate individuals' vaccination histories and suspected adverse events via the My Number Portal, using anonymized data to assess vaccine effectiveness and safety. The government aims to aggregate nationwide information by spring 2028.",
-      "publishedTimestamp": "2026-06-02T04:55:01+00:00",
-      "sourceUrl": "https://news.ntv.co.jp/category/society/04cfb62912164399b5281369e244ead9",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Tokyo Prefecture",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Ōsaka-fu",
-          "lat": 34.68631,
-          "lon": 135.51968
-        },
-        {
-          "name": "Tokyo",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Osaka",
-          "lat": 34.69374,
-          "lon": 135.50218
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都",
-        "大阪府"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cuaG9ra29rdS5jby5qcC9hcnRpY2xlcy8tLzIxMjYyNDU=",
-      "headline": "はしか患者、累計５１１人に 近年最多２０１９年に迫る勢い｜全国のニュース｜北國新聞",
-      "headlineTranslated": "Measles patients reach a cumulative total of 511, nearing the 2019 peak | National News | Hokkoku Shimbun",
-      "summary": "Measles cases in Japan reach 511 cumulative infections for this year as of June 2, 2026, per the National Institute of Health Crisis Management, nearing the 2019 peak of 744. The provisional 2025 total was 265 and has been exceeded. The measles virus is highly contagious; the Ministry of Health, Labour and Welfare urges suspected cases to consult medical facilities by phone first. By prefecture, Tokyo leads with 253 cases, followed by Kanagawa (47) and Saitama (38). In April, nationwide weekly cases exceeded 60, but after the Golden Week holiday the weekly total has fallen below 30. Japan was certified by the WHO in 2015 as having eliminated endemic transmission. About 70% of current cases are domestically acquired, with the virus introduced and spread by returning travelers and inbound visitors.",
-      "summaryOriginal": "Measles cases in Japan reach 511 cumulative infections for this year as of June 2, 2026, per the National Institute of Health Crisis Management, nearing the 2019 peak of 744. The provisional 2025 total was 265 and has been exceeded. The measles virus is highly contagious; the Ministry of Health, Labour and Welfare urges suspected cases to consult medical facilities by phone first. By prefecture, Tokyo leads with 253 cases, followed by Kanagawa (47) and Saitama (38). In April, nationwide weekly cases exceeded 60, but after the Golden Week holiday the weekly total has fallen below 30. Japan was certified by the WHO in 2015 as having eliminated endemic transmission. About 70% of current cases are domestically acquired, with the virus introduced and spread by returning travelers and inbound visitors.",
-      "publishedTimestamp": "2026-06-02T02:51:57+00:00",
-      "sourceUrl": "https://www.hokkoku.co.jp/articles/-/2126245",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cuNDduZXdzLmpwLzE0NDAyMjc5Lmh0bWw=",
-      "headline": "はしか患者、累計511人に　近年最多2019年に迫る勢い",
-      "headlineTranslated": "Measles cases total 511, on track to approach the 2019 peak.",
-      "summary": "As of June 2, 2026, Japan reports 511 cumulative measles cases this year, with the pace nearing the 2019 peak of 744. The provisional 2025 total was 265, already surpassed. Measles, caused by the highly contagious measles virus, prompts the Ministry of Health to advise contacting medical facilities by phone before visiting if infection is suspected. By prefecture, Tokyo leads with 253 cases, followed by Kanagawa 47 and Saitama 38. In April, weekly nationwide cases exceeded 60, but after the long holidays the weekly count dropped below 30. Japan was certified by the WHO in 2015 as having eliminated endemic measles; about 70% of current infections are domestically acquired, with many outbreaks triggered by importation from returning residents or visitors. Vaccination remains key to outbreak control.",
-      "summaryOriginal": "As of June 2, 2026, Japan reports 511 cumulative measles cases this year, with the pace nearing the 2019 peak of 744. The provisional 2025 total was 265, already surpassed. Measles, caused by the highly contagious measles virus, prompts the Ministry of Health to advise contacting medical facilities by phone before visiting if infection is suspected. By prefecture, Tokyo leads with 253 cases, followed by Kanagawa 47 and Saitama 38. In April, weekly nationwide cases exceeded 60, but after the long holidays the weekly count dropped below 30. Japan was certified by the WHO in 2015 as having eliminated endemic measles; about 70% of current infections are domestically acquired, with many outbreaks triggered by importation from returning residents or visitors. Vaccination remains key to outbreak control.",
-      "publishedTimestamp": "2026-06-02T02:32:31+00:00",
-      "sourceUrl": "https://www.47news.jp/14402279.html",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cubmlzaGluaXBwb24uY28uanAvaXRlbS8xNDk5MTM5Lw==",
-      "headline": "はしか患者、累計511人に　近年最多2019年に迫る勢い",
-      "headlineTranslated": "Measles patients reach a cumulative total of 511, on track to approach the 2019 peak.",
-      "summary": "Measles cases in Japan reached a cumulative total of 511 as of 2 June 2026, with the nationwide tally approaching the 2019 peak of 744. Provisional 2025 cases stood at 265, already well above previous years. Tokyo Metropolitan Area accounted for 253 cases, followed by Kanagawa (47) and Saitama (38). In April, weekly nationwide reports exceeded 60 cases, but after the Golden Week holidays totals declined to under 30 per week. The measles virus is highly contagious; the Ministry of Health, Labour and Welfare (MHLW) urges individuals with suspected infection to first contact a healthcare facility by phone before visiting. The report notes ongoing transmission across multiple prefectures, with Tokyo bearing the largest share of cases.",
-      "summaryOriginal": "Measles cases in Japan reached a cumulative total of 511 as of 2 June 2026, with the nationwide tally approaching the 2019 peak of 744. Provisional 2025 cases stood at 265, already well above previous years. Tokyo Metropolitan Area accounted for 253 cases, followed by Kanagawa (47) and Saitama (38). In April, weekly nationwide reports exceeded 60 cases, but after the Golden Week holidays totals declined to under 30 per week. The measles virus is highly contagious; the Ministry of Health, Labour and Welfare (MHLW) urges individuals with suspected infection to first contact a healthcare facility by phone before visiting. The report notes ongoing transmission across multiple prefectures, with Tokyo bearing the largest share of cases.",
-      "publishedTimestamp": "2026-06-02T02:32:10+00:00",
-      "sourceUrl": "https://www.nishinippon.co.jp/item/1499139/",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Tokyo Prefecture",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Tokyo",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
     }
   ]
 }
