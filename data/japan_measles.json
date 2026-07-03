@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-03T00:48:51.656707+00:00",
+  "generated_at": "2026-07-03T03:10:48.498396+00:00",
   "date_range": {
     "start": "2026-06-03",
     "end": "2026-07-03"
   },
-  "total_articles": 42,
+  "total_articles": 43,
   "prefecture_summary": {
     "東京都": 19,
     "富山県": 9,
-    "全国（都道府県不明）": 17,
+    "全国（都道府県不明）": 18,
     "熊本県": 1,
     "静岡県": 1,
     "神奈川県": 1
@@ -89,25 +89,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_2d457b33fd1ba646",
-      "headline": "富山県内でもはしかの感染拡大 気を付けることは（2026年7月2日掲載）｜KNB NEWS NNN - 日テレNEWS NNN",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-02T10:42:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdVNCaGk4OVpPc0NhZXFJSU1PMWx6OXkyUlFOVVd1UDU1TTNXSE9rdndIWW1YTkRucHB6RXB4dzE4dU5FZml5R0xxeUdYOU9IV0UwR2FHUHFvVXc3MEIwR3dyM0kxV1R0S2taU2Y0X1ZzUzlxTVlWSElRUjNmcC1ZdEZ6RzhyLTQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "日テレNEWS NNN"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuaG9ra29rdS5jby5qcC9hcnRpY2xlcy90eW0vMjE1NzYyNQ==",
@@ -265,6 +246,25 @@
       "sourceName": "湘南人"
     },
     {
+      "articleId": "gnews_7d9df79edde60b0c",
+      "headline": "【識者の眼】「ハンタウイルス感染症も重要、だが麻疹はもっとハイリスク」岡部信彦 - 日本医事新報社",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-30T06:43:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4VVNQSHVFS09iWEk5b2NJeFktX0dhMHFJekQwRHg3d2s4R2hZcUxXNjdWY1Nqc2YyTlpRbHM5VzFqREljd2hOX2k3SnRqWEs1dHlDRkZLMVd2cW1YdUVZMw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日本医事新報社"
+    },
+    {
       "articleId": "gnews_fe14f5372b57ddab",
       "headline": "麻しん（はしか）にご注意ください - town.oiso.kanagawa.jp",
       "headlineTranslated": "",
@@ -282,6 +282,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "town.oiso.kanagawa.jp"
+    },
+    {
+      "articleId": "gnews_14d04788385f5f4b",
+      "headline": "富山県内で「はしか」新たな患者２人確認 今月４件目で県が注意呼びかけ（北日本放送） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-27T15:01:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oVDhydlZ1M1V6RHVzeXdVUkR2UlYtRVZkcmUyUVE1NEYtOUphRUZraG1RQm4xbGpraTlJemVkX3kyRUJXR0EzQWwzSV9Xa2hRWHNESVVHMXFJcjZhYnViOGw2YlNwNWxaRV9Demx3Y192MEdKeWtqYThWdnhxX3M?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "富山県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuN2FlYWJkMTIxNDBlNDk3YThlM2EyZjY5OTFhYzIwMWU=",
@@ -406,8 +425,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "熊本県"
+        "熊本県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
