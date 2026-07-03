@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-07-03T16:34:35.194860+00:00",
+  "generated_at": "2026-07-03T18:32:49.968924+00:00",
   "date_range": {
     "start": "2026-06-03",
     "end": "2026-07-03"
   },
-  "total_articles": 40,
+  "total_articles": 43,
   "prefecture_summary": {
     "東京都": 19,
-    "富山県": 10,
-    "全国（都道府県不明）": 16,
+    "富山県": 11,
+    "全国（都道府県不明）": 17,
     "熊本県": 1,
-    "静岡県": 1
+    "静岡県": 1,
+    "神奈川県": 1
   },
   "articles": [
     {
@@ -134,6 +135,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_2d457b33fd1ba646",
+      "headline": "富山県内でもはしかの感染拡大 気を付けることは（2026年7月2日掲載）｜KNB NEWS NNN - 日テレNEWS NNN",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-02T10:42:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdVNCaGk4OVpPc0NhZXFJSU1PMWx6OXkyUlFOVVd1UDU1TTNXSE9rdndIWW1YTkRucHB6RXB4dzE4dU5FZml5R0xxeUdYOU9IV0UwR2FHUHFvVXc3MEIwR3dyM0kxV1R0S2taU2Y0X1ZzUzlxTVlWSElRUjNmcC1ZdEZ6RzhyLTQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "富山県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "日テレNEWS NNN"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuaG9ra29rdS5jby5qcC9hcnRpY2xlcy90eW0vMjE1NzYyNQ==",
@@ -310,6 +330,25 @@
       "sourceName": "town.oiso.kanagawa.jp"
     },
     {
+      "articleId": "gnews_51ce957cf258253e",
+      "headline": "＜社説＞はしか感染増／社会全体で予防の徹底を - 47NEWS",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-29T01:10:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42WFV3ZzJrWDU4b0kzY21OZDRIN0NYcnY1bXJvUFdLaXVHQThPazgzUUxGRE82YWh1dGxsc05XTmxpYV9tSWZIU3JKaw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "47NEWS"
+    },
+    {
       "articleId": "gnews_14d04788385f5f4b",
       "headline": "富山県内で「はしか」新たな患者２人確認 今月４件目で県が注意呼びかけ（北日本放送） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -365,13 +404,13 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_3aa8d9995e183789",
-      "headline": "富山市内ではしか（麻しん）感染者を確認 40代女性が発症、強力な感染力への対策と、疑わしい症状が出た場合は医療機関の受診を（チューリップテレビ） - Yahoo!ニュース",
+      "articleId": "gnews_7b2b0ff587d20e43",
+      "headline": "富山市内ではしか（麻しん）感染者を確認 40代女性が発症、強力な感染力への対策と、疑わしい症状が出た場合は医療機関の受診を - TBS NEWS DIG",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-27T05:07:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yQTlLemxtT0tkV2trVmNKYWZkcVlkZ0xYTE1Sb0JXZWRuUmtmVjZ4YnpjVnVCaURnV3hTZnd6MWV0bWhSUU45QlNjSnlLY293YWNvNWRkbXlFcjRrcXlnTFA1LWhPOHZxNjR0NFRhY2tCY1MxVnhheUlrRmFidEU?oc=5",
+      "publishedTimestamp": "2026-06-27T05:05:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrRFNrenYweS1FYmVyNURwa25aVkJvS19veGpuMk1yT3BEVElEQjVQWEIwamlWTHFhYTB4U1B4X3owbGR6ajlVQ0k2N1UyTFlFWVhEejBnRQ?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -381,7 +420,7 @@
         "富山県"
       ],
       "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
+      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_fb33e19d960b2b62",
@@ -451,8 +490,8 @@
         }
       ],
       "prefectures": [
-        "熊本県",
-        "東京都"
+        "東京都",
+        "熊本県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -500,25 +539,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.hyogo.lg.jp"
-    },
-    {
-      "articleId": "gnews_cd8e517021dea6f1",
-      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年6月23日更新） - wam.go.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-24T05:14:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TNFRmSjlHSFY0VEx3VWxmcWZEX3FLX1A4OV9PSGlsR2M5VWxvR0w0TWRoVzY0ZHBSOC1SRURSUzdUN3ZJN0Vzc3Z5Z19NTzRmZnA1LWpSZGY5MlNvWnRselhtUThKOXEyU2p1R2pWZEUzQmM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "wam.go.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9jYXRlZ29yeS9zb2NpZXR5L2E2OWI4NjY0NWQyMTQyZDU5MzdiODE1MzllNTI1ZGYx",
@@ -811,6 +831,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_685a46d8c0970b27",
+      "headline": "2026神奈川県 麻しん情報（15）22週｜神奈川県衛生研究所 - pref.kanagawa.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-15T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTDFpcTFpdlAycTkxSXVucVMzQ08xWHRFTFZqTGNZU1NxbFd3U1RzcEtQZ0lsaHMxRkd1Q1B0OXpkeXhZQmZaSWZxY2xnZklWQUNLM3FVN1ppUU5oZTROZVlLQnNacGhQVG1ORGJfMTRPVHJuQ0Y1aUJRbEZ5X3JWdmhIYXdKVmtYQ2ZQTU02My12Zw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "神奈川県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.kanagawa.jp"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VBMDU2SFMwVjAwQzI2QTYwMDAwMDAv",
       "headline": "はしか、なぜ急増しているの？　「ワクチン2回接種」徹底が重要",
       "headlineTranslated": "Measles: Why is it increasing rapidly? Ensuring two-dose vaccination is important.",
@@ -1032,6 +1071,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.katsuragi.nara.jp"
+    },
+    {
+      "articleId": "gnews_26e3e68a61528734",
+      "headline": "麻しんの現状を解説／感染症クォータリーレポート｜CareNet.com - CareNet.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-04T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GeXZpS3hZeHJvMmlrN1JnUjFXeU5JUFNoMFhNbkFqVHloU1JtV0MzUnRlN3lWVGRRNldrdE9LTU52Z0FRLVl3bEVlejFPR2dBNXU5Rm9Xem1zUG1ISEV3?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CareNet.com"
     }
   ]
 }
