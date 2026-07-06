@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-07-05T22:24:04.929877+00:00",
+  "generated_at": "2026-07-06T00:52:18.558682+00:00",
   "date_range": {
-    "start": "2026-06-05",
-    "end": "2026-07-05"
+    "start": "2026-06-06",
+    "end": "2026-07-06"
   },
   "total_articles": 41,
   "prefecture_summary": {
     "東京都": 22,
     "全国（都道府県不明）": 16,
-    "富山県": 9,
+    "富山県": 8,
     "熊本県": 1,
+    "新潟県": 1,
     "静岡県": 1
   },
   "articles": [
@@ -505,6 +506,25 @@
       "sourceName": "town.oiso.kanagawa.jp"
     },
     {
+      "articleId": "gnews_9e2e8e3482be93ed",
+      "headline": "麻疹風疹混合ワクチン製造技術移転プロジェクト - jica.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-28T10:10:59+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UU1ZoanluNlQ4TzB5bF9MYXY5dlZYWTJSZE9uQ0hYQTZaQzEyaTZMcE9LUVJtbE1NSzBqbThodnpTREtTNmViclg4N2tPUURQOExGc3Rn?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "jica.go.jp"
+    },
+    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuN2FlYWJkMTIxNDBlNDk3YThlM2EyZjY5OTFhYzIwMWU=",
       "headline": "今月県内５人目　富山市で４０代女性　はしか感染（2026年6月27日掲載）｜KNB NEWS NNN",
       "headlineTranslated": "Fifth measles case in the prefecture this month: a woman in her 40s in Toyama City (Published June 27, 2026) | KNB NEWS NNN",
@@ -560,13 +580,13 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_7018576ed26ddd7e",
-      "headline": "県内の感染症情報 - city.fujieda.shizuoka.jp",
+      "articleId": "gnews_93d6f5a81c1caceb",
+      "headline": "麻疹ワクチン製造基盤技術移転プロジェクト | ODA見える化サイト - jica.go.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmdoY2ZmX3BHS3NqNTdRY0VuLWNGQks4NGduLVI3LUlyc1hGWi1RVGpDakVwb01RUmhETWtTejl6Z0pSb3pwdEJwQnZfTkRRTnl3ZWRJM1VDRkdvTzlwTlFEUEZSRWFFN0dQb2ZXb3ZxSkh6QW1NZ2VhTGp0dUVwcGh0Y25HVEl6Ujdna0FR?oc=5",
+      "publishedTimestamp": "2026-06-26T20:15:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55T3B6TEk3b3Y0RDVwVTRnR2pqRndacGJUNUVPTzVycXREN2RGakc4aUI4SGRZa280Y3kyb3dUOHp2NXBkWnZmRkxiVTlzTFdLMmdpUGFR?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -576,7 +596,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "city.fujieda.shizuoka.jp"
+      "sourceName": "jica.go.jp"
     },
     {
       "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDY3NzQ=",
@@ -663,6 +683,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_3b2776273467cabd",
+      "headline": "【保環研】感染症情報（患者発生情報：新潟県） - pref.niigata.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-22T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ETHJ3NF84Z0N2M2hWODRjVHhYUjNZVXdlZkFuSkFXYjAzcWlaTVFpVUlpYi10WEh2aG1URF9RTXJxeTV4SGtWUmdvQ1A5UzJFR2QwMlhtR3A1RGpPWlZQUWkwbzlEVEhlLWlqU3MwWQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "新潟県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.niigata.lg.jp"
     },
     {
       "articleId": "gnews_8d962efc26bc1a94",
@@ -831,25 +870,6 @@
       "sourceName": "city.chiyoda.lg.jp"
     },
     {
-      "articleId": "gnews_14a68391d3a162d7",
-      "headline": "「はしか」が首都圏と関西の都市部で流行中、どんな病気かをおさらい - ダイヤモンド・オンライン",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YM0MyaXN6WHdLQzVqTFZZQ1RIRGlYSUpKQldRYmZmcDJyelFsanRkYTJkLUVybTJrdUFIRllTTWt4OFdiYmREVkc1UUfSAU9BVV95cUxNb2txM1N3S0tNNEdRMjhJNGtfaEhxOWhQS2xCVGVJYldqRDhwaXBWTUR0aWFyUG9JWF9GRTlJeWdjTkJLN0hXSmEtMTRXdlRZ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ダイヤモンド・オンライン"
-    },
-    {
       "articleId": "aHR0cHM6Ly9kaWFtb25kLmpwL2FydGljbGVzLy0vMzkyNjM5",
       "headline": "「はしか」が首都圏と関西の都市部で流行中、どんな病気かをおさらい",
       "headlineTranslated": "Measles spreading in the Tokyo metropolitan area and urban Kansai areas: a quick refresher on what kind of disease it is.",
@@ -964,25 +984,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_950477fed2f90e88",
-      "headline": "富山県で今年初のはしか（麻しん）感染者を確認 インドネシア渡航歴のある20代男性 気になる初期症状や潜伏期間の目安 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtd0VqaG5Kb1BGSE1wR2lfQ0ZVYVdYU3JqSGpvRWhMc3BYemxJbDc2Skl3eGRuUEt1MXgxUkpuR25STXJqd1ZDZWpzSVRKUXJxZjVIcm5PMGlOUUhEOG9OVXdsUW1Sdk0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_6687e746e4244b9c",
