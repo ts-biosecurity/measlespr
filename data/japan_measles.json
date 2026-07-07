@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T20:38:40.803654+00:00",
+  "generated_at": "2026-07-07T22:27:06.511029+00:00",
   "date_range": {
     "start": "2026-06-07",
     "end": "2026-07-07"
@@ -32,6 +32,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Vietnam.vn"
+    },
+    {
+      "articleId": "gnews_7018576ed26ddd7e",
+      "headline": "県内の感染症情報 - city.fujieda.shizuoka.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-06T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmdoY2ZmX3BHS3NqNTdRY0VuLWNGQks4NGduLVI3LUlyc1hGWi1RVGpDakVwb01RUmhETWtTejl6Z0pSb3pwdEJwQnZfTkRRTnl3ZWRJM1VDRkdvTzlwTlFEUEZSRWFFN0dQb2ZXb3ZxSkh6QW1NZ2VhTGp0dUVwcGh0Y25HVEl6Ujdna0FR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.fujieda.shizuoka.jp"
     },
     {
       "articleId": "gnews_a83b92943905fac3",
@@ -76,25 +95,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_60b1c77f1c55d073",
-      "headline": "アフリカにおける疾病発生：エボラ出血熱と麻疹による死者数の増加に対し、引き続き警鐘が鳴らされている。 - Vietnam.vn",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-04T01:02:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1BISkRISkxwT2tiejlQVjZUMy04OUdFYVNFWl9JWWM0WVM0eUs1ZS1GUk5DOXdtMnR6VjBwMmJwQ0R5aEw2dnRqVHZpZHpvZmxLU2tWQmlqSnJSamRZRHhBM2pGWGVCT3lUa0NYajFoLTgtREloMlRmZVZTeG1DUS1Oc3ZKeThVbVlBMlRMTm5aMkc3T0xJcGVpdDhjdmRHWUM1cWNB?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Vietnam.vn"
     },
     {
       "articleId": "aHR0cHM6Ly93ZWJ1bi5qcC9hcnRpY2xlcy8tLzEwNDk5MzY=",
@@ -369,8 +369,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -600,25 +600,6 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_7018576ed26ddd7e",
-      "headline": "県内の感染症情報 - city.fujieda.shizuoka.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmdoY2ZmX3BHS3NqNTdRY0VuLWNGQks4NGduLVI3LUlyc1hGWi1RVGpDakVwb01RUmhETWtTejl6Z0pSb3pwdEJwQnZfTkRRTnl3ZWRJM1VDRkdvTzlwTlFEUEZSRWFFN0dQb2ZXb3ZxSkh6QW1NZ2VhTGp0dUVwcGh0Y25HVEl6Ujdna0FR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.fujieda.shizuoka.jp"
-    },
-    {
       "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDY3NzQ=",
       "headline": "熊本市で2人目、はしか感染【熊本県感染症情報】｜熊本日日新聞社",
       "headlineTranslated": "Second Measles Case in Kumamoto City [Kumamoto Prefecture Infectious Disease Information] | Kumamoto Nichinichi Shimbun",
@@ -648,8 +629,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "熊本県"
+        "熊本県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1061,6 +1042,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.kuwana.lg.jp"
+    },
+    {
+      "articleId": "gnews_17989c31e238a1c4",
+      "headline": "感染症の流行状況 2026年 第23週 - pref.saitama.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-10T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KTlRucFdEUWtwT3dnN2w2TFNoalhWOU9EcVZsak1PRUVIN0c3Y2xLNFdreGFTaGYtOWxLNkFsdnF3WlRIN2dJQTZPVHgycW1JZEJINUFrSmx6ZEJXMlprWHdJV2FXaUJtT2o1dUg3YThQX2xWdGc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.saitama.lg.jp"
     },
     {
       "articleId": "gnews_980c3f24427d6f7b",
