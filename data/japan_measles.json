@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-11T06:51:39.009846+00:00",
+  "generated_at": "2026-07-11T08:38:07.493734+00:00",
   "date_range": {
     "start": "2026-06-11",
     "end": "2026-07-11"
   },
-  "total_articles": 39,
+  "total_articles": 37,
   "prefecture_summary": {
-    "全国（都道府県不明）": 16,
+    "全国（都道府県不明）": 14,
     "東京都": 20,
     "富山県": 9,
     "熊本県": 1,
@@ -608,8 +608,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "熊本県"
+        "熊本県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -1002,44 +1002,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
-    },
-    {
-      "articleId": "gnews_6687e746e4244b9c",
-      "headline": "麻しんの感染者が増加しています。 - pref.kagoshima.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcC1ZQXFvM1Y5Tno5YjEtVE1RNFd1MlFuejlVYnZxVFh6WGhBV1NYVlpvX2I1c2x3TGp1Tnd3X2Z6OG5kbFBxZ3dPRU04dzdCVWg2UUpZaFpJMmVoMjdtbkxMMGVHajIxWVMzZWxqT3hIbFpROG00LVZHY3hOSVZxbUdBWkU0cE5OWEE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.kagoshima.jp"
-    },
-    {
-      "articleId": "gnews_98831aff234d65b2",
-      "headline": "麻しん（はしか）に注意しましょう！ - city.kuwana.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpdEpUb1d5d25oZXpBZmZ3SDRxZEVoTjU5LVpEUnNkSGRGelowQXdiZzhCaUJoYlJjMkp5YWpsVWVDUE1vRlppR1FSZmpFbkJqTmhWZnRESEgzN0xhSnAzREdiZ2lYSGFVak9PRXctOGVfTGs?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.kuwana.lg.jp"
     }
   ]
 }
