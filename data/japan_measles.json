@@ -1,19 +1,38 @@
 {
-  "generated_at": "2026-07-11T12:23:41.992591+00:00",
+  "generated_at": "2026-07-11T14:29:44.161816+00:00",
   "date_range": {
     "start": "2026-06-11",
     "end": "2026-07-11"
   },
   "total_articles": 38,
   "prefecture_summary": {
-    "全国（都道府県不明）": 14,
-    "京都府": 1,
+    "全国（都道府県不明）": 15,
     "東京都": 21,
-    "富山県": 9,
+    "京都府": 1,
+    "富山県": 8,
     "熊本県": 1,
     "静岡県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_edf9972bc6cc0eb6",
+      "headline": "タイ・グエンでは、麻疹の症例および疑い例が259件記録された。 - Vietnam.vn",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-11T11:38:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByTFZRQTNaSkZ2aWdzZi1mWkJkYzZ3dUEydExNRmxtcjBKSEYycFluVFdFbGxpOHMwODVwWVZ5bGZYQlo0elcwNHo3QkhWSGtpVHNON0I1TGJYY2loMjhfbjF6MnQ0aHp5RmRGenpUMlRlQXhxU3I2elotdldBZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Vietnam.vn"
+    },
     {
       "articleId": "gnews_ba72462577f341c4",
       "headline": "妊婦が感染すると赤ちゃんが病気になる風しん 排除を達成するもワクチン接種率の維持が課題 - 岩永直子のニュースレター",
@@ -66,8 +85,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -1004,25 +1023,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_f4b640b97bb45b5f",
-      "headline": "富山県で今年初のはしか（麻しん）感染者を確認 インドネシア渡航歴のある20代男性 気になる初期症状や潜伏期間の目安 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82UUZvUWpUNXcxMzFYM3VubTBaZGlvaUJySEljdFRRb0w0THhDQXM5VmdtVFdmTmFJOVhNSnppM3FscVRQQjlGenhRVkhvY0t6YW1xZFZta1pVQQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "富山県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
     }
   ]
 }
