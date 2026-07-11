@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-07-11T10:29:27.778165+00:00",
+  "generated_at": "2026-07-11T12:23:41.992591+00:00",
   "date_range": {
     "start": "2026-06-11",
     "end": "2026-07-11"
   },
-  "total_articles": 37,
+  "total_articles": 38,
   "prefecture_summary": {
     "全国（都道府県不明）": 14,
-    "東京都": 20,
+    "京都府": 1,
+    "東京都": 21,
     "富山県": 9,
     "熊本県": 1,
     "静岡県": 1
@@ -50,6 +51,26 @@
       ],
       "dataSource": "Google News",
       "sourceName": "岩永直子のニュースレター"
+    },
+    {
+      "articleId": "gnews_e5b30407ed2f9682",
+      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-09T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "京都府",
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "東京都感染症情報センター"
     },
     {
       "articleId": "gnews_abc0c6297b5f472e",
