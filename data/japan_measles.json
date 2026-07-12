@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-12T20:19:23.557725+00:00",
+  "generated_at": "2026-07-12T22:20:11.211505+00:00",
   "date_range": {
     "start": "2026-06-12",
     "end": "2026-07-12"
   },
-  "total_articles": 35,
+  "total_articles": 34,
   "prefecture_summary": {
-    "全国（都道府県不明）": 12,
-    "東京都": 21,
+    "全国（都道府県不明）": 11,
     "京都府": 1,
+    "東京都": 21,
     "富山県": 8,
     "熊本県": 1,
     "静岡県": 1
@@ -66,8 +66,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -414,25 +414,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_737cc60978c798ab",
-      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-02T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "読売新聞"
-    },
-    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuMTdlNjk5YmQxMDkyNDVkZjk2ZjdhMTBiNjk4YmQ2YTE=",
       "headline": "富山県内で「はしか」感染者　新たに２人判明　今年に入って７人目（2026年7月1日掲載）｜KNB NEWS NNN",
       "headlineTranslated": "Two more measles cases confirmed in Toyama Prefecture, seventh this year (published July 1, 2026) | KNB NEWS NNN",
@@ -610,8 +591,8 @@
         }
       ],
       "prefectures": [
-        "熊本県",
-        "東京都"
+        "東京都",
+        "熊本県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
