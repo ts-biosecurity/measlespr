@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T12:54:47.366151+00:00",
+  "generated_at": "2026-07-13T15:03:22.976442+00:00",
   "date_range": {
     "start": "2026-06-13",
     "end": "2026-07-13"
@@ -91,25 +91,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "wam.go.jp"
-    },
-    {
-      "articleId": "gnews_7018576ed26ddd7e",
-      "headline": "県内の感染症情報 - city.fujieda.shizuoka.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-06T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmdoY2ZmX3BHS3NqNTdRY0VuLWNGQks4NGduLVI3LUlyc1hGWi1RVGpDakVwb01RUmhETWtTejl6Z0pSb3pwdEJwQnZfTkRRTnl3ZWRJM1VDRkdvTzlwTlFEUEZSRWFFN0dQb2ZXb3ZxSkh6QW1NZ2VhTGp0dUVwcGh0Y25HVEl6Ujdna0FR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.fujieda.shizuoka.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuNDduZXdzLmpwLzE0NTcyMjgzLmh0bWw=",
@@ -525,6 +506,25 @@
       "sourceName": "TBS NEWS DIG"
     },
     {
+      "articleId": "gnews_93d6f5a81c1caceb",
+      "headline": "麻疹ワクチン製造基盤技術移転プロジェクト | ODA見える化サイト - jica.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-26T20:15:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55T3B6TEk3b3Y0RDVwVTRnR2pqRndacGJUNUVPTzVycXREN2RGakc4aUI4SGRZa280Y3kyb3dUOHp2NXBkWnZmRkxiVTlzTFdLMmdpUGFR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "jica.go.jp"
+    },
+    {
       "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDY3NzQ=",
       "headline": "熊本市で2人目、はしか感染【熊本県感染症情報】｜熊本日日新聞社",
       "headlineTranslated": "Second Measles Case in Kumamoto City [Kumamoto Prefecture Infectious Disease Information] | Kumamoto Nichinichi Shimbun",
@@ -554,8 +554,8 @@
         }
       ],
       "prefectures": [
-        "熊本県",
-        "東京都"
+        "東京都",
+        "熊本県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
