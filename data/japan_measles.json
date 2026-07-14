@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-13T22:22:08.313365+00:00",
+  "generated_at": "2026-07-14T00:39:06.567403+00:00",
   "date_range": {
-    "start": "2026-06-13",
-    "end": "2026-07-13"
+    "start": "2026-06-14",
+    "end": "2026-07-14"
   },
-  "total_articles": 32,
+  "total_articles": 31,
   "prefecture_summary": {
-    "東京都": 20,
     "京都府": 1,
+    "東京都": 19,
     "全国（都道府県不明）": 9,
     "富山県": 8,
     "熊本県": 1,
@@ -29,8 +29,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -167,8 +167,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -213,8 +213,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -289,8 +289,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -351,8 +351,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -387,8 +387,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -480,8 +480,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -535,8 +535,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "熊本県"
+        "熊本県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -645,8 +645,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -874,31 +874,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.kanagawa.jp"
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cubmlra2VpLmNvbS9hcnRpY2xlL0RHWFpRT1VBMDU2SFMwVjAwQzI2QTYwMDAwMDAv",
-      "headline": "はしか、なぜ急増しているの？　「ワクチン2回接種」徹底が重要",
-      "headlineTranslated": "Measles: Why is it increasing rapidly? Ensuring two-dose vaccination is important.",
-      "summary": "As of June 14, 2026, measles outbreaks are expanding globally, with Japan reporting a rapid rise in 2026, particularly in the Kanto, Chubu, and Kansai regions. The year-to-date case count already far exceeds the 2025 annual total of 265. Sayaka Takanashi, head of the Vaccination Research Department at the National Institute of Infectious Diseases (NIID), discusses the domestic situation. The article emphasizes the importance of ensuring two-dose measles vaccination to prevent transmission and strengthen population immunity, highlighting vaccination coverage as a key factor in controlling the outbreak.",
-      "summaryOriginal": "As of June 14, 2026, measles outbreaks are expanding globally, with Japan reporting a rapid rise in 2026, particularly in the Kanto, Chubu, and Kansai regions. The year-to-date case count already far exceeds the 2025 annual total of 265. Sayaka Takanashi, head of the Vaccination Research Department at the National Institute of Infectious Diseases (NIID), discusses the domestic situation. The article emphasizes the importance of ensuring two-dose measles vaccination to prevent transmission and strengthen population immunity, highlighting vaccination coverage as a key factor in controlling the outbreak.",
-      "publishedTimestamp": "2026-06-13T17:00:00+00:00",
-      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUA056HS0V00C26A6000000/",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
     }
   ]
 }
