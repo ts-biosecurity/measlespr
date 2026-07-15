@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-15T08:51:20.612845+00:00",
+  "generated_at": "2026-07-15T10:37:03.129630+00:00",
   "date_range": {
     "start": "2026-06-15",
     "end": "2026-07-15"
   },
-  "total_articles": 29,
+  "total_articles": 35,
   "prefecture_summary": {
-    "全国（都道府県不明）": 8,
-    "京都府": 1,
+    "全国（都道府県不明）": 13,
     "東京都": 19,
-    "富山県": 8,
+    "京都府": 1,
+    "富山県": 9,
     "熊本県": 1,
     "静岡県": 1
   },
@@ -53,6 +53,44 @@
       "sourceName": "wam.go.jp"
     },
     {
+      "articleId": "gnews_4a4551ebef0e891d",
+      "headline": "「キラキラした高校生活が突然、奪われた」はしか発症後、何年も経って起きる重症脳炎 家族がワクチンによる予防を訴え - 岩永直子のニュースレター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-12T02:22:32+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ19CQTEwa3JyRElTSGlPQ2RDbDhPbDl5VVpmWlNILXdXLXdUYktLaHpQdDV6M1dEMkRrUzdMeVJYRE1PMWZrTXRmLUVOQ3FDd3dzUmNqQzdOcHVPWnRYZWc4SVdCamRIbmJDeEx3dzFkN3ZkZjdwYktNLWxPV2FqRW1n?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "岩永直子のニュースレター"
+    },
+    {
+      "articleId": "gnews_ba72462577f341c4",
+      "headline": "妊婦が感染すると赤ちゃんが病気になる風しん 排除を達成するもワクチン接種率の維持が課題 - 岩永直子のニュースレター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-11T02:12:27+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQnc1Wlc1MDRPODRwalFLb2JSbjJCS2JfVnAzN1lwRFFUNmY2OExpalYxRXhfWGtQTjV1bHdEcmFFX2g3ZjVrdXNzMnppeXRrMGRQTFRwTFNuRDdqUkl0YzFFWS0xRWxHM09iclNiS1lwX18wamRXc3gwR0RPbWJPTTZ3?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "岩永直子のニュースレター"
+    },
+    {
       "articleId": "gnews_4cca64790d141d7d",
       "headline": "日本で増えている麻しん（はしか） 今の流行の特徴は？ワクチンに意味はあるの？感染症のスペシャリストが講演 - 岩永直子のニュースレター",
       "headlineTranslated": "",
@@ -85,8 +123,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -109,6 +147,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.hyogo.lg.jp"
+    },
+    {
+      "articleId": "gnews_abc0c6297b5f472e",
+      "headline": "はしか感染拡大…子どもだけじゃない！ワクチン空白世代は注意 症状が軽く気付きにくい「修飾麻疹」も - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-08T22:07:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95T29hdFZvSF9Idno2SExyZG9YdmJ0TWoyTzhMb0FROFYtb0dXZGM0NEVUU0txdDlFTFdacVlwS3FQMlBIdnpiQXJwWWlwbzdIblhqU3doaGFDanBDY3k2V0wyNkg3cms?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "gnews_c8c3ef0517b05fc4",
@@ -204,8 +261,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -250,8 +307,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -326,8 +383,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -388,8 +445,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -424,8 +481,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -448,6 +505,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "town.oiso.kanagawa.jp"
+    },
+    {
+      "articleId": "gnews_69c603613c3bcf50",
+      "headline": "【大磯町】大磯町が麻しん風しん任意予防接種費用を助成｜2歳〜小学6年生が対象、2026年7月から - 湘南人",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-30T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sNDdMZXN6VER5VW5UZGlaRzZ6X2F0a3NTMDM0VnlDS0thVTdadHA3WGRSLTJmT3g2RnQxZGhlbWpiQ0lObVZNS0JRQ2dFU1o3YVJUek5BVkNyNDdvQlpkOGlhWFYtbHRWV0d1eE4zb2hWNkRFaTRZ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "湘南人"
     },
     {
       "articleId": "gnews_fe14f5372b57ddab",
@@ -517,8 +593,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -541,6 +617,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
+    },
+    {
+      "articleId": "gnews_08754a23bf97c03d",
+      "headline": "富山市内ではしか（麻しん）感染者を確認 40代女性が発症、強力な感染力への対策と、疑わしい症状が出た場合は医療機関の受診を (チューリップテレビ) - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-27T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWFJMOEVGNDlueG1FTS1pel80ck9vN3NqeWgxZGo5b09rWm5ZUjFwSW9MRGp3aG04WDJ0Q21VSkNLbHJaV1Z2Y2c3QlFiVUFLWkdVNUs1UmhSM3dWLW5YN1RlOEo3NlZ5UERJLVYwWjl1OFBRYXU4ZjdsRjEtdkIzUmdaRFVjTEcySVBTUnpR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "富山県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDY3NzQ=",
@@ -682,8 +777,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -774,6 +869,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_14a68391d3a162d7",
+      "headline": "「はしか」が首都圏と関西の都市部で流行中、どんな病気かをおさらい - ダイヤモンド・オンライン",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YM0MyaXN6WHdLQzVqTFZZQ1RIRGlYSUpKQldRYmZmcDJyelFsanRkYTJkLUVybTJrdUFIRllTTWt4OFdiYmREVkc1UUfSAU9BVV95cUxNb2txM1N3S0tNNEdRMjhJNGtfaEhxOWhQS2xCVGVJYldqRDhwaXBWTUR0aWFyUG9JWF9GRTlJeWdjTkJLN0hXSmEtMTRXdlRZ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ダイヤモンド・オンライン"
     },
     {
       "articleId": "aHR0cHM6Ly9kaWFtb25kLmpwL2FydGljbGVzLy0vMzkyNjM5",
