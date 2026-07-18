@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T22:18:53.346542+00:00",
+  "generated_at": "2026-07-18T00:38:53.004548+00:00",
   "date_range": {
-    "start": "2026-06-17",
-    "end": "2026-07-17"
+    "start": "2026-06-18",
+    "end": "2026-07-18"
   },
-  "total_articles": 25,
+  "total_articles": 23,
   "prefecture_summary": {
     "全国（都道府県不明）": 6,
-    "東京都": 16,
+    "東京都": 14,
     "富山県": 9,
     "熊本県": 1,
     "静岡県": 1
@@ -513,8 +513,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "熊本県"
+        "熊本県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -684,56 +684,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.ibaraki.jp"
-    },
-    {
-      "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDM2Mzk=",
-      "headline": "熊本市ではしか、今年1例目　感染拡大「可能性は低い」　ワクチン接種呼びかけ｜熊本日日新聞社",
-      "headlineTranslated": "Measles in Kumamoto City: First case this year; spread of infection unlikely; vaccination urged | Kumamoto Nichinichi Shimbun",
-      "summary": "Kumamoto University researchers are developing 'KUMANICHI Recommends,' an article-recommendation system in the lab of a Kumamoto University Graduate School professor. The system aims to go beyond word similarity by leveraging contextual language use to approach human-like reasoning. Kumamoto Nichinichi Shimbun provides the KumNichi electronic edition as a testing ground; the project remains experimental and may display unrelated articles during evaluation. It uses anonymized data to infer readers’ interests, removing names and addresses to prevent identification in accordance with legal standards, with further details on anonymized information disclosure available on a dedicated page. Notably, the article’s title cites measles in Kumamoto City and vaccination urges, but the body focuses on the recommender system rather than epidemiological details.",
-      "summaryOriginal": "Kumamoto University researchers are developing 'KUMANICHI Recommends,' an article-recommendation system in the lab of a Kumamoto University Graduate School professor. The system aims to go beyond word similarity by leveraging contextual language use to approach human-like reasoning. Kumamoto Nichinichi Shimbun provides the KumNichi electronic edition as a testing ground; the project remains experimental and may display unrelated articles during evaluation. It uses anonymized data to infer readers’ interests, removing names and addresses to prevent identification in accordance with legal standards, with further details on anonymized information disclosure available on a dedicated page. Notably, the article’s title cites measles in Kumamoto City and vaccination urges, but the body focuses on the recommender system rather than epidemiological details.",
-      "publishedTimestamp": "2026-06-17T09:07:32+00:00",
-      "sourceUrl": "https://kumanichi.com/articles/2003639",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2trdC9jYXRlZ29yeS9zb2NpZXR5L2trODE1MmI1NjZlYWM5NDAxYWE1ODE1NTE4Yzc2NmI3MzU=",
-      "headline": "全国でも感染の「はしか」熊本市でも感染確認 微熱や発疹の症状（2026年6月17日掲載）｜KKT NEWS NNN",
-      "headlineTranslated": "Measles infection nationwide; infection confirmed in Kumamoto City as well; symptoms include mild fever and rash (June 17, 2026) | KKT NEWS NNN",
-      "summary": "Measles infection confirmed in Kumamoto City, Japan, involving a teenage girl. Nationwide measles transmission is reported, with Kumamoto City Public Health Center noting no current evidence of broader spread. On June 1, it was learned that a person who had contact with the patient outside the prefecture had developed measles by June 3. The Kumamoto teenager self-observed at home from June 3; she developed mild fever and rash and tested positive on June 12. She is believed to have been infectious from the day before symptom onset to three days after fever onset, but she did not leave home during that period. Public health authorities state the infection does not appear to be expanding at present. Vaccination remains the most effective prevention against measles.",
-      "summaryOriginal": "Measles infection confirmed in Kumamoto City, Japan, involving a teenage girl. Nationwide measles transmission is reported, with Kumamoto City Public Health Center noting no current evidence of broader spread. On June 1, it was learned that a person who had contact with the patient outside the prefecture had developed measles by June 3. The Kumamoto teenager self-observed at home from June 3; she developed mild fever and rash and tested positive on June 12. She is believed to have been infectious from the day before symptom onset to three days after fever onset, but she did not leave home during that period. Public health authorities state the infection does not appear to be expanding at present. Vaccination remains the most effective prevention against measles.",
-      "publishedTimestamp": "2026-06-17T09:06:01+00:00",
-      "sourceUrl": "https://news.ntv.co.jp/n/kkt/category/society/kk8152b566eac9401aa5815518c766b735",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
     }
   ]
 }
