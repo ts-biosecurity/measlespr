@@ -1,18 +1,73 @@
 {
-  "generated_at": "2026-07-20T12:48:38.083948+00:00",
+  "generated_at": "2026-07-20T14:47:53.777686+00:00",
   "date_range": {
     "start": "2026-06-20",
     "end": "2026-07-20"
   },
-  "total_articles": 22,
+  "total_articles": 24,
   "prefecture_summary": {
-    "東京都": 14,
+    "全国（都道府県不明）": 8,
+    "東京都": 15,
     "京都府": 1,
-    "全国（都道府県不明）": 7,
     "富山県": 8,
     "熊本県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_593ede66a66d191e",
+      "headline": "今年のはしか感染５００人超、訪日外国人がウイルス持ち込みか…コロナ教訓に進めた医療情報デジタル化に期待 - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-20T13:36:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kR0hWU3g4WDVSMGg2UTdnMV9BVl9OVVFrczdoQUE0X1pwMzFJQjFBNWlIR2lYeWZiNlNsM1JUbml2emVZbGxhTkx6Y21oZE80blN4VFpleVYyaUFaR21BM000dzc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
+    },
+    {
+      "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDcyMC1HWVQxVDAwMjA0Lw==",
+      "headline": "今年のはしか感染５百人超、訪日外国人がウイルス持ち込みか...コロナ教訓に進めた医療情報デジタル化に期待 | ヨミドクター(読売新聞)",
+      "headlineTranslated": "Measles infections exceed 500 this year, foreign visitors to Japan may have brought the virus... Hope for digitalization of medical information driven by COVID-19 lessons.",
+      "summary": "Measles infections in Japan surpassed 547 cases by July 8, 2026, second only to 2019’s 744, with Tokyo accounting for about half (264). Genetic analysis indicates that foreign visitors to Japan introduced the virus. Nine of ten patients are under 30, and many have no documented vaccination history. Measles is airborne, with cough, high fever, and rash; about 1 in 1,000 infected may die, and pregnancy loss is a risk. Tokyo leverages the COVID-19–era K-net infectious disease information-sharing system linking 31 public health centers to rapidly share test results, travel histories, and timings, aiding contact tracing and containment. An emergency vaccination program targets those exposed within 72 hours. Logistics upgrades, including a dedicated motorcycle courier network for specimen transport, reduce staff burden. Health experts view these measures as strengthening readiness for future outbreaks.",
+      "summaryOriginal": "Measles infections in Japan surpassed 547 cases by July 8, 2026, second only to 2019’s 744, with Tokyo accounting for about half (264). Genetic analysis indicates that foreign visitors to Japan introduced the virus. Nine of ten patients are under 30, and many have no documented vaccination history. Measles is airborne, with cough, high fever, and rash; about 1 in 1,000 infected may die, and pregnancy loss is a risk. Tokyo leverages the COVID-19–era K-net infectious disease information-sharing system linking 31 public health centers to rapidly share test results, travel histories, and timings, aiding contact tracing and containment. An emergency vaccination program targets those exposed within 72 hours. Logistics upgrades, including a dedicated motorcycle courier network for specimen transport, reduce staff burden. Health experts view these measures as strengthening readiness for future outbreaks.",
+      "publishedTimestamp": "2026-07-20T00:00:00+00:00",
+      "sourceUrl": "https://www.yomiuri.co.jp/yomidr/article/20260720-GYT1T00204/",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "COVID-19",
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Tokyo Prefecture",
+          "lat": 35.6895,
+          "lon": 139.69171
+        },
+        {
+          "name": "Tokyo",
+          "lat": 35.6895,
+          "lon": 139.69171
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
     {
       "articleId": "gnews_e5b30407ed2f9682",
       "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
