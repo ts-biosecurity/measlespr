@@ -1,19 +1,57 @@
 {
-  "generated_at": "2026-07-21T08:58:27.903183+00:00",
+  "generated_at": "2026-07-21T10:45:22.771033+00:00",
   "date_range": {
     "start": "2026-06-21",
     "end": "2026-07-21"
   },
-  "total_articles": 24,
+  "total_articles": 25,
   "prefecture_summary": {
+    "全国（都道府県不明）": 9,
     "鹿児島県": 1,
-    "全国（都道府県不明）": 8,
     "東京都": 14,
     "京都府": 1,
     "富山県": 7,
     "熊本県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_5ef14eb73657ea16",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年7月21日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-21T05:38:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12M19WNEV4Nk9zSWNCMDVIdGlTUWtjOGw4OUU1TEhETzJZaTZyWWozREZQbExUMklLcVNxUi1lS25KcVVyaFY4T09YRDM3YjN2RTdlTWRIcGZkYWxDQVpZWjQ4MTNRbVlsU0ZhZjUwanJUY2tJSWs0M29PNFZ2VUU?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
+    },
+    {
+      "articleId": "gnews_fca0e41a19ff51fe",
+      "headline": "排除したからといって終わりではない 娘を先天性風しん症候群で失った母が守り続けたいこと - 岩永直子のニュースレター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-21T04:18:25+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMFVINkFOejk0NnROMHJWWHdub1Z2b0txbTYwbEFSVjVTc2FsZUt2Q3hkdGRwd0hBYXhfT3dDSlpkNmhfdk5CRWtsRERxXzFEVFZfcEJUSzVnTHBkWkRUbVdFV2hVN3JOMl9jaHdqdlB1V2YxMVF1a0FvdmxrVk0tbkR3?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "岩永直子のニュースレター"
+    },
     {
       "articleId": "gnews_b4692c40d325ec49",
       "headline": "「はしか」九州でも相次ぐ感染、鹿児島県で今年３０人超え…感染力が極めて強く１０００人に１人が死亡（読売新聞オンライン） - Yahoo!ニュース",
@@ -102,8 +140,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -164,25 +202,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.meguro.tokyo.jp"
-    },
-    {
-      "articleId": "gnews_f3cfa012174804d4",
-      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年7月7日更新） - wam.go.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-08T04:43:50+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oeHk5aTJnN0Y1MHFrZ2lGVklnVU9Da0llLXVqM08zQ25oUGNuSnBPWmw5QklQN29pMWJfdHdBNWZiRjZZVTBpMTdfX1czYlFObTFuZkFQUEpGak02Zlg0RWo5OFl5NTNERVNESWt4bVJHek0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "wam.go.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuNDduZXdzLmpwLzE0NTcyMjgzLmh0bWw=",
@@ -259,8 +278,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -305,8 +324,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -381,8 +400,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -443,8 +462,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -479,8 +498,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -553,8 +572,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -645,7 +664,7 @@
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-23T07:00:00+00:00",
+      "publishedTimestamp": "2026-06-24T05:14:14+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TNFRmSjlHSFY0VEx3VWxmcWZEX3FLX1A4OV9PSGlsR2M5VWxvR0w0TWRoVzY0ZHBSOC1SRURSUzdUN3ZJN0Vzc3Z5Z19NTzRmZnA1LWpSZGY5MlNvWnRselhtUThKOXEyU2p1R2pWZEUzQmM?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
