@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-20T22:23:18.420877+00:00",
+  "generated_at": "2026-07-21T00:42:23.122371+00:00",
   "date_range": {
-    "start": "2026-06-20",
-    "end": "2026-07-20"
+    "start": "2026-06-21",
+    "end": "2026-07-21"
   },
-  "total_articles": 24,
+  "total_articles": 23,
   "prefecture_summary": {
     "全国（都道府県不明）": 8,
-    "東京都": 15,
+    "東京都": 14,
     "京都府": 1,
-    "富山県": 8,
+    "富山県": 7,
     "熊本県": 1
   },
   "articles": [
@@ -82,8 +82,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -659,47 +659,6 @@
       ],
       "prefectures": [
         "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuMTZhOGFlMDNlYzZjNDI4NjhhZTY5MmEyZTgyY2EwOTg=",
-      "headline": "富山市の20代男性「はしか」に感染　県内での感染報告は今月2件め（2026年6月20日掲載）｜KNB NEWS NNN",
-      "headlineTranslated": "Measles infection in a man in his twenties in Toyama City; second measles case reported in the prefecture this month (published June 20, 2026) | KNB News NNN",
-      "summary": "As of June 20, 2026, a man in his 20s in Toyama City has been confirmed with measles, the second measles case in Toyama Prefecture this month. The patient developed fever and rash on June 17 and sought medical care on June 19; genetic testing at the Prefectural Institute of Public Health confirmed measles. He is self-isolating at home. There is no overseas travel in the past year, and no travel outside the prefecture within the past three weeks. Authorities are investigating the infection source and transmission route. This follows the first case this month, a man in his 20s residing in the Takaoka Public Health Center jurisdiction, making June 2026 the month with two reported cases in the prefecture. City health officials are issuing cautions to the public.",
-      "summaryOriginal": "As of June 20, 2026, a man in his 20s in Toyama City has been confirmed with measles, the second measles case in Toyama Prefecture this month. The patient developed fever and rash on June 17 and sought medical care on June 19; genetic testing at the Prefectural Institute of Public Health confirmed measles. He is self-isolating at home. There is no overseas travel in the past year, and no travel outside the prefecture within the past three weeks. Authorities are investigating the infection source and transmission route. This follows the first case this month, a man in his 20s residing in the Takaoka Public Health Center jurisdiction, making June 2026 the month with two reported cases in the prefecture. City health officials are issuing cautions to the public.",
-      "publishedTimestamp": "2026-06-20T06:29:00+00:00",
-      "sourceUrl": "https://news.ntv.co.jp/n/knb/category/society/kn16a8ae03ec6c42868ae692a2e82ca098",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Toyama-ken",
-          "lat": 36.63926,
-          "lon": 137.26513
-        },
-        {
-          "name": "Takaoka",
-          "lat": 36.75,
-          "lon": 137.01667
-        },
-        {
-          "name": "Toyama Shi",
-          "lat": 36.55146,
-          "lon": 137.29872
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都",
-        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
