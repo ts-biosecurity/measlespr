@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T00:40:03.334569+00:00",
+  "generated_at": "2026-07-24T03:08:14.137272+00:00",
   "date_range": {
     "start": "2026-06-24",
     "end": "2026-07-24"
@@ -163,25 +163,6 @@
       "sourceName": "city.okazaki.lg.jp"
     },
     {
-      "articleId": "gnews_c8c3ef0517b05fc4",
-      "headline": "麻しん（はしか）抗体検査および予防接種を無料で受けられます（20歳以上59歳以下のかた） - city.meguro.tokyo.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-08T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2EwdkMzZUNlbmVsTkF6S18xWHRqc0lxSWhfOXg3ckdXQTJWaWZDT1F4cTN6WDZMWTNXOTUzSE40NGdvbk5iejhTZ1RSakhGWnVYeTBsZV9NS0FWQVFvTDNsd0g3NjZGRi1VTzVFeEU5VUdudUtBbzhTNFdfTVRlTW9ZQXlpS0FYNXdSeHkyRFBrQXljWVNsNGFrc1dNUQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.meguro.tokyo.jp"
-    },
-    {
       "articleId": "gnews_ea6860232faeb4f6",
       "headline": "「麻しん（はしか）」の感染予防について - pref.hiroshima.lg.jp",
       "headlineTranslated": "",
@@ -199,6 +180,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.hiroshima.lg.jp"
+    },
+    {
+      "articleId": "gnews_c8c3ef0517b05fc4",
+      "headline": "麻しん（はしか）抗体検査および予防接種を無料で受けられます（20歳以上59歳以下のかた） - city.meguro.tokyo.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-08T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2EwdkMzZUNlbmVsTkF6S18xWHRqc0lxSWhfOXg3ckdXQTJWaWZDT1F4cTN6WDZMWTNXOTUzSE40NGdvbk5iejhTZ1RSakhGWnVYeTBsZV9NS0FWQVFvTDNsd0g3NjZGRi1VTzVFeEU5VUdudUtBbzhTNFdfTVRlTW9ZQXlpS0FYNXdSeHkyRFBrQXljWVNsNGFrc1dNUQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.meguro.tokyo.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuNDduZXdzLmpwLzE0NTcyMjgzLmh0bWw=",
@@ -605,8 +605,8 @@
         }
       ],
       "prefectures": [
-        "熊本県",
-        "東京都"
+        "東京都",
+        "熊本県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
