@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T05:07:22.402075+00:00",
+  "generated_at": "2026-07-24T06:57:32.021057+00:00",
   "date_range": {
     "start": "2026-06-24",
     "end": "2026-07-24"
   },
-  "total_articles": 22,
+  "total_articles": 21,
   "prefecture_summary": {
-    "全国（都道府県不明）": 10,
+    "全国（都道府県不明）": 9,
     "東京都": 12,
     "富山県": 6,
     "熊本県": 1
@@ -30,25 +30,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "日経メディカル"
-    },
-    {
-      "articleId": "gnews_9cbd089550447f98",
-      "headline": "45歳の男性が、麻疹をインフルエンザと間違えたことが原因で、命に関わる重篤な麻疹を発症した。 - Vietnam.vn",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-23T05:12:43+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDJ2SGdaN05teDcwcHVRVHBvbUV2RHlNVkFmZXJWNnNsTEZWczBfOU9WYnI2dkFiRDI4Zk5rNXpMSGpfVko1eFJ2YnBmQmFtbHRKY1B0Ym5hNG1YcC03UHZYS0lST3NZLUxnUTNQX1MzeS1tRVlhR1c5cndWdHo5X1VGWUM1LUxV?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Vietnam.vn"
     },
     {
       "articleId": "gnews_63e0be7e5b1b33aa",
@@ -605,8 +586,8 @@
         }
       ],
       "prefectures": [
-        "熊本県",
-        "東京都"
+        "東京都",
+        "熊本県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
