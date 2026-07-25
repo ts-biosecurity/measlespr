@@ -1,18 +1,37 @@
 {
-  "generated_at": "2026-07-24T22:26:31.600931+00:00",
+  "generated_at": "2026-07-25T00:43:21.931890+00:00",
   "date_range": {
-    "start": "2026-06-24",
-    "end": "2026-07-24"
+    "start": "2026-06-25",
+    "end": "2026-07-25"
   },
-  "total_articles": 26,
+  "total_articles": 27,
   "prefecture_summary": {
-    "全国（都道府県不明）": 11,
+    "全国（都道府県不明）": 12,
     "鹿児島県": 1,
     "東京都": 12,
     "富山県": 8,
     "熊本県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_6be6db91f69a3d3d",
+      "headline": "米国ではしか感染者数が1991年以来の過去最多を記録 「麻疹根絶」の地位失う可能性も（7/24） - LALALA USA",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-24T22:31:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxRDVHeE1JSG1yLWFNaGZBVWNzbjIyRHhqbmc4WDdVdXRXd1d0NDNoVXNWcWNubEVvZU13Q0hpaE81ck5uemtEMnN6d0s?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "LALALA USA"
+    },
     {
       "articleId": "gnews_b0c9a76a15ea55f6",
       "headline": "米国で今年の「はしか」の感染者数が過去３５年で最多に…２３１８人、Ｗ杯開催によるウイルス流入などが原因か - 読売新聞",
@@ -634,8 +653,8 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_fb33e19d960b2b62",
-      "headline": "富山市内ではしか（麻しん）感染者を確認 40代女性が発症、強力な感染力への対策と、疑わしい症状が出た場合は医療機関の受診を - TBS NEWS DIG",
+      "articleId": "gnews_6b54127784ecb885",
+      "headline": "富山市内ではしか（麻しん）感染者を確認 40代女性が発症、強力な感染力への対策と、疑わしい症状が出た場合は医療機関の受診を | 富山のニュース｜天気・防災｜チューリップテレビ - TBS NEWS DIG",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -682,8 +701,8 @@
         }
       ],
       "prefectures": [
-        "熊本県",
-        "東京都"
+        "東京都",
+        "熊本県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
