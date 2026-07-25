@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-07-25T16:22:08.667472+00:00",
+  "generated_at": "2026-07-25T18:22:18.893219+00:00",
   "date_range": {
     "start": "2026-06-25",
     "end": "2026-07-25"
   },
-  "total_articles": 27,
+  "total_articles": 29,
   "prefecture_summary": {
     "全国（都道府県不明）": 13,
+    "鹿児島県": 1,
     "東京都": 12,
-    "富山県": 8,
+    "富山県": 9,
     "熊本県": 1
   },
   "articles": [
@@ -144,6 +145,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "wam.go.jp"
+    },
+    {
+      "articleId": "gnews_b4692c40d325ec49",
+      "headline": "「はしか」九州でも相次ぐ感染、鹿児島県で今年３０人超え…感染力が極めて強く１０００人に１人が死亡（読売新聞オンライン） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-21T00:54:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrbkdNd2s1bENpcENuaGNUTEFFSzZmUFBkMVBiVndhSlhndGhtZ0g1c0hQWG15TkFNWXFrbE1VSTdDNjJ5WHVXV3djYW9PeVFHQ21lNXBBYmt1MzB6SjdIV1dSbWcwTU00TWJqak02djBjVmlHMU01RHJUN0lrNTA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "鹿児島県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_593ede66a66d191e",
@@ -564,7 +584,7 @@
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-01T02:02:18+00:00",
+      "publishedTimestamp": "2026-06-30T07:00:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUt1Yk5GWE41OTlFYjFLQ3F1TkVMUnN1bURfZURXVEZaY3AtWTN0MmctR1JYYkxHYUIzZC11WHREaXRrOVh4dDBwRWRzTUtfbW45Ni1Zb000Q3Vma2ZDRXI3bUxvZjFlZU9MX3VqcnRDMWFqb0dZXzJpRVRtT19pLVpZQmQ5OTVJVmdROUU3Zw?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
@@ -669,6 +689,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
+    },
+    {
+      "articleId": "gnews_3aa8d9995e183789",
+      "headline": "富山市内ではしか（麻しん）感染者を確認 40代女性が発症、強力な感染力への対策と、疑わしい症状が出た場合は医療機関の受診を（チューリップテレビ） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-27T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yQTlLemxtT0tkV2trVmNKYWZkcVlkZ0xYTE1Sb0JXZWRuUmtmVjZ4YnpjVnVCaURnV3hTZnd6MWV0bWhSUU45QlNjSnlLY293YWNvNWRkbXlFcjRrcXlnTFA1LWhPOHZxNjR0NFRhY2tCY1MxVnhheUlrRmFidEU?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "富山県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "aHR0cHM6Ly9rdW1hbmljaGkuY29tL2FydGljbGVzLzIwMDY3NzQ=",
