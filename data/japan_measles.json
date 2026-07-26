@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-07-26T10:34:52.233540+00:00",
+  "generated_at": "2026-07-26T12:29:04.341442+00:00",
   "date_range": {
     "start": "2026-06-26",
     "end": "2026-07-26"
   },
   "total_articles": 25,
   "prefecture_summary": {
-    "全国（都道府県不明）": 15,
-    "東京都": 10,
+    "全国（都道府県不明）": 14,
+    "東京都": 11,
+    "京都府": 1,
     "富山県": 6
   },
   "articles": [
@@ -29,25 +30,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Spherical Insights"
-    },
-    {
-      "articleId": "gnews_9705b2ef468374e9",
-      "headline": "多くの成人は、麻疹のリスクを過小評価したために入院している。 - Vietnam.vn",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-25T11:53:37+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByRElfc3ZmYnd6Q0pjN2ZQaHFWdTJ0bkh0SHJzaGZXdHMwRDZadkI5TFNwcW9BeGJEZjRnR21DNWxNVjM0anhCbDBNeWo4MUZLNE5oVDJocGRDQkN4NWJIUk1fSkNudkIyWlRRYVJvN0pMdktreDRiWHBLc2d5QQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Vietnam.vn"
     },
     {
       "articleId": "gnews_6be6db91f69a3d3d",
@@ -143,6 +125,26 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.ichikawa.lg.jp"
+    },
+    {
+      "articleId": "gnews_e5b30407ed2f9682",
+      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-23T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都",
+        "京都府"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "東京都感染症情報センター"
     },
     {
       "articleId": "gnews_63e0be7e5b1b33aa",
@@ -350,8 +352,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -396,8 +398,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -472,8 +474,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -534,8 +536,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -570,8 +572,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -663,8 +665,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
