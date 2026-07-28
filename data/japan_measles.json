@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T00:40:55.708143+00:00",
+  "generated_at": "2026-07-28T03:08:02.671946+00:00",
   "date_range": {
     "start": "2026-06-28",
     "end": "2026-07-28"
@@ -7,11 +7,30 @@
   "total_articles": 27,
   "prefecture_summary": {
     "全国（都道府県不明）": 17,
-    "京都府": 1,
     "東京都": 10,
+    "京都府": 1,
     "富山県": 5
   },
   "articles": [
+    {
+      "articleId": "gnews_9b460eb6ec15e933",
+      "headline": "麻疹はいかにして猛威を取り戻したか：Visionary Voices｜with Planet - 朝日新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T01:18:29+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1STFBKQ1JGY1FJcUpQei1VbVQ4V1RMZzFGUUhjalJHdFZwbFpVNVp1UktRQ1RraUVVM3hqcWc2dGVWWnlRbFVYOWR6anJDbmFDazVwVHVzcHZLMlRUTkE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "朝日新聞"
+    },
     {
       "articleId": "gnews_76338e36a22b0454",
       "headline": "麻しんの抗体検査補助など県に要望　県市長会が２項目｜四国新聞WEB朝刊 - 四国新聞",
@@ -49,25 +68,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "47NEWS"
-    },
-    {
-      "articleId": "gnews_eff9540d20fd4d2f",
-      "headline": "「ひとたび風しんが流行れば、どれだけの命が無かったことにされるのか」 妊娠中に中絶を迫られた母親がMRワクチンでの予防を伝え続ける理由 - 岩永直子のニュースレター",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-26T10:18:31+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObEtCQjA0YVJLXzdSbFljZWdFYjdwaS0zejNOMnpUZ1ZtUFF0dTNLeXNmVVZRVldXLTdnSDBzYVdTaXNSTDVLcFotZUcyeTRBOWNCdnN4YlljdzRtdnR0eE9BZ2NlZE9wcHF1cFVaajRuVldjX2xnaHRYa3Z1ZmtJd3VR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "岩永直子のニュースレター"
     },
     {
       "articleId": "gnews_bc9e88188e02ae4c",
@@ -178,8 +178,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -409,8 +409,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -455,8 +455,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -531,8 +531,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -593,8 +593,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -629,8 +629,8 @@
         }
       ],
       "prefectures": [
-        "富山県",
-        "東京都"
+        "東京都",
+        "富山県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
