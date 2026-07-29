@@ -1,17 +1,36 @@
 {
-  "generated_at": "2026-07-29T05:08:14.717867+00:00",
+  "generated_at": "2026-07-29T07:01:14.620546+00:00",
   "date_range": {
     "start": "2026-06-29",
     "end": "2026-07-29"
   },
-  "total_articles": 26,
+  "total_articles": 24,
   "prefecture_summary": {
-    "全国（都道府県不明）": 16,
-    "東京都": 10,
+    "全国（都道府県不明）": 14,
     "京都府": 1,
+    "東京都": 10,
     "富山県": 5
   },
   "articles": [
+    {
+      "articleId": "gnews_eef570a8dad7d40e",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年7月28日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-29T03:53:52+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pZ0w0V3N0V2E2dUFuMy0xcGpuM25UUlpWLW1rdFVlN0Z5Rm0wTFpxZFpHa1ozUmpnQzRNeEdFbTdKYnZjMU1zN0swYWQ5aV9nd05pMFBCdWwtMDlxQmgwaXJCc09PMVhmWHcxN3JENkJHbkU?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
+    },
     {
       "articleId": "gnews_9b460eb6ec15e933",
       "headline": "麻疹はいかにして猛威を取り戻したか：Visionary Voices｜with Planet - 朝日新聞",
@@ -30,25 +49,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "朝日新聞"
-    },
-    {
-      "articleId": "gnews_781f8436c23e2f2b",
-      "headline": "麻しんの抗体検査補助など県に要望 県市長会が２項目 - 47NEWS",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-27T19:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HWU40cTZnOHRwa210ZlhFX3ozeHBzS28yMk5PN0lkRmljYndxeUVQc1d0QXVJZkl3SnUxN0s2MTdGVlRlNC10VlhLZw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "47NEWS"
     },
     {
       "articleId": "gnews_bc9e88188e02ae4c",
@@ -140,8 +140,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -183,25 +183,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.ichikawa.lg.jp"
-    },
-    {
-      "articleId": "gnews_63e0be7e5b1b33aa",
-      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年7月21日更新） - wam.go.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-21T05:01:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVQTEwT1VpYkNlY25TMGJYRjhhZ3NnSjVsZ3Z4MmZYeUlaemlCNEJPa3NSRi1BanNpNXNneWNCdGJUWnJhUkU3bFlSV0ZXU01WZkF3bUM3dmhsbXV6SzA4Uy12RVJjckNEMVpuSV9zU0p0VDQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "wam.go.jp"
     },
     {
       "articleId": "gnews_593ede66a66d191e",
@@ -259,25 +240,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_737cc60978c798ab",
-      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-15T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "読売新聞"
-    },
-    {
       "articleId": "gnews_af3536845928383a",
       "headline": "風しん抗体検査・予防接種費用助成（妊娠を希望する女性等対象） - city.okazaki.lg.jp",
       "headlineTranslated": "",
@@ -295,6 +257,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.okazaki.lg.jp"
+    },
+    {
+      "articleId": "gnews_ea6860232faeb4f6",
+      "headline": "「麻しん（はしか）」の感染予防について - pref.hiroshima.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-08T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWZmFkLTloLW5pdXJxXzFVbURkbThTVElTWl96aGRvYkxIcTJJb2wxbmlxdzZHS0UtbS1WUVpsMGRpdkpYY2pWLXRYUEhLbXppSThnSkJSbXJmc3REVnRoVXBUQXBSenlQS1NFU1BwNA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.hiroshima.lg.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuNDduZXdzLmpwLzE0NTcyMjgzLmh0bWw=",
@@ -653,25 +634,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.saikai.nagasaki.jp"
-    },
-    {
-      "articleId": "gnews_fe14f5372b57ddab",
-      "headline": "麻しん（はしか）にご注意ください - town.oiso.kanagawa.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-29T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXd2T3RnQThPMFlSYzBlYklXVWI2dUZtRnRDM19Ra0hLeFlYV0FZdWlqWGNLYXRYbjZPTjRHZDNTNWM0X3RLOTNaaTRmSXdYaE5JLW1taG5vT2ZheWRJNVAwSlE3ZFZ3RGw2czNqaVBXWlIwVF9YZHU2UzVlM2FsdkJ3X3VTaWhXQ1Q2cEVR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "town.oiso.kanagawa.jp"
     }
   ]
 }
