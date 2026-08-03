@@ -1,17 +1,36 @@
 {
-  "generated_at": "2026-08-02T22:21:20.739392+00:00",
+  "generated_at": "2026-08-03T00:44:54.759643+00:00",
   "date_range": {
-    "start": "2026-07-03",
-    "end": "2026-08-02"
+    "start": "2026-07-04",
+    "end": "2026-08-03"
   },
-  "total_articles": 17,
+  "total_articles": 18,
   "prefecture_summary": {
-    "全国（都道府県不明）": 12,
-    "東京都": 5,
+    "全国（都道府県不明）": 14,
+    "東京都": 4,
     "京都府": 1,
-    "富山県": 2
+    "富山県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_da284c4c52ca9b96",
+      "headline": "「はしか」再拡大の米国で、治療薬開発が本格化している - WIRED.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-02T23:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBcno1WWF1OVBkMGRzZEhhU25zUlE1ZXp1R1dXR2FoZ0VaWFhJWkxjM0d2UU9rMDZJbkxTek5vMHphdjZab0FNUW4zQ2FGN0ZDSmRiY1pzUnJHbUpFRlA4N3VtTlJyUXc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "WIRED.jp"
+    },
     {
       "articleId": "gnews_593e5f7e0ca4d3bd",
       "headline": "'Not trending in the right direction': US hits record high measles cases - ロイター",
@@ -128,8 +147,8 @@
       "sourceName": "wam.go.jp"
     },
     {
-      "articleId": "gnews_9b460eb6ec15e933",
-      "headline": "麻疹はいかにして猛威を取り戻したか：Visionary Voices｜with Planet - 朝日新聞",
+      "articleId": "gnews_47f3a93a2e0da5df",
+      "headline": "麻疹はいかにして猛威を取り戻したか：Visionary Voices｜with Planet - asahi.com",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -144,7 +163,26 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "朝日新聞"
+      "sourceName": "asahi.com"
+    },
+    {
+      "articleId": "gnews_bc9e88188e02ae4c",
+      "headline": "Measles, Mumps, ラベラ ワクチン市場規模、傾向、成長2033年 - Spherical Insights",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-25T12:05:49+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQy1zWVdia1pXdGRQWDdENjFwQ0tJeVJOazJjZWJJZExvVDlMblVtdXBvMEhCWkZyX3hGbXVUSDNma0kxWjBONXp2ODhpWV9UZ0dTT1A0U0VaVEJLX1gzbFNPWjBTdThIM1UzT3NBbTFkTjlweG5VYjV3S2kyX3dsSHlVWFZfMlNPc0tVOEhJbw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Spherical Insights"
     },
     {
       "articleId": "gnews_c8c3ef0517b05fc4",
@@ -348,52 +386,6 @@
           "name": "Haneda",
           "lat": 35.54913,
           "lon": 139.7456
-        },
-        {
-          "name": "Toyama Shi",
-          "lat": 36.55146,
-          "lon": 137.29872
-        },
-        {
-          "name": "Kingdom of Spain",
-          "lat": 40.0,
-          "lon": -4.0
-        },
-        {
-          "name": "Italian Republic",
-          "lat": 42.83333,
-          "lon": 12.83333
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都",
-        "富山県"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tuYi9jYXRlZ29yeS9zb2NpZXR5L2tuNTg0MDRhYWQ2Y2YyNGRlNWFjODU3NzA1YmQyMThhZjM=",
-      "headline": "３０代男性がはしか感染　欧州から先月末帰国　市が飛行機同乗客に注意呼びかけ　富山県富山市（2026年7月3日掲載）｜KNB NEWS NNN",
-      "headlineTranslated": "Measles infection in a man in his 30s; returned from Europe at the end of last month; city calls on fellow passengers on the same flight to take precautions; Toyama City, Toyama Prefecture (published July 3, 2026) | KNB NEWS NNN",
-      "summary": "Measles confirmed in a man in his 30s in Toyama City, Toyama Prefecture, bringing the prefecture’s total to eight cases since last month. The patient returned from Europe on June 30, traveling from Haneda Airport to Toyama Airport on an All Nippon Airways flight departing at 16:20, and developed fever the day after return. Laboratory confirmation by the prefectural health laboratory was announced today; he is currently undergoing home treatment. He had visited Italy and Spain during Europe travel, where measles is circulating, and authorities consider Europe to be the most likely source. Because the flight carries airborne transmission risk, fellow passengers on the June 30 ANA flight are urged to monitor their health for the next three weeks. If fever or rash appears, avoid going out and contact a medical facility in advance, following physician instructions.",
-      "summaryOriginal": "Measles confirmed in a man in his 30s in Toyama City, Toyama Prefecture, bringing the prefecture’s total to eight cases since last month. The patient returned from Europe on June 30, traveling from Haneda Airport to Toyama Airport on an All Nippon Airways flight departing at 16:20, and developed fever the day after return. Laboratory confirmation by the prefectural health laboratory was announced today; he is currently undergoing home treatment. He had visited Italy and Spain during Europe travel, where measles is circulating, and authorities consider Europe to be the most likely source. Because the flight carries airborne transmission risk, fellow passengers on the June 30 ANA flight are urged to monitor their health for the next three weeks. If fever or rash appears, avoid going out and contact a medical facility in advance, following physician instructions.",
-      "publishedTimestamp": "2026-07-03T11:00:00+00:00",
-      "sourceUrl": "https://news.ntv.co.jp/n/knb/category/society/kn58404aad6cf24de5ac857705bd218af3",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Toyama-ken",
-          "lat": 36.63926,
-          "lon": 137.26513
         },
         {
           "name": "Toyama Shi",
