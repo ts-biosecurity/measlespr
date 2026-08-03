@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T11:07:08.555887+00:00",
+  "generated_at": "2026-08-03T13:08:52.579775+00:00",
   "date_range": {
     "start": "2026-07-04",
     "end": "2026-08-03"
   },
-  "total_articles": 16,
+  "total_articles": 17,
   "prefecture_summary": {
-    "全国（都道府県不明）": 12,
+    "全国（都道府県不明）": 13,
     "京都府": 1,
     "東京都": 4,
     "富山県": 1
@@ -297,6 +297,25 @@
       "sourceName": "pref.hiroshima.lg.jp"
     },
     {
+      "articleId": "gnews_f3cfa012174804d4",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年7月7日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-08T04:43:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oeHk5aTJnN0Y1MHFrZ2lGVklnVU9Da0llLXVqM08zQ25oUGNuSnBPWmw5QklQN29pMWJfdHdBNWZiRjZZVTBpMTdfX1czYlFObTFuZkFQUEpGak02Zlg0RWo5OFl5NTNERVNESWt4bVJHek0?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
+    },
+    {
       "articleId": "aHR0cHM6Ly93d3cuNDduZXdzLmpwLzE0NTcyMjgzLmh0bWw=",
       "headline": "はしか１人感染　富山県内２６年８人目",
       "headlineTranslated": "Measles: 1 case; 8th in Toyama Prefecture in 2014.",
@@ -371,8 +390,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
