@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-03T05:17:28.762815+00:00",
+  "generated_at": "2026-08-03T07:16:12.000546+00:00",
   "date_range": {
     "start": "2026-07-04",
     "end": "2026-08-03"
   },
-  "total_articles": 15,
+  "total_articles": 16,
   "prefecture_summary": {
-    "全国（都道府県不明）": 11,
-    "京都府": 1,
+    "全国（都道府県不明）": 12,
     "東京都": 4,
+    "京都府": 1,
     "富山県": 1
   },
   "articles": [
@@ -32,8 +32,8 @@
       "sourceName": "WIRED.jp"
     },
     {
-      "articleId": "gnews_593e5f7e0ca4d3bd",
-      "headline": "'Not trending in the right direction': US hits record high measles cases - ロイター",
+      "articleId": "gnews_b9a1d9917fd0c02a",
+      "headline": "'Not trending in the right direction': US hits record high measles cases - Reuters",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -48,7 +48,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "ロイター"
+      "sourceName": "Reuters"
     },
     {
       "articleId": "gnews_e5b30407ed2f9682",
@@ -64,11 +64,30 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
+    },
+    {
+      "articleId": "gnews_88703f432dfd4f7a",
+      "headline": "麻しん及び風しん流行情報 - pref.saitama.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-29T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GMkltaVQ0OWVFbVpXV1JYZGR0cXYxNGlIYktTYkItMnF5cURpdzEwQlNrLVl4amdfVWRCMXdGSkRTV2h5Z0hDcjZLdUowSGREWkdCcmctVmhZRGFmU3E2clBSY1pfQnhYUUJkWHdR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.saitama.lg.jp"
     },
     {
       "articleId": "gnews_26e3e68a61528734",
@@ -107,25 +126,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CareNet.com"
-    },
-    {
-      "articleId": "gnews_eef570a8dad7d40e",
-      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年7月28日更新） - wam.go.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-29T03:53:52+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pZ0w0V3N0V2E2dUFuMy0xcGpuM25UUlpWLW1rdFVlN0Z5Rm0wTFpxZFpHa1ozUmpnQzRNeEdFbTdKYnZjMU1zN0swYWQ5aV9nd05pMFBCdWwtMDlxQmgwaXJCc09PMVhmWHcxN3JENkJHbkU?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "wam.go.jp"
     },
     {
       "articleId": "gnews_9b460eb6ec15e933",
@@ -183,6 +183,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.ichikawa.lg.jp"
+    },
+    {
+      "articleId": "gnews_63e0be7e5b1b33aa",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年7月21日更新） - wam.go.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-21T05:01:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVQTEwT1VpYkNlY25TMGJYRjhhZ3NnSjVsZ3Z4MmZYeUlaemlCNEJPa3NSRi1BanNpNXNneWNCdGJUWnJhUkU3bFlSV0ZXU01WZkF3bUM3dmhsbXV6SzA4Uy12RVJjckNEMVpuSV9zU0p0VDQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "wam.go.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDcyMC1HWVQxVDAwMjA0Lw==",
@@ -352,8 +371,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "富山県"
+        "富山県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
