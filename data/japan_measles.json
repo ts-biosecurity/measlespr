@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-04T14:52:40.914012+00:00",
+  "generated_at": "2026-08-04T16:39:54.660790+00:00",
   "date_range": {
     "start": "2026-07-05",
     "end": "2026-08-04"
   },
-  "total_articles": 13,
+  "total_articles": 14,
   "prefecture_summary": {
-    "全国（都道府県不明）": 11,
-    "京都府": 1,
-    "東京都": 2
+    "全国（都道府県不明）": 12,
+    "東京都": 2,
+    "京都府": 1
   },
   "articles": [
     {
@@ -31,8 +31,8 @@
       "sourceName": "wam.go.jp"
     },
     {
-      "articleId": "gnews_76d6dce93aa18b7e",
-      "headline": "「はしか」再拡大の米国で、治療薬開発が本格化している - wired.jp",
+      "articleId": "gnews_da284c4c52ca9b96",
+      "headline": "「はしか」再拡大の米国で、治療薬開発が本格化している - WIRED.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -47,11 +47,11 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "wired.jp"
+      "sourceName": "WIRED.jp"
     },
     {
-      "articleId": "gnews_593e5f7e0ca4d3bd",
-      "headline": "'Not trending in the right direction': US hits record high measles cases - ロイター",
+      "articleId": "gnews_d67e82c95f02a98e",
+      "headline": "'Not trending in the right direction': US hits record high measles cases - jp.reuters.com",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -66,7 +66,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "ロイター"
+      "sourceName": "jp.reuters.com"
     },
     {
       "articleId": "gnews_e5b30407ed2f9682",
@@ -82,8 +82,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -163,6 +163,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "朝日新聞"
+    },
+    {
+      "articleId": "gnews_bc9e88188e02ae4c",
+      "headline": "Measles, Mumps, ラベラ ワクチン市場規模、傾向、成長2033年 - Spherical Insights",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-25T12:05:49+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQy1zWVdia1pXdGRQWDdENjFwQ0tJeVJOazJjZWJJZExvVDlMblVtdXBvMEhCWkZyX3hGbXVUSDNma0kxWjBONXp2ODhpWV9UZ0dTT1A0U0VaVEJLX1gzbFNPWjBTdThIM1UzT3NBbTFkTjlweG5VYjV3S2kyX3dsSHlVWFZfMlNPc0tVOEhJbw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Spherical Insights"
     },
     {
       "articleId": "gnews_c8c3ef0517b05fc4",
