@@ -1,34 +1,17 @@
 {
-  "generated_at": "2026-08-10T11:10:30.895441+00:00",
+  "generated_at": "2026-08-10T13:13:59.008472+00:00",
   "date_range": {
     "start": "2026-07-11",
     "end": "2026-08-10"
   },
   "total_articles": 16,
   "prefecture_summary": {
-    "全国（都道府県不明）": 13,
-    "東京都": 3
+    "東京都": 4,
+    "全国（都道府県不明）": 11,
+    "京都府": 1,
+    "北海道": 1
   },
   "articles": [
-    {
-      "articleId": "gnews_86ac1a88d40c385f",
-      "headline": "バングラデシュで873人が麻疹に関連して死亡、WHOはワクチン接種率の低下を指摘 - VOI.ID",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-09T16:38:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5KLWtmRjAzQ09pcFZqVXpWTjhkTUxsS0JtUURuSWltdzF5V0JSNWxtNlcwcDRzUDhIeV92NEtMU0JiOE3SAUJBVV95cUxOZURtVW9yQWUtckpRQlJ4WHlWNFo1V1JrUjhSY0ZCVUpsRHlZSDVHMDc0RGJ2Q1ZzazJFLUNRem1DYUE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "VOI.ID"
-    },
     {
       "articleId": "aHR0cDovL3NraS5za2lsbC1sYWRkZXIuY29tLz9laWQ9OTQ4",
       "headline": "教職員は麻疹対応の対象外なのでしょうか。 | SLIPER BLOG",
@@ -55,8 +38,8 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_99389176fa80ebf9",
-      "headline": "はしか流行、効果的な予防法は 患者数すでに昨年の２倍超、海外でも拡大 - 朝日新聞",
+      "articleId": "gnews_e19ebd5b7d18a946",
+      "headline": "はしか流行、効果的な予防法は 患者数すでに昨年の２倍超、海外でも拡大 - asahi.com",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -71,7 +54,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "朝日新聞"
+      "sourceName": "asahi.com"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVjg1M0ZHWlY4NVVURkwwMVlNLmh0bWw=",
@@ -100,8 +83,8 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_d01c8cbc2321d343",
-      "headline": "ユニバーサル・スタジオ・ハリウッドで麻疹（はしか）感染警告 7月26日来園者に注意喚起 症状確認とワクチン接種歴の確認を（8/6） - LALALA USA",
+      "articleId": "gnews_96e3dc67247c4a1d",
+      "headline": "ユニバーサル・スタジオ・ハリウッドで麻疹（はしか）感染警告 7月26日来園者に注意喚起 症状確認とワクチン接種歴の確認を（8/6） - lalalausa.com",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -116,7 +99,27 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "LALALA USA"
+      "sourceName": "lalalausa.com"
+    },
+    {
+      "articleId": "gnews_e5b30407ed2f9682",
+      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-06T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都",
+        "京都府"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "東京都感染症情報センター"
     },
     {
       "articleId": "gnews_88703f432dfd4f7a",
@@ -195,8 +198,8 @@
       "sourceName": "wam.go.jp"
     },
     {
-      "articleId": "gnews_7cc159b0b091831d",
-      "headline": "麻しん（はしか） - city.sapporo.jp",
+      "articleId": "gnews_8462969c19a39b90",
+      "headline": "麻しん（はしか） - 札幌市",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -208,14 +211,14 @@
       ],
       "locations": [],
       "prefectures": [
-        "全国（都道府県不明）"
+        "北海道"
       ],
       "dataSource": "Google News",
-      "sourceName": "city.sapporo.jp"
+      "sourceName": "札幌市"
     },
     {
-      "articleId": "gnews_9b460eb6ec15e933",
-      "headline": "麻疹はいかにして猛威を取り戻したか：Visionary Voices｜with Planet - 朝日新聞",
+      "articleId": "gnews_47f3a93a2e0da5df",
+      "headline": "麻疹はいかにして猛威を取り戻したか：Visionary Voices｜with Planet - asahi.com",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -230,7 +233,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "朝日新聞"
+      "sourceName": "asahi.com"
     },
     {
       "articleId": "gnews_b0c9a76a15ea55f6",
