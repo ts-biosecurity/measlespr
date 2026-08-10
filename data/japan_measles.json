@@ -1,17 +1,36 @@
 {
-  "generated_at": "2026-08-10T20:44:33.871572+00:00",
+  "generated_at": "2026-08-10T22:39:43.243581+00:00",
   "date_range": {
     "start": "2026-07-11",
     "end": "2026-08-10"
   },
   "total_articles": 16,
   "prefecture_summary": {
-    "東京都": 4,
     "全国（都道府県不明）": 11,
+    "東京都": 4,
     "京都府": 1,
     "北海道": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_ee10b45808819a66",
+      "headline": "「ワクチンと自閉症が関連」が持論のトランプ氏、混合ワクチンを別々に接種する方針打ち出す…感染リスク拡大の恐れ - ｄメニューニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-10T22:36:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcHRzNF9GYml1cjU4SHNEY2p6bnFhSUd0QUFTUlJYZmdnZ3Q0MlpleE9neTVfRU5hNmNRejNXUmN4XzVrRnc4aUM5Y3NfRXhLazNOb0FwR0VTSEZsMGE1OGRPUG1NLUFwQWlVVmFzZDNrMTRvWk92TE85Rm5IbWl0SmM4bm1kTklWYjFuaEFRVnE0ZXJRa2s1d0JSbDR6VUhSQ05oVjQxZDM0TmFaUURTQ2V6MEtIYVAxZmlGanhqcUh6UFRsbEtTM0J0S05IelJleEhnZkswYWnSAYgBQVVfeXFMT2M2d0VQc0JZZTZlU0VlYV95LVI5aS05SFcxck1RanhzUU5kZV9pdFdrdjdtV3dTck1Jd1M0blZ0MDFSTExFQzd2UzN2THpTb29uUmVwc3M1b2xLaW1TVVI4UkJpck1Nbjd4Tk9CdnZjLV9QbDJoYUlwaVlZQjVzWHNyRTJtTkdqMg?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ｄメニューニュース"
+    },
     {
       "articleId": "aHR0cDovL3NraS5za2lsbC1sYWRkZXIuY29tLz9laWQ9OTQ4",
       "headline": "教職員は麻疹対応の対象外なのでしょうか。 | SLIPER BLOG",
@@ -36,25 +55,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_99389176fa80ebf9",
-      "headline": "はしか流行、効果的な予防法は 患者数すでに昨年の２倍超、海外でも拡大 - 朝日新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-08T20:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBudFZTVHRCa1ptUGRGbzZlSVlCSzN0UFIwVVhIbFZoM1NxcUVibFV6NjlTS1JZZG05cGRIUndVa1hUSTMzd0tBUHRTYjZTV1FnMkxDcmM5b24tTmZ0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "朝日新聞"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVjg1M0ZHWlY4NVVURkwwMVlNLmh0bWw=",
@@ -115,8 +115,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
