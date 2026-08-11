@@ -1,16 +1,36 @@
 {
-  "generated_at": "2026-08-11T13:10:56.402246+00:00",
+  "generated_at": "2026-08-11T15:00:05.532736+00:00",
   "date_range": {
     "start": "2026-07-12",
     "end": "2026-08-11"
   },
   "total_articles": 15,
   "prefecture_summary": {
+    "全国（都道府県不明）": 10,
     "東京都": 4,
-    "全国（都道府県不明）": 11,
-    "京都府": 1
+    "京都府": 1,
+    "北海道": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_1bc9d8670e71b28f",
+      "headline": "「ワクチンと自閉症が関連」が持論のトランプ氏、混合ワクチンを別々に接種する方針打ち出す…感染リスク拡大の恐れ - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-10T22:28:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzR2otMFhjTk9RZ2hzT2hfVzNEVFh0YXFoWTYyT3dKWWhFdHZ6QXlvNkh1dXlEdHBtRm0xTUtINXgzbXg0R3IwdlB4aUVCYXBJUXVqd1pXODBFMDdpSmlBY0hB?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
+    },
     {
       "articleId": "aHR0cDovL3NraS5za2lsbC1sYWRkZXIuY29tLz9laWQ9OTQ4",
       "headline": "教職員は麻疹対応の対象外なのでしょうか。 | SLIPER BLOG",
@@ -95,8 +115,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -178,8 +198,8 @@
       "sourceName": "wam.go.jp"
     },
     {
-      "articleId": "gnews_7cc159b0b091831d",
-      "headline": "麻しん（はしか） - city.sapporo.jp",
+      "articleId": "gnews_8462969c19a39b90",
+      "headline": "麻しん（はしか） - 札幌市",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -191,10 +211,10 @@
       ],
       "locations": [],
       "prefectures": [
-        "全国（都道府県不明）"
+        "北海道"
       ],
       "dataSource": "Google News",
-      "sourceName": "city.sapporo.jp"
+      "sourceName": "札幌市"
     },
     {
       "articleId": "gnews_9b460eb6ec15e933",
@@ -307,25 +327,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_af3536845928383a",
-      "headline": "風しん抗体検査・予防接種費用助成（妊娠を希望する女性等対象） - city.okazaki.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-13T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNME1aRjIwWVlKdGgwbEU4dFFpWm9mV01UaEhmRHBPa3RwZHpfVXRQWTk1Y1dFTVVnN2p6ZXlBTzRaRlh1QjRKUkJ0M3BmV29CVUlBZVNidmhEM0VtUEFqLWxzbS1NSEFydUFUYXFnNHpuRVYtZnNxV3lwcTREVm5UQ3F3?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.okazaki.lg.jp"
     }
   ]
 }
