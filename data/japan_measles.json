@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:04:16.844247+00:00",
+  "generated_at": "2026-08-12T20:49:13.828030+00:00",
   "date_range": {
     "start": "2026-07-13",
     "end": "2026-08-12"
@@ -152,30 +152,11 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
-    },
-    {
-      "articleId": "gnews_88703f432dfd4f7a",
-      "headline": "麻しん及び風しん流行情報 - pref.saitama.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GMkltaVQ0OWVFbVpXV1JYZGR0cXYxNGlIYktTYkItMnF5cURpdzEwQlNrLVl4amdfVWRCMXdGSkRTV2h5Z0hDcjZLdUowSGREWkdCcmctVmhZRGFmU3E2clBSY1pfQnhYUUJkWHdR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.saitama.lg.jp"
     },
     {
       "articleId": "gnews_737cc60978c798ab",
@@ -326,6 +307,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_8cf2d08d80e56b81",
+      "headline": "ワクチンの追加接種をお忘れなく！（麻しん風しん、日本脳炎、ジフテリア・破傷風（2種混合）） - city.higashihiroshima.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-15T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSGNnbWtobnI4N1lpbWRGRkZrWDJlel9NMTVWYzA1M2VhdlpLVUV3NmdMYUZEWlNkSXUzV0dlYnFoOU1tVEhoeUJoeGFkWTVFRVprYWFwRFhzTVdHVEI2cy1Wdkc4OXU1T1UzQWlockxBSTVCTEw1VmpKeEd6V184bzNpNGNCMmtz?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.higashihiroshima.lg.jp"
     }
   ]
 }
