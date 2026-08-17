@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-08-17T16:30:17.995862+00:00",
+  "generated_at": "2026-08-17T18:42:22.237064+00:00",
   "date_range": {
     "start": "2026-07-18",
     "end": "2026-08-17"
   },
-  "total_articles": 17,
+  "total_articles": 18,
   "prefecture_summary": {
     "全国（都道府県不明）": 14,
-    "東京都": 3
+    "東京都": 4,
+    "京都府": 1
   },
   "articles": [
     {
-      "articleId": "gnews_700297a7b293160e",
-      "headline": "MMRV混合ワクチンを用いて、4つの感染症に対する小児向けワクチン接種の選択肢を拡大する。 - Vietnam.vn",
+      "articleId": "gnews_bff256ce2eb3fab4",
+      "headline": "MMRV混合ワクチンを用いて、4つの感染症に対する小児向けワクチン接種の選択肢を拡大する。 - vietnam.vn",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -27,7 +28,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "Vietnam.vn"
+      "sourceName": "vietnam.vn"
     },
     {
       "articleId": "gnews_446aee911831097b",
@@ -47,6 +48,26 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ロイター"
+    },
+    {
+      "articleId": "gnews_e5b30407ed2f9682",
+      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-13T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都",
+        "京都府"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "東京都感染症情報センター"
     },
     {
       "articleId": "gnews_3a82e36e7ae1ece9",
