@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:47:31.142753+00:00",
+  "generated_at": "2026-08-18T08:39:27.987881+00:00",
   "date_range": {
     "start": "2026-07-19",
     "end": "2026-08-18"
@@ -7,8 +7,8 @@
   "total_articles": 18,
   "prefecture_summary": {
     "全国（都道府県不明）": 14,
-    "東京都": 4,
-    "京都府": 1
+    "京都府": 1,
+    "東京都": 4
   },
   "articles": [
     {
@@ -29,6 +29,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Chosunbiz"
+    },
+    {
+      "articleId": "gnews_53cbe32b3b023452",
+      "headline": "米幼稚園児のワクチン接種率、前年比低下続く はしか感染拡大懸念も - ロイター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-18T05:27:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wTnN5WVBjRUJtdl9IU0t4OURoWk1la0tfb1EyR3VmQldZclg3WnpIcTIxdUpxTFpRWVdxU0xRVVhDdklFWmNQTWM1RVlQSFVDdWxCeGVMWEtmdm5BWWlSWmVqNjVrODltVE84NDM2NlRpbHRsTFRwR2xR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ロイター"
     },
     {
       "articleId": "gnews_700297a7b293160e",
@@ -63,8 +82,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -271,25 +290,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CareNet.com"
-    },
-    {
-      "articleId": "gnews_737cc60978c798ab",
-      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "読売新聞"
     },
     {
       "articleId": "gnews_593e5f7e0ca4d3bd",
