@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-18T14:35:40.638025+00:00",
+  "generated_at": "2026-08-18T16:34:11.107581+00:00",
   "date_range": {
     "start": "2026-07-19",
     "end": "2026-08-18"
   },
-  "total_articles": 16,
+  "total_articles": 17,
   "prefecture_summary": {
-    "全国（都道府県不明）": 12,
-    "京都府": 1,
-    "東京都": 4
+    "全国（都道府県不明）": 13,
+    "東京都": 4,
+    "京都府": 1
   },
   "articles": [
     {
@@ -31,6 +31,25 @@
       "sourceName": "Chosunbiz"
     },
     {
+      "articleId": "gnews_53cbe32b3b023452",
+      "headline": "米幼稚園児のワクチン接種率、前年比低下続く はしか感染拡大懸念も - ロイター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-18T05:27:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wTnN5WVBjRUJtdl9IU0t4OURoWk1la0tfb1EyR3VmQldZclg3WnpIcTIxdUpxTFpRWVdxU0xRVVhDdklFWmNQTWM1RVlQSFVDdWxCeGVMWEtmdm5BWWlSWmVqNjVrODltVE84NDM2NlRpbHRsTFRwR2xR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ロイター"
+    },
+    {
       "articleId": "gnews_e5b30407ed2f9682",
       "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
       "headlineTranslated": "",
@@ -44,8 +63,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
