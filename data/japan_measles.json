@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-19T16:33:50.747913+00:00",
+  "generated_at": "2026-08-19T18:38:32.159018+00:00",
   "date_range": {
     "start": "2026-07-20",
     "end": "2026-08-19"
   },
-  "total_articles": 16,
+  "total_articles": 17,
   "prefecture_summary": {
-    "全国（都道府県不明）": 12,
-    "東京都": 4,
-    "京都府": 1
+    "全国（都道府県不明）": 13,
+    "京都府": 1,
+    "東京都": 4
   },
   "articles": [
     {
@@ -44,8 +44,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -273,8 +273,8 @@
       "sourceName": "ロイター"
     },
     {
-      "articleId": "gnews_9b460eb6ec15e933",
-      "headline": "麻疹はいかにして猛威を取り戻したか：Visionary Voices｜with Planet - 朝日新聞",
+      "articleId": "gnews_47f3a93a2e0da5df",
+      "headline": "麻疹はいかにして猛威を取り戻したか：Visionary Voices｜with Planet - asahi.com",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -289,7 +289,26 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "朝日新聞"
+      "sourceName": "asahi.com"
+    },
+    {
+      "articleId": "gnews_b0c9a76a15ea55f6",
+      "headline": "米国で今年の「はしか」の感染者数が過去３５年で最多に…２３１８人、Ｗ杯開催によるウイルス流入などが原因か - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-25T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iM1lsejNrbi1NanlTaTBOTlFZNVFycVZFSkxLZDlmU3VxR1Z2SXM3WEZnV2RVOElBRE82Y3pDdzduaUg3cGJwWUlKTFJJUy11TEhfSXBZOWk2LTRkQTNaUTlB?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
     },
     {
       "articleId": "gnews_c8c3ef0517b05fc4",
