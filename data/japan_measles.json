@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-23T06:44:42.460444+00:00",
+  "generated_at": "2026-08-23T08:32:51.300749+00:00",
   "date_range": {
     "start": "2026-07-24",
     "end": "2026-08-23"
   },
-  "total_articles": 17,
+  "total_articles": 16,
   "prefecture_summary": {
-    "東京都": 3,
     "京都府": 1,
-    "全国（都道府県不明）": 14
+    "東京都": 3,
+    "全国（都道府県不明）": 13
   },
   "articles": [
     {
@@ -25,8 +25,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "京都府",
+        "東京都"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -328,25 +328,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "朝日新聞"
-    },
-    {
-      "articleId": "gnews_c8c3ef0517b05fc4",
-      "headline": "麻しん（はしか）抗体検査および予防接種を無料で受けられます（20歳以上59歳以下のかた） - city.meguro.tokyo.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-24T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2EwdkMzZUNlbmVsTkF6S18xWHRqc0lxSWhfOXg3ckdXQTJWaWZDT1F4cTN6WDZMWTNXOTUzSE40NGdvbk5iejhTZ1RSakhGWnVYeTBsZV9NS0FWQVFvTDNsd0g3NjZGRi1VTzVFeEU5VUdudUtBbzhTNFdfTVRlTW9ZQXlpS0FYNXdSeHkyRFBrQXljWVNsNGFrc1dNUQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.meguro.tokyo.jp"
     }
   ]
 }
