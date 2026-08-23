@@ -1,17 +1,42 @@
 {
-  "generated_at": "2026-08-23T20:26:08.742105+00:00",
+  "generated_at": "2026-08-23T22:24:33.193356+00:00",
   "date_range": {
     "start": "2026-07-24",
     "end": "2026-08-23"
   },
-  "total_articles": 18,
+  "total_articles": 19,
   "prefecture_summary": {
+    "東京都": 4,
     "全国（都道府県不明）": 14,
     "沖縄県": 1,
-    "京都府": 1,
-    "東京都": 3
+    "京都府": 1
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly93d3cuY2h1Z29rdS1ucC5jby5qcC9hcnRpY2xlcy8tLzg4MzU2OQ==",
+      "headline": "【医療新世紀】はしか感染が招く脳の難病",
+      "headlineTranslated": "The New Medical Century: Measles Infection Leads to a Rare Brain Disease",
+      "summary": "Measles infections remain a public health concern as outbreaks continue. In rare cases, measles infection leads to Subacute Sclerosing Panencephalitis (SSPE), a severe progressive brain disease with no curative treatment. Prevention hinges on vaccination to prevent measles. The precise mechanisms driving SSPE onset remain largely enigmatic, but researchers are pursuing brain-like tissue models derived from patient-specific induced pluripotent stem (iPS) cells, which are infected to study disease mechanisms and identify potential therapies. An electron micrograph image of the measles virus (provided by the National Institute for Health Crisis Management) accompanies the report. This work highlights the value of iPS-based brain models to decode SSPE pathogenesis and pursue treatments, underscoring vaccination as the central preventive strategy against measles and its rare neurological complications.",
+      "summaryOriginal": "Measles infections remain a public health concern as outbreaks continue. In rare cases, measles infection leads to Subacute Sclerosing Panencephalitis (SSPE), a severe progressive brain disease with no curative treatment. Prevention hinges on vaccination to prevent measles. The precise mechanisms driving SSPE onset remain largely enigmatic, but researchers are pursuing brain-like tissue models derived from patient-specific induced pluripotent stem (iPS) cells, which are infected to study disease mechanisms and identify potential therapies. An electron micrograph image of the measles virus (provided by the National Institute for Health Crisis Management) accompanies the report. This work highlights the value of iPS-based brain models to decode SSPE pathogenesis and pursue treatments, underscoring vaccination as the central preventive strategy against measles and its rare neurological complications.",
+      "publishedTimestamp": "2026-08-23T20:20:57+00:00",
+      "sourceUrl": "https://www.chugoku-np.co.jp/articles/-/883569",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
     {
       "articleId": "gnews_80f1faf9f0d805b2",
       "headline": "【医療新世紀】はしか感染が招く脳の難病 - 下野新聞社",
@@ -70,6 +95,25 @@
       "sourceName": "山陰中央新報デジタル"
     },
     {
+      "articleId": "gnews_e022eb565c22c925",
+      "headline": "【医療新世紀】はしか感染が招く脳の難病 亜急性硬化性全脳炎、なお多い謎 - nnn.co.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-23T20:00:10+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lTzY2NjFVRXdta3NIaUhzbXFLSHcwNUFfUlFpOTVrTEhrZGdveG9nbUl3VWQxUDZfeU5vRTEyODI4N3VjakMwRURrdHhnVF9w?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "nnn.co.jp"
+    },
+    {
       "articleId": "gnews_e5b30407ed2f9682",
       "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
       "headlineTranslated": "",
@@ -83,8 +127,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -348,25 +392,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ロイター"
-    },
-    {
-      "articleId": "gnews_9b460eb6ec15e933",
-      "headline": "麻疹はいかにして猛威を取り戻したか：Visionary Voices｜with Planet - 朝日新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-28T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1STFBKQ1JGY1FJcUpQei1VbVQ4V1RMZzFGUUhjalJHdFZwbFpVNVp1UktRQ1RraUVVM3hqcWc2dGVWWnlRbFVYOWR6anJDbmFDazVwVHVzcHZLMlRUTkE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "朝日新聞"
     }
   ]
 }
