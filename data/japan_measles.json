@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:35:17.317692+00:00",
+  "generated_at": "2026-08-25T12:51:21.563312+00:00",
   "date_range": {
     "start": "2026-07-26",
     "end": "2026-08-25"
@@ -7,9 +7,8 @@
   "total_articles": 14,
   "prefecture_summary": {
     "東京都": 4,
-    "沖縄県": 1,
     "京都府": 1,
-    "全国（都道府県不明）": 9
+    "全国（都道府県不明）": 10
   },
   "articles": [
     {
@@ -36,25 +35,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_7bf49be627f5c5bc",
-      "headline": "【医療新世紀】はしか感染が招く脳の難病 亜急性硬化性全脳炎、なお多い謎 - 沖縄タイムス社",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-23T20:00:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YeklQTUtWbjgyTDVhTVZ3QmJUVE9MTC1JQjNuRHFDWmRIam1tckVMX29UTUFLeHhFRUFlWUFuZ0NsNkstdzZEQndWVWdTQ0FFdE8zYndKN2dFWEFZTnc?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "沖縄県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "沖縄タイムス社"
     },
     {
       "articleId": "gnews_e5b30407ed2f9682",
@@ -297,6 +277,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CareNet.com"
+    },
+    {
+      "articleId": "gnews_593e5f7e0ca4d3bd",
+      "headline": "'Not trending in the right direction': US hits record high measles cases - ロイター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-31T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWQkNjV25lXzM3dTJJYWxEcm41UnlSQ0FFajZiUU1JWXpwVUtzdGUydFhZdVBzRzdPY01MRmdFdU5Ka0NRQ19tUXVCMGNSRFZqTFlPQTJjXzdILXVPOVVCSEpMUkx2Zw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ロイター"
     }
   ]
 }
