@@ -1,36 +1,17 @@
 {
-  "generated_at": "2026-08-25T04:41:09.587243+00:00",
+  "generated_at": "2026-08-25T06:52:07.213248+00:00",
   "date_range": {
     "start": "2026-07-26",
     "end": "2026-08-25"
   },
-  "total_articles": 16,
+  "total_articles": 15,
   "prefecture_summary": {
-    "全国（都道府県不明）": 11,
     "東京都": 4,
     "沖縄県": 1,
-    "京都府": 1
+    "京都府": 1,
+    "全国（都道府県不明）": 10
   },
   "articles": [
-    {
-      "articleId": "gnews_e1d273d6f316f01d",
-      "headline": "トランプ流MMRワクチン分離接種は高コストで危険 - 時事メディカル",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-24T09:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OX0t4cFAwR3lMS3pCbXRxOTZLMW90b1ltM2M1SDNzREdjQlhkZk5lRndzZ08xOXdZWWdFUTRBMFJGZVk2cGdlTmprVQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "時事メディカル"
-    },
     {
       "articleId": "aHR0cHM6Ly93d3cuY2h1Z29rdS1ucC5jby5qcC9hcnRpY2xlcy8tLzg4MzU2OQ==",
       "headline": "【医療新世紀】はしか感染が招く脳の難病",
@@ -318,8 +299,8 @@
       "sourceName": "CareNet.com"
     },
     {
-      "articleId": "gnews_b9a1d9917fd0c02a",
-      "headline": "'Not trending in the right direction': US hits record high measles cases - Reuters",
+      "articleId": "gnews_593e5f7e0ca4d3bd",
+      "headline": "'Not trending in the right direction': US hits record high measles cases - ロイター",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -334,7 +315,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "Reuters"
+      "sourceName": "ロイター"
     }
   ]
 }
