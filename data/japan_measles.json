@@ -1,17 +1,36 @@
 {
-  "generated_at": "2026-08-24T22:28:57.263167+00:00",
+  "generated_at": "2026-08-25T01:23:14.337588+00:00",
   "date_range": {
-    "start": "2026-07-25",
-    "end": "2026-08-24"
+    "start": "2026-07-26",
+    "end": "2026-08-25"
   },
   "total_articles": 14,
   "prefecture_summary": {
+    "全国（都道府県不明）": 9,
     "東京都": 4,
-    "静岡県": 1,
-    "京都府": 1,
-    "全国（都道府県不明）": 9
+    "沖縄県": 1,
+    "京都府": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_e1d273d6f316f01d",
+      "headline": "トランプ流MMRワクチン分離接種は高コストで危険 - 時事メディカル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-24T09:45:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OX0t4cFAwR3lMS3pCbXRxOTZLMW90b1ltM2M1SDNzREdjQlhkZk5lRndzZ08xOXdZWWdFUTRBMFJGZVk2cGdlTmprVQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "時事メディカル"
+    },
     {
       "articleId": "aHR0cHM6Ly93d3cuY2h1Z29rdS1ucC5jby5qcC9hcnRpY2xlcy8tLzg4MzU2OQ==",
       "headline": "【医療新世紀】はしか感染が招く脳の難病",
@@ -38,23 +57,99 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_9c834171a8aca979",
-      "headline": "【医療新世紀】はしか感染が招く脳の難病 亜急性硬化性全脳炎、なお多い謎 - 静岡新聞DIGITAL",
+      "articleId": "gnews_80f1faf9f0d805b2",
+      "headline": "【医療新世紀】はしか感染が招く脳の難病 - 下野新聞社",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-23T20:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiVlBfd0dHT3JuV3FaR2tYTWRfN3dfcUVLblpsZ1F4WUxtMHhreC1ZSVNkcHJvblA4VWNGMFNVWWVMWUxndnQ3MUdrWUJhdw?oc=5",
+      "publishedTimestamp": "2026-08-23T20:18:49+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Oa3h4SnNOcHMtQTJSMEdEVWNQWEdRalQwMC0xQ0RUTUVNUDZ4M2h3S19wVXBvU1ZRcTBKMHRHT3NlTVB0U2tsazRSV0RKbS1rYi1LT0N2d0ZLY0U?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "静岡県"
+        "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "静岡新聞DIGITAL"
+      "sourceName": "下野新聞社"
+    },
+    {
+      "articleId": "gnews_7bf49be627f5c5bc",
+      "headline": "【医療新世紀】はしか感染が招く脳の難病 亜急性硬化性全脳炎、なお多い謎 - 沖縄タイムス社",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-23T20:00:10+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YeklQTUtWbjgyTDVhTVZ3QmJUVE9MTC1JQjNuRHFDWmRIam1tckVMX29UTUFLeHhFRUFlWUFuZ0NsNkstdzZEQndWVWdTQ0FFdE8zYndKN2dFWEFZTnc?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "沖縄県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "沖縄タイムス社"
+    },
+    {
+      "articleId": "gnews_e022eb565c22c925",
+      "headline": "【医療新世紀】はしか感染が招く脳の難病 亜急性硬化性全脳炎、なお多い謎 - nnn.co.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-23T20:00:10+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lTzY2NjFVRXdta3NIaUhzbXFLSHcwNUFfUlFpOTVrTEhrZGdveG9nbUl3VWQxUDZfeU5vRTEyODI4N3VjakMwRURrdHhnVF9w?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "nnn.co.jp"
+    },
+    {
+      "articleId": "gnews_ac32a7aab44c7b28",
+      "headline": "はしか感染が招く脳の難病 亜急性硬化性全脳炎、なお多い謎 【医療新世紀】 - 山陰中央新報デジタル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-23T20:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nblZ0eUlFN0NhSmFnZ0sxajNPQy1zVzNOdy1OdlhocWJia09xbGpyUUNXak5vU19qRzd0RkZwNjhGTDMxQUgtQ2RFVnprYnVlQTkyTl9vRkVHNWM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "山陰中央新報デジタル"
+    },
+    {
+      "articleId": "gnews_11d0510410e99a32",
+      "headline": "はしか感染が招く脳の難病 亜急性硬化性全脳炎、なお多い謎【医療新世紀】 - 中国新聞デジタル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-23T20:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CS1lfX1dwX0ZOWlVlZ3BvOWx0Z0NVMUEzVTVrYjlsQW0yM1VDOEkzNnlBeWwwS1ZMMG9tRVdwRWlXdWRmMl9zT1NrdU5zR1RLMUJCRjN6UmZOQQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "中国新聞デジタル"
     },
     {
       "articleId": "gnews_e5b30407ed2f9682",
@@ -77,13 +172,13 @@
       "sourceName": "東京都感染症情報センター"
     },
     {
-      "articleId": "gnews_737cc60978c798ab",
-      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
+      "articleId": "gnews_88703f432dfd4f7a",
+      "headline": "麻しん及び風しん流行情報 - pref.saitama.lg.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-19T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GMkltaVQ0OWVFbVpXV1JYZGR0cXYxNGlIYktTYkItMnF5cURpdzEwQlNrLVl4amdfVWRCMXdGSkRTV2h5Z0hDcjZLdUowSGREWkdCcmctVmhZRGFmU3E2clBSY1pfQnhYUUJkWHdR?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -93,26 +188,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "読売新聞"
-    },
-    {
-      "articleId": "gnews_d09c617616c82498",
-      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年8月18日更新） - wam.go.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-19T02:49:52+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GV2RSMkVsd2RWazNVRjdReVh4ZWt6WUdfcGNkRV9IWjVCTk9LTVdpaVg1OG1lX1JrU1lfZWZFNXRBMmFsV1k4ZDFsX0ZrdGxMTV81OHhBZ2ZyMmJhWU4zcUhnN3RnNnRBRlFIZmZIczJzLU0?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "wam.go.jp"
+      "sourceName": "pref.saitama.lg.jp"
     },
     {
       "articleId": "gnews_3a82e36e7ae1ece9",
@@ -132,6 +208,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "pref.kagoshima.jp"
+    },
+    {
+      "articleId": "gnews_1bc9d8670e71b28f",
+      "headline": "「ワクチンと自閉症が関連」が持論のトランプ氏、混合ワクチンを別々に接種する方針打ち出す…感染リスク拡大の恐れ - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-11T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzR2otMFhjTk9RZ2hzT2hfVzNEVFh0YXFoWTYyT3dKWWhFdHZ6QXlvNkh1dXlEdHBtRm0xTUtINXgzbXg0R3IwdlB4aUVCYXBJUXVqd1pXODBFMDdpSmlBY0hB?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
     },
     {
       "articleId": "aHR0cDovL3NraS5za2lsbC1sYWRkZXIuY29tLz9laWQ9OTQ4",
@@ -183,101 +278,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_f327f817fdde9b7a",
-      "headline": "増える麻しん、医療従事者向け「麻しんを疑った際の対応」公開／JIHS｜CareNet.com - CareNet.com",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uaFlWMVQ0X0F1WkNJV3JIRk9Ld3U2OHU3bUVydTk2SjViaV9XeWF3SnllcGtJMk5pcXU0QndoTXNYRXdXVWF6dWllYnpHbnkxM2VfWVFfUFhEZ2FNLXFz?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CareNet.com"
-    },
-    {
-      "articleId": "gnews_390f05418c125ff7",
-      "headline": "米国での麻疹症例数、過去25年間で最多に｜CareNet.com - CareNet.com",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wXzdUa2pHS1NHRDVLY3dLRlhFRXY2anQ0RTJKUUNqeUhtUnptRERhakgyUldzVy00S0hLWk9NOTdBYVdJTkVGd3VLOWM4cHFyTGo3V2l4NnhVdw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CareNet.com"
-    },
-    {
-      "articleId": "gnews_0757abdc86cf3118",
-      "headline": "第315回 国内の麻疹流行、2025年と今年で決定的に違うこと｜連載企画｜CareNet.com - CareNet.com",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tdFJuT0FvWXFjUk5TenRORF9yYi1YLTRuaDhtQ0pMaGFTMjRvWGh4b3ExSk56UjM3TlVsNDN3Nl9EZzVIT2xCX21oVlItdTJMTFY4?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CareNet.com"
-    },
-    {
-      "articleId": "gnews_26e3e68a61528734",
-      "headline": "麻しんの現状を解説／感染症クォータリーレポート｜CareNet.com - CareNet.com",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GeXZpS3hZeHJvMmlrN1JnUjFXeU5JUFNoMFhNbkFqVHloU1JtV0MzUnRlN3lWVGRRNldrdE9LTU52Z0FRLVl3bEVlejFPR2dBNXU5Rm9Xem1zUG1ISEV3?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CareNet.com"
-    },
-    {
-      "articleId": "gnews_b7b4c3ffe153831a",
-      "headline": "第310回 麻疹患者の発生情報、個人特定のリスクか｜連載企画｜CareNet.com - CareNet.com",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91WGhPTDJwLXBGR3lRV2kxa043dUxQSzNHOFN0OVV3VU55YUNaSHpZUEZzN2k4TXhQWDdiNmlUQUg4dEh5LXBJaC10aHRYY0hMTFYw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CareNet.com"
     },
     {
       "articleId": "gnews_593e5f7e0ca4d3bd",
