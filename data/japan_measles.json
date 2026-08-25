@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T20:31:32.165253+00:00",
+  "generated_at": "2026-08-25T22:29:46.579949+00:00",
   "date_range": {
     "start": "2026-07-26",
     "end": "2026-08-25"
   },
-  "total_articles": 14,
+  "total_articles": 15,
   "prefecture_summary": {
-    "全国（都道府県不明）": 10,
+    "全国（都道府県不明）": 11,
     "東京都": 4,
     "京都府": 1
   },
@@ -29,6 +29,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Межа. Новини України."
+    },
+    {
+      "articleId": "gnews_e1d273d6f316f01d",
+      "headline": "トランプ流MMRワクチン分離接種は高コストで危険 - 時事メディカル",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-24T09:45:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OX0t4cFAwR3lMS3pCbXRxOTZLMW90b1ltM2M1SDNzREdjQlhkZk5lRndzZ08xOXdZWWdFUTRBMFJGZVk2cGdlTmprVQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "時事メディカル"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuY2h1Z29rdS1ucC5jby5qcC9hcnRpY2xlcy8tLzg4MzU2OQ==",
@@ -69,8 +88,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
