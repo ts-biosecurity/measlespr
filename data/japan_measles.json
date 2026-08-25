@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T16:39:23.706471+00:00",
+  "generated_at": "2026-08-25T18:41:58.681600+00:00",
   "date_range": {
     "start": "2026-07-26",
     "end": "2026-08-25"
   },
-  "total_articles": 15,
+  "total_articles": 14,
   "prefecture_summary": {
-    "全国（都道府県不明）": 11,
+    "全国（都道府県不明）": 10,
     "東京都": 4,
     "京都府": 1
   },
@@ -69,8 +69,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
@@ -260,25 +260,6 @@
       "sourceName": "CareNet.com"
     },
     {
-      "articleId": "gnews_26e3e68a61528734",
-      "headline": "麻しんの現状を解説／感染症クォータリーレポート｜CareNet.com - CareNet.com",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GeXZpS3hZeHJvMmlrN1JnUjFXeU5JUFNoMFhNbkFqVHloU1JtV0MzUnRlN3lWVGRRNldrdE9LTU52Z0FRLVl3bEVlejFPR2dBNXU5Rm9Xem1zUG1ISEV3?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CareNet.com"
-    },
-    {
       "articleId": "gnews_b7b4c3ffe153831a",
       "headline": "第310回 麻疹患者の発生情報、個人特定のリスクか｜連載企画｜CareNet.com - CareNet.com",
       "headlineTranslated": "",
@@ -298,8 +279,8 @@
       "sourceName": "CareNet.com"
     },
     {
-      "articleId": "gnews_b9a1d9917fd0c02a",
-      "headline": "'Not trending in the right direction': US hits record high measles cases - Reuters",
+      "articleId": "gnews_593e5f7e0ca4d3bd",
+      "headline": "'Not trending in the right direction': US hits record high measles cases - ロイター",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -314,7 +295,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "Reuters"
+      "sourceName": "ロイター"
     }
   ]
 }
