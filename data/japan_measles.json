@@ -1,16 +1,35 @@
 {
-  "generated_at": "2026-08-26T08:47:04.833988+00:00",
+  "generated_at": "2026-08-26T10:37:13.149228+00:00",
   "date_range": {
     "start": "2026-07-27",
     "end": "2026-08-26"
   },
-  "total_articles": 17,
+  "total_articles": 18,
   "prefecture_summary": {
+    "東京都": 5,
     "全国（都道府県不明）": 13,
-    "東京都": 4,
     "京都府": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_a68fc3196edde6f3",
+      "headline": "”大学・日本語学校でも麻しんワクチンの確認を”新宿区議会で、区内の大学や日本語学校等における麻... - 選挙ドットコム",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-26T09:00:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BNUhJT25HQTI3NThfcE1aOEdxdDJKVWgxMnhFdnNOVFZNZlRMMGlPQWd6bW5ENTZBWGRtMUdrM3AtR0FRVjJFakpwaE1rcDVJY214dC0ybGZlbmZEQ1pz?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "選挙ドットコム"
+    },
     {
       "articleId": "gnews_8d727cfce8289949",
       "headline": "ペンシルベニア州で麻疹未接種の2人が死亡、米国で年初来初の死者 - Межа. Новини України.",
@@ -164,8 +183,8 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
