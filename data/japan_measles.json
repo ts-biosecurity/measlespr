@@ -1,33 +1,90 @@
 {
-  "generated_at": "2026-08-27T20:12:08.982639+00:00",
+  "generated_at": "2026-08-28T06:00:25.335769+00:00",
   "date_range": {
-    "start": "2026-07-28",
-    "end": "2026-08-27"
+    "start": "2026-07-29",
+    "end": "2026-08-28"
   },
-  "total_articles": 17,
+  "total_articles": 19,
   "prefecture_summary": {
-    "東京都": 4,
-    "全国（都道府県不明）": 13
+    "全国（都道府県不明）": 14,
+    "宮崎県": 1,
+    "東京都": 4
   },
   "articles": [
     {
-      "articleId": "gnews_a68fc3196edde6f3",
-      "headline": "”大学・日本語学校でも麻しんワクチンの確認を”新宿区議会で、区内の大学や日本語学校等における麻... - 選挙ドットコム",
+      "articleId": "gnews_7e72399e1e98daa7",
+      "headline": "サンパウロ州の麻疹感染者26人に、州都で新確認 - brasilnippou.com",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-26T09:00:55+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BNUhJT25HQTI3NThfcE1aOEdxdDJKVWgxMnhFdnNOVFZNZlRMMGlPQWd6bW5ENTZBWGRtMUdrM3AtR0FRVjJFakpwaE1rcDVJY214dC0ybGZlbmZEQ1pz?oc=5",
+      "publishedTimestamp": "2026-08-27T22:23:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxNFU3SEh0YUtSVURwX0s5aERXX2xBMlFqOVZLS3JuekJMOG8tbEVzV0dUMzEycDVEZVUwVUFPWEJMMF9iZTA2UG91OHNoM2ZldGk5UWlmTUNlSkxFS1daRTFR?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "東京都"
+        "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "選挙ドットコム"
+      "sourceName": "brasilnippou.com"
+    },
+    {
+      "articleId": "gnews_bdca2009ef50d573",
+      "headline": "【医療新世紀】麻疹感染が招く脳の難病 - 宮崎日日新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-27T21:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVkQ0T25OVnIwU0JtX2ZtTWxyNGFHTVFlMnM2dkZfVFFRNjBZNEthVmNOSVRSWjd4UTY0c1ViM2NwbGtudHZfaUk4YUZ6cUQtTUtnc2xIVTZTRTBZR016WGNWZF91elJBa1lTTHZjalVWR3c?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "宮崎県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "宮崎日日新聞"
+    },
+    {
+      "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDgyNy1HWVRFVDAwMDAxLw==",
+      "headline": "ワクチン未接種者がはしかで死亡　劣化するアメリカの予防接種　推奨ワクチンは１７から１１に　小児科学会はＣＤＣを批判 | ヨミドクター(読売新聞)",
+      "headlineTranslated": "Unvaccinated people die of measles; the U.S. vaccination program is deteriorating; the number of recommended vaccines has fallen from 17 to 11; the Japanese Society of Pediatrics criticizes the CDC.",
+      "summary": "Measles outbreaks in the United States intensify as unvaccinated individuals die; CDC's childhood immunization schedule has shrunk from 17 diseases to 11 as of January 2026, excluding rotavirus, influenza, and hepatitis A, with doctors asked to decide with patients. High-profile critics, including Paul Offit and the American Academy of Pediatrics, condemn the downgrade and publish their own 17-disease schedule. The piece juxtaposes Japan's vaccine system, describing regular vs voluntary categories and A/B classifications, arguing these distinctions lack scientific basis. It notes 2025 US measles cases reached 2,289; by 2026 (as of publication) 2,777; and mentions a death among unvaccinated individuals in a Pennsylvania outbreak. The author urges resistance to erosion of vaccination policy and calls the US to regain a principled vaccination approach.",
+      "summaryOriginal": "Measles outbreaks in the United States intensify as unvaccinated individuals die; CDC's childhood immunization schedule has shrunk from 17 diseases to 11 as of January 2026, excluding rotavirus, influenza, and hepatitis A, with doctors asked to decide with patients. High-profile critics, including Paul Offit and the American Academy of Pediatrics, condemn the downgrade and publish their own 17-disease schedule. The piece juxtaposes Japan's vaccine system, describing regular vs voluntary categories and A/B classifications, arguing these distinctions lack scientific basis. It notes 2025 US measles cases reached 2,289; by 2026 (as of publication) 2,777; and mentions a death among unvaccinated individuals in a Pennsylvania outbreak. The author urges resistance to erosion of vaccination policy and calls the US to regain a principled vaccination approach.",
+      "publishedTimestamp": "2026-08-27T20:05:10+00:00",
+      "sourceUrl": "https://www.yomiuri.co.jp/yomidr/article/20260827-GYTET00001/",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Hepatitis A",
+        "Measles",
+        "Influenza"
+      ],
+      "locations": [
+        {
+          "name": "Pennsylvania",
+          "lat": 40.8,
+          "lon": -77.7
+        },
+        {
+          "name": "United States",
+          "lat": 39.76,
+          "lon": -98.5
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
     },
     {
       "articleId": "gnews_bf36d127604b418c",
