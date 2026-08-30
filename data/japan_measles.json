@@ -1,35 +1,16 @@
 {
-  "generated_at": "2026-08-30T14:12:13.786315+00:00",
+  "generated_at": "2026-08-30T16:13:40.411778+00:00",
   "date_range": {
     "start": "2026-07-31",
     "end": "2026-08-30"
   },
   "total_articles": 11,
   "prefecture_summary": {
-    "全国（都道府県不明）": 6,
     "宮崎県": 1,
-    "東京都": 4
+    "東京都": 4,
+    "全国（都道府県不明）": 6
   },
   "articles": [
-    {
-      "articleId": "gnews_cb73229dc0e9e59b",
-      "headline": "〈医療新世紀〉「ＳＳＰＥ」なお多い謎 麻疹感染が招く脳の難病｜全国のニュース - 北國新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-28T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZYkYyR0t1aHdoVFk2ZVFNcFhxcGlQY1UwaExfRXZ1Unl5WG1NVXZ3UG9DOXdNZFJDcEFaaExKMkdLOVVjQ2I0d3Y4TEFvRVNfYm16RDlyUQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "北國新聞"
-    },
     {
       "articleId": "gnews_bdca2009ef50d573",
       "headline": "【医療新世紀】麻疹感染が招く脳の難病 - 宮崎日日新聞",
@@ -256,6 +237,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_5a14eacae782b484",
+      "headline": "第87回 「そもそも麻疹を診たことがない」｜連載企画｜CareNet.com - CareNet.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-05T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTaGpRelRRTXNhUnVRaFVxcWZ2TWgtZG4yV2RkWGgtdU5JMTI1WUc2QVZVaE1EMjVJamNxMTJoc0pZeVRCaDA4Ykxkd3lKX2k3NTY3VA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CareNet.com"
     }
   ]
 }
