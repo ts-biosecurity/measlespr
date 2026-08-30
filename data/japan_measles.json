@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-08-30T02:21:04.274894+00:00",
+  "generated_at": "2026-08-30T04:16:32.509018+00:00",
   "date_range": {
     "start": "2026-07-31",
     "end": "2026-08-30"
   },
-  "total_articles": 15,
+  "total_articles": 14,
   "prefecture_summary": {
-    "全国（都道府県不明）": 11,
+    "全国（都道府県不明）": 9,
+    "宮崎県": 1,
     "東京都": 4
   },
   "articles": [
@@ -47,6 +48,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "北國新聞"
+    },
+    {
+      "articleId": "gnews_bdca2009ef50d573",
+      "headline": "【医療新世紀】麻疹感染が招く脳の難病 - 宮崎日日新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-27T21:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVkQ0T25OVnIwU0JtX2ZtTWxyNGFHTVFlMnM2dkZfVFFRNjBZNEthVmNOSVRSWjd4UTY0c1ViM2NwbGtudHZfaUk4YUZ6cUQtTUtnc2xIVTZTRTBZR016WGNWZF91elJBa1lTTHZjalVWR3c?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "宮崎県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "宮崎日日新聞"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDgyNy1HWVRFVDAwMDAxLw==",
@@ -103,25 +123,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "wam.go.jp"
-    },
-    {
-      "articleId": "gnews_12796d92b650ef50",
-      "headline": "米で今年初のはしか死者、感染30年超ぶり高水準 - ロイター",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-25T22:23:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XX0pXLXNzMXJJdW5XZ1Jya2ZTVXAtbG9NYURwSDdGR1FSTjNYZnlldnVKcklaT1Y2VWtBdGstRmd1bm8zMXQ1M1B6N0xMM1FhdUE4Nks3TnNRV2lZbHl3aTNqR2ZfYmZrcHVrb09obDFKMUdrQ2poMGZB?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ロイター"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuY2h1Z29rdS1ucC5jby5qcC9hcnRpY2xlcy8tLzg4MzU2OQ==",
@@ -312,25 +313,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CareNet.com"
-    },
-    {
-      "articleId": "gnews_593e5f7e0ca4d3bd",
-      "headline": "'Not trending in the right direction': US hits record high measles cases - ロイター",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-31T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWQkNjV25lXzM3dTJJYWxEcm41UnlSQ0FFajZiUU1JWXpwVUtzdGUydFhZdVBzRzdPY01MRmdFdU5Ka0NRQ19tUXVCMGNSRFZqTFlPQTJjXzdILXVPOVVCSEpMUkx2Zw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ロイター"
     }
   ]
 }
