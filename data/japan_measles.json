@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-31T22:13:21.737922+00:00",
+  "generated_at": "2026-09-01T00:48:49.990004+00:00",
   "date_range": {
-    "start": "2026-08-01",
-    "end": "2026-08-31"
+    "start": "2026-08-02",
+    "end": "2026-09-01"
   },
   "total_articles": 14,
   "prefecture_summary": {
-    "全国（都道府県不明）": 8,
+    "全国（都道府県不明）": 9,
     "宮崎県": 1,
-    "東京都": 5,
+    "東京都": 4,
     "京都府": 1
   },
   "articles": [
@@ -145,8 +145,8 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_20fff0dca248ee25",
-      "headline": "麻しんの流行状況（東京都 2026年） - idsc.tmiph.metro.tokyo.lg.jp",
+      "articleId": "gnews_e5b30407ed2f9682",
+      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -158,11 +158,30 @@
       ],
       "locations": [],
       "prefectures": [
-        "京都府",
-        "東京都"
+        "東京都",
+        "京都府"
       ],
       "dataSource": "Google News",
-      "sourceName": "idsc.tmiph.metro.tokyo.lg.jp"
+      "sourceName": "東京都感染症情報センター"
+    },
+    {
+      "articleId": "gnews_88703f432dfd4f7a",
+      "headline": "麻しん及び風しん流行情報 - pref.saitama.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-26T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GMkltaVQ0OWVFbVpXV1JYZGR0cXYxNGlIYktTYkItMnF5cURpdzEwQlNrLVl4amdfVWRCMXdGSkRTV2h5Z0hDcjZLdUowSGREWkdCcmctVmhZRGFmU3E2clBSY1pfQnhYUUJkWHdR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.saitama.lg.jp"
     },
     {
       "articleId": "gnews_0c92078be6553871",
@@ -182,31 +201,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "wam.go.jp"
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cuY2h1Z29rdS1ucC5jby5qcC9hcnRpY2xlcy8tLzg4MzU2OQ==",
-      "headline": "【医療新世紀】はしか感染が招く脳の難病",
-      "headlineTranslated": "The New Medical Century: Measles Infection Leads to a Rare Brain Disease",
-      "summary": "Measles infections remain a public health concern as outbreaks continue. In rare cases, measles infection leads to Subacute Sclerosing Panencephalitis (SSPE), a severe progressive brain disease with no curative treatment. Prevention hinges on vaccination to prevent measles. The precise mechanisms driving SSPE onset remain largely enigmatic, but researchers are pursuing brain-like tissue models derived from patient-specific induced pluripotent stem (iPS) cells, which are infected to study disease mechanisms and identify potential therapies. An electron micrograph image of the measles virus (provided by the National Institute for Health Crisis Management) accompanies the report. This work highlights the value of iPS-based brain models to decode SSPE pathogenesis and pursue treatments, underscoring vaccination as the central preventive strategy against measles and its rare neurological complications.",
-      "summaryOriginal": "Measles infections remain a public health concern as outbreaks continue. In rare cases, measles infection leads to Subacute Sclerosing Panencephalitis (SSPE), a severe progressive brain disease with no curative treatment. Prevention hinges on vaccination to prevent measles. The precise mechanisms driving SSPE onset remain largely enigmatic, but researchers are pursuing brain-like tissue models derived from patient-specific induced pluripotent stem (iPS) cells, which are infected to study disease mechanisms and identify potential therapies. An electron micrograph image of the measles virus (provided by the National Institute for Health Crisis Management) accompanies the report. This work highlights the value of iPS-based brain models to decode SSPE pathogenesis and pursue treatments, underscoring vaccination as the central preventive strategy against measles and its rare neurological complications.",
-      "publishedTimestamp": "2026-08-23T20:20:57+00:00",
-      "sourceUrl": "https://www.chugoku-np.co.jp/articles/-/883569",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
     },
     {
       "articleId": "gnews_737cc60978c798ab",
