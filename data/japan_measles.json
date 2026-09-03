@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-03T03:35:25.762278+00:00",
+  "generated_at": "2026-09-03T08:42:01.921949+00:00",
   "date_range": {
     "start": "2026-08-04",
     "end": "2026-09-03"
   },
-  "total_articles": 13,
+  "total_articles": 12,
   "prefecture_summary": {
     "静岡県": 1,
-    "全国（都道府県不明）": 8,
-    "東京都": 4,
-    "京都府": 1
+    "全国（都道府県不明）": 6,
+    "宮崎県": 1,
+    "東京都": 4
   },
   "articles": [
     {
@@ -108,8 +108,27 @@
       "sourceName": "Vietnam.vn"
     },
     {
-      "articleId": "gnews_2be75040d93ef2dd",
-      "headline": "【医療新世紀】麻疹感染が招く脳の難病 - the-miyanichi.co.jp",
+      "articleId": "gnews_7e72399e1e98daa7",
+      "headline": "サンパウロ州の麻疹感染者26人に、州都で新確認 - brasilnippou.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-27T22:23:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxNFU3SEh0YUtSVURwX0s5aERXX2xBMlFqOVZLS3JuekJMOG8tbEVzV0dUMzEycDVEZVUwVUFPWEJMMF9iZTA2UG91OHNoM2ZldGk5UWlmTUNlSkxFS1daRTFR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "brasilnippou.com"
+    },
+    {
+      "articleId": "gnews_bdca2009ef50d573",
+      "headline": "【医療新世紀】麻疹感染が招く脳の難病 - 宮崎日日新聞",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -121,10 +140,10 @@
       ],
       "locations": [],
       "prefectures": [
-        "全国（都道府県不明）"
+        "宮崎県"
       ],
       "dataSource": "Google News",
-      "sourceName": "the-miyanichi.co.jp"
+      "sourceName": "宮崎日日新聞"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDgyNy1HWVRFVDAwMDAxLw==",
@@ -164,28 +183,27 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_e5b30407ed2f9682",
-      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
+      "articleId": "gnews_64b4ed388d1290da",
+      "headline": "”大学・日本語学校でも麻しんワクチンの確認を”新宿区議会で、区内の大学や日本語学校等における麻... - go2senkyo.com",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-27T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
+      "publishedTimestamp": "2026-08-26T09:00:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BNUhJT25HQTI3NThfcE1aOEdxdDJKVWgxMnhFdnNOVFZNZlRMMGlPQWd6bW5ENTZBWGRtMUdrM3AtR0FRVjJFakpwaE1rcDVJY214dC0ybGZlbmZEQ1pz?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "東京都",
-        "京都府"
+        "東京都"
       ],
       "dataSource": "Google News",
-      "sourceName": "東京都感染症情報センター"
+      "sourceName": "go2senkyo.com"
     },
     {
-      "articleId": "gnews_9668c74cf6c9e06f",
-      "headline": "Shapiro calls measles deaths in Pennsylvania 'completely preventable' - Reuters",
+      "articleId": "gnews_0793deb4af8548e2",
+      "headline": "Shapiro calls measles deaths in Pennsylvania 'completely preventable' - ロイター",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -200,26 +218,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "Reuters"
-    },
-    {
-      "articleId": "gnews_3a82e36e7ae1ece9",
-      "headline": "麻しん（はしか）の感染に注意しましょう。 - pref.kagoshima.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-13T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcC1ZQXFvM1Y5Tno5YjEtVE1RNFd1MlFuejlVYnZxVFh6WGhBV1NYVlpvX2I1c2x3TGp1Tnd3X2Z6OG5kbFBxZ3dPRU04dzdCVWg2UUpZaFpJMmVoMjdtbkxMMGVHajIxWVMzZWxqT3hIbFpROG00LVZHY3hOSVZxbUdBWkU0cE5OWEE?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.kagoshima.jp"
+      "sourceName": "ロイター"
     },
     {
       "articleId": "aHR0cDovL3NraS5za2lsbC1sYWRkZXIuY29tLz9laWQ9OTQ4",
@@ -271,25 +270,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_5a14eacae782b484",
-      "headline": "第87回 「そもそも麻疹を診たことがない」｜連載企画｜CareNet.com - CareNet.com",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTaGpRelRRTXNhUnVRaFVxcWZ2TWgtZG4yV2RkWGgtdU5JMTI1WUc2QVZVaE1EMjVJamNxMTJoc0pZeVRCaDA4Ykxkd3lKX2k3NTY3VA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CareNet.com"
     }
   ]
 }
