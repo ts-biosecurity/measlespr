@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-09T08:48:33.885951+00:00",
+  "generated_at": "2026-09-09T14:14:34.584147+00:00",
   "date_range": {
     "start": "2026-08-10",
     "end": "2026-09-09"
   },
-  "total_articles": 21,
+  "total_articles": 22,
   "prefecture_summary": {
+    "全国（都道府県不明）": 8,
     "東京都": 5,
-    "全国（都道府県不明）": 7,
     "福岡県": 6,
     "滋賀県": 1,
     "兵庫県": 1,
@@ -15,6 +15,25 @@
     "鹿児島県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_7f18c6494ab05ae3",
+      "headline": "Bangladesh fights world's worst measles outbreak after vaccine gaps - jp.reuters.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-09T10:42:58+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YUy1wazBqUVVYRjdLdG5lZEF0M2M0NTRONzhNcVY0UlRxQktram0yaXBjTXQydVhpY2tVTndZLTF2TkFUaHlDYlVXMDE0a29SSDBDN0p0TllNMVF4U2F4MW5hLUZQUQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "jp.reuters.com"
+    },
     {
       "articleId": "aHR0cHM6Ly93d3cuc2Fua2VpLmNvbS9hcnRpY2xlLzIwMjYwOTA5LUpBWE1BNFlTSEZQNEpBQzVBNlFKN0ZQWkk0Lw==",
       "headline": "インフル早くも流行入り　埼玉でも増加　コロナ禍から変則的流行続く　麻疹感染拡大も懸念",
@@ -78,25 +97,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_14a8a7d29c5fe2d1",
-      "headline": "国内で患者増 はしかってどんな病気?＜イチからわかる＞ - chugoku-np.co.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-08T13:17:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wUC0tOGszTFVvZmpMYk5oVXpuVTBtYTZ5MVR6aXFCeDhzY19EZWpLdGxSb2k3VTVLd0dFM1NXMnNycy1SaENhTXFya3JCSEJoTXhPV3VqbHk5UQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "chugoku-np.co.jp"
     },
     {
       "articleId": "gnews_47908c954da277a9",
@@ -287,6 +287,25 @@
       "sourceName": "pref.shiga.lg.jp"
     },
     {
+      "articleId": "gnews_76c2f662f7e18c11",
+      "headline": "どうすれば安全安心：麻疹が招く脳の難病「SSPE」 謎多くiPS細胞で研究 - 毎日新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-04T04:03:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NbGt1eVEzVzRiLUZnVzlQMlZQZGpUb3BtMC14dnIzY0owZEc0SkM4bW1yaHR2elg5bjRlSzNPc09VRVBtTS1MT3Y4R1h2UGhDTkJUVFdmbktFazk4SUwtRDFyeGtkS0Ny?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "毎日新聞"
+    },
+    {
       "articleId": "gnews_e5b30407ed2f9682",
       "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
       "headlineTranslated": "",
@@ -344,8 +363,8 @@
       "sourceName": "Public Health Insider"
     },
     {
-      "articleId": "gnews_737cc60978c798ab",
-      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
+      "articleId": "gnews_f0d47af3e3b1934e",
+      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - yomiuri.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -360,7 +379,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "読売新聞"
+      "sourceName": "yomiuri.co.jp"
     },
     {
       "articleId": "gnews_3ebb64c006bbf9c8",
