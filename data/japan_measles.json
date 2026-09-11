@@ -1,20 +1,59 @@
 {
-  "generated_at": "2026-09-11T03:43:05.752132+00:00",
+  "generated_at": "2026-09-11T08:44:24.462744+00:00",
   "date_range": {
     "start": "2026-08-12",
     "end": "2026-09-11"
   },
-  "total_articles": 19,
+  "total_articles": 21,
   "prefecture_summary": {
+    "福岡県": 8,
+    "鹿児島県": 2,
     "全国（都道府県不明）": 6,
     "東京都": 4,
-    "福岡県": 6,
     "滋賀県": 1,
     "兵庫県": 1,
-    "埼玉県": 1,
-    "鹿児島県": 1
+    "埼玉県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_515e2340aa81a0a8",
+      "headline": "福岡・宗像市の10代女性がはしか感染 JR鹿児島線赤間―博多など利用 - 西日本新聞me",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-11T08:25:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40SWZtSjZRV1Znc1RkTGZoQ0g1Z3Z4N3Z5RWNXdEY4d3VaaUpMbUl6eVY4ZXVMZEE0a3pWdDJNTjk2X1BsZDBTQlhGTzUtMGhXX2ZsLTFn?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県",
+        "鹿児島県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "西日本新聞me"
+    },
+    {
+      "articleId": "gov_faa9e29bf2cff1f8",
+      "headline": "令和8年9月11日麻しん（はしか）患者の利用施設について",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-11T00:00:00+00:00",
+      "sourceUrl": "https://www.city.fukuoka.lg.jp/hofuku/hokensho/kansensho/kansenshojoho/hodohappyou/documents/20260911measles.pdf",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "自治体発表",
+      "sourceName": "福岡市 感染症関係報道発表資料"
+    },
     {
       "articleId": "gnews_d29e0866f7859cec",
       "headline": "Bangladesh fights world's worst measles outbreak after vaccine gaps - Reuters",
@@ -137,6 +176,25 @@
       "sourceName": "pref.fukuoka.lg.jp"
     },
     {
+      "articleId": "gnews_22a9c2c67135ef0c",
+      "headline": "はしか感染の20代男性が西鉄大牟田線やバス、地下鉄利用で不特定多数と接触の可能性 - 西日本新聞me",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-07T15:11:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QX1dxWldIb2tkcjJJUVdRR1cxZE5BblA1cUs2aU9XSlhzcHFweFVOaGx6S04tN0RUeHN0b294MzQzZnZBbHFSOGZLaDYzdXJ6bm5CeXhR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "西日本新聞me"
+    },
+    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2Zicy9jYXRlZ29yeS9zb2NpZXR5L2ZzZWZlMWU4MzcxOWM3NGEyNzg5NjQzZTAwM2I0YzgxYmM=",
       "headline": "【はしか】県内でことし5人目　発熱後に地下鉄や西鉄電車を利用　福岡（2026年9月7日掲載）｜FBS NEWS NNN",
       "headlineTranslated": "Measles: Fifth case in the prefecture this year after developing a fever; used the subway and Nishitetsu trains; Fukuoka (Sept. 7, 2026) | FBS NEWS NNN",
@@ -166,30 +224,11 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_22a9c2c67135ef0c",
-      "headline": "はしか感染の20代男性が西鉄大牟田線やバス、地下鉄利用で不特定多数と接触の可能性 - 西日本新聞me",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-07T09:29:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QX1dxWldIb2tkcjJJUVdRR1cxZE5BblA1cUs2aU9XSlhzcHFweFVOaGx6S04tN0RUeHN0b294MzQzZnZBbHFSOGZLaDYzdXJ6bm5CeXhR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "西日本新聞me"
     },
     {
       "articleId": "gnews_8f15e6eec1ea4c7a",
