@@ -1,97 +1,112 @@
 {
-  "generated_at": "2026-09-14T04:01:58.313389+00:00",
+  "generated_at": "2026-09-14T12:11:48.067380+00:00",
   "date_range": {
     "start": "2026-08-15",
     "end": "2026-09-14"
   },
-  "total_articles": 22,
+  "total_articles": 9,
   "prefecture_summary": {
-    "全国（都道府県不明）": 7,
-    "福岡県": 8,
-    "鹿児島県": 2,
-    "東京都": 5,
-    "兵庫県": 1,
-    "滋賀県": 1,
-    "埼玉県": 1
+    "福岡県": 6,
+    "東京都": 6,
+    "山口県": 1
   },
   "articles": [
     {
-      "articleId": "gnews_a343de193eca1e3c",
-      "headline": "成人女性がはしかの合併症で死亡、米ペンシルベニア州で感染が急拡大 - CNN.co.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-14T02:29:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyU2tzQ3V6UFJoeFZzNURobXJYY0VCTm54VGt6a0FnZ3lQYTVvcjlGbm5xcmg1d1NPc3E2MnVPaE1VTGZSNW9zdHBoZ1dCZHFK?oc=5",
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2Zicy9jYXRlZ29yeS9zb2NpZXR5L2ZzNDkzYzVmNGU1OWM1NDdlYzk0ZjY4YjE0MTAyMThkZmE=",
+      "headline": "【はしか】4人の感染を確認　県内でことし計10人に　福岡（2026年9月14日掲載）｜FBS NEWS NNN",
+      "headlineTranslated": "[Measles] Four cases confirmed; total of 10 cases in Fukuoka Prefecture this year (Published September 14, 2026) | FBS NEWS NNN",
+      "summary": "Measles outbreaks in Fukuoka Prefecture reach 10 cases this year as of September 14, 2026, with four new infections reported. A woman in her 20s residing in Fukuoka City developed fever, fatigue, sore throat, and rash; genetic testing on September 13 confirmed measles. She had two prior vaccine doses and no overseas travel history. An additional three infections were announced in Fukuoka City and Kurume City, bringing the annual total to 10. Public health authorities emphasize vaccination as a preventive measure, noting that handwashing or masking alone cannot fully prevent spread, and advise individuals with suspected measles symptoms to contact a medical facility and avoid using public transport when seeking care to reduce transmission.",
+      "summaryOriginal": "Measles outbreaks in Fukuoka Prefecture reach 10 cases this year as of September 14, 2026, with four new infections reported. A woman in her 20s residing in Fukuoka City developed fever, fatigue, sore throat, and rash; genetic testing on September 13 confirmed measles. She had two prior vaccine doses and no overseas travel history. An additional three infections were announced in Fukuoka City and Kurume City, bringing the annual total to 10. Public health authorities emphasize vaccination as a preventive measure, noting that handwashing or masking alone cannot fully prevent spread, and advise individuals with suspected measles symptoms to contact a medical facility and avoid using public transport when seeking care to reduce transmission.",
+      "publishedTimestamp": "2026-09-14T10:28:00+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/society/fs493c5f4e59c547ec94f68b1410218dfa",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
+      "locations": [
+        {
+          "name": "Fukuoka-shi",
+          "lat": 33.56894,
+          "lon": 130.35764
+        },
+        {
+          "name": "Fukuoka Prefecture",
+          "lat": 33.52813,
+          "lon": 130.66472
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
       ],
-      "dataSource": "Google News",
-      "sourceName": "CNN.co.jp"
-    },
-    {
-      "articleId": "gnews_e28fb0fcd7747f21",
-      "headline": "ペンシルベニア州で麻疹による死者が3人目、感染拡大を巡り州と連邦が対立 - Межа. Новини України.",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-13T20:47:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lVzlNcng0eWN0YndNbC1LN0h1NjNjLVVoMW11ZmJvb3lJOWtxU2xzc1NneUNiSjFDSUc1b1hkQmVEQXkwTUs2XzU0NlRILU1jV1ZIdHNkUUtUZ0pzY3gzYXJCbkF6N3FpcHdEWXdGejgtVDg?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Межа. Новини України."
-    },
-    {
-      "articleId": "gnews_ace57d99dfdb2f32",
-      "headline": "福岡県宗像市の10代女性が麻しん=はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認（RKB毎日放送） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-11T10:02:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuVXM2SFAwd3lfMlIzTm1VeHkyeGRkUGJfQmV0aGd0UkNqZm9QeG54R0dXZ2VSc2c2NVBfRmNwNXBLaHgtenphN1VNcGdwd2pWaG9tY0tJOHNyRnRpTUhnaFpZWm1MNzY1RFEzRWpoby1kMU9EYUZQY2I3QXYyMlk?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
       "prefectures": [
         "福岡県",
-        "鹿児島県"
+        "東京都"
       ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
+      "dataSource": "BlueDot",
+      "sourceName": ""
     },
     {
-      "articleId": "gnews_4435e453a836c894",
-      "headline": "福岡県宗像市の10代女性が麻しん＝はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認 - TBS NEWS DIG",
+      "articleId": "aHR0cHM6Ly93d3cuY2h1Z29rdS1ucC5jby5qcC9hcnRpY2xlcy8tLzg5NDYwNg==",
+      "headline": "山口で今年初のはしか感染者　福岡の20代男性、新幹線で来県",
+      "headlineTranslated": "First measles case of the year in Yamaguchi Prefecture; a man in his 20s from Fukuoka Prefecture came to the prefecture by Shinkansen.",
+      "summary": "Measles diagnosed in Yamaguchi Prefecture, Japan—the first measles case in the prefecture in 2026. A man in his 20s from Fukuoka City visited Yamaguchi and traveled there by Shinkansen Nozomi 14 (car 1, non-reserved). He developed fever on Sept 9; rash appeared on Sept 12. He disembarked at Shin-Yamaguchi around 9:10 am and sought medical care the same day. PCR testing at the Environmental Health Center confirmed measles. He is currently under medical care in Yamaguchi Prefecture. The case is considered imported to Yamaguchi due to his origin from Fukuoka. Details on exposure, contact tracing, or vaccination status were not provided. Public health authorities have confirmed the case and are monitoring the potential for further spread as of Sept 14, 2026.",
+      "summaryOriginal": "Measles diagnosed in Yamaguchi Prefecture, Japan—the first measles case in the prefecture in 2026. A man in his 20s from Fukuoka City visited Yamaguchi and traveled there by Shinkansen Nozomi 14 (car 1, non-reserved). He developed fever on Sept 9; rash appeared on Sept 12. He disembarked at Shin-Yamaguchi around 9:10 am and sought medical care the same day. PCR testing at the Environmental Health Center confirmed measles. He is currently under medical care in Yamaguchi Prefecture. The case is considered imported to Yamaguchi due to his origin from Fukuoka. Details on exposure, contact tracing, or vaccination status were not provided. Public health authorities have confirmed the case and are monitoring the potential for further spread as of Sept 14, 2026.",
+      "publishedTimestamp": "2026-09-14T07:56:45+00:00",
+      "sourceUrl": "https://www.chugoku-np.co.jp/articles/-/894606",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Fukuoka-shi",
+          "lat": 33.56894,
+          "lon": 130.35764
+        },
+        {
+          "name": "Fukuoka Prefecture",
+          "lat": 33.52813,
+          "lon": 130.66472
+        },
+        {
+          "name": "Yamaguchi",
+          "lat": 34.2,
+          "lon": 131.56667
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "福岡県",
+        "東京都",
+        "山口県"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
+      "articleId": "gov_62f2b29c08800bf4",
+      "headline": "令和8年9月14日麻しん（はしか）患者の発生と利用施設について",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-11T10:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IRXgzN0NCLVJtVXhhTkpkYVdicHBXbWJPdDZnQ3J0dC1RUTJYY0QyOVRDaU5wZVUwMVNQaDdWV2pHUVNBbVZ4ZFhtQV9JenJwajVyZlpremdXREJtZFZpenpxbGplUFE?oc=5",
+      "publishedTimestamp": "2026-09-14T00:00:00+00:00",
+      "sourceUrl": "https://www.city.fukuoka.lg.jp/hofuku/hokensho/kansensho/kansenshojoho/hodohappyou/documents/20260914measles.pdf",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "福岡県",
-        "鹿児島県"
+        "福岡県"
       ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
+      "dataSource": "自治体発表",
+      "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
       "articleId": "gov_faa9e29bf2cff1f8",
@@ -111,82 +126,6 @@
       ],
       "dataSource": "自治体発表",
       "sourceName": "福岡市 感染症関係報道発表資料"
-    },
-    {
-      "articleId": "gnews_20fff0dca248ee25",
-      "headline": "麻しんの流行状況（東京都 2026年） - idsc.tmiph.metro.tokyo.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-10T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "idsc.tmiph.metro.tokyo.lg.jp"
-    },
-    {
-      "articleId": "gnews_ac952f73c87c2d60",
-      "headline": "中播磨健康福祉事務所の感染症情報 - pref.hyogo.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-10T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40R3BzRlI4aG9ZR2MtdElvLTZSMzQtbjU1TGpIX2N2RGpYMk9TSDZUcWl6RFkyNnFHdzQ4S3prUmVRR00yNXJxQmVjR040QUtCLWV0WTVCblA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "兵庫県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.hyogo.lg.jp"
-    },
-    {
-      "articleId": "gnews_3ebb64c006bbf9c8",
-      "headline": "感染症情報について - city.ichikawa.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-10T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3ekR4RlRZbEdnQmhPa1JKdTg4LUxVZnRLeXVsSUdSaTlZYnlIcEVwd1dJQ1RHMk9yUldZQURSMFBZZHlFb1ZOcTdtRkd6R19DeFNlSDFrVk5VZw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.ichikawa.lg.jp"
-    },
-    {
-      "articleId": "gnews_d29e0866f7859cec",
-      "headline": "Bangladesh fights world's worst measles outbreak after vaccine gaps - Reuters",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-09T10:42:58+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YUy1wazBqUVVYRjdLdG5lZEF0M2M0NTRONzhNcVY0UlRxQktram0yaXBjTXQydVhpY2tVTndZLTF2TkFUaHlDYlVXMDE0a29SSDBDN0p0TllNMVF4U2F4MW5hLUZQUQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Reuters"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuc2Fua2VpLmNvbS9hcnRpY2xlLzIwMjYwOTA5LUpBWE1BNFlTSEZQNEpBQzVBNlFKN0ZQWkk0Lw==",
@@ -253,44 +192,6 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_47908c954da277a9",
-      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年9月8日更新） - wam.go.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-08T06:13:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RTFRUSzFaWnRiMjJTRjJjeUptSjlPeER4YWp5Vk1ySGRqVWNWY3ZqVDVkWnowMjIySTYzV2hweDdEOXBjaW1tTkIxLTZrVEJfNUlTLXAxRnR4SVozY3E0OXNrLTBsNFlrc0daczlvc1F2UVk?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "wam.go.jp"
-    },
-    {
-      "articleId": "gnews_e047d460f09da103",
-      "headline": "麻しん（はしか）患者が利用した県内施設をお知らせします - pref.fukuoka.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-08T04:14:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lV1dxaTB0MU1lMXVFdjM2VEZvZjJkYk51OHEtbUZlQ3pvNjJzQ2hSSUpFalpxTExUVnNjM09YNlBrOWxrZTM2NjlneFNMMzV5cHZlRS1jLVNKZG9QMzBRbTNNazJmV2sxSnBQbGRZcWhKUQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.fukuoka.lg.jp"
-    },
-    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2Zicy9jYXRlZ29yeS9zb2NpZXR5L2ZzZWZlMWU4MzcxOWM3NGEyNzg5NjQzZTAwM2I0YzgxYmM=",
       "headline": "【はしか】県内でことし5人目　発熱後に地下鉄や西鉄電車を利用　福岡（2026年9月7日掲載）｜FBS NEWS NNN",
       "headlineTranslated": "Measles: Fifth case in the prefecture this year after developing a fever; used the subway and Nishitetsu trains; Fukuoka (Sept. 7, 2026) | FBS NEWS NNN",
@@ -320,49 +221,11 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_8f15e6eec1ea4c7a",
-      "headline": "福岡県内で麻しん（はしか）患者が発生 公共交通機関を利用 県と市が注意喚起（KBC九州朝日放送） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-07T08:45:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEdFdJWm9WMHdHblF1TWhIOER2X3g2dWV1ZkkteVJOMGhBcTYtUmJFc2pRTXM5M3gwWUc4UTUyUXlLODlVa3dZaWljdkQ5UExOb2JDLXFYM0hQa1lZR1lmOHZ5M1B4bGtoa1NjRDFoa2lyb2d5Mm40dUc0NG1sMW8?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gov_0290bde4ac1f3818",
-      "headline": "麻しん（はしか）患者発生及び利用施設について（令和8年9月7日）",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-07T00:00:00+00:00",
-      "sourceUrl": "https://www.pref.fukuoka.lg.jp/press-release/measles20260907.html",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "自治体発表",
-      "sourceName": "福岡県 記者発表資料"
     },
     {
       "articleId": "gov_8f73bfbc77be5e38",
@@ -382,63 +245,6 @@
       ],
       "dataSource": "自治体発表",
       "sourceName": "福岡市 感染症関係報道発表資料"
-    },
-    {
-      "articleId": "gnews_fd130bf6de83e065",
-      "headline": "麻しん（はしか）患者発生に伴う注意喚起について - pref.shiga.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-06T21:49:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tbWZLcmd6NFBRNXNTOWQtVkdmS3c5TlowNFBTZWh5ZmowSlk5bnVVMEx0aGVtOG8tT0tHVGdjSFBqYnpOcEo1N2NzclY5NVZKYk1HbnhkWXVTQVVOOWpiR0syMkxUQ25TX1E?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "滋賀県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.shiga.lg.jp"
-    },
-    {
-      "articleId": "gnews_68025511539b2cab",
-      "headline": "麻疹の危険な蔓延は、私たちで食い止めます。 - Public Health Insider",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-03T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGRvZVRhdmhCUlR6cXhydEdaRE9lb3VzNHZ4SFBmemdOcm44dFZMT2lIY1hsU3RCdU51ZENhVlNNVkktQ1lRTGllWGxkQnZqMkhNX3N1Y3ZhODFQemRFS3pnNnFFVmJ0TktfQnZuZHFTMGs4eXBKY09Sc1VGT0FGYmxGMWJ0bEVZN2JYQkI0Z05SQlBnOGE40gGcAUFVX3lxTE02WkpZTnZqRWw2aThNSFZOWHJLSEtqSEMyNFlJLU83OUkxUW1yQ3RUY2duLU9aM1hjM2w0Vk5nVGN5bEZmb0habGstVk1DMjd4a1Z2bFVSRnZLZ0pSTWI4bUlnZy1CM0dJeV9kY1J4b1NuU0xVVHBualRNRVB3X2loazhtMktjUFhfSF9GamhoTmRQbmRZb0RIckItaw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Public Health Insider"
-    },
-    {
-      "articleId": "gnews_737cc60978c798ab",
-      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-02T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "読売新聞"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDgyNy1HWVRFVDAwMDAxLw==",
@@ -476,25 +282,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_3ebf2a11eb757743",
-      "headline": "麻しん（はしか）に注意しましょう - city.koshigaya.saitama.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-26T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2VGU3pteG14TWRhQS1TSzZ5bUNYcHllQjFqMEktbXNQTXVTVUhBZ2VsbkozaFVSS1hBQ2p4SUNFeGJLcE9ZSWpUbUV6Z3E4TVRMaU9ZZ3c4NUh0YWhfUS1oXzAzVXRlSERINTc0ekVOU0UyZUIyelRidzlUbHlUQkZnVGpMTml6U0JfdHpRTVZVX3VqVWhPSEh5YjM0NW8?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "埼玉県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.koshigaya.saitama.jp"
     }
   ]
 }
