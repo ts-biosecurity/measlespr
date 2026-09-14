@@ -1,20 +1,39 @@
 {
-  "generated_at": "2026-09-13T22:13:36.268570+00:00",
+  "generated_at": "2026-09-14T04:01:58.313389+00:00",
   "date_range": {
-    "start": "2026-08-14",
-    "end": "2026-09-13"
+    "start": "2026-08-15",
+    "end": "2026-09-14"
   },
   "total_articles": 22,
   "prefecture_summary": {
-    "全国（都道府県不明）": 6,
-    "福岡県": 9,
-    "鹿児島県": 3,
+    "全国（都道府県不明）": 7,
+    "福岡県": 8,
+    "鹿児島県": 2,
     "東京都": 5,
     "兵庫県": 1,
     "滋賀県": 1,
     "埼玉県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_a343de193eca1e3c",
+      "headline": "成人女性がはしかの合併症で死亡、米ペンシルベニア州で感染が急拡大 - CNN.co.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-14T02:29:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyU2tzQ3V6UFJoeFZzNURobXJYY0VCTm54VGt6a0FnZ3lQYTVvcjlGbm5xcmg1d1NPc3E2MnVPaE1VTGZSNW9zdHBoZ1dCZHFK?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN.co.jp"
+    },
     {
       "articleId": "gnews_e28fb0fcd7747f21",
       "headline": "ペンシルベニア州で麻疹による死者が3人目、感染拡大を巡り州と連邦が対立 - Межа. Новини України.",
@@ -75,26 +94,6 @@
       "sourceName": "TBS NEWS DIG"
     },
     {
-      "articleId": "gnews_a209fd85eac4739e",
-      "headline": "福岡・宗像市の10代女性がはしか感染 JR鹿児島線赤間―博多など利用 - nishinippon.co.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-11T08:25:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40SWZtSjZRV1Znc1RkTGZoQ0g1Z3Z4N3Z5RWNXdEY4d3VaaUpMbUl6eVY4ZXVMZEE0a3pWdDJNTjk2X1BsZDBTQlhGTzUtMGhXX2ZsLTFn?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県",
-        "鹿児島県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "nishinippon.co.jp"
-    },
-    {
       "articleId": "gov_faa9e29bf2cff1f8",
       "headline": "令和8年9月11日麻しん（はしか）患者の利用施設について",
       "headlineTranslated": "",
@@ -114,8 +113,8 @@
       "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
-      "articleId": "gnews_e5b30407ed2f9682",
-      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
+      "articleId": "gnews_20fff0dca248ee25",
+      "headline": "麻しんの流行状況（東京都 2026年） - idsc.tmiph.metro.tokyo.lg.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -130,7 +129,7 @@
         "東京都"
       ],
       "dataSource": "Google News",
-      "sourceName": "東京都感染症情報センター"
+      "sourceName": "idsc.tmiph.metro.tokyo.lg.jp"
     },
     {
       "articleId": "gnews_ac952f73c87c2d60",
