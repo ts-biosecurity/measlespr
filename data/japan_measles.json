@@ -1,21 +1,79 @@
 {
-  "generated_at": "2026-09-15T04:00:54.065137+00:00",
+  "generated_at": "2026-09-15T11:21:34.284278+00:00",
   "date_range": {
     "start": "2026-08-16",
     "end": "2026-09-15"
   },
-  "total_articles": 37,
+  "total_articles": 40,
   "prefecture_summary": {
-    "福岡県": 21,
+    "福岡県": 24,
+    "山口県": 2,
     "全国（都道府県不明）": 9,
     "東京都": 7,
-    "山口県": 1,
     "鹿児島県": 3,
     "兵庫県": 1,
     "滋賀県": 1,
     "埼玉県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_0989f08d81328fac",
+      "headline": "福岡市内で麻しん（はしか）が発生しています - city.fukuoka.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T09:06:21+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ0h5clVPdEhPSXRyNGMyWENwSkE0OWlRNmowOFBWMFJPdWJrM2dBMkppTHlfYXBfbm41VVRFRUhDMHQ5ODgyaHVXQ2pFTERZRHNzMVdPVzFQS0xEa21BTnJtR3JTUmNDZEtfdUJicDR0RWFzSFRfUVRuYi1IU3o2WlV6aC1qQ2VuSUpBSXpHQTVfeG5ZOWR1ckZOMEJldw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.fukuoka.lg.jp"
+    },
+    {
+      "articleId": "gnews_4e3d0342fabdf9e7",
+      "headline": "福岡市の20代男性がはしか感染、西鉄バスやJR利用 - nishinippon.co.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T08:33:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OVGF4UGs5dHM5RWozeWFla1BqeXA0SjRKWlJwSE5iMTl6UVN6YU1sUVRvX0VqY2F1UWYzOUMzZjZ2NV9uRVFfUUplNUFnbHdyczB2cnpB?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "nishinippon.co.jp"
+    },
+    {
+      "articleId": "gnews_3d3ceab9b7684cb4",
+      "headline": "「はしか」山口県で感染者を確認、ＪＲ博多駅―新山口駅で新幹線利用…同じ車両に乗車なら感染の恐れ（読売新聞オンライン） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T04:09:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByU1VaNWYtbUx0UmNOS1I2TDh3NHZLQW5tRW5zSldrVmtWQTh5RGZHTEpRY0M5ay1mQWRfYWN4Y3pTVmZyeGZMX1k4V29aVG94bmF0c1l0WTlBM05wUjI5amROcjFyc0JHZ1B3VzV3LVZxeFNfaTRJRDNSLW1WU3M?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "山口県",
+        "福岡県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
     {
       "articleId": "gov_102125b364b03939",
       "headline": "麻しん（はしか）患者について（令和8年9月15日）",
@@ -34,6 +92,25 @@
       ],
       "dataSource": "自治体発表",
       "sourceName": "福岡県 記者発表資料"
+    },
+    {
+      "articleId": "gov_ad64677f8d750b81",
+      "headline": "令和8年9月15日麻しん（はしか）患者の発生と利用施設について",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T00:00:00+00:00",
+      "sourceUrl": "https://www.city.fukuoka.lg.jp/hofuku/hokensho/kansensho/kansenshojoho/hodohappyou/documents/20260915measles.pdf",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "自治体発表",
+      "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
       "articleId": "gnews_672a7a82a8d0d679",
@@ -103,15 +180,15 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
     },
     {
-      "articleId": "gnews_f481afa256c12019",
-      "headline": "福岡市と久留米市の男女4人がはしか感染 西鉄天神大牟田線やバスなど利用 - 西日本新聞me",
+      "articleId": "gnews_41052950d4cbc795",
+      "headline": "福岡市と久留米市の男女4人がはしか感染 西鉄天神大牟田線やバスなど利用 - nishinippon.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -126,26 +203,7 @@
         "福岡県"
       ],
       "dataSource": "Google News",
-      "sourceName": "西日本新聞me"
-    },
-    {
-      "articleId": "gnews_58ae211fe176f781",
-      "headline": "福岡県内で「はしか」感染拡大 新たに10代と20代の男女4人が感染 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-14T09:08:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QSy1KR1NmX0JGWVROYjZHSnExMUtOV2RPZ0U0MUhjN3BIMGd0Sk4wTHZYSmpMZTZNVngzMWR2YjNNTU1yc1NhdWNabUplTmdWNTVjMHk2cw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
+      "sourceName": "nishinippon.co.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuY2h1Z29rdS1ucC5jby5qcC9hcnRpY2xlcy8tLzg5NDYwNg==",
@@ -182,9 +240,9 @@
         }
       ],
       "prefectures": [
-        "福岡県",
         "東京都",
-        "山口県"
+        "山口県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -209,8 +267,8 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_71a6e539c2fbddca",
-      "headline": "久留米市の10代男性と福岡市の20代女性が麻しん(はしか)に感染 利用した西鉄天神大牟田線の列車を公表 福岡 - TBS NEWS DIG",
+      "articleId": "gnews_ea75d3e68967f663",
+      "headline": "久留米市の10代男性と福岡市の20代女性が麻しん(はしか)に感染 利用した西鉄天神大牟田線の列車を公表 福岡 - newsdig.tbs.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -225,11 +283,11 @@
         "福岡県"
       ],
       "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
+      "sourceName": "newsdig.tbs.co.jp"
     },
     {
-      "articleId": "gnews_6e07259f3246e6b3",
-      "headline": "久留米市の10代女性と福岡市の20代女性が麻しん(はしか)に感染 利用した西鉄天神大牟田線の列車を公表 福岡 - TBS NEWS DIG",
+      "articleId": "gnews_19d15da991a017c1",
+      "headline": "久留米市の10代女性と福岡市の20代女性が麻しん(はしか)に感染 利用した西鉄天神大牟田線の列車を公表 福岡 - newsdig.tbs.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -244,7 +302,7 @@
         "福岡県"
       ],
       "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
+      "sourceName": "newsdig.tbs.co.jp"
     },
     {
       "articleId": "gnews_923ddedcd926702b",
@@ -362,8 +420,8 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_4f3e014b706135e4",
-      "headline": "福岡県宗像市の10代女性が麻しん＝はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認 - TBS NEWS DIG",
+      "articleId": "gnews_b73ae37797046c13",
+      "headline": "福岡県宗像市の10代女性が麻しん＝はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認 - newsdig.tbs.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -379,11 +437,11 @@
         "鹿児島県"
       ],
       "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
+      "sourceName": "newsdig.tbs.co.jp"
     },
     {
-      "articleId": "gnews_515e2340aa81a0a8",
-      "headline": "福岡・宗像市の10代女性がはしか感染 JR鹿児島線赤間―博多など利用 - 西日本新聞me",
+      "articleId": "gnews_a209fd85eac4739e",
+      "headline": "福岡・宗像市の10代女性がはしか感染 JR鹿児島線赤間―博多など利用 - nishinippon.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -399,7 +457,7 @@
         "鹿児島県"
       ],
       "dataSource": "Google News",
-      "sourceName": "西日本新聞me"
+      "sourceName": "nishinippon.co.jp"
     },
     {
       "articleId": "gov_2429745b8dd9db2c",
@@ -599,25 +657,6 @@
       "sourceName": "wam.go.jp"
     },
     {
-      "articleId": "gnews_e047d460f09da103",
-      "headline": "麻しん（はしか）患者が利用した県内施設をお知らせします - pref.fukuoka.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-08T04:14:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lV1dxaTB0MU1lMXVFdjM2VEZvZjJkYk51OHEtbUZlQ3pvNjJzQ2hSSUpFalpxTExUVnNjM09YNlBrOWxrZTM2NjlneFNMMzV5cHZlRS1jLVNKZG9QMzBRbTNNazJmV2sxSnBQbGRZcWhKUQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.fukuoka.lg.jp"
-    },
-    {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2Zicy9jYXRlZ29yeS9zb2NpZXR5L2ZzZWZlMWU4MzcxOWM3NGEyNzg5NjQzZTAwM2I0YzgxYmM=",
       "headline": "【はしか】県内でことし5人目　発熱後に地下鉄や西鉄電車を利用　福岡（2026年9月7日掲載）｜FBS NEWS NNN",
       "headlineTranslated": "Measles: Fifth case in the prefecture this year after developing a fever; used the subway and Nishitetsu trains; Fukuoka (Sept. 7, 2026) | FBS NEWS NNN",
@@ -647,8 +686,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -680,6 +719,25 @@
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-07T07:21:02+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBubU81U2x1VlNfckJLU09XeFhkMVhkMUstQ05TSFFiNW9iS0tnRnZabGtTWmRlanNhSTNXaTVZQjd5bk5Ua1Z3eXdCa2J5UzZULWMwTl9VeXdNRC1aZ21xRXdIN005aVROZ2Y4OElzNjFpemM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.fukuoka.lg.jp"
+    },
+    {
+      "articleId": "gnews_e047d460f09da103",
+      "headline": "麻しん（はしか）患者が利用した県内施設をお知らせします - pref.fukuoka.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-07T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lV1dxaTB0MU1lMXVFdjM2VEZvZjJkYk51OHEtbUZlQ3pvNjJzQ2hSSUpFalpxTExUVnNjM09YNlBrOWxrZTM2NjlneFNMMzV5cHZlRS1jLVNKZG9QMzBRbTNNazJmV2sxSnBQbGRZcWhKUQ?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
