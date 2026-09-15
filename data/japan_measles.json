@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T23:00:24.096123+00:00",
+  "generated_at": "2026-09-15T04:00:54.065137+00:00",
   "date_range": {
-    "start": "2026-08-15",
-    "end": "2026-09-14"
+    "start": "2026-08-16",
+    "end": "2026-09-15"
   },
-  "total_articles": 34,
+  "total_articles": 37,
   "prefecture_summary": {
-    "全国（都道府県不明）": 10,
-    "福岡県": 17,
+    "福岡県": 21,
+    "全国（都道府県不明）": 9,
     "東京都": 7,
     "山口県": 1,
     "鹿児島県": 3,
@@ -16,6 +16,25 @@
     "埼玉県": 1
   },
   "articles": [
+    {
+      "articleId": "gov_102125b364b03939",
+      "headline": "麻しん（はしか）患者について（令和8年9月15日）",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T00:00:00+00:00",
+      "sourceUrl": "https://www.pref.fukuoka.lg.jp/press-release/measles20260915.html",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "自治体発表",
+      "sourceName": "福岡県 記者発表資料"
+    },
     {
       "articleId": "gnews_672a7a82a8d0d679",
       "headline": "保健省が成人向け麻しんワクチン1万8500回分を全国に配布した | ウクライナニュース - Межа. Новини України.",
@@ -84,8 +103,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -108,6 +127,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "西日本新聞me"
+    },
+    {
+      "articleId": "gnews_58ae211fe176f781",
+      "headline": "福岡県内で「はしか」感染拡大 新たに10代と20代の男女4人が感染 - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-14T09:08:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QSy1KR1NmX0JGWVROYjZHSnExMUtOV2RPZ0U0MUhjN3BIMGd0Sk4wTHZYSmpMZTZNVngzMWR2YjNNTU1yc1NhdWNabUplTmdWNTVjMHk2cw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuY2h1Z29rdS1ucC5jby5qcC9hcnRpY2xlcy8tLzg5NDYwNg==",
@@ -144,8 +182,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "福岡県",
+        "東京都",
         "山口県"
       ],
       "dataSource": "BlueDot",
@@ -228,25 +266,6 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_dd9fa2ed534346c7",
-      "headline": "米国で今年3人目の麻疹死亡例、ワクチン懐疑論背景に感染再拡大 - AFPBB News",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-14T04:31:29+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zOFlEV0FvUmNfdXp3NHAxTGlCeExSQXN5a1ZjZ21MR1RMZDRiU1MxTVhtYWhsVkx3a2ZncDFwZGRvN2kwY0ROVDJITnVJaWxkRGlZQ9IBVEFVX3lxTE1zOFlEV0FvUmNfdXp3NHAxTGlCeExSQXN5a1ZjZ21MR1RMZDRiU1MxTVhtYWhsVkx3a2ZncDFwZGRvN2kwY0ROVDJITnVJaWxkRGlZQw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "AFPBB News"
-    },
-    {
       "articleId": "gnews_a343de193eca1e3c",
       "headline": "成人女性がはしかの合併症で死亡、米ペンシルベニア州で感染が急拡大 - CNN.co.jp",
       "headlineTranslated": "",
@@ -264,6 +283,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CNN.co.jp"
+    },
+    {
+      "articleId": "gov_fc3ab8b06e5d4444",
+      "headline": "麻しん（はしか）患者について（令和8年9月14日）",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-14T00:00:00+00:00",
+      "sourceUrl": "https://www.pref.fukuoka.lg.jp/press-release/measles20260914.html",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "自治体発表",
+      "sourceName": "福岡県 記者発表資料"
     },
     {
       "articleId": "gov_62f2b29c08800bf4",
@@ -324,13 +362,13 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_4435e453a836c894",
+      "articleId": "gnews_4f3e014b706135e4",
       "headline": "福岡県宗像市の10代女性が麻しん＝はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認 - TBS NEWS DIG",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T10:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IRXgzN0NCLVJtVXhhTkpkYVdicHBXbWJPdDZnQ3J0dC1RUTJYY0QyOVRDaU5wZVUwMVNQaDdWV2pHUVNBbVZ4ZFhtQV9JenJwajVyZlpremdXREJtZFZpenpxbGplUFE?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FS1lTMmlKX3F6T0w3S0pfVFFXN25YbjBwT3hCQjR5SVl1Y2hhclFuN1BFS0pIbnJmNVlSd0xsd3VZeFJLT3hGXzJjeDd3VjdwWjRzNlM3UQ?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -362,6 +400,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "西日本新聞me"
+    },
+    {
+      "articleId": "gov_2429745b8dd9db2c",
+      "headline": "麻しん（はしか）患者発生及び利用施設について（令和8年9月11日）",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-11T00:00:00+00:00",
+      "sourceUrl": "https://www.pref.fukuoka.lg.jp/press-release/measles20260911.html",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "自治体発表",
+      "sourceName": "福岡県 記者発表資料"
     },
     {
       "articleId": "gov_faa9e29bf2cff1f8",
@@ -590,8 +647,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
