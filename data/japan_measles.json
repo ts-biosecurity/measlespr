@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-18T04:31:05.542165+00:00",
+  "generated_at": "2026-09-18T10:47:55.127267+00:00",
   "date_range": {
     "start": "2026-08-19",
     "end": "2026-09-18"
   },
-  "total_articles": 40,
+  "total_articles": 39,
   "prefecture_summary": {
-    "福岡県": 25,
-    "全国（都道府県不明）": 11,
+    "福岡県": 23,
+    "全国（都道府県不明）": 12,
     "山口県": 2,
     "東京都": 6,
-    "鹿児島県": 2,
+    "鹿児島県": 1,
     "埼玉県": 1
   },
   "articles": [
@@ -20,7 +20,7 @@
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-18T03:46:27+00:00",
+      "publishedTimestamp": "2026-09-18T09:49:58+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR09qbm02VDhBak1UdktZUmhmNlBpTk5oVDlqNUpCSm1WVElrSXBRQl9KZ1FvRW9XUEVKVUs2MlhGR0R5Vy0teUt3MEU4Y0hhQ0c3R0ZiTmQteG9Nd0RmemZhMXVZWDRWWm9zeVd6b0g0NFZFUklPVEpXeUVHX0MxOUIyd3EwSXVFeHFTcw?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
@@ -53,6 +53,25 @@
       "sourceName": "Reuters"
     },
     {
+      "articleId": "gov_5cb23b57d092ecf0",
+      "headline": "令和8年9月18日麻しん（はしか）患者の発生と利用施設について",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-18T00:00:00+00:00",
+      "sourceUrl": "https://www.city.fukuoka.lg.jp/hofuku/hokensho/kansensho/kansenshojoho/hodohappyou/documents/20260918measles.pdf",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "自治体発表",
+      "sourceName": "福岡市 感染症関係報道発表資料"
+    },
+    {
       "articleId": "gnews_fdb86a028afb1cb3",
       "headline": "米保健福祉長官が反ワクチン団体で演説、麻疹流行下でも政策転換を擁護 | ウクライナニュース - #Mezha - Межа. Новини України.",
       "headlineTranslated": "",
@@ -72,13 +91,13 @@
       "sourceName": "Межа. Новини України."
     },
     {
-      "articleId": "gnews_b40996668aa2a826",
-      "headline": "はしか感染の福岡市の女性2人、不特定多数と接触か 西鉄バス、JR、商業施設利用 - 西日本新聞me",
+      "articleId": "gov_3dc2f490e73585d6",
+      "headline": "令和8年9月17日麻しん（はしか）患者の発生と利用施設について",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-17T08:10:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hc0EwT2xZVHQ2YS1iV2h1V2tQSk84V2RSMWR2Q1BaTW1LbElvdjV2cDM4UVROcWJ0eC1xUURFZGhLV3FoZW9xTTh2MXBXcVBiQlU2U01B?oc=5",
+      "publishedTimestamp": "2026-09-17T00:00:00+00:00",
+      "sourceUrl": "https://www.city.fukuoka.lg.jp/hofuku/hokensho/kansensho/kansenshojoho/hodohappyou/documents/20260917measles.pdf",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -87,8 +106,8 @@
       "prefectures": [
         "福岡県"
       ],
-      "dataSource": "Google News",
-      "sourceName": "西日本新聞me"
+      "dataSource": "自治体発表",
+      "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
       "articleId": "gnews_34d5b9fe054e636d",
@@ -263,25 +282,6 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gov_102125b364b03939",
-      "headline": "麻しん（はしか）患者について（令和8年9月15日）",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-15T00:00:00+00:00",
-      "sourceUrl": "https://www.pref.fukuoka.lg.jp/press-release/measles20260915.html",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "自治体発表",
-      "sourceName": "福岡県 記者発表資料"
-    },
-    {
       "articleId": "gov_ad64677f8d750b81",
       "headline": "令和8年9月15日麻しん（はしか）患者の発生と利用施設について",
       "headlineTranslated": "",
@@ -368,8 +368,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -409,9 +409,9 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "山口県",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -493,25 +493,6 @@
       "sourceName": "CNN.co.jp"
     },
     {
-      "articleId": "gov_fc3ab8b06e5d4444",
-      "headline": "麻しん（はしか）患者について（令和8年9月14日）",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-14T00:00:00+00:00",
-      "sourceUrl": "https://www.pref.fukuoka.lg.jp/press-release/measles20260914.html",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "自治体発表",
-      "sourceName": "福岡県 記者発表資料"
-    },
-    {
       "articleId": "gov_62f2b29c08800bf4",
       "headline": "令和8年9月14日麻しん（はしか）患者の発生と利用施設について",
       "headlineTranslated": "",
@@ -529,26 +510,6 @@
       ],
       "dataSource": "自治体発表",
       "sourceName": "福岡市 感染症関係報道発表資料"
-    },
-    {
-      "articleId": "gnews_ace57d99dfdb2f32",
-      "headline": "福岡県宗像市の10代女性が麻しん=はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認（RKB毎日放送） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-11T10:02:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuVXM2SFAwd3lfMlIzTm1VeHkyeGRkUGJfQmV0aGd0UkNqZm9QeG54R0dXZ2VSc2c2NVBfRmNwNXBLaHgtenphN1VNcGdwd2pWaG9tY0tJOHNyRnRpTUhnaFpZWm1MNzY1RFEzRWpoby1kMU9EYUZQY2I3QXYyMlk?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県",
-        "鹿児島県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_4f3e014b706135e4",
@@ -740,8 +701,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -877,6 +838,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "city.koshigaya.saitama.jp"
+    },
+    {
+      "articleId": "gnews_c6b3e978bdc7e9ee",
+      "headline": "Japanese men turn to hair removal in scorching summer - Reuters",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-20T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmNEdRNTRqazctUHBJb1hpaFlIN2JZNmZkcUJ5UnZWVlBXTlpiRzhfa292NXJxa3FoNFpKZWtyMFZmVDg0STlUQWpwWFlVRE9zbUM3b2VHbHF6TTdhVkdud08ySk9NMWxkMXhj?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Reuters"
     }
   ]
 }
