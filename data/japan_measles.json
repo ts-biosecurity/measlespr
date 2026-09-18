@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T16:03:19.164749+00:00",
+  "generated_at": "2026-09-18T20:36:53.750952+00:00",
   "date_range": {
     "start": "2026-08-19",
     "end": "2026-09-18"
   },
-  "total_articles": 41,
+  "total_articles": 40,
   "prefecture_summary": {
-    "福岡県": 26,
-    "全国（都道府県不明）": 11,
+    "福岡県": 24,
+    "全国（都道府県不明）": 12,
     "山口県": 2,
     "東京都": 6,
     "鹿児島県": 2,
@@ -15,8 +15,8 @@
   },
   "articles": [
     {
-      "articleId": "gnews_3bf8c08c8093164f",
-      "headline": "福岡市内で麻しん（はしか）が発生しています - city.fukuoka.lg.jp",
+      "articleId": "gnews_72bec7ce4d7fb6af",
+      "headline": "福岡市 福岡市内で麻しん（はしか）が発生しています - city.fukuoka.lg.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -108,25 +108,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Межа. Новини України."
-    },
-    {
-      "articleId": "gnews_b40996668aa2a826",
-      "headline": "はしか感染の福岡市の女性2人、不特定多数と接触か 西鉄バス、JR、商業施設利用 - 西日本新聞me",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-17T08:10:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hc0EwT2xZVHQ2YS1iV2h1V2tQSk84V2RSMWR2Q1BaTW1LbElvdjV2cDM4UVROcWJ0eC1xUURFZGhLV3FoZW9xTTh2MXBXcVBiQlU2U01B?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "西日本新聞me"
     },
     {
       "articleId": "gov_3dc2f490e73585d6",
@@ -448,8 +429,8 @@
       ],
       "prefectures": [
         "山口県",
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -766,25 +747,6 @@
       "sourceName": "pref.fukuoka.lg.jp"
     },
     {
-      "articleId": "gnews_e047d460f09da103",
-      "headline": "麻しん（はしか）患者が利用した県内施設をお知らせします - pref.fukuoka.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-07T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lV1dxaTB0MU1lMXVFdjM2VEZvZjJkYk51OHEtbUZlQ3pvNjJzQ2hSSUpFalpxTExUVnNjM09YNlBrOWxrZTM2NjlneFNMMzV5cHZlRS1jLVNKZG9QMzBRbTNNazJmV2sxSnBQbGRZcWhKUQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.fukuoka.lg.jp"
-    },
-    {
       "articleId": "gov_8f73bfbc77be5e38",
       "headline": "令和8年9月7日麻しん（はしか）患者の利用施設について",
       "headlineTranslated": "",
@@ -821,6 +783,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Public Health Insider"
+    },
+    {
+      "articleId": "gnews_f0d47af3e3b1934e",
+      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - yomiuri.co.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "yomiuri.co.jp"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cueW9taXVyaS5jby5qcC95b21pZHIvYXJ0aWNsZS8yMDI2MDgyNy1HWVRFVDAwMDAxLw==",
@@ -879,13 +860,13 @@
       "sourceName": "city.koshigaya.saitama.jp"
     },
     {
-      "articleId": "gnews_c6b3e978bdc7e9ee",
-      "headline": "Japanese men turn to hair removal in scorching summer - Reuters",
+      "articleId": "gnews_0793deb4af8548e2",
+      "headline": "Shapiro calls measles deaths in Pennsylvania 'completely preventable' - ロイター",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-20T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmNEdRNTRqazctUHBJb1hpaFlIN2JZNmZkcUJ5UnZWVlBXTlpiRzhfa292NXJxa3FoNFpKZWtyMFZmVDg0STlUQWpwWFlVRE9zbUM3b2VHbHF6TTdhVkdud08ySk9NMWxkMXhj?oc=5",
+      "publishedTimestamp": "2026-08-25T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BenZ5N1ltZDRyMnNfQ1I2aEpUbnZvMkJWNEstTE93OVRNQVhVTXNkY1c4cFhKS25zS19Yc2ZFeUExdDVsS3dOMGZ6LVJjel9qRzJOSjVwSTdqdFB3WjROVFFNWE5RZw?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -895,7 +876,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "Reuters"
+      "sourceName": "ロイター"
     }
   ]
 }
