@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-26T07:15:08.739917+00:00",
+  "generated_at": "2026-09-26T12:46:36.321402+00:00",
   "date_range": {
     "start": "2026-08-27",
     "end": "2026-09-26"
   },
-  "total_articles": 30,
+  "total_articles": 31,
   "prefecture_summary": {
-    "全国（都道府県不明）": 4,
+    "全国（都道府県不明）": 5,
     "福岡県": 19,
     "東京都": 8,
     "山口県": 1,
@@ -15,6 +15,25 @@
     "埼玉県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_82c414246ca653fd",
+      "headline": "CDCがペンシルベニア州の麻疹死者4人を公表集計から除外──ダニエル・グリフィン医師が指摘 - BigGo ファイナンス",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-26T05:08:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBISzJiU1JPNF9JcjNidnViYmtfNzZwUXFidkhpSDZyRWI0ZElyX2NlR1R6cnBYYUp3dDZlRV9TdnVEazdSM2hGaWdkRGxOWHpVT0RZTlg2V0xVZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BigGo ファイナンス"
+    },
     {
       "articleId": "gnews_a87dcf9aa695872f",
       "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年9月24日更新） - wam.go.jp",
@@ -314,9 +333,9 @@
         }
       ],
       "prefectures": [
+        "山口県",
         "東京都",
-        "福岡県",
-        "山口県"
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
