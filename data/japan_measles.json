@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-26T00:25:47.311367+00:00",
+  "generated_at": "2026-09-26T07:15:08.739917+00:00",
   "date_range": {
     "start": "2026-08-27",
     "end": "2026-09-26"
   },
-  "total_articles": 31,
+  "total_articles": 30,
   "prefecture_summary": {
-    "全国（都道府県不明）": 6,
+    "全国（都道府県不明）": 4,
     "福岡県": 19,
-    "東京都": 7,
+    "東京都": 8,
     "山口県": 1,
     "神奈川県": 1,
     "鹿児島県": 2,
@@ -73,6 +73,25 @@
       "sourceName": "SWI swissinfo.ch"
     },
     {
+      "articleId": "gnews_c8c3ef0517b05fc4",
+      "headline": "麻しん（はしか）抗体検査および予防接種を無料で受けられます（20歳以上59歳以下のかた） - city.meguro.tokyo.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-24T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2EwdkMzZUNlbmVsTkF6S18xWHRqc0lxSWhfOXg3ckdXQTJWaWZDT1F4cTN6WDZMWTNXOTUzSE40NGdvbk5iejhTZ1RSakhGWnVYeTBsZV9NS0FWQVFvTDNsd0g3NjZGRi1VTzVFeEU5VUdudUtBbzhTNFdfTVRlTW9ZQXlpS0FYNXdSeHkyRFBrQXljWVNsNGFrc1dNUQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "city.meguro.tokyo.jp"
+    },
+    {
       "articleId": "gov_eef1c2c3994f0401",
       "headline": "令和8年9月24日麻しん（はしか）患者の利用施設について",
       "headlineTranslated": "",
@@ -90,25 +109,6 @@
       ],
       "dataSource": "自治体発表",
       "sourceName": "福岡市 感染症関係報道発表資料"
-    },
-    {
-      "articleId": "gnews_3ebb64c006bbf9c8",
-      "headline": "感染症情報について - city.ichikawa.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-22T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3ekR4RlRZbEdnQmhPa1JKdTg4LUxVZnRLeXVsSUdSaTlZYnlIcEVwd1dJQ1RHMk9yUldZQURSMFBZZHlFb1ZOcTdtRkd6R19DeFNlSDFrVk5VZw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "city.ichikawa.lg.jp"
     },
     {
       "articleId": "gov_53d98ff66685f079",
@@ -130,8 +130,8 @@
       "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
-      "articleId": "gnews_20fff0dca248ee25",
-      "headline": "麻しんの流行状況（東京都 2026年） - idsc.tmiph.metro.tokyo.lg.jp",
+      "articleId": "gnews_e5b30407ed2f9682",
+      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -146,7 +146,7 @@
         "東京都"
       ],
       "dataSource": "Google News",
-      "sourceName": "idsc.tmiph.metro.tokyo.lg.jp"
+      "sourceName": "東京都感染症情報センター"
     },
     {
       "articleId": "gov_3dc2f490e73585d6",
@@ -173,7 +173,7 @@
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-16T08:33:00+00:00",
+      "publishedTimestamp": "2026-09-16T07:00:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SS0J0R3RxQjhhZXNhM01BT0tHWDV1ZVM5RVVlTmY3c3dQZTJWLUZpLWNQNi0tcFNkU0JQSmFPWkQ1bEdYanh2S0ptZDRLUlBWRkozYmx3?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
@@ -185,25 +185,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "西日本新聞me"
-    },
-    {
-      "articleId": "gnews_737cc60978c798ab",
-      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-16T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "読売新聞"
     },
     {
       "articleId": "gnews_72bec7ce4d7fb6af",
