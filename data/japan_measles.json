@@ -1,37 +1,50 @@
 {
-  "generated_at": "2026-09-28T04:25:22.880330+00:00",
+  "generated_at": "2026-09-28T13:16:18.015204+00:00",
   "date_range": {
     "start": "2026-08-29",
     "end": "2026-09-28"
   },
-  "total_articles": 28,
+  "total_articles": 26,
   "prefecture_summary": {
-    "全国（都道府県不明）": 5,
     "福岡県": 18,
     "東京都": 7,
+    "全国（都道府県不明）": 4,
     "山口県": 1,
     "神奈川県": 1,
     "鹿児島県": 2
   },
   "articles": [
     {
-      "articleId": "gnews_82c414246ca653fd",
-      "headline": "CDCがペンシルベニア州の麻疹死者4人を公表集計から除外──ダニエル・グリフィン医師が指摘 - BigGo ファイナンス",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-26T05:08:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBISzJiU1JPNF9JcjNidnViYmtfNzZwUXFidkhpSDZyRWI0ZElyX2NlR1R6cnBYYUp3dDZlRV9TdnVEazdSM2hGaWdkRGxOWHpVT0RZTlg2V0xVZw?oc=5",
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2Zicy9jYXRlZ29yeS9zb2NpZXR5L2ZzODMyZGU3NjE1Njc2NGJjZGEyZTRjNDY0NGJkZmE1OTQ=",
+      "headline": "「インフルエンザ」増加傾向　「はしか」12人の感染を確認　福岡（2026年9月28日掲載）｜FBS NEWS NNN",
+      "headlineTranslated": "Influenza on the rise; 12 measles cases confirmed in Fukuoka (Published on September 28, 2026) | FBS NEWS NNN",
+      "summary": "Influenza is in the influenza season in Fukuoka Prefecture, Japan, with weekly reported influenza cases per medical institution rising 1.2-fold to 5.34 in the week ending September 20. The prefecture had already announced the season’s start in early September and urges continued hand hygiene, masking, ventilation, and vigilance to curb transmission. Separately, measles (ha sika) numbers are rising, with 12 laboratory-confirmed measles cases reported in the same week, bringing the season total to 22 in Fukuoka. Measles symptoms include fever of 39°C or higher and rash. Health officials warn of ongoing spread and reiterate vaccination and pre-screening. Those with suspected measles should contact healthcare facilities before visiting and avoid using public transport when seeking care.",
+      "summaryOriginal": "Influenza is in the influenza season in Fukuoka Prefecture, Japan, with weekly reported influenza cases per medical institution rising 1.2-fold to 5.34 in the week ending September 20. The prefecture had already announced the season’s start in early September and urges continued hand hygiene, masking, ventilation, and vigilance to curb transmission. Separately, measles (ha sika) numbers are rising, with 12 laboratory-confirmed measles cases reported in the same week, bringing the season total to 22 in Fukuoka. Measles symptoms include fever of 39°C or higher and rash. Health officials warn of ongoing spread and reiterate vaccination and pre-screening. Those with suspected measles should contact healthcare facilities before visiting and avoid using public transport when seeking care.",
+      "publishedTimestamp": "2026-09-28T10:14:00+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/society/fs832de76156764bcda2e4c4644bdfa594",
       "originalLanguage": "JAPANESE",
       "diseases": [
-        "Measles"
+        "Measles",
+        "Influenza"
       ],
-      "locations": [],
+      "locations": [
+        {
+          "name": "Fukuoka Prefecture",
+          "lat": 33.52813,
+          "lon": 130.66472
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
       "prefectures": [
-        "全国（都道府県不明）"
+        "福岡県",
+        "東京都"
       ],
-      "dataSource": "Google News",
-      "sourceName": "BigGo ファイナンス"
+      "dataSource": "BlueDot",
+      "sourceName": ""
     },
     {
       "articleId": "gnews_a87dcf9aa695872f",
@@ -72,8 +85,8 @@
       "sourceName": "福岡県 記者発表資料"
     },
     {
-      "articleId": "gnews_4763fb960a2140ed",
-      "headline": "トランプ氏のメディア攻撃、金利引き上げ、麻疹死者…スイスが報じた米国のニュース - swissinfo.ch",
+      "articleId": "gnews_dc202c7ec95d25eb",
+      "headline": "トランプ氏のメディア攻撃、金利引き上げ、麻疹死者…スイスが報じた米国のニュース - SWI swissinfo.ch",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -88,7 +101,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "swissinfo.ch"
+      "sourceName": "SWI swissinfo.ch"
     },
     {
       "articleId": "gnews_3bf8c08c8093164f",
@@ -165,25 +178,6 @@
       ],
       "dataSource": "自治体発表",
       "sourceName": "福岡市 感染症関係報道発表資料"
-    },
-    {
-      "articleId": "gnews_e5b30407ed2f9682",
-      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-17T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "東京都感染症情報センター"
     },
     {
       "articleId": "gov_3dc2f490e73585d6",
@@ -340,25 +334,6 @@
       "sourceName": "横浜市"
     },
     {
-      "articleId": "gnews_b6a1d74d0f9892db",
-      "headline": "久留米市の10代男性と福岡市の20代女性が麻しん(はしか)に感染 利用した西鉄天神大牟田線の列車を公表 福岡 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-14T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5dVVsWEhDYXlZNXpGWTdobnZablBrYWNINHliZ0s0aGdGZHIxckc3Yk01T3VWX3d4U2JOZzBLS253ZkRqUXFHc1NacU9IMEVZakIyY3JSM3NaQnd6ZmV6NFBKcFBjTWM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
-    },
-    {
       "articleId": "gov_62f2b29c08800bf4",
       "headline": "令和8年9月14日麻しん（はしか）患者の発生と利用施設について",
       "headlineTranslated": "",
@@ -378,8 +353,8 @@
       "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
-      "articleId": "gnews_ace57d99dfdb2f32",
-      "headline": "福岡県宗像市の10代女性が麻しん=はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認（RKB毎日放送） - Yahoo!ニュース",
+      "articleId": "gnews_e7e1be96238e6065",
+      "headline": "福岡県宗像市の10代女性が麻しん=はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認（RKB毎日放送） - news.yahoo.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -395,7 +370,26 @@
         "鹿児島県"
       ],
       "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
+      "sourceName": "news.yahoo.co.jp"
+    },
+    {
+      "articleId": "gnews_6bf1f88bb8f7fc3c",
+      "headline": "麻しん（はしか）患者発生及び利用施設について（令和8年9月11日） - pref.fukuoka.lg.jp",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-11T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LRjVDdWN4eng2NGpyMDZON1dSVkJ6aEVtb0dtV2JWM1BnUXdLSjdVRmVvUURyNHJPc3BpSUNYN2pPQWxEQ1JuS0ExSVN2dGJtUFVzLXlMYzl2QnhfUzRMR1JvckZpdXRrcmVPQWRjQ1AzTDA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pref.fukuoka.lg.jp"
     },
     {
       "articleId": "gnews_4f3e014b706135e4",
@@ -416,25 +410,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
-    },
-    {
-      "articleId": "gnews_6bf1f88bb8f7fc3c",
-      "headline": "麻しん（はしか）患者発生及び利用施設について（令和8年9月11日） - pref.fukuoka.lg.jp",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-11T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LRjVDdWN4eng2NGpyMDZON1dSVkJ6aEVtb0dtV2JWM1BnUXdLSjdVRmVvUURyNHJPc3BpSUNYN2pPQWxEQ1JuS0ExSVN2dGJtUFVzLXlMYzl2QnhfUzRMR1JvckZpdXRrcmVPQWRjQ1AzTDA?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pref.fukuoka.lg.jp"
     },
     {
       "articleId": "gov_faa9e29bf2cff1f8",
