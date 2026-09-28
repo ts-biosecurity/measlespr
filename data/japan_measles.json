@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-28T13:16:18.015204+00:00",
+  "generated_at": "2026-09-28T20:25:27.000400+00:00",
   "date_range": {
     "start": "2026-08-29",
     "end": "2026-09-28"
   },
-  "total_articles": 26,
+  "total_articles": 25,
   "prefecture_summary": {
     "福岡県": 18,
     "東京都": 7,
-    "全国（都道府県不明）": 4,
+    "全国（都道府県不明）": 3,
     "山口県": 1,
     "神奈川県": 1,
     "鹿児島県": 2
@@ -307,9 +307,9 @@
         }
       ],
       "prefectures": [
-        "山口県",
         "福岡県",
-        "東京都"
+        "東京都",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -353,8 +353,8 @@
       "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
-      "articleId": "gnews_e7e1be96238e6065",
-      "headline": "福岡県宗像市の10代女性が麻しん=はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認（RKB毎日放送） - news.yahoo.co.jp",
+      "articleId": "gnews_ace57d99dfdb2f32",
+      "headline": "福岡県宗像市の10代女性が麻しん=はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認（RKB毎日放送） - Yahoo!ニュース",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -370,7 +370,7 @@
         "鹿児島県"
       ],
       "dataSource": "Google News",
-      "sourceName": "news.yahoo.co.jp"
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_6bf1f88bb8f7fc3c",
@@ -586,25 +586,6 @@
       ],
       "dataSource": "自治体発表",
       "sourceName": "福岡市 感染症関係報道発表資料"
-    },
-    {
-      "articleId": "gnews_68025511539b2cab",
-      "headline": "麻疹の危険な蔓延は、私たちで食い止めます。 - Public Health Insider",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-03T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGRvZVRhdmhCUlR6cXhydEdaRE9lb3VzNHZ4SFBmemdOcm44dFZMT2lIY1hsU3RCdU51ZENhVlNNVkktQ1lRTGllWGxkQnZqMkhNX3N1Y3ZhODFQemRFS3pnNnFFVmJ0TktfQnZuZHFTMGs4eXBKY09Sc1VGT0FGYmxGMWJ0bEVZN2JYQkI0Z05SQlBnOGE40gGcAUFVX3lxTE02WkpZTnZqRWw2aThNSFZOWHJLSEtqSEMyNFlJLU83OUkxUW1yQ3RUY2duLU9aM1hjM2w0Vk5nVGN5bEZmb0habGstVk1DMjd4a1Z2bFVSRnZLZ0pSTWI4bUlnZy1CM0dJeV9kY1J4b1NuU0xVVHBualRNRVB3X2loazhtMktjUFhfSF9GamhoTmRQbmRZb0RIckItaw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Public Health Insider"
     }
   ]
 }
