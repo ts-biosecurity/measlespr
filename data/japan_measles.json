@@ -1,19 +1,50 @@
 {
-  "generated_at": "2026-09-30T08:22:03.415664+00:00",
+  "generated_at": "2026-09-30T10:17:09.495198+00:00",
   "date_range": {
     "start": "2026-08-31",
     "end": "2026-09-30"
   },
-  "total_articles": 24,
+  "total_articles": 25,
   "prefecture_summary": {
-    "福岡県": 16,
-    "東京都": 7,
+    "福岡県": 17,
+    "東京都": 8,
     "全国（都道府県不明）": 4,
     "山口県": 1,
     "神奈川県": 1,
     "鹿児島県": 1
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2Zicy9jYXRlZ29yeS9zb2NpZXR5L2ZzMDg3YTgzNmI0NTE1NGE1NDljZDViNTk2MTYyNjRlZWE=",
+      "headline": "【はしか】県内での感染拡大に警戒感　ワクチン接種を呼びかけ　福岡県医師会（2026年9月30日掲載）｜FBS NEWS NNN",
+      "headlineTranslated": "Measles: Concern over the spread of infections within the prefecture; calls for vaccination — Fukuoka Medical Association (published September 30, 2026) | FBS NEWS NNN",
+      "summary": "Measles outbreaks are being confirmed within Fukuoka Prefecture, Japan, prompting warnings from the Fukuoka Medical Association. As of the week ending September 20, nationwide 15 measles cases were confirmed, with 12 in Fukuoka—about 80% of the total. The association attributes much of the spread to increased international travel and returnees. Measles, characterized by fever above 39°C and rash, is highly contagious and spreads through airborne transmission. In a press conference on September 30, the association urged vaccination and other measures. Because simple hygiene like handwashing and masking is insufficient for prevention, individuals with symptoms are advised to contact healthcare providers beforehand and seek care promptly. The association specifically calls for vaccination of children who have not completed the routine immunization schedule.",
+      "summaryOriginal": "Measles outbreaks are being confirmed within Fukuoka Prefecture, Japan, prompting warnings from the Fukuoka Medical Association. As of the week ending September 20, nationwide 15 measles cases were confirmed, with 12 in Fukuoka—about 80% of the total. The association attributes much of the spread to increased international travel and returnees. Measles, characterized by fever above 39°C and rash, is highly contagious and spreads through airborne transmission. In a press conference on September 30, the association urged vaccination and other measures. Because simple hygiene like handwashing and masking is insufficient for prevention, individuals with symptoms are advised to contact healthcare providers beforehand and seek care promptly. The association specifically calls for vaccination of children who have not completed the routine immunization schedule.",
+      "publishedTimestamp": "2026-09-30T09:39:00+00:00",
+      "sourceUrl": "https://news.ntv.co.jp/n/fbs/category/society/fs087a836b45154a549cd5b59616264eea",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Fukuoka Prefecture",
+          "lat": 33.52813,
+          "lon": 130.66472
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "福岡県",
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2Zicy9jYXRlZ29yeS9zb2NpZXR5L2ZzODMyZGU3NjE1Njc2NGJjZGEyZTRjNDY0NGJkZmE1OTQ=",
       "headline": "「インフルエンザ」増加傾向　「はしか」12人の感染を確認　福岡（2026年9月28日掲載）｜FBS NEWS NNN",
@@ -180,8 +211,8 @@
       "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
-      "articleId": "gnews_737cc60978c798ab",
-      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
+      "articleId": "gnews_f0d47af3e3b1934e",
+      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - yomiuri.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -196,7 +227,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "読売新聞"
+      "sourceName": "yomiuri.co.jp"
     },
     {
       "articleId": "gov_c5f452724195817a",
@@ -308,8 +339,8 @@
       ],
       "prefectures": [
         "福岡県",
-        "東京都",
-        "山口県"
+        "山口県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -411,8 +442,8 @@
       "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
-      "articleId": "gnews_809eb93459160f6b",
-      "headline": "Bangladesh fights world's worst measles outbreak after vaccine gaps - reuters.com",
+      "articleId": "gnews_ffda813187c3c6f7",
+      "headline": "Bangladesh fights world's worst measles outbreak after vaccine gaps - Reuters",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -427,7 +458,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "reuters.com"
+      "sourceName": "Reuters"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuc2Fua2VpLmNvbS9hcnRpY2xlLzIwMjYwOTA5LUpBWE1BNFlTSEZQNEpBQzVBNlFKN0ZQWkk0Lw==",
