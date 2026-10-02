@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-10-02T00:43:12.996237+00:00",
+  "generated_at": "2026-10-02T02:24:15.173762+00:00",
   "date_range": {
     "start": "2026-09-02",
     "end": "2026-10-02"
   },
-  "total_articles": 27,
+  "total_articles": 28,
   "prefecture_summary": {
+    "福岡県": 18,
+    "鹿児島県": 2,
     "全国（都道府県不明）": 4,
-    "福岡県": 17,
     "東京都": 8,
     "神奈川県": 2,
     "埼玉県": 1,
-    "山口県": 1,
-    "鹿児島県": 1
+    "山口県": 1
   },
   "articles": [
     {
-      "articleId": "gnews_d454abca66bd52fc",
-      "headline": "米ペンシルベニア州の麻疹死者5人に、全員ワクチン未接種（ロイター） - Yahoo!ニュース",
+      "articleId": "gnews_cf4662a8aaf5c834",
+      "headline": "福岡県宗像市の10代女性が麻しん＝はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認 - TBS NEWS DIG",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-01T23:32:36+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PT2pzZHQwSlhQZHdSVHlxRThsd05zSjdnQkJ0aEJISmxLa2UtSHRicFRZd0JXdmFwdHZNQjdLR1JCeThqZldQaWszdDBKMzY4VzNwZmMwamtvS24xejRZ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "福岡県",
+        "鹿児島県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TBS NEWS DIG"
+    },
+    {
+      "articleId": "gnews_92232bd345f354e9",
+      "headline": "米ペンシルベニア州の麻疹死者5人に、全員ワクチン未接種（ロイター） - news.yahoo.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -32,7 +52,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
+      "sourceName": "news.yahoo.co.jp"
     },
     {
       "articleId": "gnews_32ca19aa64022251",
@@ -378,8 +398,8 @@
       ],
       "prefectures": [
         "福岡県",
-        "東京都",
-        "山口県"
+        "山口県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -442,8 +462,8 @@
       "sourceName": "pref.fukuoka.lg.jp"
     },
     {
-      "articleId": "gnews_ace57d99dfdb2f32",
-      "headline": "福岡県宗像市の10代女性が麻しん=はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認（RKB毎日放送） - Yahoo!ニュース",
+      "articleId": "gnews_e7e1be96238e6065",
+      "headline": "福岡県宗像市の10代女性が麻しん=はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認（RKB毎日放送） - news.yahoo.co.jp",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -459,7 +479,7 @@
         "鹿児島県"
       ],
       "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
+      "sourceName": "news.yahoo.co.jp"
     },
     {
       "articleId": "gov_faa9e29bf2cff1f8",
