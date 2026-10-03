@@ -13,6 +13,7 @@ body{font-family:'Hiragino Kaku Gothic ProN','Meiryo',sans-serif;background:#eef
 header{background:linear-gradient(135deg,#1a3a5c 0%,#2c5f8a 100%);color:#fff;padding:12px 24px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;box-shadow:0 2px 6px rgba(0,0,0,.25);flex-shrink:0;}
 header h1{font-size:16px;font-weight:700;letter-spacing:.02em;}
 header .sub{font-size:11px;opacity:.75;margin-top:3px;}
+header .sync-warning{color:#ffe2b2;opacity:1;}
 .period-bar{display:flex;align-items:center;gap:8px;}
 .period-bar label{font-size:12px;opacity:.85;}
 .pbtn{padding:6px 16px;border:1.5px solid #2c5f8a;border-radius:20px;background:transparent;color:#2c5f8a;cursor:pointer;font-size:12px;font-family:inherit;transition:all .2s;}
@@ -89,6 +90,7 @@ tr:hover td{background:#f8fbff;}
   <div>
     <h1>🦠 麻しん（はしか）に関するプレスリリース一覧</h1>
     <div class="sub" id="sub-date">都道府県別プレスリリース収集状況</div>
+    <div class="sub" id="sync-status"></div>
   </div>
   <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
     <a href="https://ts-biosecurity.github.io/measlespr/measlesnewsjp.html" style="padding:6px 16px;border-radius:20px;background:#f39c12;color:#fff;font-size:12px;font-family:inherit;text-decoration:none;border:1.5px solid #e67e22;transition:all .2s;">ニュース記事一覧はこちら</a>
@@ -2422,9 +2424,18 @@ const ALL_DATA = [
 ];
 
 const TODAY = new Date();
-// 最終更新日時をヘッダーに表示（dashboard_sync.py が LAST_UPDATED を更新）
-const LAST_UPDATED = "2026-10-01 06:17 JST";
-document.getElementById('sub-date').textContent = `都道府県別プレスリリース収集状況 / 最終更新：${LAST_UPDATED}`;
+// データ反映・巡回試行・全自治体巡回成功を区別。未記録の時刻は推測しない。
+const LAST_UPDATED = "2026-10-03 12:28 JST";
+const SYNC_STATUS = {"last_data_updated": null, "last_attempted": "2026-10-03 12:28 JST", "status": "success", "scope": "all", "full_success_recorded": true};
+const lastSuccessLabel = SYNC_STATUS.full_success_recorded ? '全自治体巡回成功' : '巡回成功（対象未記録）';
+document.getElementById('sub-date').textContent = `データ反映：${SYNC_STATUS.last_data_updated || '記録開始前'} / ${lastSuccessLabel}：${LAST_UPDATED || '未記録'}`;
+const syncStatusEl = document.getElementById('sync-status');
+const syncScope = SYNC_STATUS.scope === 'all' ? '全自治体' : '指定自治体';
+const syncResult = {success: '成功', partial: '一部失敗・取得済みデータは反映', failed: '同期失敗'}[SYNC_STATUS.status];
+syncStatusEl.textContent = SYNC_STATUS.last_attempted
+  ? `最終試行：${SYNC_STATUS.last_attempted}（${syncScope}・${syncResult || '状態不明'}）`
+  : '巡回の試行状況は次回実行から記録します';
+syncStatusEl.classList.toggle('sync-warning', ['partial', 'failed'].includes(SYNC_STATUS.status));
 
 // ── State ─────────────────────────────────────────────────────────────────────
 let period = 3;
