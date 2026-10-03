@@ -2425,8 +2425,8 @@ const ALL_DATA = [
 
 const TODAY = new Date();
 // データ反映・巡回試行・全自治体巡回成功を区別。未記録の時刻は推測しない。
-const LAST_UPDATED = "2026-10-03 12:28 JST";
-const SYNC_STATUS = {"last_data_updated": null, "last_attempted": "2026-10-03 12:28 JST", "status": "success", "scope": "all", "full_success_recorded": true};
+const LAST_UPDATED = "2026-10-03 16:25 JST";
+const SYNC_STATUS = {"last_data_updated": null, "last_attempted": "2026-10-03 16:25 JST", "status": "success", "scope": "all", "full_success_recorded": true};
 const lastSuccessLabel = SYNC_STATUS.full_success_recorded ? '全自治体巡回成功' : '巡回成功（対象未記録）';
 document.getElementById('sub-date').textContent = `データ反映：${SYNC_STATUS.last_data_updated || '記録開始前'} / ${lastSuccessLabel}：${LAST_UPDATED || '未記録'}`;
 const syncStatusEl = document.getElementById('sync-status');
