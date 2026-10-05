@@ -2292,6 +2292,16 @@ const ALL_DATA = [
     "_generated_hash": "99a3c0efcd607edaf1ca42a56bb4429ddeb8bb92a23511b763948d4fdf8f0a34"
   },
   {
+    "ファイル名": "260909_東京都.pdf",
+    "発出日": "2026-09-09",
+    "発出機関": "東京都",
+    "概要": "東京都で10代男性に麻しん発生。感染可能期間中に東京工芸大学　中野キャンパスを利用し、不特定多数と接触の可能性。",
+    "元情報のURL": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026090901",
+    "渡航歴": "なし",
+    "渡航歴詳細": "なし",
+    "_generated_hash": "0e8292aba80a4dad55302b8043289eb43fe80c654078e51801db03eb364fd67e"
+  },
+  {
     "ファイル名": "260911_福岡県.pdf",
     "発出日": "2026-09-11",
     "発出機関": "福岡県",
@@ -2392,6 +2402,16 @@ const ALL_DATA = [
     "_generated_hash": "202574b123a1edf66eca4fe9ea35f741e4c3619a9600cf8c2ad5b31f2b3ccd60"
   },
   {
+    "ファイル名": "260917_東京都.pdf",
+    "発出日": "2026-09-17",
+    "発出機関": "東京都",
+    "概要": "東京都で30代男性に麻しん発生。感染可能期間中に江東運転免許試験場を利用し、不特定多数と接触の可能性。",
+    "元情報のURL": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026091716",
+    "渡航歴": "なし",
+    "渡航歴詳細": "なし",
+    "_generated_hash": "b00d6a7cd3c1986ec0dfaeb5e714915acd373615a11246cc8adf1d6517b87450"
+  },
+  {
     "ファイル名": "260918_北九州市.pdf",
     "発出日": "2026-09-18",
     "発出機関": "北九州市",
@@ -2425,8 +2445,8 @@ const ALL_DATA = [
 
 const TODAY = new Date();
 // データ反映・巡回試行・全自治体巡回成功を区別。未記録の時刻は推測しない。
-const LAST_UPDATED = "2026-10-04 18:12 JST";
-const SYNC_STATUS = {"last_data_updated": null, "last_attempted": "2026-10-05 06:29 JST", "status": "partial", "scope": "all", "full_success_recorded": true};
+const LAST_UPDATED = "2026-10-05 12:21 JST";
+const SYNC_STATUS = {"last_data_updated": "2026-10-05 12:21 JST", "last_attempted": "2026-10-05 12:21 JST", "status": "success", "scope": "all", "full_success_recorded": true};
 const lastSuccessLabel = SYNC_STATUS.full_success_recorded ? '全自治体巡回成功' : '巡回成功（対象未記録）';
 document.getElementById('sub-date').textContent = `データ反映：${SYNC_STATUS.last_data_updated || '記録開始前'} / ${lastSuccessLabel}：${LAST_UPDATED || '未記録'}`;
 const syncStatusEl = document.getElementById('sync-status');
