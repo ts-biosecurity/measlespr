@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-10-06T18:19:08.548339+00:00",
+  "generated_at": "2026-10-06T20:16:54.475425+00:00",
   "date_range": {
     "start": "2026-09-06",
     "end": "2026-10-06"
   },
-  "total_articles": 42,
+  "total_articles": 43,
   "prefecture_summary": {
     "全国（都道府県不明）": 19,
     "福岡県": 18,
     "鹿児島県": 2,
     "東京都": 8,
     "埼玉県": 1,
+    "熊本県": 1,
     "山口県": 1,
     "神奈川県": 1
   },
@@ -345,8 +346,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -415,8 +416,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -496,6 +497,25 @@
       ],
       "dataSource": "自治体発表",
       "sourceName": "福岡市 感染症関係報道発表資料"
+    },
+    {
+      "articleId": "gnews_ac1be43c5a5616c5",
+      "headline": "菊池郡で10代男性がはしか発症 2026年、熊本県内3人目 高速バスや商業施設利用（熊本日日新聞） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-19T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZZldGZEJXSklNQUQ5OVRzQ0ZIWW93d2NFVy1KS0ZXLU5ZNDR0ZzB6c21EYzJROWxGTEFnZFRVM3o5UjVZSXdBS0huQzRkSHFCVGZfaDVfZ040ZTdqY3Y3YVBNd0EtTndISnF1bVZfalB4WC1hMGREeUN3N1R1TEE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "熊本県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gov_53d98ff66685f079",
@@ -622,8 +642,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -664,8 +684,8 @@
       ],
       "prefectures": [
         "山口県",
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -879,8 +899,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
