@@ -1,20 +1,58 @@
 {
-  "generated_at": "2026-10-07T02:29:51.491796+00:00",
+  "generated_at": "2026-10-07T04:19:09.319766+00:00",
   "date_range": {
     "start": "2026-09-07",
     "end": "2026-10-07"
   },
-  "total_articles": 42,
+  "total_articles": 45,
   "prefecture_summary": {
+    "全国（都道府県不明）": 22,
     "東京都": 9,
-    "福岡県": 18,
     "山口県": 2,
-    "全国（都道府県不明）": 19,
+    "福岡県": 18,
     "鹿児島県": 2,
     "埼玉県": 1,
     "神奈川県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_548fc1c3207053f0",
+      "headline": "麻疹の流行が急増、米国は5人の死亡を確認 - Laodong.vn",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-07T03:49:39+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2VGYVJtaWdUanpYOWRJMTdPQmJleENwOUs4OS0xS0o5LU9Sa0RmcE4wX1RmeWMxaXZkNzdwUUpraDZlclNyRjQ0NXdCWE9FbnJsMkdpMk1vclBtTUlPZVNPSThNbHY4cy04WkRIZ3FfTEVNdEFHX25TZGRQc0Q5bGlncndqaHBuM2c5SEFIVkZtakE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Laodong.vn"
+    },
+    {
+      "articleId": "gnews_56917966bd80a829",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年10月6日更新） - WAM NET",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-07T01:51:58+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SVXR4MFkyOXZLNlJOS2MyRThCbXU1bXY0ZDk0MEJUV2otMU0tUVJYblhiZ3dSU0tsYkNidGZPNkpuNFp3TDBiZVRrVTBkbFZ5TlR2NzNtT2g4WFBLWVloSmVCYUtNOXNhY3dWeVFjSWRWQ2s?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "WAM NET"
+    },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2tyeS9jYXRlZ29yeS9zb2NpZXR5L2tyM2QyZWFiM2M2MWNjNGMyZDg1MWVkMDMyMTVkOGMwMmE=",
       "headline": "はしかで県が注意喚起 福岡県で感染が複数報告される ワクチン接種歴の確認など呼びかけ（2026年10月6日掲載）｜KRY NEWS NNN",
@@ -51,8 +89,8 @@
       ],
       "prefectures": [
         "東京都",
-        "福岡県",
-        "山口県"
+        "山口県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -210,6 +248,25 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
+      "articleId": "gnews_deb912ace1c04118",
+      "headline": "ニューヨーク州、緊急事態を宣言－麻疹感染の急増で州知事が行政命令 - Bloomberg.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-05T21:15:29+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91ZG5OOG55RGg2cnRnZ01rVDJxUXdBR2gyZlpheUdMWnZ1a1ZWbTNteGdVZ3czSm50WHdTTk9rN1NHRkdUWFAyRVpVSERQcWNOT0FUX0pBb29YQy1pQnBuaDgzTmhrVEZGUUZnVXJBM3RKUzlDNktz?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bloomberg.com"
+    },
+    {
       "articleId": "gnews_83a20785c9d02066",
       "headline": "麻疹感染が招く脳の難病 ＳＳＰＥ、なお多い謎 予防の鍵はワクチン接種 - 47NEWS",
       "headlineTranslated": "",
@@ -265,25 +322,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "市川市公式Webサイト"
-    },
-    {
-      "articleId": "gnews_270ab986aa721056",
-      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年10月1日更新） - WAM NET",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-02T02:02:38+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRYXh0akRpVGFvb2tSMGl1cUt4bDJBRWlxWTZNek05bUpNdGRCT0JGVG9nS0d1NFg4N1QwXzRud2h2eHUtWFVJSFJyYktBQVE3UTlxUTY0bkY5NERqaERMV0ZEeUlPNkFIZ2JNbEU5a3dGUms?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "WAM NET"
     },
     {
       "articleId": "gnews_cf4662a8aaf5c834",
@@ -597,6 +635,25 @@
       "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
+      "articleId": "gnews_737cc60978c798ab",
+      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-16T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
+    },
+    {
       "articleId": "gov_c5f452724195817a",
       "headline": "令和8年9月16日麻しん（はしか）患者の発生と利用施設について",
       "headlineTranslated": "",
@@ -706,8 +763,8 @@
       ],
       "prefectures": [
         "東京都",
-        "福岡県",
-        "山口県"
+        "山口県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
