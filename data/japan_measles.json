@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-09T10:16:20.539544+00:00",
+  "generated_at": "2026-10-09T12:22:39.213267+00:00",
   "date_range": {
     "start": "2026-09-09",
     "end": "2026-10-09"
   },
-  "total_articles": 32,
+  "total_articles": 33,
   "prefecture_summary": {
     "千葉県": 1,
-    "全国（都道府県不明）": 14,
-    "山口県": 2,
-    "東京都": 5,
+    "全国（都道府県不明）": 15,
     "福岡県": 16,
+    "東京都": 5,
+    "山口県": 2,
     "鹿児島県": 2,
     "神奈川県": 1
   },
@@ -88,9 +88,9 @@
         }
       ],
       "prefectures": [
-        "山口県",
+        "福岡県",
         "東京都",
-        "福岡県"
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -292,8 +292,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -362,8 +362,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -424,6 +424,25 @@
       ],
       "dataSource": "自治体発表",
       "sourceName": "福岡市 感染症関係報道発表資料"
+    },
+    {
+      "articleId": "gnews_1d05a079fb904fea",
+      "headline": "U.S. sees break in new measles cases - Reuters",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-19T02:07:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tV19GR1BrXzNybG1Zdy1pa3F6TDJEUUR0TkJjeFIxOEVqWU1DYTZIdFVhaUxKYlBVODdrUHNFTlVrQ0JnSENrekxHckJXaVdzcTk0UThOZDNwNmJiWWNNag?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Reuters"
     },
     {
       "articleId": "gov_53d98ff66685f079",
@@ -569,8 +588,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -610,9 +629,9 @@
         }
       ],
       "prefectures": [
-        "山口県",
+        "福岡県",
         "東京都",
-        "福岡県"
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
