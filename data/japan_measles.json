@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-09T08:23:31.372325+00:00",
+  "generated_at": "2026-10-09T10:16:20.539544+00:00",
   "date_range": {
     "start": "2026-09-09",
     "end": "2026-10-09"
   },
-  "total_articles": 31,
+  "total_articles": 32,
   "prefecture_summary": {
     "千葉県": 1,
-    "全国（都道府県不明）": 13,
-    "東京都": 5,
+    "全国（都道府県不明）": 14,
     "山口県": 2,
+    "東京都": 5,
     "福岡県": 16,
     "鹿児島県": 2,
     "神奈川県": 1
@@ -88,8 +88,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "山口県",
+        "東京都",
         "福岡県"
       ],
       "dataSource": "BlueDot",
@@ -464,6 +464,25 @@
       "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
+      "articleId": "gnews_88ffa9e9e23fb6b8",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年9月15日更新） - WAM NET",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-16T02:22:58+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50TG8zRFRHajdDUl9uc2FOY0hqWkk1MG5KdFJYZGVmanhrbzdGeF9hTC1nUElOWGJpeXlPZk5QOVpVN3lQMnJQVHRiYXNndUV0OS04ek1GMHRUX1Nnd1d5OVowWnJzQ2ZtYUpXbjV4aWhUb3c?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "WAM NET"
+    },
+    {
       "articleId": "gov_c5f452724195817a",
       "headline": "令和8年9月16日麻しん（はしか）患者の発生と利用施設について",
       "headlineTranslated": "",
@@ -591,8 +610,8 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "山口県",
+        "東京都",
         "福岡県"
       ],
       "dataSource": "BlueDot",
