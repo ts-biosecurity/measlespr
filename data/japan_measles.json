@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-08T22:15:08.307792+00:00",
+  "generated_at": "2026-10-09T00:46:30.249998+00:00",
   "date_range": {
-    "start": "2026-09-08",
-    "end": "2026-10-08"
+    "start": "2026-09-09",
+    "end": "2026-10-09"
   },
-  "total_articles": 39,
+  "total_articles": 37,
   "prefecture_summary": {
     "全国（都道府県不明）": 19,
     "千葉県": 1,
+    "東京都": 5,
     "福岡県": 16,
     "山口県": 2,
-    "東京都": 7,
     "鹿児島県": 2,
     "神奈川県": 1
   },
@@ -145,9 +145,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "福岡県",
-        "山口県",
-        "東京都"
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -387,8 +387,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -457,8 +457,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -559,25 +559,6 @@
       "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
-      "articleId": "gnews_88ffa9e9e23fb6b8",
-      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年9月15日更新） - WAM NET",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-16T02:22:58+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50TG8zRFRHajdDUl9uc2FOY0hqWkk1MG5KdFJYZGVmanhrbzdGeF9hTC1nUElOWGJpeXlPZk5QOVpVN3lQMnJQVHRiYXNndUV0OS04ek1GMHRUX1Nnd1d5OVowWnJzQ2ZtYUpXbjV4aWhUb3c?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "WAM NET"
-    },
-    {
       "articleId": "gov_c5f452724195817a",
       "headline": "令和8年9月16日麻しん（はしか）患者の発生と利用施設について",
       "headlineTranslated": "",
@@ -595,6 +576,25 @@
       ],
       "dataSource": "自治体発表",
       "sourceName": "福岡市 感染症関係報道発表資料"
+    },
+    {
+      "articleId": "gnews_16e2f6d64c295242",
+      "headline": "米ペンシルベニア州のはしか死者4人に、流行拡大 - Reuters",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zQUZCTkJwNUI5Zi1sb0Q5V2c1a0g5OU5jUElWZ2FxTTNBQTZFa05ib3g4TnA5SnBfdGxjemxpZU5EU1VBUFJfekdZSWYxRGM5dnB5MHJzS0E1RmtiRHF1RllqcjRocHd1QUdQbU1NX0FsVmNXZzIwLVVvUFlKN0U?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Reuters"
     },
     {
       "articleId": "gov_ad64677f8d750b81",
@@ -645,8 +645,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -686,9 +686,9 @@
         }
       ],
       "prefectures": [
+        "東京都",
         "福岡県",
-        "山口県",
-        "東京都"
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -807,70 +807,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Reuters"
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cuc2Fua2VpLmNvbS9hcnRpY2xlLzIwMjYwOTA5LUpBWE1BNFlTSEZQNEpBQzVBNlFKN0ZQWkk0Lw==",
-      "headline": "インフル早くも流行入り　埼玉でも増加　コロナ禍から変則的流行続く　麻疹感染拡大も懸念",
-      "headlineTranslated": "Flu Already in Epidemic Status; Increases Observed in Saitama; Irregular Outbreaks Continue Since the COVID-19 Era; Measles Infections Also a Concern",
-      "summary": "Influenza has entered a nationwide epidemic phase earlier than usual, with Saitama Prefecture reporting rising cases since August, and irregular outbreaks continuing since the COVID-19 era. Vaccination typically ramps up from October, so reinforcing basic infection-control measures is essential to curb spread. National surveillance from sentinel medical institutions shows influenza activity surpassing the season-start threshold of 1.00 for August 17–23, reaching 1.11 patients per institution. This season’s early start is the second-earliest since the Infectious Disease Control Act took effect in 1999, following the 2009 season. Measles infections are also cited as a concern, though the body provides no total counts. As of 2026-09-09, public health guidance emphasizes vaccination timing and non-pharmaceutical measures to mitigate transmission during this early phase.",
-      "summaryOriginal": "Influenza has entered a nationwide epidemic phase earlier than usual, with Saitama Prefecture reporting rising cases since August, and irregular outbreaks continuing since the COVID-19 era. Vaccination typically ramps up from October, so reinforcing basic infection-control measures is essential to curb spread. National surveillance from sentinel medical institutions shows influenza activity surpassing the season-start threshold of 1.00 for August 17–23, reaching 1.11 patients per institution. This season’s early start is the second-earliest since the Infectious Disease Control Act took effect in 1999, following the 2009 season. Measles infections are also cited as a concern, though the body provides no total counts. As of 2026-09-09, public health guidance emphasizes vaccination timing and non-pharmaceutical measures to mitigate transmission during this early phase.",
-      "publishedTimestamp": "2026-09-08T23:30:00+00:00",
-      "sourceUrl": "https://www.sankei.com/article/20260909-JAXMA4YSHFP4JAC5A6QJ7FPZI4/",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "COVID-19",
-        "Measles",
-        "Influenza"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cuY2h1Z29rdS1ucC5jby5qcC9hcnRpY2xlcy8tLzg4OTcxOQ==",
-      "headline": "国内で患者増　はしかってどんな病気?＜イチからわかる＞",
-      "headlineTranslated": "Rising measles cases nationwide: What kind of disease is measles? (Learn from the basics)",
-      "summary": "Measles (rubeola) is rising nationwide in Japan. As of 2026-09-08, more than 500 measles patients have been reported this year, the highest tally since the COVID-19 pandemic era and second to the 2019 national outbreak of 744 cases. The surge is prominent in major urban areas, including Tokyo, while transmission has reached rural areas as well; a cluster occurred in Kagoshima City in March. Hiroshima Prefecture has three confirmed infections. The article presents a Q&A that explains what measles is and outlines key points about the disease. By placing the current outbreak in historical context, it underscores a notable nationwide rise and regional clusters, emphasizing the need for awareness and public health attention, without adding unrelated details.",
-      "summaryOriginal": "Measles (rubeola) is rising nationwide in Japan. As of 2026-09-08, more than 500 measles patients have been reported this year, the highest tally since the COVID-19 pandemic era and second to the 2019 national outbreak of 744 cases. The surge is prominent in major urban areas, including Tokyo, while transmission has reached rural areas as well; a cluster occurred in Kagoshima City in March. Hiroshima Prefecture has three confirmed infections. The article presents a Q&A that explains what measles is and outlines key points about the disease. By placing the current outbreak in historical context, it underscores a notable nationwide rise and regional clusters, emphasizing the need for awareness and public health attention, without adding unrelated details.",
-      "publishedTimestamp": "2026-09-08T13:29:58+00:00",
-      "sourceUrl": "https://www.chugoku-np.co.jp/articles/-/889719",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Rubella",
-        "Measles",
-        "COVID-19"
-      ],
-      "locations": [
-        {
-          "name": "Tokyo Prefecture",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Tokyo",
-          "lat": 35.6895,
-          "lon": 139.69171
-        },
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "東京都"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
     }
   ]
 }
