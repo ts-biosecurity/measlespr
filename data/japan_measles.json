@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-10T14:14:36.333139+00:00",
+  "generated_at": "2026-10-10T16:15:54.739499+00:00",
   "date_range": {
     "start": "2026-09-10",
     "end": "2026-10-10"
   },
   "total_articles": 38,
   "prefecture_summary": {
-    "愛媛県": 5,
-    "全国（都道府県不明）": 16,
+    "愛媛県": 6,
+    "全国（都道府県不明）": 15,
     "千葉県": 1,
-    "福岡県": 15,
     "東京都": 5,
     "山口県": 2,
+    "福岡県": 15,
     "神奈川県": 1,
     "鹿児島県": 1
   },
@@ -91,6 +91,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
+    },
+    {
+      "articleId": "gnews_5913ca9d13868bcd",
+      "headline": "松山市で麻しん(はしか)感染確認 2012年以来14年ぶり 注意呼びかけ 愛媛（あいテレビ） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-10T10:36:01+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwMjlraW5JQ25LY0lMNm9hSXpKUnRBMndRTUgzal95cVllMEt2Tnlya1JfemRUUUNKclE0UThFUjBXSWttdXA2b21JbGlzYWlYS1pTZHhRallqZkVnb2pyMEt6VUlOa1JSMkQ1WGNlWFlkTVlzT1BSbUdtcU9pX1U?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "愛媛県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_7bb87fe695d38502",
@@ -222,9 +241,9 @@
         }
       ],
       "prefectures": [
-        "福岡県",
         "東京都",
-        "山口県"
+        "山口県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -266,25 +285,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
-    },
-    {
-      "articleId": "gnews_7025a00c763128d8",
-      "headline": "ＮＹ州、はしかで非常事態宣言 25年の感染急増後で全米初 | ロイター - Reuters",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-05T22:13:44+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZQnpVeEpBNWtjMEt2Q3lVUmxucmtBSTY5VFVhNTRjam1yRXllamtsZGlmOThSM0ZDZ09lTlhKRzdQRHFpMngwZ3NYYlVIcDZkUmtxWjBodW04TmFWMWsxcGdkSUV1bVlJRE54Qll5YW40YU1laV9LaEtKT3pKV3M?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Reuters"
     },
     {
       "articleId": "gnews_bcdfacd3b40a20f4",
@@ -387,8 +387,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -457,8 +457,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -683,8 +683,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -724,9 +724,9 @@
         }
       ],
       "prefectures": [
-        "福岡県",
         "東京都",
-        "山口県"
+        "山口県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
