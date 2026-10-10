@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:18:13.869619+00:00",
+  "generated_at": "2026-10-10T20:14:47.816329+00:00",
   "date_range": {
     "start": "2026-09-10",
     "end": "2026-10-10"
@@ -7,13 +7,12 @@
   "total_articles": 37,
   "prefecture_summary": {
     "愛媛県": 6,
-    "全国（都道府県不明）": 14,
+    "全国（都道府県不明）": 15,
     "千葉県": 1,
-    "福岡県": 15,
-    "東京都": 5,
     "山口県": 2,
-    "神奈川県": 1,
-    "鹿児島県": 1
+    "東京都": 5,
+    "福岡県": 14,
+    "神奈川県": 1
   },
   "articles": [
     {
@@ -241,9 +240,9 @@
         }
       ],
       "prefectures": [
-        "福岡県",
+        "山口県",
         "東京都",
-        "山口県"
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -368,8 +367,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -438,11 +437,30 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_ae32d45c44f23c23",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年9月24日更新） - WAM NET",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-25T02:16:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdFE5S0hjeDA4RTF6VG90SlkyRkZVb0ZzZFRyZUhVamQ2bVZZWjRHckF4dVoxLTE4TXdKT0VETkFLWXY0UGtiRnc4aU9NSjBHcVBQZ3I4Szk0c21qWFd2V21hdTBSUkgzbVVqTlZJY2hiWHM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "WAM NET"
     },
     {
       "articleId": "gnews_fc20696d49c9c61f",
@@ -664,8 +682,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "東京都"
+        "東京都",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -705,9 +723,9 @@
         }
       ],
       "prefectures": [
-        "福岡県",
+        "山口県",
         "東京都",
-        "山口県"
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -768,26 +786,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "福岡県庁ホームページ"
-    },
-    {
-      "articleId": "gnews_ace57d99dfdb2f32",
-      "headline": "福岡県宗像市の10代女性が麻しん=はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認（RKB毎日放送） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-11T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuVXM2SFAwd3lfMlIzTm1VeHkyeGRkUGJfQmV0aGd0UkNqZm9QeG54R0dXZ2VSc2c2NVBfRmNwNXBLaHgtenphN1VNcGdwd2pWaG9tY0tJOHNyRnRpTUhnaFpZWm1MNzY1RFEzRWpoby1kMU9EYUZQY2I3QXYyMlk?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県",
-        "鹿児島県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gov_faa9e29bf2cff1f8",
