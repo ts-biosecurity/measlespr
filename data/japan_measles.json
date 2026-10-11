@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-10-11T00:49:23.591823+00:00",
+  "generated_at": "2026-10-11T02:30:43.220192+00:00",
   "date_range": {
     "start": "2026-09-11",
     "end": "2026-10-11"
   },
-  "total_articles": 36,
+  "total_articles": 37,
   "prefecture_summary": {
     "愛媛県": 6,
-    "東京都": 7,
-    "全国（都道府県不明）": 13,
+    "全国（都道府県不明）": 16,
     "千葉県": 1,
     "山口県": 2,
     "福岡県": 13,
@@ -54,7 +53,7 @@
         }
       ],
       "prefectures": [
-        "東京都"
+        "全国（都道府県不明）"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -136,7 +135,7 @@
         }
       ],
       "prefectures": [
-        "東京都"
+        "全国（都道府県不明）"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -291,8 +290,7 @@
       ],
       "prefectures": [
         "山口県",
-        "福岡県",
-        "東京都"
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -417,7 +415,6 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "福岡県"
       ],
       "dataSource": "BlueDot",
@@ -487,11 +484,29 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_ae32d45c44f23c23",
+      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年9月24日更新） - WAM NET",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-25T02:16:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdFE5S0hjeDA4RTF6VG90SlkyRkZVb0ZzZFRyZUhVamQ2bVZZWjRHckF4dVoxLTE4TXdKT0VETkFLWXY0UGtiRnc4aU9NSjBHcVBQZ3I4Szk0c21qWFd2V21hdTBSUkgzbVVqTlZJY2hiWHM?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "WAM NET"
     },
     {
       "articleId": "gnews_fc20696d49c9c61f",
@@ -694,7 +709,6 @@
         }
       ],
       "prefectures": [
-        "東京都",
         "福岡県"
       ],
       "dataSource": "BlueDot",
@@ -736,8 +750,7 @@
       ],
       "prefectures": [
         "山口県",
-        "福岡県",
-        "東京都"
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
