@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-11T10:14:29.909156+00:00",
+  "generated_at": "2026-10-11T12:23:01.653566+00:00",
   "date_range": {
     "start": "2026-09-11",
     "end": "2026-10-11"
   },
-  "total_articles": 38,
+  "total_articles": 37,
   "prefecture_summary": {
     "愛媛県": 6,
-    "全国（都道府県不明）": 17,
+    "全国（都道府県不明）": 16,
+    "東京都": 1,
     "千葉県": 1,
+    "福岡県": 12,
     "山口県": 2,
-    "福岡県": 13,
-    "鹿児島県": 1,
     "神奈川県": 1
   },
   "articles": [
@@ -142,13 +142,13 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_5913ca9d13868bcd",
+      "articleId": "gnews_3f059ae8faf9891b",
       "headline": "松山市で麻しん(はしか)感染確認 2012年以来14年ぶり 注意呼びかけ 愛媛（あいテレビ） - Yahoo!ニュース",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-10-10T10:36:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwMjlraW5JQ25LY0lMNm9hSXpKUnRBMndRTUgzal95cVllMEt2Tnlya1JfemRUUUNKclE0UThFUjBXSWttdXA2b21JbGlzYWlYS1pTZHhRallqZkVnb2pyMEt6VUlOa1JSMkQ1WGNlWFlkTVlzT1BSbUdtcU9pX1U?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOODRtdVNlQjhrTm1pSEhteFVsdzdGZ1hDTVlpbXBLZDVxNGctMG1FU3FUN0d1bFZkM1lWY1FMWEduRko0am5Sb0toQXNDa2ZtdVBzRkk0UWcxaU5kUnJfbk1HYkFtZW5TVjRSMXZrQlM5MzY1S055bEdIMDB5dHE2UnNrYURJLUlEQlV6SFlR?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -197,6 +197,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "BigGo ファイナンス"
+    },
+    {
+      "articleId": "gnews_e5b30407ed2f9682",
+      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-08T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "東京都感染症情報センター"
     },
     {
       "articleId": "gnews_737cc60978c798ab",
@@ -309,8 +328,8 @@
         }
       ],
       "prefectures": [
-        "山口県",
-        "福岡県"
+        "福岡県",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -409,26 +428,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "47NEWS"
-    },
-    {
-      "articleId": "gnews_cf4662a8aaf5c834",
-      "headline": "福岡県宗像市の10代女性が麻しん＝はしか感染 JR鹿児島線など利用 県内では4日にも男性の感染を確認 - TBS NEWS DIG",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-01T23:32:36+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PT2pzZHQwSlhQZHdSVHlxRThsd05zSjdnQkJ0aEJISmxLa2UtSHRicFRZd0JXdmFwdHZNQjdLR1JCeThqZldQaWszdDBKMzY4VzNwZmMwamtvS24xejRZ?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県",
-        "鹿児島県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TBS NEWS DIG"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2Zicy9jYXRlZ29yeS9zb2NpZXR5L2ZzMDg3YTgzNmI0NTE1NGE1NDljZDViNTk2MTYyNjRlZWE=",
@@ -682,25 +681,6 @@
       "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
-      "articleId": "gnews_16e2f6d64c295242",
-      "headline": "米ペンシルベニア州のはしか死者4人に、流行拡大 - Reuters",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-15T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zQUZCTkJwNUI5Zi1sb0Q5V2c1a0g5OU5jUElWZ2FxTTNBQTZFa05ib3g4TnA5SnBfdGxjemxpZU5EU1VBUFJfekdZSWYxRGM5dnB5MHJzS0E1RmtiRHF1RllqcjRocHd1QUdQbU1NX0FsVmNXZzIwLVVvUFlKN0U?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Reuters"
-    },
-    {
       "articleId": "gov_ad64677f8d750b81",
       "headline": "令和8年9月15日麻しん（はしか）患者の発生と利用施設について",
       "headlineTranslated": "",
@@ -789,8 +769,8 @@
         }
       ],
       "prefectures": [
-        "山口県",
-        "福岡県"
+        "福岡県",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
