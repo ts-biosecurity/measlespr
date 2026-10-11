@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-10T22:14:31.633339+00:00",
+  "generated_at": "2026-10-11T00:49:23.591823+00:00",
   "date_range": {
-    "start": "2026-09-10",
-    "end": "2026-10-10"
+    "start": "2026-09-11",
+    "end": "2026-10-11"
   },
   "total_articles": 36,
   "prefecture_summary": {
     "愛媛県": 6,
-    "全国（都道府県不明）": 14,
+    "東京都": 7,
+    "全国（都道府県不明）": 13,
     "千葉県": 1,
     "山口県": 2,
-    "東京都": 5,
-    "福岡県": 14,
+    "福岡県": 13,
     "神奈川県": 1
   },
   "articles": [
     {
-      "articleId": "gnews_3c0425faddbeebc3",
-      "headline": "松山市で14年ぶりに「はしか」感染患者確認「感染力がきわめて強い」 スーパーやドラッグストアを利用 - 日テレNEWS NNN",
+      "articleId": "gnews_e04947c8484ab9de",
+      "headline": "松山市で14年ぶりに「はしか」感染患者確認「感染力がきわめて強い」 スーパーやドラッグストアを利用（南海放送） - Yahoo!ニュース",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-10-10T11:50:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjhZWVRiWVk4Q1Z1eUZNc0dEVGlRai14NUN1YTRtR21sVmc2MVpxTGt5S1NjNVF4V2Z2T3EtVkRXekozblFhTWVfajdsUnN3UGROMllBa3NlLWhMOFRGWlNoc2Z2WFVzd082YzlMdWwwdk1VdmZsYnNzOG91QUhoRFlGTExGZWc?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00QXRsN2VKNk5pQlNoSFMtWkF6MGJhRjN5STBEdnFXVnBmdG02RnREOWEzdXp2cHRNUUVmSzk4NHMtNlZHcW5YTm1LVlZvdzQwSFZoWWFiY0otcXdjSG5zTUtIYlVVaEZUVG0zTDQ4aXBHMUd2bHBTVGJpeW5DMms?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -32,7 +32,32 @@
         "愛媛県"
       ],
       "dataSource": "Google News",
-      "sourceName": "日テレNEWS NNN"
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "aHR0cHM6Ly93d3cuZWhpbWUtbnAuY28uanAvYXJ0aWNsZS9uZXdzMjAyNjEwMTAwMTgz",
+      "headline": "松山で30代男性が麻疹に感染　スーパーなどで不特定多数と接触か　2012年以来の確認",
+      "headlineTranslated": "Measles infection in a man in his 30s in Matsuyama; may have come into contact with an unspecified number of people at supermarkets and other places; first confirmed since 2012.",
+      "summary": "Measles infection diagnosed in a man in his 30s in Matsuyama City, Ehime Prefecture, Japan—the first confirmed case there since 2012. The city’s Health and Prevention Division said the patient may have had contact with an unspecified number of people while contagious. To alert the public, authorities published the facilities and dates/times when exposure may have occurred: Fuji Matsumatsu Store on Oct 1 at about 7:30 pm; Kusuri no Lady Matsumatsu Store on Oct 4 at about 6:00 pm; Oct 5 at about 4:00 pm; and Oct 6 at about 6:00 pm. Measles is highly contagious, and exposure could pose risk to non-immune individuals who were present. The information is current as of 2026-10-10.",
+      "summaryOriginal": "Measles infection diagnosed in a man in his 30s in Matsuyama City, Ehime Prefecture, Japan—the first confirmed case there since 2012. The city’s Health and Prevention Division said the patient may have had contact with an unspecified number of people while contagious. To alert the public, authorities published the facilities and dates/times when exposure may have occurred: Fuji Matsumatsu Store on Oct 1 at about 7:30 pm; Kusuri no Lady Matsumatsu Store on Oct 4 at about 6:00 pm; Oct 5 at about 4:00 pm; and Oct 6 at about 6:00 pm. Measles is highly contagious, and exposure could pose risk to non-immune individuals who were present. The information is current as of 2026-10-10.",
+      "publishedTimestamp": "2026-10-10T11:00:33+00:00",
+      "sourceUrl": "https://www.ehime-np.co.jp/article/news202610100183",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
     },
     {
       "articleId": "gnews_99f3087cf4a36092",
@@ -90,6 +115,31 @@
       ],
       "dataSource": "Google News",
       "sourceName": "au Webポータル"
+    },
+    {
+      "articleId": "aHR0cHM6Ly9uZXdzZGlnLnRicy5jby5qcC9hcnRpY2xlcy8tLzMwMDQ0MTk=",
+      "headline": "麻しん(はしか)感染確認　松山市では2012年以来　商業施設利用者に注意呼びかけ　愛媛",
+      "headlineTranslated": "Measles infection confirmed; in Matsuyama City since 2012; appeal to customers of commercial facilities to take precautions, Ehime.",
+      "summary": "Measles infection confirmed in Matsuyama City, Ehime Prefecture, Japan. A man in his 30s developed fever and rash on Oct 1 and was laboratory-confirmed on Oct 10, marking the first local measles case since 2012 (14 years). He had traveled to a country designated as a measles infection-expansion area in late September. The patient had one measles vaccination dose. Between Oct 1–6, he visited several supermarkets and drugstores in Matsuyama, potentially contacting many people; no documented transmission to family or workplace, and he did not use public transport. Public health guidance urges those with fever or cough to contact healthcare facilities in advance and avoid public transport when seeking care. Nationwide, measles cases rose from 265 last year to 576 as of Sept 27 this year, highlighting ongoing outbreaks.",
+      "summaryOriginal": "Measles infection confirmed in Matsuyama City, Ehime Prefecture, Japan. A man in his 30s developed fever and rash on Oct 1 and was laboratory-confirmed on Oct 10, marking the first local measles case since 2012 (14 years). He had traveled to a country designated as a measles infection-expansion area in late September. The patient had one measles vaccination dose. Between Oct 1–6, he visited several supermarkets and drugstores in Matsuyama, potentially contacting many people; no documented transmission to family or workplace, and he did not use public transport. Public health guidance urges those with fever or cough to contact healthcare facilities in advance and avoid public transport when seeking care. Nationwide, measles cases rose from 265 last year to 576 as of Sept 27 this year, highlighting ongoing outbreaks.",
+      "publishedTimestamp": "2026-10-10T10:36:25+00:00",
+      "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3004419",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
     },
     {
       "articleId": "gnews_5913ca9d13868bcd",
@@ -241,8 +291,8 @@
       ],
       "prefectures": [
         "山口県",
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -596,25 +646,6 @@
       "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
-      "articleId": "gnews_16e2f6d64c295242",
-      "headline": "米ペンシルベニア州のはしか死者4人に、流行拡大 - Reuters",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-15T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zQUZCTkJwNUI5Zi1sb0Q5V2c1a0g5OU5jUElWZ2FxTTNBQTZFa05ib3g4TnA5SnBfdGxjemxpZU5EU1VBUFJfekdZSWYxRGM5dnB5MHJzS0E1RmtiRHF1RllqcjRocHd1QUdQbU1NX0FsVmNXZzIwLVVvUFlKN0U?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Reuters"
-    },
-    {
       "articleId": "gov_ad64677f8d750b81",
       "headline": "令和8年9月15日麻しん（はしか）患者の発生と利用施設について",
       "headlineTranslated": "",
@@ -705,8 +736,8 @@
       ],
       "prefectures": [
         "山口県",
-        "東京都",
-        "福岡県"
+        "福岡県",
+        "東京都"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -767,25 +798,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "福岡県庁ホームページ"
-    },
-    {
-      "articleId": "gov_faa9e29bf2cff1f8",
-      "headline": "令和8年9月11日麻しん（はしか）患者の利用施設について",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-11T00:00:00+00:00",
-      "sourceUrl": "https://www.city.fukuoka.lg.jp/hofuku/hokensho/kansensho/kansenshojoho/hodohappyou/documents/20260911measles.pdf",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "自治体発表",
-      "sourceName": "福岡市 感染症関係報道発表資料"
     }
   ]
 }
