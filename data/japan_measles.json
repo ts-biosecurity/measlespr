@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T02:30:43.220192+00:00",
+  "generated_at": "2026-10-11T04:19:06.160636+00:00",
   "date_range": {
     "start": "2026-09-11",
     "end": "2026-10-11"
@@ -9,8 +9,8 @@
     "愛媛県": 6,
     "全国（都道府県不明）": 16,
     "千葉県": 1,
-    "山口県": 2,
     "福岡県": 13,
+    "山口県": 2,
     "神奈川県": 1
   },
   "articles": [
@@ -198,6 +198,25 @@
       "sourceName": "BigGo ファイナンス"
     },
     {
+      "articleId": "gnews_737cc60978c798ab",
+      "headline": "新型コロナ、エムポックス、麻疹…感染症の発生動向は分かりやすく国民に示して - 読売新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-07T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JMdW9oU2NGZHJRdi1xZ3RxNExuTU1OS2RWRWliRzIzYzRERlowdEhJdF9ueTlJR0dzTVRCTDVFa2F2OXBJbk9GLXZLQUZ1WDB6VE42aG05MnpUeWVfajZzVFFzcnJ6R3V6dGctWDRFZVZHbG80LXM5dWFVSzZXdG1vOGFXOGJpRjNKZWFRNA?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "読売新聞"
+    },
+    {
       "articleId": "gnews_f4ea00825018cddd",
       "headline": "麻しん（はしか）の発生に関する情報 - 千葉市",
       "headlineTranslated": "",
@@ -289,8 +308,8 @@
         }
       ],
       "prefectures": [
-        "山口県",
-        "福岡県"
+        "福岡県",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -421,8 +440,8 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_f736eccb713ba6da",
-      "headline": "麻しん（はしか）にご注意ください - 大磯町ホームページ",
+      "articleId": "gnews_446b6e283918c3b0",
+      "headline": "麻しん（はしか）にご注意ください - 大磯町",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -437,11 +456,11 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "大磯町ホームページ"
+      "sourceName": "大磯町"
     },
     {
-      "articleId": "gnews_eaf81273d3dd3b7a",
-      "headline": "こどもの予防接種 - 大磯町ホームページ",
+      "articleId": "gnews_e59c6f90d3bea65c",
+      "headline": "こどもの予防接種 - 大磯町",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -456,7 +475,7 @@
         "全国（都道府県不明）"
       ],
       "dataSource": "Google News",
-      "sourceName": "大磯町ホームページ"
+      "sourceName": "大磯町"
     },
     {
       "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL2Zicy9jYXRlZ29yeS9zb2NpZXR5L2ZzODMyZGU3NjE1Njc2NGJjZGEyZTRjNDY0NGJkZmE1OTQ=",
@@ -488,25 +507,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_ae32d45c44f23c23",
-      "headline": "医療 ＞ 感染症・疾病関連 ＞ 麻しん関連 ＞ 麻しん最新情報（令和8年9月24日更新） - WAM NET",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-25T02:16:43+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdFE5S0hjeDA4RTF6VG90SlkyRkZVb0ZzZFRyZUhVamQ2bVZZWjRHckF4dVoxLTE4TXdKT0VETkFLWXY0UGtiRnc4aU9NSjBHcVBQZ3I4Szk0c21qWFd2V21hdTBSUkgzbVVqTlZJY2hiWHM?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "WAM NET"
     },
     {
       "articleId": "gnews_fc20696d49c9c61f",
@@ -749,8 +749,8 @@
         }
       ],
       "prefectures": [
-        "山口県",
-        "福岡県"
+        "福岡県",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
