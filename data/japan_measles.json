@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-10-13T02:33:51.546937+00:00",
+  "generated_at": "2026-10-13T04:23:11.566603+00:00",
   "date_range": {
     "start": "2026-09-13",
     "end": "2026-10-13"
   },
-  "total_articles": 40,
+  "total_articles": 42,
   "prefecture_summary": {
     "愛媛県": 7,
-    "全国（都道府県不明）": 18,
+    "全国（都道府県不明）": 19,
     "東京都": 1,
+    "埼玉県": 1,
     "千葉県": 1,
-    "山口県": 2,
     "福岡県": 12,
+    "山口県": 2,
     "神奈川県": 1
   },
   "articles": [
@@ -281,6 +282,25 @@
       "sourceName": "CareNet.com"
     },
     {
+      "articleId": "gnews_ec0becd85c6c2579",
+      "headline": "第301回 麻疹の流行が止まらない！見落としていたもう一つのセキュリティーホール｜連載企画｜CareNet.com - CareNet.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-10T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CS0t0OEtRMDhybU1SaG5POUJwUnRSd1VIN0YtNFFrNVpSbk5Nb3RSMUplTXlVbjlpWWhLdWI0T0tPMV9NTF93aEFaV0xQWFVvaGIw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CareNet.com"
+    },
+    {
       "articleId": "gnews_b78c9842f9477e3a",
       "headline": "麻疹患者の劇的な増加はワクチン接種率のわずかな低下と関連｜CareNet.com - CareNet.com",
       "headlineTranslated": "",
@@ -317,6 +337,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
+    },
+    {
+      "articleId": "gnews_6116279325948e5e",
+      "headline": "麻しん及び風しん流行情報 - 埼玉県",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-07T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GMkltaVQ0OWVFbVpXV1JYZGR0cXYxNGlIYktTYkItMnF5cURpdzEwQlNrLVl4amdfVWRCMXdGSkRTV2h5Z0hDcjZLdUowSGREWkdCcmctVmhZRGFmU3E2clBSY1pfQnhYUUJkWHdR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "埼玉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "埼玉県"
     },
     {
       "articleId": "gnews_737cc60978c798ab",
@@ -410,8 +449,8 @@
         }
       ],
       "prefectures": [
-        "山口県",
-        "福岡県"
+        "福岡県",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -832,8 +871,8 @@
         }
       ],
       "prefectures": [
-        "山口県",
-        "福岡県"
+        "福岡県",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
