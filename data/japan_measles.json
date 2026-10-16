@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-15T22:13:52.935083+00:00",
+  "generated_at": "2026-10-16T00:37:13.454870+00:00",
   "date_range": {
-    "start": "2026-09-15",
-    "end": "2026-10-15"
+    "start": "2026-09-16",
+    "end": "2026-10-16"
   },
-  "total_articles": 35,
+  "total_articles": 34,
   "prefecture_summary": {
-    "全国（都道府県不明）": 20,
-    "愛媛県": 5,
+    "全国（都道府県不明）": 19,
+    "愛媛県": 6,
     "埼玉県": 1,
     "千葉県": 1,
     "山口県": 1,
-    "福岡県": 8
+    "福岡県": 7
   },
   "articles": [
     {
@@ -57,6 +57,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_a203cc177a595d24",
+      "headline": "松山市で14年ぶりの「はしか」感染確認 ワクチン2回接種で90％発症や重症化を予防 ワクチン接種の有無確認を【愛媛】 - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-13T09:41:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EN2hsZU1SNjN3R1p4STRQdGhEaTBrYVpHZElmMVctcWtCazhQMEp1clQ3UWQxa2JEd2x1YlFIMFNzdGtmZ1Z2QmxsbmUyWHJMQ0lJanRocGRFaTJKQWgxTmtSaXBINXd0ZGFlMXBfNEVxNl9SdHVxbUhfR1BzRG8?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "愛媛県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_f9f589c5b04cbcc5",
@@ -673,25 +692,6 @@
       "sourceName": "福岡市 感染症関係報道発表資料"
     },
     {
-      "articleId": "gnews_1d05a079fb904fea",
-      "headline": "U.S. sees break in new measles cases - Reuters",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-19T02:07:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tV19GR1BrXzNybG1Zdy1pa3F6TDJEUUR0TkJjeFIxOEVqWU1DYTZIdFVhaUxKYlBVODdrUHNFTlVrQ0JnSENrekxHckJXaVdzcTk0UThOZDNwNmJiWWNNag?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Reuters"
-    },
-    {
       "articleId": "gov_53d98ff66685f079",
       "headline": "令和8年9月18日麻しん（はしか）患者の発生と利用施設について",
       "headlineTranslated": "",
@@ -718,25 +718,6 @@
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-17T00:00:00+00:00",
       "sourceUrl": "https://www.city.fukuoka.lg.jp/hofuku/hokensho/kansensho/kansenshojoho/hodohappyou/documents/20260917measles.pdf",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "自治体発表",
-      "sourceName": "福岡市 感染症関係報道発表資料"
-    },
-    {
-      "articleId": "gov_c5f452724195817a",
-      "headline": "令和8年9月16日麻しん（はしか）患者の発生と利用施設について",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-16T00:00:00+00:00",
-      "sourceUrl": "https://www.city.fukuoka.lg.jp/hofuku/hokensho/kansensho/kansenshojoho/hodohappyou/documents/20260916measles.pdf",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
