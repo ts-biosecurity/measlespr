@@ -1,19 +1,38 @@
 {
-  "generated_at": "2026-10-17T16:13:56.759254+00:00",
+  "generated_at": "2026-10-17T18:15:06.183341+00:00",
   "date_range": {
     "start": "2026-09-17",
     "end": "2026-10-17"
   },
-  "total_articles": 34,
+  "total_articles": 35,
   "prefecture_summary": {
-    "全国（都道府県不明）": 21,
+    "全国（都道府県不明）": 22,
     "愛媛県": 5,
     "埼玉県": 1,
     "千葉県": 1,
-    "山口県": 1,
-    "福岡県": 6
+    "福岡県": 6,
+    "山口県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_f6adad0e2695bdb4",
+      "headline": "バングラデシュは世界最大規模の麻疹流行に直面している。 - Vietnam.vn",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-17T15:50:38+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMHJObV9HX254SFdGZGFFM2lLUXhkQ0NFSFpGWFdvTUM5VDZXVWVQeFJDWElMMTJOM1ZlQzZXa3FrbmZRdGwteE56TVJKTW9VYXIxSmRKVkFTQ1JPYU5tWDFiTWhjNTJ6U2JibHg4OEQ1QVhleXdsMUZsUkxTTWpucERVWFpFWmZ0d2FkZi1XdHdrSjg?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Vietnam.vn"
+    },
     {
       "articleId": "gnews_f4acf16930693bb4",
       "headline": "はしか患者が増加、強い感染力 症状は？ワクチンは？何が問題なのか - 朝日新聞",
@@ -248,13 +267,13 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_6681c5ba0afa4cde",
+      "articleId": "gnews_3e08fe52a2394235",
       "headline": "松山市で麻しん(はしか)感染確認 2012年以来14年ぶり 注意呼びかけ 愛媛 - TBS NEWS DIG",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-10-10T10:36:25+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81MUNMRTlFYm92aFB2QmNKX1Q3YTdOd1RiRkhTdGEyU3ZJcFNFR3oxekkwbXh2S29Mb2RSR1hsSk5hSGJpUWVlRHNtVThUZzl1NGhrYjhOQQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBReGR3VDFmY2ZXT1hHLTVIOHA5eGpyMFpFNWpMOWJMZ3B2bHZwOUI3emZzNFEzbWM4d1BXa3NvOXhPQU5FVl9mVVFyamV3cVpfVmd1ZXpSX0N3Zw?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -529,8 +548,8 @@
         }
       ],
       "prefectures": [
-        "山口県",
-        "福岡県"
+        "福岡県",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
