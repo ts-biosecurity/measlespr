@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-10-17T20:13:07.590655+00:00",
+  "generated_at": "2026-10-17T22:12:06.131635+00:00",
   "date_range": {
     "start": "2026-09-17",
     "end": "2026-10-17"
   },
-  "total_articles": 33,
+  "total_articles": 35,
   "prefecture_summary": {
-    "全国（都道府県不明）": 21,
+    "全国（都道府県不明）": 22,
+    "東京都": 1,
     "愛媛県": 4,
     "埼玉県": 1,
     "千葉県": 1,
-    "福岡県": 6,
-    "山口県": 1
+    "山口県": 1,
+    "福岡県": 6
   },
   "articles": [
     {
@@ -70,6 +71,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_e5b30407ed2f9682",
+      "headline": "麻しんの流行状況（東京都 2026年） - 東京都感染症情報センター",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-15T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQkNpSERwcXc4bEtwQ1ZLZnRKZ25wcWI3UUF0anZRbnpIQmhwclZmS1FtcW5kYm53aU1uUENZeWl4NjBkZEhxOWpvdmk0TTYwUU5BOFpwbUJNd0xrcFQ2Rng0NXpvbmg3UkRNSWtIVQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "東京都"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "東京都感染症情報センター"
     },
     {
       "articleId": "gnews_ab18a763e96b02c9",
@@ -400,6 +420,25 @@
       "sourceName": "CareNet.com"
     },
     {
+      "articleId": "gnews_b78c9842f9477e3a",
+      "headline": "麻疹患者の劇的な増加はワクチン接種率のわずかな低下と関連｜CareNet.com - CareNet.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-10T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NRzlLMjZrUTZsQ1FfQWpucDdLYVJ3Y29XdFpLd3RMSm9tNEUxYUpjRDVyOGlDVmpEMlJzSG1idkFnUXphLW5ndzg0bFJkNHozYmRvc3ZTWFF3Zw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CareNet.com"
+    },
+    {
       "articleId": "gnews_77247a7d6a245dc1",
       "headline": "感染症情報について - 市川市",
       "headlineTranslated": "",
@@ -510,8 +549,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "山口県"
+        "山口県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
