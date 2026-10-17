@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-17T12:18:46.772971+00:00",
+  "generated_at": "2026-10-17T14:12:04.295952+00:00",
   "date_range": {
     "start": "2026-09-17",
     "end": "2026-10-17"
   },
-  "total_articles": 33,
+  "total_articles": 34,
   "prefecture_summary": {
     "全国（都道府県不明）": 21,
-    "愛媛県": 4,
+    "愛媛県": 5,
     "埼玉県": 1,
     "千葉県": 1,
-    "福岡県": 6,
-    "山口県": 1
+    "山口県": 1,
+    "福岡県": 6
   },
   "articles": [
     {
@@ -248,13 +248,13 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_6defe1eb3e94d0a4",
+      "articleId": "gnews_3e08fe52a2394235",
       "headline": "松山市で麻しん(はしか)感染確認 2012年以来14年ぶり 注意呼びかけ 愛媛 - TBS NEWS DIG",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-10-10T10:36:25+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZHp0bFotSHg3cFgwd05vR2lwTUpQVk5md1FIUW9YblA0VDRIOHN4WXZtY0h4Q09uRHdJV0F5bVhEajdvNVlVNDZjLTk5NWdJVlZYU3IxZkQtVUlxcjVHU0xhRmRfYmM?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBReGR3VDFmY2ZXT1hHLTVIOHA5eGpyMFpFNWpMOWJMZ3B2bHZwOUI3emZzNFEzbWM4d1BXa3NvOXhPQU5FVl9mVVFyamV3cVpfVmd1ZXpSX0N3Zw?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -265,6 +265,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
+    },
+    {
+      "articleId": "gnews_5913ca9d13868bcd",
+      "headline": "松山市で麻しん(はしか)感染確認 2012年以来14年ぶり 注意呼びかけ 愛媛（あいテレビ） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-10T10:36:01+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwMjlraW5JQ25LY0lMNm9hSXpKUnRBMndRTUgzal95cVllMEt2Tnlya1JfemRUUUNKclE0UThFUjBXSWttdXA2b21JbGlzYWlYS1pTZHhRallqZkVnb2pyMEt6VUlOa1JSMkQ1WGNlWFlkTVlzT1BSbUdtcU9pX1U?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "愛媛県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_7bb87fe695d38502",
@@ -510,8 +529,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "山口県"
+        "山口県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
