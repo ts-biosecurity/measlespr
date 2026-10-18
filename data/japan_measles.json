@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-17T22:12:06.131635+00:00",
+  "generated_at": "2026-10-18T00:41:56.584274+00:00",
   "date_range": {
-    "start": "2026-09-17",
-    "end": "2026-10-17"
+    "start": "2026-09-18",
+    "end": "2026-10-18"
   },
-  "total_articles": 35,
+  "total_articles": 34,
   "prefecture_summary": {
     "全国（都道府県不明）": 22,
     "東京都": 1,
     "愛媛県": 4,
     "埼玉県": 1,
     "千葉県": 1,
-    "山口県": 1,
-    "福岡県": 6
+    "福岡県": 5,
+    "山口県": 1
   },
   "articles": [
     {
@@ -549,8 +549,8 @@
         }
       ],
       "prefectures": [
-        "山口県",
-        "福岡県"
+        "福岡県",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -719,25 +719,6 @@
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-24T00:00:00+00:00",
       "sourceUrl": "https://www.city.fukuoka.lg.jp/hofuku/hokensho/kansensho/kansenshojoho/hodohappyou/documents/20260924measles.pdf",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "自治体発表",
-      "sourceName": "福岡市 感染症関係報道発表資料"
-    },
-    {
-      "articleId": "gov_53d98ff66685f079",
-      "headline": "令和8年9月18日麻しん（はしか）患者の発生と利用施設について",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-18T00:00:00+00:00",
-      "sourceUrl": "https://www.city.fukuoka.lg.jp/hofuku/hokensho/kansensho/kansenshojoho/hodohappyou/documents/20260919measles.pdf",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
