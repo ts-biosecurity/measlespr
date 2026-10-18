@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-18T00:41:56.584274+00:00",
+  "generated_at": "2026-10-18T02:19:15.199551+00:00",
   "date_range": {
     "start": "2026-09-18",
     "end": "2026-10-18"
   },
-  "total_articles": 34,
+  "total_articles": 35,
   "prefecture_summary": {
     "全国（都道府県不明）": 22,
     "東京都": 1,
-    "愛媛県": 4,
     "埼玉県": 1,
+    "愛媛県": 5,
     "千葉県": 1,
     "福岡県": 5,
     "山口県": 1
@@ -90,6 +90,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
+    },
+    {
+      "articleId": "gnews_6116279325948e5e",
+      "headline": "麻しん及び風しん流行情報 - 埼玉県",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-14T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GMkltaVQ0OWVFbVpXV1JYZGR0cXYxNGlIYktTYkItMnF5cURpdzEwQlNrLVl4amdfVWRCMXdGSkRTV2h5Z0hDcjZLdUowSGREWkdCcmctVmhZRGFmU3E2clBSY1pfQnhYUUJkWHdR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "埼玉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "埼玉県"
     },
     {
       "articleId": "gnews_ab18a763e96b02c9",
@@ -287,13 +306,13 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_6defe1eb3e94d0a4",
+      "articleId": "gnews_6681c5ba0afa4cde",
       "headline": "松山市で麻しん(はしか)感染確認 2012年以来14年ぶり 注意呼びかけ 愛媛 - TBS NEWS DIG",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-10-10T10:36:25+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZHp0bFotSHg3cFgwd05vR2lwTUpQVk5md1FIUW9YblA0VDRIOHN4WXZtY0h4Q09uRHdJV0F5bVhEajdvNVlVNDZjLTk5NWdJVlZYU3IxZkQtVUlxcjVHU0xhRmRfYmM?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81MUNMRTlFYm92aFB2QmNKX1Q3YTdOd1RiRkhTdGEyU3ZJcFNFR3oxekkwbXh2S29Mb2RSR1hsSk5hSGJpUWVlRHNtVThUZzl1NGhrYjhOQQ?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -304,6 +323,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TBS NEWS DIG"
+    },
+    {
+      "articleId": "gnews_5913ca9d13868bcd",
+      "headline": "松山市で麻しん(はしか)感染確認 2012年以来14年ぶり 注意呼びかけ 愛媛（あいテレビ） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-10T10:36:01+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwMjlraW5JQ25LY0lMNm9hSXpKUnRBMndRTUgzal95cVllMEt2Tnlya1JfemRUUUNKclE0UThFUjBXSWttdXA2b21JbGlzYWlYS1pTZHhRallqZkVnb2pyMEt6VUlOa1JSMkQ1WGNlWFlkTVlzT1BSbUdtcU9pX1U?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "愛媛県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_7bb87fe695d38502",
@@ -456,25 +494,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "市川市"
-    },
-    {
-      "articleId": "gnews_6116279325948e5e",
-      "headline": "麻しん及び風しん流行情報 - 埼玉県",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-07T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GMkltaVQ0OWVFbVpXV1JYZGR0cXYxNGlIYktTYkItMnF5cURpdzEwQlNrLVl4amdfVWRCMXdGSkRTV2h5Z0hDcjZLdUowSGREWkdCcmctVmhZRGFmU3E2clBSY1pfQnhYUUJkWHdR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "埼玉県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "埼玉県"
     },
     {
       "articleId": "gnews_b687044d5a53a296",
