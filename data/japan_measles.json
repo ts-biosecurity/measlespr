@@ -1,20 +1,71 @@
 {
-  "generated_at": "2026-10-18T22:12:02.355953+00:00",
+  "generated_at": "2026-10-19T00:41:51.059152+00:00",
   "date_range": {
-    "start": "2026-09-18",
-    "end": "2026-10-18"
+    "start": "2026-09-19",
+    "end": "2026-10-19"
   },
-  "total_articles": 32,
+  "total_articles": 36,
   "prefecture_summary": {
-    "全国（都道府県不明）": 22,
+    "全国（都道府県不明）": 24,
     "東京都": 1,
     "埼玉県": 1,
-    "愛媛県": 2,
+    "愛媛県": 4,
     "千葉県": 1,
-    "福岡県": 5,
-    "山口県": 1
+    "山口県": 1,
+    "福岡県": 5
   },
   "articles": [
+    {
+      "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVkJEMTVCS1ZCRFVURkwwMFpNLmh0bWw=",
+      "headline": "はしか患者が増加、強い感染力　症状は？ワクチンは？何が問題なのか：朝日新聞",
+      "headlineTranslated": "Measles cases rising, highly contagious: What are the symptoms? What about the vaccine? What is the problem? Asahi Shimbun",
+      "summary": "Measles is a highly contagious viral infection. In historical Japan, it was viewed as life-and-death, and in developing countries its case fatality has been cited at about 5–6%. After a roughly 10-day incubation, initial symptoms resemble a cold—fever, cough, and runny nose—followed by a high fever (above 39°C) and a spreading rash after 2–3 days, with the fever lasting several days. Pneumonia and otitis media are common complications; encephalitis is rare, and years after recovery some patients develop Subacute Sclerosing Panencephalitis (SSPE), a progressive neurodegenerative disease with no cure. The infection is highly contagious, and public health measures are required promptly when a single case is detected. Transmission is via contact, underscoring the need for rapid isolation and response.",
+      "summaryOriginal": "Measles is a highly contagious viral infection. In historical Japan, it was viewed as life-and-death, and in developing countries its case fatality has been cited at about 5–6%. After a roughly 10-day incubation, initial symptoms resemble a cold—fever, cough, and runny nose—followed by a high fever (above 39°C) and a spreading rash after 2–3 days, with the fever lasting several days. Pneumonia and otitis media are common complications; encephalitis is rare, and years after recovery some patients develop Subacute Sclerosing Panencephalitis (SSPE), a progressive neurodegenerative disease with no cure. The infection is highly contagious, and public health measures are required promptly when a single case is detected. Transmission is via contact, underscoring the need for rapid isolation and response.",
+      "publishedTimestamp": "2026-10-16T22:00:00+00:00",
+      "sourceUrl": "https://www.asahi.com/articles/ASVBD15BKVBDUTFL00ZM.html",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles",
+        "Unknown Encephalitis"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
+      "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVkJEMTQyV1ZCRFVURkwwMEhNLmh0bWw=",
+      "headline": "はしかの後に発病、SSPEは「社会で防ぐ」　重要なワクチン接種：朝日新聞",
+      "headlineTranslated": "SSPE Develops After Measles; \"Preventable by Society\" — The Importance of Vaccination: Asahi Shimbun",
+      "summary": "Subacute Sclerosing Panencephalitis (SSPE) is a fatal, incurable brain disease that develops years after measles infection, now notably discussed in Japan. Measles outbreaks and vaccination history shape SSPE trends: 1975–1985 saw 13–27 annual cases; since 1986, declines followed by 1991–2000: 3–11; 2001–2006: 1–5; 2007–2012: 0–2. A 2022 national survey found 37 living SSPE patients with onset from 1983–2015; since 2017, no new cases confirmed. Exact incidence remains unclear. Diagnosis uses cerebrospinal fluid antibody testing; intrathecal interferon has been tried but no proven cure exists. Risk is highest when measles occurs before age 2, especially under age 1. Symptoms include cognitive decline, motor disturbance, myoclonus, and progressive loss of walking and speech, culminating in coma. Vaccination is the key preventive measure: routine one-dose at age 1 and a second dose in the year before entering elementary school; two doses confer strong protection and lessen transmission to unvaccinated infants.",
+      "summaryOriginal": "Subacute Sclerosing Panencephalitis (SSPE) is a fatal, incurable brain disease that develops years after measles infection, now notably discussed in Japan. Measles outbreaks and vaccination history shape SSPE trends: 1975–1985 saw 13–27 annual cases; since 1986, declines followed by 1991–2000: 3–11; 2001–2006: 1–5; 2007–2012: 0–2. A 2022 national survey found 37 living SSPE patients with onset from 1983–2015; since 2017, no new cases confirmed. Exact incidence remains unclear. Diagnosis uses cerebrospinal fluid antibody testing; intrathecal interferon has been tried but no proven cure exists. Risk is highest when measles occurs before age 2, especially under age 1. Symptoms include cognitive decline, motor disturbance, myoclonus, and progressive loss of walking and speech, culminating in coma. Vaccination is the key preventive measure: routine one-dose at age 1 and a second dose in the year before entering elementary school; two doses confer strong protection and lessen transmission to unvaccinated infants.",
+      "publishedTimestamp": "2026-10-16T22:00:00+00:00",
+      "sourceUrl": "https://www.asahi.com/articles/ASVBD142WVBDUTFL00HM.html",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
     {
       "articleId": "gnews_f4acf16930693bb4",
       "headline": "はしか患者が増加、強い感染力 症状は？ワクチンは？何が問題なのか - 朝日新聞",
@@ -155,6 +206,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_a203cc177a595d24",
+      "headline": "松山市で14年ぶりの「はしか」感染確認 ワクチン2回接種で90％発症や重症化を予防 ワクチン接種の有無確認を【愛媛】 - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-13T09:41:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EN2hsZU1SNjN3R1p4STRQdGhEaTBrYVpHZElmMVctcWtCazhQMEp1clQ3UWQxa2JEd2x1YlFIMFNzdGtmZ1Z2QmxsbmUyWHJMQ0lJanRocGRFaTJKQWgxTmtSaXBINXd0ZGFlMXBfNEVxNl9SdHVxbUhfR1BzRG8?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "愛媛県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
       "articleId": "gnews_f9f589c5b04cbcc5",
       "headline": "麻しん（はしか）の感染拡大防止について - 新見市ホームページ",
       "headlineTranslated": "",
@@ -243,6 +313,25 @@
       "sourceName": ""
     },
     {
+      "articleId": "gnews_742baa19a8a27d7b",
+      "headline": "松山の30代男性が麻疹に感染 スーパーなどで不特定多数と接触か 2012年以来の確認（愛媛）（愛媛新聞ONLINE） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-10T10:56:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBteV9LWnBvMnVZdDMyUGJwUy1RNmRjT1JTT0tzQkwwbW1nVFdEU1o1TVFiUlVLR2N6Y19xRV83UkpCbUlablR2RUVvSUViUEtIVjN1UnVveE5LWEZ1SFFrTThVcld3c3VSOGRNbU9ldlE0ZXY1dGhVd1g4S2dVS1k?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "愛媛県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
+    },
+    {
       "articleId": "aHR0cHM6Ly9uZXdzZGlnLnRicy5jby5qcC9hcnRpY2xlcy8tLzMwMDQ0MTk=",
       "headline": "麻しん(はしか)感染確認　松山市では2012年以来　商業施設利用者に注意呼びかけ　愛媛",
       "headlineTranslated": "Measles infection confirmed; in Matsuyama City since 2012; appeal to customers of commercial facilities to take precautions, Ehime.",
@@ -268,13 +357,13 @@
       "sourceName": ""
     },
     {
-      "articleId": "gnews_6681c5ba0afa4cde",
+      "articleId": "gnews_6defe1eb3e94d0a4",
       "headline": "松山市で麻しん(はしか)感染確認 2012年以来14年ぶり 注意呼びかけ 愛媛 - TBS NEWS DIG",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-10-10T10:36:25+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81MUNMRTlFYm92aFB2QmNKX1Q3YTdOd1RiRkhTdGEyU3ZJcFNFR3oxekkwbXh2S29Mb2RSR1hsSk5hSGJpUWVlRHNtVThUZzl1NGhrYjhOQQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZHp0bFotSHg3cFgwd05vR2lwTUpQVk5md1FIUW9YblA0VDRIOHN4WXZtY0h4Q09uRHdJV0F5bVhEajdvNVlVNDZjLTk5NWdJVlZYU3IxZkQtVUlxcjVHU0xhRmRfYmM?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -511,8 +600,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "山口県"
+        "山口県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
