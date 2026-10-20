@@ -1,39 +1,20 @@
 {
-  "generated_at": "2026-10-20T12:22:35.866665+00:00",
+  "generated_at": "2026-10-20T14:14:57.707587+00:00",
   "date_range": {
     "start": "2026-09-20",
     "end": "2026-10-20"
   },
-  "total_articles": 38,
+  "total_articles": 37,
   "prefecture_summary": {
-    "全国（都道府県不明）": 24,
     "千葉県": 2,
+    "全国（都道府県不明）": 23,
     "東京都": 2,
     "埼玉県": 1,
     "愛媛県": 4,
-    "山口県": 1,
-    "福岡県": 5
+    "福岡県": 5,
+    "山口県": 1
   },
   "articles": [
-    {
-      "articleId": "gnews_f8e8ed05ce7cae1a",
-      "headline": "反ワクチンの旗振るトランプ政権閣僚 米ではしか急増、日本に影響も [アメリカ中間選挙] - 朝日新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-20T02:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZclFmX0tRRk9odGpGZ1kzWmw4ai1kYkJnQ0xweUxWSUFsQUdodHdCUTRScUpsZGVqeWtIb2dISWNNV2dMdDdyQkliTDgwejQ5QmhMOUV2enFybFFiQ1dIZXBpTU83RW8?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "朝日新聞"
-    },
     {
       "articleId": "gnews_697c6cc590908d47",
       "headline": "米国の麻疹患者数 去年の約2倍に - 千葉テレビ放送株式会社",
@@ -395,25 +376,6 @@
       "sourceName": "CareNet.com"
     },
     {
-      "articleId": "gnews_9147e04731255ade",
-      "headline": "米国、麻疹排除国の地位を失う瀬戸際に｜CareNet.com - CareNet.com",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-10T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zOE9BdEV2NVptRDBEQWdPVHk0MGFFM3BPWUgwUUpyVk5KVGs3Sy1mMF9YTE95ekxwZEVBVTdILUM4ZGVnNC1WcmRoRUlSWTdBNmdOZVh4dFRhZw?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CareNet.com"
-    },
-    {
       "articleId": "gnews_742baa19a8a27d7b",
       "headline": "松山の30代男性が麻疹に感染 スーパーなどで不特定多数と接触か 2012年以来の確認（愛媛）（愛媛新聞ONLINE） - Yahoo!ニュース",
       "headlineTranslated": "",
@@ -431,6 +393,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Yahoo!ニュース"
+    },
+    {
+      "articleId": "gnews_9147e04731255ade",
+      "headline": "米国、麻疹排除国の地位を失う瀬戸際に｜CareNet.com - CareNet.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-10T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zOE9BdEV2NVptRDBEQWdPVHk0MGFFM3BPWUgwUUpyVk5KVGs3Sy1mMF9YTE95ekxwZEVBVTdILUM4ZGVnNC1WcmRoRUlSWTdBNmdOZVh4dFRhZw?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CareNet.com"
     },
     {
       "articleId": "gnews_7bb87fe695d38502",
@@ -638,8 +619,8 @@
         }
       ],
       "prefectures": [
-        "山口県",
-        "福岡県"
+        "福岡県",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
