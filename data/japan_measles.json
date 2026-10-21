@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-20T22:13:26.856419+00:00",
+  "generated_at": "2026-10-21T00:37:49.571120+00:00",
   "date_range": {
-    "start": "2026-09-20",
-    "end": "2026-10-20"
+    "start": "2026-09-21",
+    "end": "2026-10-21"
   },
   "total_articles": 40,
   "prefecture_summary": {
-    "全国（都道府県不明）": 24,
+    "全国（都道府県不明）": 25,
     "千葉県": 2,
     "東京都": 3,
     "埼玉県": 1,
-    "愛媛県": 5,
-    "福岡県": 5,
-    "山口県": 1
+    "愛媛県": 4,
+    "山口県": 1,
+    "福岡県": 5
   },
   "articles": [
     {
@@ -54,6 +54,36 @@
       "sourceName": "매일경제"
     },
     {
+      "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVkJIMVFYVFZCSFVIQkkwMVBNLmh0bWw=",
+      "headline": "反ワクチンの旗振るトランプ政権閣僚　米ではしか急増、日本に影響も：朝日新聞",
+      "headlineTranslated": "Trump administration cabinet members waving the anti-vaccine flag; measles surge in the United States, Japan also affected — Asahi Shimbun",
+      "summary": "Measles infections in the United States exceed 4,000 as of October 2026, the largest surge since elimination was declared in 2000. The outbreak correlates with declining preschool MMR vaccination coverage; 95% is the threshold to halt transmission, yet the 2025–26 kindergarten-entry MMR rate fell to 92.4% from 95.2% in 2019–20, with states below 90% increasing from 3 to 18. CDC data indicate about 95% of confirmed cases in 2025–26 occurred in unvaccinated individuals or those with unknown vaccination status. The WHO is poised to re‑evaluate elimination status this autumn, potentially overturning it. Commentary from Penn Medicine Lancaster General Hospital cites vaccine hesitancy amid public-health policy debates during the Trump era, with attribution to anti‑vaccine advocates such as Robert F. Kennedy Jr. The article also notes that Japan is affected amid global travel.",
+      "summaryOriginal": "Measles infections in the United States exceed 4,000 as of October 2026, the largest surge since elimination was declared in 2000. The outbreak correlates with declining preschool MMR vaccination coverage; 95% is the threshold to halt transmission, yet the 2025–26 kindergarten-entry MMR rate fell to 92.4% from 95.2% in 2019–20, with states below 90% increasing from 3 to 18. CDC data indicate about 95% of confirmed cases in 2025–26 occurred in unvaccinated individuals or those with unknown vaccination status. The WHO is poised to re‑evaluate elimination status this autumn, potentially overturning it. Commentary from Penn Medicine Lancaster General Hospital cites vaccine hesitancy amid public-health policy debates during the Trump era, with attribution to anti‑vaccine advocates such as Robert F. Kennedy Jr. The article also notes that Japan is affected amid global travel.",
+      "publishedTimestamp": "2026-10-20T02:00:00+00:00",
+      "sourceUrl": "https://www.asahi.com/articles/ASVBH1QXTVBHUHBI01PM.html",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [
+        {
+          "name": "United States",
+          "lat": 39.76,
+          "lon": -98.5
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "BlueDot",
+      "sourceName": ""
+    },
+    {
       "articleId": "gnews_f8e8ed05ce7cae1a",
       "headline": "反ワクチンの旗振るトランプ政権閣僚 米ではしか急増、日本に影響も [アメリカ中間選挙] - 朝日新聞",
       "headlineTranslated": "",
@@ -90,25 +120,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "千葉テレビ放送株式会社"
-    },
-    {
-      "articleId": "gnews_52d3d0e364684112",
-      "headline": "How Bangladesh lost 1,000 children to preventable measles - Reuters",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-17T02:09:27+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvWDNNWmN4QmhVRWRoc3REdldSNXVSOVBmTFN6TWxOaVpwUG9UR0hGX0l3NU1PbC1HcGdrSjcxZTR3YmRIN3lLLW5JT2xNZV9IWlJ2anV3SmcwWDY5SHpicGtfU1ZMT3dnSXBUV1kySXI4YnNTVjRId0hUV2U?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Reuters"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVkJEMTVCS1ZCRFVURkwwMFpNLmh0bWw=",
@@ -433,25 +444,6 @@
       "sourceName": "CareNet.com"
     },
     {
-      "articleId": "gnews_742baa19a8a27d7b",
-      "headline": "松山の30代男性が麻疹に感染 スーパーなどで不特定多数と接触か 2012年以来の確認（愛媛）（愛媛新聞ONLINE） - Yahoo!ニュース",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-10T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBteV9LWnBvMnVZdDMyUGJwUy1RNmRjT1JTT0tzQkwwbW1nVFdEU1o1TVFiUlVLR2N6Y19xRV83UkpCbUlablR2RUVvSUViUEtIVjN1UnVveE5LWEZ1SFFrTThVcld3c3VSOGRNbU9ldlE0ZXY1dGhVd1g4S2dVS1k?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "愛媛県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Yahoo!ニュース"
-    },
-    {
       "articleId": "gnews_9147e04731255ade",
       "headline": "米国、麻疹排除国の地位を失う瀬戸際に｜CareNet.com - CareNet.com",
       "headlineTranslated": "",
@@ -471,13 +463,13 @@
       "sourceName": "CareNet.com"
     },
     {
-      "articleId": "gnews_7bb87fe695d38502",
-      "headline": "松山市の男性が麻しん（はしか）に感染 不特定多数と接触か 注意呼びかけ【愛媛】（eat愛媛朝日テレビ） - Yahoo!ニュース",
+      "articleId": "gnews_742baa19a8a27d7b",
+      "headline": "松山の30代男性が麻疹に感染 スーパーなどで不特定多数と接触か 2012年以来の確認（愛媛）（愛媛新聞ONLINE） - Yahoo!ニュース",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-10-10T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LYlVNR1Bld1YzdUhScmg5UlVJWm1ubmNydFdnZVVEalY3U2M4WU0zblhEalNCT1I3RGNjcFp1QVVhSmhPbno0NlN1TUFVMXRLY3NPOW05RUFrYk40enpuX0Y5bi1BS0ZwOXhuTkUxQndvVGlpT0U4dUVkaExqLTQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBteV9LWnBvMnVZdDMyUGJwUy1RNmRjT1JTT0tzQkwwbW1nVFdEU1o1TVFiUlVLR2N6Y19xRV83UkpCbUlablR2RUVvSUViUEtIVjN1UnVveE5LWEZ1SFFrTThVcld3c3VSOGRNbU9ldlE0ZXY1dGhVd1g4S2dVS1k?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -490,13 +482,13 @@
       "sourceName": "Yahoo!ニュース"
     },
     {
-      "articleId": "gnews_5913ca9d13868bcd",
-      "headline": "松山市で麻しん(はしか)感染確認 2012年以来14年ぶり 注意呼びかけ 愛媛（あいテレビ） - Yahoo!ニュース",
+      "articleId": "gnews_7bb87fe695d38502",
+      "headline": "松山市の男性が麻しん（はしか）に感染 不特定多数と接触か 注意呼びかけ【愛媛】（eat愛媛朝日テレビ） - Yahoo!ニュース",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-10-10T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwMjlraW5JQ25LY0lMNm9hSXpKUnRBMndRTUgzal95cVllMEt2Tnlya1JfemRUUUNKclE0UThFUjBXSWttdXA2b21JbGlzYWlYS1pTZHhRallqZkVnb2pyMEt6VUlOa1JSMkQ1WGNlWFlkTVlzT1BSbUdtcU9pX1U?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LYlVNR1Bld1YzdUhScmg5UlVJWm1ubmNydFdnZVVEalY3U2M4WU0zblhEalNCT1I3RGNjcFp1QVVhSmhPbno0NlN1TUFVMXRLY3NPOW05RUFrYk40enpuX0Y5bi1BS0ZwOXhuTkUxQndvVGlpT0U4dUVkaExqLTQ?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
@@ -585,6 +577,25 @@
       "sourceName": "CareNet.com"
     },
     {
+      "articleId": "gnews_f85f11516580b65c",
+      "headline": "子どもの麻しん風しん予防接種について - 保健医療局",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-09T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQWo3T0FuZ3FFRXhWLWpuMTNsZXdVa3ZhdTJhTk9JdWIxMm9NaGVyR3Rrb0hfdWJPX1RQZjd4cnRLa0NjUVc3YnBkd2ZaQ3dra1g1b09iUzZQUDhMRGFrR0VUWVZtTVFSb25GaDVycWRLemNhSXl2WEw2NGlBMG1maUt4eDJBZXZlRWRKelVQUQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "保健医療局"
+    },
+    {
       "articleId": "gnews_b687044d5a53a296",
       "headline": "麻しん（はしか）の発生に関する情報 - 千葉市",
       "headlineTranslated": "",
@@ -657,8 +668,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "山口県"
+        "山口県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
