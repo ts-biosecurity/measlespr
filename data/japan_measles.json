@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-22T00:38:34.434680+00:00",
+  "generated_at": "2026-10-22T02:21:17.978149+00:00",
   "date_range": {
     "start": "2026-09-22",
     "end": "2026-10-22"
   },
-  "total_articles": 41,
+  "total_articles": 42,
   "prefecture_summary": {
-    "全国（都道府県不明）": 27,
+    "全国（都道府県不明）": 28,
     "兵庫県": 1,
     "東京都": 4,
     "埼玉県": 1,
     "愛媛県": 2,
     "千葉県": 1,
-    "福岡県": 5,
-    "山口県": 1
+    "山口県": 1,
+    "福岡県": 5
   },
   "articles": [
     {
@@ -140,6 +140,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "市川市"
+    },
+    {
+      "articleId": "gnews_d503f4cd7784c9b7",
+      "headline": "米国の麻疹患者数 去年の約2倍に - ニコニコニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-18T23:33:08+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tbXRjN2Y4U254UFg0cm9fXzZFek9JUVhtaElJOG9tSzJYMkx3UnNveThpRDZVbERJOEZlVHFrOTB6VGRDeG4wR1owczFHdy1HOWNPbFFfbWVheUtXUzZNWGxSc0x1YzFGVEpmWHZPT0lyVm8?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ニコニコニュース"
     },
     {
       "articleId": "gnews_a4aa528390a608ec",
@@ -669,8 +688,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "山口県"
+        "山口県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
