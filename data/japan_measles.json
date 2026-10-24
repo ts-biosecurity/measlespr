@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-23T22:13:01.764358+00:00",
+  "generated_at": "2026-10-24T00:37:10.686518+00:00",
   "date_range": {
-    "start": "2026-09-23",
-    "end": "2026-10-23"
+    "start": "2026-09-24",
+    "end": "2026-10-24"
   },
-  "total_articles": 36,
+  "total_articles": 35,
   "prefecture_summary": {
     "愛媛県": 4,
     "全国（都道府県不明）": 22,
@@ -12,8 +12,8 @@
     "兵庫県": 1,
     "東京都": 3,
     "千葉県": 1,
-    "福岡県": 4,
-    "山口県": 1
+    "山口県": 1,
+    "福岡県": 3
   },
   "articles": [
     {
@@ -72,25 +72,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ブラジル日報"
-    },
-    {
-      "articleId": "gnews_ac5e4c7486d539b4",
-      "headline": "Pennsylvania’s measles outbreak is the largest in decades in the US - The Japan Times Alpha Online",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-22T22:56:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oYnNsMlZDN0RUWXBWTEdjNHBndDlMaUJIS0YtbHF4cmVaYWg5bmF6OEJIZWhWdm1MeFI1VHdtdmNSUjJhcXpPOEFXWGtPbU5Qei1nLXBfZDVLSGtVQ1NJU29nYTN3UTlEWkJESHQzck1jMzFFcU5SRDZR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "The Japan Times Alpha Online"
     },
     {
       "articleId": "gnews_3aae5af76388e827",
@@ -248,6 +229,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_ba41d4b8674fdee4",
+      "headline": "はしかの後に発病、SSPEは「社会で防ぐ」 重要なワクチン接種 - 朝日新聞",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-16T22:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RMGl5OUd0anBzRVVIWldwUzNVVzJ1SXNEb2R5WkNhX3lteFV2STN4ZmY0dnQ4SkI1VXpqM1FLb0M1cGExN2l5NWxvb1FaOGdZUE1sUTNaVERmS1RLZTBjajZ2ektpbDQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "朝日新聞"
     },
     {
       "articleId": "gnews_931b4a1225170107",
@@ -612,8 +612,8 @@
         }
       ],
       "prefectures": [
-        "福岡県",
-        "山口県"
+        "山口県",
+        "福岡県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
@@ -773,25 +773,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gov_eef1c2c3994f0401",
-      "headline": "令和8年9月24日麻しん（はしか）患者の利用施設について",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-24T00:00:00+00:00",
-      "sourceUrl": "https://www.city.fukuoka.lg.jp/hofuku/hokensho/kansensho/kansenshojoho/hodohappyou/documents/20260924measles.pdf",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "福岡県"
-      ],
-      "dataSource": "自治体発表",
-      "sourceName": "福岡市 感染症関係報道発表資料"
     }
   ]
 }
