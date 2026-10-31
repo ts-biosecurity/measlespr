@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T00:24:48.058878+00:00",
+  "generated_at": "2026-10-31T02:12:09.666497+00:00",
   "date_range": {
     "start": "2026-10-01",
     "end": "2026-10-31"
@@ -8,9 +8,9 @@
   "prefecture_summary": {
     "全国（都道府県不明）": 17,
     "長崎県": 1,
+    "埼玉県": 1,
     "愛媛県": 1,
     "福岡県": 2,
-    "埼玉県": 1,
     "東京都": 2,
     "山口県": 1
   },
@@ -109,6 +109,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "NCC長崎文化放送"
+    },
+    {
+      "articleId": "gnews_6116279325948e5e",
+      "headline": "麻しん及び風しん流行情報 - 埼玉県",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-28T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GMkltaVQ0OWVFbVpXV1JYZGR0cXYxNGlIYktTYkItMnF5cURpdzEwQlNrLVl4amdfVWRCMXdGSkRTV2h5Z0hDcjZLdUowSGREWkdCcmctVmhZRGFmU3E2clBSY1pfQnhYUUJkWHdR?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "埼玉県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "埼玉県"
     },
     {
       "articleId": "gnews_3e78b075253fa4e0",
@@ -283,25 +302,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "福岡市"
-    },
-    {
-      "articleId": "gnews_6116279325948e5e",
-      "headline": "麻しん及び風しん流行情報 - 埼玉県",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-21T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GMkltaVQ0OWVFbVpXV1JYZGR0cXYxNGlIYktTYkItMnF5cURpdzEwQlNrLVl4amdfVWRCMXdGSkRTV2h5Z0hDcjZLdUowSGREWkdCcmctVmhZRGFmU3E2clBSY1pfQnhYUUJkWHdR?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "埼玉県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "埼玉県"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuYXNhaGkuY29tL2FydGljbGVzL0FTVkJIMVFYVFZCSFVIQkkwMVBNLmh0bWw=",
@@ -538,8 +538,8 @@
         }
       ],
       "prefectures": [
-        "山口県",
-        "福岡県"
+        "福岡県",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
