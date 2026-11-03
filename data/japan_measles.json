@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T22:09:14.076183+00:00",
+  "generated_at": "2026-11-03T00:24:42.949916+00:00",
   "date_range": {
-    "start": "2026-10-03",
-    "end": "2026-11-02"
+    "start": "2026-10-04",
+    "end": "2026-11-03"
   },
-  "total_articles": 22,
+  "total_articles": 23,
   "prefecture_summary": {
-    "全国（都道府県不明）": 16,
+    "全国（都道府県不明）": 17,
     "東京都": 2,
     "埼玉県": 1,
     "愛媛県": 1,
@@ -14,6 +14,44 @@
     "山口県": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_4d407d3773ce32b8",
+      "headline": "NY measles outbreak prompts ban on unvaccinated kids - Reuters",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-01T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xWVJwNzVEN194VHZZcXpvSlZETjdjUGhEcGo5bC1HdUxhVTNGM1AtQVJ4ZDJWdDhTbDM2UTNvMEh3WEh5WlpPWWg4Q0pDSzY2Wl92d1J0bVhDeGhtQUFsZg?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Reuters"
+    },
+    {
+      "articleId": "gnews_f0fc5f60c8f95fe9",
+      "headline": "米ユタ州のミンクでH5N1集団感染、ウイルス学者は「牛由来株が監視の目をかいくぐって侵入」と指摘 - BigGo ファイナンス",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-01T05:11:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YVnpfVVB2RHJhandTdEJNM2FCVDhhMW5OZ3MtWkctMG9MQk5wMTFxdThpbUdOeXN0a0tDNlUyS18xdkIzY3JqWnlQWVpWQlRFSTFrXzJ6Nko5UQ?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BigGo ファイナンス"
+    },
     {
       "articleId": "gnews_6e4e4b68c8508891",
       "headline": "バングラデシュにおけるデング熱による死亡者数は増加しており、12月以前に流行が収束する可能性は低い。 - Vietnam.vn",
@@ -127,25 +165,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "埼玉県"
-    },
-    {
-      "articleId": "gnews_343bf6e1f3bfcb24",
-      "headline": "米国で麻疹拡大 共和党はワクチン論争で分裂し選挙戦略に難題 - Chosunbiz",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T05:54:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ3RBeTFkY0wwSzM1OUZDUGZLaVowVFViOFhDM2txcExIOGZMQXVnbXc3ZDhfZ2hXeE1zdnZpMFFHdy1wQjNPejRCNUxqclFFNFByMnRaMzJ4dXFlTjR6OTBVSXpvbFpTRnR2cW5uYm9OdTBlNTZNaDJPUERISDExaEdQMlg3SW5G0gGcAUFVX3lxTE5mMWdUMTgtSlFEZXk4V3hYbUFFcjB5dUlLaHU2V3pfendsRDNPejc3SF84VWxzaVJUVmNxSWtRS0JQUVVCY3JhaHZPVEtCMnpZNkVTeExzMkZ4UHFkb3duanJ0VkM0ZjlWSzJPTmhFNWlZQlh0MjBDU1JRRW5WbzVES3ZhcUM0c05kT29seElNYnVmSDRHNWJqVlBjMg?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Chosunbiz"
     },
     {
       "articleId": "aHR0cHM6Ly93d3cuZWhpbWUtbnAuY28uanAvYXJ0aWNsZS9uZXdzMjAyNjEwMjMwMjI4",
@@ -499,8 +518,8 @@
         }
       ],
       "prefectures": [
-        "山口県",
-        "福岡県"
+        "福岡県",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
