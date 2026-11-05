@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T14:10:17.300525+00:00",
+  "generated_at": "2026-11-05T18:11:55.546653+00:00",
   "date_range": {
     "start": "2026-10-06",
     "end": "2026-11-05"
   },
-  "total_articles": 22,
+  "total_articles": 23,
   "prefecture_summary": {
-    "全国（都道府県不明）": 16,
+    "全国（都道府県不明）": 17,
     "東京都": 2,
     "埼玉県": 1,
     "愛媛県": 1,
@@ -51,6 +51,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Infoseek"
+    },
+    {
+      "articleId": "gnews_12d0af161f1244c7",
+      "headline": "Joe Rogan Experience #2576 - Peter McCullough医師 - BigGo ファイナンス",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-04T18:03:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yYzVXcEM3NUttXzAzeDNoSE12MXZsUUhLRGNjckhTMDlmU2xFNEVyQ2NsV1NEb25ZS21OUzEtTTNQTFJHaWgwNHBnbVVCazBtdmFhbXVUUU0tYTQ4OFE?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BigGo ファイナンス"
     },
     {
       "articleId": "gnews_d46f174608f92ea9",
@@ -518,8 +537,8 @@
         }
       ],
       "prefectures": [
-        "山口県",
-        "福岡県"
+        "福岡県",
+        "山口県"
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
