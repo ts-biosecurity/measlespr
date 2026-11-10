@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-11-09T22:08:02.237058+00:00",
+  "generated_at": "2026-11-10T00:24:00.536635+00:00",
   "date_range": {
-    "start": "2026-10-10",
-    "end": "2026-11-09"
+    "start": "2026-10-11",
+    "end": "2026-11-10"
   },
-  "total_articles": 26,
+  "total_articles": 23,
   "prefecture_summary": {
-    "沖縄県": 1,
     "神奈川県": 1,
-    "全国（都道府県不明）": 20,
+    "全国（都道府県不明）": 17,
     "長崎県": 1,
     "埼玉県": 1,
     "東京都": 1,
@@ -17,24 +16,41 @@
   },
   "articles": [
     {
-      "articleId": "gnews_41427333e82c1227",
-      "headline": "【横浜市立大学】風疹ウイルスの主要侵入受容体Nectin-4を同定 - 沖縄タイムス社",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-09T05:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53MmRQZ0V1MnZ2aWt5R2pnYmZJNFhLYkd4Y3B2VmZQaEdicVJRMDljRURZcWktVnk3M19iN1pZX0Y1Y1ZNc3VDVW84YkYwUG9qZFktOWx6WjlKOXk5Z3c?oc=5",
+      "articleId": "aHR0cHM6Ly9qYXBhbi5jbmV0LmNvbS9yZWxlYXNlLzMxMjIyNDc4Lw==",
+      "headline": "【横浜市立大学】風疹ウイルスの主要侵入受容体Nectin-4を同定",
+      "headlineTranslated": "Yokohama City University Identifies Nectin-4 as the Major Entry Receptor for Rubella Virus.",
+      "summary": "Rubella virus uses Nectin-4 as the major host cell entry receptor, a finding by a Yokohama City University–led team published in Nature (November 2026). Using rubella virus–like particles and CRISPR/Cas9 knockout screens, they show Nectin-4 mediates entry in airway epithelial cells and placental syncytiotrophoblasts. In air–liquid interface airway models, rubella infects from the basal surface and releases progeny apically; infection is markedly reduced by Nectin-4 inhibition. Placental organoids reveal high Nectin-4 on syncytiotrophoblast surfaces, with infection suppressed by Nectin-4–blocking antibodies. Notably, Nectin-4 is also a measles virus receptor, suggesting shared host factors across these distinct viruses. This discovery advances understanding of rubella airway shedding and maternal–fetal transmission and may inform antiviral or vaccine strategies against congenital rubella syndrome. Background: global congenital rubella cases around 30,000/year (2019).",
+      "summaryOriginal": "Rubella virus uses Nectin-4 as the major host cell entry receptor, a finding by a Yokohama City University–led team published in Nature (November 2026). Using rubella virus–like particles and CRISPR/Cas9 knockout screens, they show Nectin-4 mediates entry in airway epithelial cells and placental syncytiotrophoblasts. In air–liquid interface airway models, rubella infects from the basal surface and releases progeny apically; infection is markedly reduced by Nectin-4 inhibition. Placental organoids reveal high Nectin-4 on syncytiotrophoblast surfaces, with infection suppressed by Nectin-4–blocking antibodies. Notably, Nectin-4 is also a measles virus receptor, suggesting shared host factors across these distinct viruses. This discovery advances understanding of rubella airway shedding and maternal–fetal transmission and may inform antiviral or vaccine strategies against congenital rubella syndrome. Background: global congenital rubella cases around 30,000/year (2019).",
+      "publishedTimestamp": "2026-11-09T05:35:54+00:00",
+      "sourceUrl": "https://japan.cnet.com/release/31222478/",
       "originalLanguage": "JAPANESE",
       "diseases": [
-        "Measles"
+        "Rubella",
+        "Measles",
+        "Congenital Rubella Syndrome"
       ],
-      "locations": [],
+      "locations": [
+        {
+          "name": "Yokohama",
+          "lat": 35.43333,
+          "lon": 139.65
+        },
+        {
+          "name": "Kanagawa",
+          "lat": 35.41667,
+          "lon": 139.33333
+        },
+        {
+          "name": "Japan",
+          "lat": 35.68536,
+          "lon": 139.75309
+        }
+      ],
       "prefectures": [
-        "沖縄県",
         "神奈川県"
       ],
-      "dataSource": "Google News",
-      "sourceName": "沖縄タイムス社"
+      "dataSource": "BlueDot",
+      "sourceName": ""
     },
     {
       "articleId": "gnews_5862a771cf9fc4e3",
@@ -489,81 +505,6 @@
       "summaryOriginal": "Measles infection confirmed in Matsuyama City, Ehime Prefecture, for the first time in 14 years. A man in his 30s contracted measles; exposure occurred in public places from Oct 1–6, with the case announced by Matsuyama City on Oct 13, 2026. Measles is highly contagious and spreads via airborne transmission; initial symptoms resemble a cold, followed by fever above 39°C and rash. Two-dose vaccination provides about 90% protection against infection and severe illness. Those born before April 2, 1990 may have received only one dose or none due to historical schedules. Experts urge completing two-dose vaccination and checking immunization records (母子手帳) at local clinics. The measles incubation is roughly three weeks, so vigilance should extend for weeks after exposure; there is no specific antiviral treatment, underscoring vaccination as prevention.",
       "publishedTimestamp": "2026-10-13T09:41:00+00:00",
       "sourceUrl": "https://news.ntv.co.jp/n/rnb/category/society/rbb28ff79bf9d649cbb1cd8ba6f724f7bb",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly9uZXdzLm50di5jby5qcC9uL3JuYi9jYXRlZ29yeS9zb2NpZXR5L3JiZmEwY2MzMmYwMTJkNDlkNWI3ZjU1ZDdhNDE0NTI4MzY=",
-      "headline": "松山市で14年ぶりに「はしか」感染患者確認「感染力がきわめて強い」 スーパーやドラッグストアを利用（2026年10月10日掲載）｜南海放送NEWS NNN",
-      "headlineTranslated": "Measles case confirmed in Matsuyama City for the first time in 14 years; 'the infectivity is extremely strong'; visited supermarkets and drugstores (published October 10, 2026) | Nankai Broadcasting News NNN",
-      "summary": "Measles case confirmed in Matsuyama City for the first time since 2012. A man in his 30s residing in Matsuyama City tested positive on Oct 10, 2026, after a notification on Oct 9; laboratory confirmation followed. He developed fever, rash, and cough, and had traveled overseas in late September to a region with measles transmission. He has one dose of measles vaccine. Epidemiological investigation found he visited supermarkets and a drugstore in the Matsumatsu area of Matsuyama City on the evenings of Oct 1 and Oct 4–6, potentially exposing many people; no public transport use. The Matsuyama City Health Center is conducting the outbreak response and urges anyone with suspected measles symptoms to contact a medical facility in advance and follow instructions. This marks the first locally confirmed measles infection in Matsuyama since 2012.",
-      "summaryOriginal": "Measles case confirmed in Matsuyama City for the first time since 2012. A man in his 30s residing in Matsuyama City tested positive on Oct 10, 2026, after a notification on Oct 9; laboratory confirmation followed. He developed fever, rash, and cough, and had traveled overseas in late September to a region with measles transmission. He has one dose of measles vaccine. Epidemiological investigation found he visited supermarkets and a drugstore in the Matsumatsu area of Matsuyama City on the evenings of Oct 1 and Oct 4–6, potentially exposing many people; no public transport use. The Matsuyama City Health Center is conducting the outbreak response and urges anyone with suspected measles symptoms to contact a medical facility in advance and follow instructions. This marks the first locally confirmed measles infection in Matsuyama since 2012.",
-      "publishedTimestamp": "2026-10-10T11:50:00+00:00",
-      "sourceUrl": "https://news.ntv.co.jp/n/rnb/category/society/rbfa0cc32f012d49d5b7f55d7a41452836",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly93d3cuZWhpbWUtbnAuY28uanAvYXJ0aWNsZS9uZXdzMjAyNjEwMTAwMTgz",
-      "headline": "松山で30代男性が麻疹に感染　スーパーなどで不特定多数と接触か　2012年以来の確認",
-      "headlineTranslated": "Measles infection in a man in his 30s in Matsuyama; may have come into contact with an unspecified number of people at supermarkets and other places; first confirmed since 2012.",
-      "summary": "Measles infection diagnosed in a man in his 30s in Matsuyama City, Ehime Prefecture, Japan—the first confirmed case there since 2012. The city’s Health and Prevention Division said the patient may have had contact with an unspecified number of people while contagious. To alert the public, authorities published the facilities and dates/times when exposure may have occurred: Fuji Matsumatsu Store on Oct 1 at about 7:30 pm; Kusuri no Lady Matsumatsu Store on Oct 4 at about 6:00 pm; Oct 5 at about 4:00 pm; and Oct 6 at about 6:00 pm. Measles is highly contagious, and exposure could pose risk to non-immune individuals who were present. The information is current as of 2026-10-10.",
-      "summaryOriginal": "Measles infection diagnosed in a man in his 30s in Matsuyama City, Ehime Prefecture, Japan—the first confirmed case there since 2012. The city’s Health and Prevention Division said the patient may have had contact with an unspecified number of people while contagious. To alert the public, authorities published the facilities and dates/times when exposure may have occurred: Fuji Matsumatsu Store on Oct 1 at about 7:30 pm; Kusuri no Lady Matsumatsu Store on Oct 4 at about 6:00 pm; Oct 5 at about 4:00 pm; and Oct 6 at about 6:00 pm. Measles is highly contagious, and exposure could pose risk to non-immune individuals who were present. The information is current as of 2026-10-10.",
-      "publishedTimestamp": "2026-10-10T11:00:33+00:00",
-      "sourceUrl": "https://www.ehime-np.co.jp/article/news202610100183",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [
-        {
-          "name": "Japan",
-          "lat": 35.68536,
-          "lon": 139.75309
-        }
-      ],
-      "prefectures": [
-        "全国（都道府県不明）"
-      ],
-      "dataSource": "BlueDot",
-      "sourceName": ""
-    },
-    {
-      "articleId": "aHR0cHM6Ly9uZXdzZGlnLnRicy5jby5qcC9hcnRpY2xlcy8tLzMwMDQ0MTk=",
-      "headline": "麻しん(はしか)感染確認　松山市では2012年以来　商業施設利用者に注意呼びかけ　愛媛",
-      "headlineTranslated": "Measles infection confirmed; in Matsuyama City since 2012; appeal to customers of commercial facilities to take precautions, Ehime.",
-      "summary": "Measles infection confirmed in Matsuyama City, Ehime Prefecture, Japan. A man in his 30s developed fever and rash on Oct 1 and was laboratory-confirmed on Oct 10, marking the first local measles case since 2012 (14 years). He had traveled to a country designated as a measles infection-expansion area in late September. The patient had one measles vaccination dose. Between Oct 1–6, he visited several supermarkets and drugstores in Matsuyama, potentially contacting many people; no documented transmission to family or workplace, and he did not use public transport. Public health guidance urges those with fever or cough to contact healthcare facilities in advance and avoid public transport when seeking care. Nationwide, measles cases rose from 265 last year to 576 as of Sept 27 this year, highlighting ongoing outbreaks.",
-      "summaryOriginal": "Measles infection confirmed in Matsuyama City, Ehime Prefecture, Japan. A man in his 30s developed fever and rash on Oct 1 and was laboratory-confirmed on Oct 10, marking the first local measles case since 2012 (14 years). He had traveled to a country designated as a measles infection-expansion area in late September. The patient had one measles vaccination dose. Between Oct 1–6, he visited several supermarkets and drugstores in Matsuyama, potentially contacting many people; no documented transmission to family or workplace, and he did not use public transport. Public health guidance urges those with fever or cough to contact healthcare facilities in advance and avoid public transport when seeking care. Nationwide, measles cases rose from 265 last year to 576 as of Sept 27 this year, highlighting ongoing outbreaks.",
-      "publishedTimestamp": "2026-10-10T10:36:25+00:00",
-      "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/3004419",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
