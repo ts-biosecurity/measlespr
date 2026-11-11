@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-11T02:12:07.056469+00:00",
+  "generated_at": "2026-11-11T04:11:22.552304+00:00",
   "date_range": {
     "start": "2026-10-12",
     "end": "2026-11-11"
   },
-  "total_articles": 21,
+  "total_articles": 22,
   "prefecture_summary": {
+    "長崎県": 3,
+    "神奈川県": 1,
     "全国（都道府県不明）": 14,
-    "神奈川県": 2,
-    "長崎県": 1,
     "埼玉県": 1,
     "東京都": 1,
     "愛媛県": 1,
@@ -16,23 +16,42 @@
   },
   "articles": [
     {
-      "articleId": "gnews_54605e8d0453983d",
-      "headline": "風疹ウイルスの受容体特定＝ヒト細胞表面のたんぱく質―ＪＩＨＳなど - Infoseek",
+      "articleId": "gnews_a057a6bb02f3f6b4",
+      "headline": "ランピースキン病の疑似感畜 新たに五島で４頭 今月６日に対馬市で４頭が確認(1) | 長崎ニュース - NCC長崎文化放送",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-10T19:37:54+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14VTFPX1l6QlRrVEtJQ2Z3ZHdEQVlCMC15bTVtcVkzZ1VsSnZPVDVrNUVxOVN4YTJsTDhHbUwzVkNDcE03NlFTalRPRGRSZGZoc3VqVFZuaFJsZWhQT3lFcVRQSExjd9IBa0FVX3lxTE1aN2M1THYxSmctZDNoemJreW5PMk51djJCZ19NeW5nMGk5LWt0NWZBeHpCQ2hqRHJQVmFhX05pMlFtczZzS0NjUzhfRW1saU03YlhiSUs4RllQckR2OFFJQzFHSmlFV3lzVmxZ?oc=5",
+      "publishedTimestamp": "2026-11-11T03:15:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YNmZIN0l1WGwtQXlGdXZ0MkhQSjZDaktTcE4wZmZyaXdGa1Z2V19IVEQxell2R2Q3Zy16RlFBYlhnbTlNWjNqS3F6VThEMkR6Zzk4UG1icVV0YmZ5NnowYmdYbXI?oc=5",
       "originalLanguage": "JAPANESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "prefectures": [
-        "全国（都道府県不明）"
+        "長崎県"
       ],
       "dataSource": "Google News",
-      "sourceName": "Infoseek"
+      "sourceName": "NCC長崎文化放送"
+    },
+    {
+      "articleId": "gnews_8b54047f0d90b5ef",
+      "headline": "ランピースキン病の疑似感畜 新たに五島で４頭 今月６日に対馬市で４頭が確認 - NCC長崎文化放送",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-11T03:15:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DSi1NTkZ0S2VDRzIxQ2hLcm1mN0JsNzMtaWh1cldLMm5pV1kwSWZOOHRRV1VhNG5BYXFWSVVseldiNDRTRmp0MzJrTTRtYlhfcUNqUlNWdzI?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "長崎県"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "NCC長崎文化放送"
     },
     {
       "articleId": "aHR0cHM6Ly9qYXBhbi5jbmV0LmNvbS9yZWxlYXNlLzMxMjIyNDc4Lw==",
@@ -70,25 +89,6 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
-    },
-    {
-      "articleId": "gnews_4f5d31d8e7548b2c",
-      "headline": "プレスリリース：［横浜市立大学］風疹ウイルスの主要侵入受容体Nectin-4を同定（Digital PR Platform） - 毎日新聞",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-09T05:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BTWdWTlRiNU1MUTMyYUl5OWdFdHktNXhHbTMyUzhMVU5BX0x1R25Nb1BFTmw4YTl3UElDVnBsQUhsdkJlcU1veXM4VGVIaWFUWUZSWm1tSVA1QlBEUWg0TFZhcnlfSzN2?oc=5",
-      "originalLanguage": "JAPANESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "prefectures": [
-        "神奈川県"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "毎日新聞"
     },
     {
       "articleId": "gnews_5d8357550cce0b52",
@@ -260,6 +260,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "東京都感染症情報センター"
+    },
+    {
+      "articleId": "gnews_87d129e9aa97fc9f",
+      "headline": "米ペンシルベニア州、麻疹関連死6人に 感染者1500人に迫る（ロイター） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T01:46:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00NlQxc3pyY3dJcU9pTG5nTHBQdlFrMERnb3h4YTdtTFhoRm9tTjllbU1LUFlncGlyZGpBRkdwdjlhZzF4OUNPVjJudGh6N28ySS1pbGk5a0V0MXR3UVNYUHA0WlVKZ0dNOVJXTXhBeUdEUmVPZVN5d0REeVlxbEk?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     },
     {
       "articleId": "gnews_6316f1eb7bd7709c",
