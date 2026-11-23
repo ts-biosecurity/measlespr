@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-23T20:08:48.856584+00:00",
+  "generated_at": "2026-11-23T22:08:12.632170+00:00",
   "date_range": {
     "start": "2026-10-24",
     "end": "2026-11-23"
   },
-  "total_articles": 27,
+  "total_articles": 28,
   "prefecture_summary": {
-    "全国（都道府県不明）": 23,
+    "全国（都道府県不明）": 24,
     "東京都": 2,
     "埼玉県": 1,
     "神奈川県": 1
@@ -542,6 +542,25 @@
       ],
       "dataSource": "BlueDot",
       "sourceName": ""
+    },
+    {
+      "articleId": "gnews_87d129e9aa97fc9f",
+      "headline": "米ペンシルベニア州、麻疹関連死6人に 感染者1500人に迫る（ロイター） - Yahoo!ニュース",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00NlQxc3pyY3dJcU9pTG5nTHBQdlFrMERnb3h4YTdtTFhoRm9tTjllbU1LUFlncGlyZGpBRkdwdjlhZzF4OUNPVjJudGh6N28ySS1pbGk5a0V0MXR3UVNYUHA0WlVKZ0dNOVJXTXhBeUdEUmVPZVN5d0REeVlxbEk?oc=5",
+      "originalLanguage": "JAPANESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "prefectures": [
+        "全国（都道府県不明）"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Yahoo!ニュース"
     }
   ]
 }
